@@ -34,6 +34,15 @@ div {
     text-align: center;
 }
 
+.righttxt {
+    text-align: right;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .gray01 {
     color: #e3e9ff;
 }

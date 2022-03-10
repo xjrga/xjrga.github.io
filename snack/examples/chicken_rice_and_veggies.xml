@@ -1,9 +1,9 @@
 <snack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/snack.xsd">
     <mix>
-        <mixid>6561078712325361002827151227706905500828301491023778500306552127039853240053670920476546780029311717884354850053699612988424530</mixid>
+        <mixid>6929355715651877008983042723745477006370591137346914001673891913695246800654823026157472300299672992067231400022861803470523467</mixid>
         <name>Chicken, Rice and Veggies</name>
     </mix>
-    <mix_food_list>
+    <food_list>
         <food>
             <foodid>05064</foodid>
             <name>Chicken, broilers or fryers, breast, meat only, cooked, roasted</name>
@@ -163,7 +163,43 @@
             <weight>100.00000000000000000000000000000000</weight>
             <zinc>0.62000000000000000000000000000000</zinc>
         </food>
-    </mix_food_list>
+    </food_list>
+    <category_list>
+        <category>
+            <categoryid>0500</categoryid>
+            <categoryname>Poultry Products</categoryname>
+        </category>
+        <category>
+            <categoryid>10000</categoryid>
+            <categoryname>Glycemic Index Test Set</categoryname>
+        </category>
+        <category>
+            <categoryid>1100</categoryid>
+            <categoryname>Vegetables and Vegetable Products</categoryname>
+        </category>
+        <category>
+            <categoryid>2000</categoryid>
+            <categoryname>Cereal Grains and Pasta</categoryname>
+        </category>
+    </category_list>
+    <category_link_list>
+        <category_link>
+            <foodid>05064</foodid>
+            <categoryid>0500</categoryid>
+        </category_link>
+        <category_link>
+            <foodid>20041</foodid>
+            <categoryid>10000</categoryid>
+        </category_link>
+        <category_link>
+            <foodid>11583</foodid>
+            <categoryid>1100</categoryid>
+        </category_link>
+        <category_link>
+            <foodid>20041</foodid>
+            <categoryid>2000</categoryid>
+        </category_link>
+    </category_link_list>
     <nutrient_constraint_list>
         <nutrient_constraint>
             <nutrientid>10001</nutrientid>

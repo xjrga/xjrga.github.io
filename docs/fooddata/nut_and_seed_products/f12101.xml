@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>12101</foodid>
+    <name>Nuts, chestnuts, european, boiled and steamed</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>46.00000</calcium>
+    <carbohydrate_by_difference>27.76000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.47200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>131.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.38000</fat>
+    <fiber>0.00000</fiber>
+    <folate>38.00000</folate>
+    <iron>1.73000</iron>
+    <linoleic>0.48700</linoleic>
+    <linolenic>0.05800</linolenic>
+    <magnesium>54.00000</magnesium>
+    <manganese>0.85400</manganese>
+    <mufa>0.47600</mufa>
+    <niacin>0.73100</niacin>
+    <pantothenic_acid>0.31600</pantothenic_acid>
+    <phosphorus>99.00000</phosphorus>
+    <potassium>715.00000</potassium>
+    <protein>2.00000</protein>
+    <pufa>0.54500</pufa>
+    <riboflavin>0.10400</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.26000</sfa>
+    <sodium>27.00000</sodium>
+    <thiamin>0.14800</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.23300</vitamin_b6>
+    <vitamin_c>26.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>68.15000</water>
+    <weight>100.00000</weight>
+    <zinc>0.25000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

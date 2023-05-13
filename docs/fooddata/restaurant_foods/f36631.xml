@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36631</foodid>
+    <name>OLIVE GARDEN, spaghetti with meat sauce</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>15.00000</calcium>
+    <carbohydrate_by_difference>17.19000</carbohydrate_by_difference>
+    <cholesterol>8.00000</cholesterol>
+    <choline>15.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09800</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>121.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>3.28000</fat>
+    <fiber>1.70000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.03000</iron>
+    <linoleic>0.46500</linoleic>
+    <linolenic>0.03900</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.22100</manganese>
+    <mufa>1.24200</mufa>
+    <niacin>1.69000</niacin>
+    <pantothenic_acid>0.25000</pantothenic_acid>
+    <phosphorus>60.00000</phosphorus>
+    <potassium>164.00000</potassium>
+    <protein>5.80000</protein>
+    <pufa>0.53000</pufa>
+    <riboflavin>0.14300</riboflavin>
+    <selenium>16.80000</selenium>
+    <sfa>1.02400</sfa>
+    <sodium>209.00000</sodium>
+    <thiamin>0.09000</thiamin>
+    <vitamin_a>10.00000</vitamin_a>
+    <vitamin_b12>0.13000</vitamin_b12>
+    <vitamin_b6>0.09800</vitamin_b6>
+    <vitamin_c>0.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.58000</vitamin_e>
+    <vitamin_k>4.30000</vitamin_k>
+    <water>72.75000</water>
+    <weight>100.00000</weight>
+    <zinc>0.68000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

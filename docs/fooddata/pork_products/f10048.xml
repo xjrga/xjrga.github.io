@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>10048</foodid>
+    <name>Pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean only, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>24.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>56.00000</cholesterol>
+    <choline>57.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>136.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.80000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.61000</iron>
+    <linoleic>0.44900</linoleic>
+    <linolenic>0.01800</linolenic>
+    <magnesium>25.00000</magnesium>
+    <manganese>0.00900</manganese>
+    <mufa>1.99900</mufa>
+    <niacin>6.68500</niacin>
+    <pantothenic_acid>0.72500</pantothenic_acid>
+    <phosphorus>216.00000</phosphorus>
+    <potassium>359.00000</potassium>
+    <protein>21.79000</protein>
+    <pufa>0.52400</pufa>
+    <riboflavin>0.18600</riboflavin>
+    <selenium>38.30000</selenium>
+    <sfa>1.61700</sfa>
+    <sodium>60.00000</sodium>
+    <thiamin>0.48400</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.50000</vitamin_b12>
+    <vitamin_b6>0.73500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.50000</vitamin_d>
+    <vitamin_e>0.13000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>72.40000</water>
+    <weight>100.00000</weight>
+    <zinc>1.97000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

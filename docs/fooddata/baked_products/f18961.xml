@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18961</foodid>
+    <name>Crackers, cream, GAMESA SABROSAS</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>26.00000</calcium>
+    <carbohydrate_by_difference>64.55000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>484.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>20.37000</fat>
+    <fiber>2.40000</fiber>
+    <folate>253.00000</folate>
+    <iron>7.38000</iron>
+    <linoleic>2.40200</linoleic>
+    <linolenic>0.04500</linolenic>
+    <magnesium>25.00000</magnesium>
+    <manganese>0.77800</manganese>
+    <mufa>10.62500</mufa>
+    <niacin>5.08000</niacin>
+    <pantothenic_acid>0.46200</pantothenic_acid>
+    <phosphorus>98.00000</phosphorus>
+    <potassium>129.00000</potassium>
+    <protein>7.01000</protein>
+    <pufa>2.45000</pufa>
+    <riboflavin>0.24000</riboflavin>
+    <selenium>9.50000</selenium>
+    <sfa>5.36200</sfa>
+    <sodium>1148.00000</sodium>
+    <thiamin>0.29800</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.46000</vitamin_b12>
+    <vitamin_b6>0.06500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.59000</vitamin_e>
+    <vitamin_k>17.90000</vitamin_k>
+    <water>4.45000</water>
+    <weight>100.00000</weight>
+    <zinc>0.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

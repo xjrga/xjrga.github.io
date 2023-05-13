@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09446</foodid>
+    <name>Plantains, green, fried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>4.00000</calcium>
+    <carbohydrate_by_difference>49.17000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.18300</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>309.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>11.81000</fat>
+    <fiber>3.50000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.67000</iron>
+    <linoleic>2.34800</linoleic>
+    <linolenic>0.21500</linolenic>
+    <magnesium>58.00000</magnesium>
+    <manganese>0.18800</manganese>
+    <mufa>4.35300</mufa>
+    <niacin>0.81800</niacin>
+    <pantothenic_acid>0.38800</pantothenic_acid>
+    <phosphorus>44.00000</phosphorus>
+    <potassium>482.00000</potassium>
+    <protein>1.50000</protein>
+    <pufa>2.69700</pufa>
+    <riboflavin>0.10200</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>3.69000</sfa>
+    <sodium>2.00000</sodium>
+    <thiamin>0.04700</thiamin>
+    <vitamin_a>60.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.26400</vitamin_b6>
+    <vitamin_c>3.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>36.08000</water>
+    <weight>100.00000</weight>
+    <zinc>0.23000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

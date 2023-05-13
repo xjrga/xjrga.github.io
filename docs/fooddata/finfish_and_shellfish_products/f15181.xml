@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15181</foodid>
+    <name>Fish, salmon, pink, canned, without salt, solids with bone and liquid</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>213.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>55.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10200</copper>
+    <cost>0.0</cost>
+    <dha>0.80600</dha>
+    <energy_gross>139.00000</energy_gross>
+    <epa>0.84500</epa>
+    <fat>6.05000</fat>
+    <fiber>0.00000</fiber>
+    <folate>15.00000</folate>
+    <iron>0.84000</iron>
+    <linoleic>0.05800</linoleic>
+    <linolenic>0.05800</linolenic>
+    <magnesium>34.00000</magnesium>
+    <manganese>0.02000</manganese>
+    <mufa>1.82500</mufa>
+    <niacin>6.53600</niacin>
+    <pantothenic_acid>0.55000</pantothenic_acid>
+    <phosphorus>329.00000</phosphorus>
+    <potassium>326.00000</potassium>
+    <protein>19.78000</protein>
+    <pufa>2.04900</pufa>
+    <riboflavin>0.18600</riboflavin>
+    <selenium>33.20000</selenium>
+    <sfa>1.53500</sfa>
+    <sodium>75.00000</sodium>
+    <thiamin>0.02300</thiamin>
+    <vitamin_a>17.00000</vitamin_a>
+    <vitamin_b12>4.40000</vitamin_b12>
+    <vitamin_b6>0.30000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>70.03000</water>
+    <weight>100.00000</weight>
+    <zinc>0.92000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

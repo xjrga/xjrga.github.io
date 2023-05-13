@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11624</foodid>
+    <name>Leeks, (bulb and lower-leaf portion), freeze-dried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>360.00000</calcium>
+    <carbohydrate_by_difference>74.65000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.65700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>321.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.10000</fat>
+    <fiber>10.40000</fiber>
+    <folate>366.00000</folate>
+    <iron>7.60000</iron>
+    <linoleic>0.47000</linoleic>
+    <linolenic>0.69100</linolenic>
+    <magnesium>161.00000</magnesium>
+    <manganese>2.63400</manganese>
+    <mufa>0.02900</mufa>
+    <niacin>3.50000</niacin>
+    <pantothenic_acid>0.76700</pantothenic_acid>
+    <phosphorus>346.00000</phosphorus>
+    <potassium>2400.00000</potassium>
+    <protein>15.20000</protein>
+    <pufa>1.16100</pufa>
+    <riboflavin>0.40000</riboflavin>
+    <selenium>5.70000</selenium>
+    <sfa>0.27900</sfa>
+    <sodium>35.00000</sodium>
+    <thiamin>0.80000</thiamin>
+    <vitamin_a>14.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.20900</vitamin_b6>
+    <vitamin_c>118.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>2.00000</water>
+    <weight>100.00000</weight>
+    <zinc>0.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

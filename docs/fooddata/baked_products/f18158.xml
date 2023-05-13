@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18158</foodid>
+    <name>Cookies, chocolate chip, commercially prepared, regular, lower fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>0.00000</calcium>
+    <carbohydrate_by_difference>67.49000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>4.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.20400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>451.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>17.91000</fat>
+    <fiber>3.00000</fiber>
+    <folate>96.00000</folate>
+    <iron>3.22000</iron>
+    <linoleic>5.31000</linoleic>
+    <linolenic>0.33000</linolenic>
+    <magnesium>32.00000</magnesium>
+    <manganese>0.39400</manganese>
+    <mufa>5.42200</mufa>
+    <niacin>1.98200</niacin>
+    <pantothenic_acid>0.16500</pantothenic_acid>
+    <phosphorus>63.00000</phosphorus>
+    <potassium>134.00000</potassium>
+    <protein>5.97000</protein>
+    <pufa>5.64100</pufa>
+    <riboflavin>0.18500</riboflavin>
+    <selenium>6.00000</selenium>
+    <sfa>5.96200</sfa>
+    <sodium>418.00000</sodium>
+    <thiamin>0.26300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.02200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.47000</vitamin_e>
+    <vitamin_k>4.10000</vitamin_k>
+    <water>7.36000</water>
+    <weight>100.00000</weight>
+    <zinc>0.59000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

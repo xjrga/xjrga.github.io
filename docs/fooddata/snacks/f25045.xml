@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25045</foodid>
+    <name>Formulated bar, high fiber, chewy, oats and chocolate</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>250.00000</calcium>
+    <carbohydrate_by_difference>69.78000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>12.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.26200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>350.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>10.00000</fat>
+    <fiber>22.50000</fiber>
+    <folate>43.00000</folate>
+    <iron>0.90000</iron>
+    <linoleic>2.08900</linoleic>
+    <linolenic>0.24500</linolenic>
+    <magnesium>190.00000</magnesium>
+    <manganese>3.40700</manganese>
+    <mufa>3.52200</mufa>
+    <niacin>7.90300</niacin>
+    <pantothenic_acid>1.75500</pantothenic_acid>
+    <phosphorus>419.00000</phosphorus>
+    <potassium>447.00000</potassium>
+    <protein>5.00000</protein>
+    <pufa>2.33400</pufa>
+    <riboflavin>0.09100</riboflavin>
+    <selenium>8.90000</selenium>
+    <sfa>3.39700</sfa>
+    <sodium>350.00000</sodium>
+    <thiamin>0.68800</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.96300</vitamin_b6>
+    <vitamin_c>1.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.47000</vitamin_e>
+    <vitamin_k>2.60000</vitamin_k>
+    <water>12.04000</water>
+    <weight>100.00000</weight>
+    <zinc>1.96000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

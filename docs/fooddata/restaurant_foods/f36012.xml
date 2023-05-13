@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36012</foodid>
+    <name>Restaurant, family style, fried mozzarella sticks</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>334.00000</calcium>
+    <carbohydrate_by_difference>25.14000</carbohydrate_by_difference>
+    <cholesterol>36.00000</cholesterol>
+    <choline>9.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>325.00000</energy_gross>
+    <epa>0.00400</epa>
+    <fat>18.33000</fat>
+    <fiber>2.00000</fiber>
+    <folate>36.00000</folate>
+    <iron>0.62000</iron>
+    <linoleic>4.34600</linoleic>
+    <linolenic>0.57500</linolenic>
+    <magnesium>21.00000</magnesium>
+    <manganese>0.29400</manganese>
+    <mufa>4.32800</mufa>
+    <niacin>0.78100</niacin>
+    <pantothenic_acid>0.41500</pantothenic_acid>
+    <phosphorus>318.00000</phosphorus>
+    <potassium>108.00000</potassium>
+    <protein>14.75000</protein>
+    <pufa>4.98200</pufa>
+    <riboflavin>0.26100</riboflavin>
+    <selenium>18.90000</selenium>
+    <sfa>6.84800</sfa>
+    <sodium>861.00000</sodium>
+    <thiamin>0.10300</thiamin>
+    <vitamin_a>99.00000</vitamin_a>
+    <vitamin_b12>0.96000</vitamin_b12>
+    <vitamin_b6>0.07400</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.20000</vitamin_d>
+    <vitamin_e>0.77000</vitamin_e>
+    <vitamin_k>22.90000</vitamin_k>
+    <water>38.44000</water>
+    <weight>100.00000</weight>
+    <zinc>2.07000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

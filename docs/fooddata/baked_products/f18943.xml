@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18943</foodid>
+    <name>Pie Crust, Cookie-type, Chocolate, Ready Crust</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>32.00000</calcium>
+    <carbohydrate_by_difference>64.48000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>16.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.77000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>484.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>22.42000</fat>
+    <fiber>2.70000</fiber>
+    <folate>108.00000</folate>
+    <iron>4.30000</iron>
+    <linoleic>1.97200</linoleic>
+    <linolenic>0.06300</linolenic>
+    <magnesium>40.00000</magnesium>
+    <manganese>1.83300</manganese>
+    <mufa>14.48200</mufa>
+    <niacin>3.07300</niacin>
+    <pantothenic_acid>0.16800</pantothenic_acid>
+    <phosphorus>120.00000</phosphorus>
+    <potassium>187.00000</potassium>
+    <protein>6.08000</protein>
+    <pufa>2.03500</pufa>
+    <riboflavin>0.26500</riboflavin>
+    <selenium>2.50000</selenium>
+    <sfa>4.72500</sfa>
+    <sodium>503.00000</sodium>
+    <thiamin>0.33600</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.04300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.79000</vitamin_e>
+    <vitamin_k>18.20000</vitamin_k>
+    <water>4.99000</water>
+    <weight>100.00000</weight>
+    <zinc>2.10000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

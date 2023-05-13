@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07940</foodid>
+    <name>Macaroni and cheese loaf, chicken, pork and beef</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>122.00000</calcium>
+    <carbohydrate_by_difference>11.63000</carbohydrate_by_difference>
+    <cholesterol>44.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11000</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>228.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>14.96000</fat>
+    <fiber>0.00000</fiber>
+    <folate>33.00000</folate>
+    <iron>1.20000</iron>
+    <linoleic>1.46300</linoleic>
+    <linolenic>0.14300</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.27700</manganese>
+    <mufa>7.61400</mufa>
+    <niacin>2.84000</niacin>
+    <pantothenic_acid>0.52800</pantothenic_acid>
+    <phosphorus>173.00000</phosphorus>
+    <potassium>313.00000</potassium>
+    <protein>11.76000</protein>
+    <pufa>1.65700</pufa>
+    <riboflavin>0.24900</riboflavin>
+    <selenium>23.00000</selenium>
+    <sfa>5.61400</sfa>
+    <sodium>3.00000</sodium>
+    <thiamin>0.23700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.68000</vitamin_b12>
+    <vitamin_b6>0.32900</vitamin_b6>
+    <vitamin_c>16.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>57.63000</water>
+    <weight>100.00000</weight>
+    <zinc>1.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

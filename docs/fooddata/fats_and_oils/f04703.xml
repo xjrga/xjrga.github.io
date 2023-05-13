@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>04703</foodid>
+    <name>Salad dressing, honey mustard, regular</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>12.00000</calcium>
+    <carbohydrate_by_difference>23.33000</carbohydrate_by_difference>
+    <cholesterol>29.00000</cholesterol>
+    <choline>20.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01800</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>464.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>40.83000</fat>
+    <fiber>0.40000</fiber>
+    <folate>5.00000</folate>
+    <iron>0.29000</iron>
+    <linoleic>20.12100</linoleic>
+    <linolenic>2.69700</linolenic>
+    <magnesium>5.00000</magnesium>
+    <manganese>0.06600</manganese>
+    <mufa>11.45800</mufa>
+    <niacin>0.06100</niacin>
+    <pantothenic_acid>0.11500</pantothenic_acid>
+    <phosphorus>22.00000</phosphorus>
+    <potassium>20.00000</potassium>
+    <protein>0.87000</protein>
+    <pufa>22.83900</pufa>
+    <riboflavin>0.02300</riboflavin>
+    <selenium>5.00000</selenium>
+    <sfa>5.00000</sfa>
+    <sodium>512.00000</sodium>
+    <thiamin>0.03900</thiamin>
+    <vitamin_a>12.00000</vitamin_a>
+    <vitamin_b12>0.05000</vitamin_b12>
+    <vitamin_b6>0.01700</vitamin_b6>
+    <vitamin_c>0.20000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>3.53000</vitamin_e>
+    <vitamin_k>70.00000</vitamin_k>
+    <water>32.64000</water>
+    <weight>100.00000</weight>
+    <zinc>0.14000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09271</foodid>
+    <name>Pineapple, canned, extra heavy syrup pack, solids and liquids</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>14.00000</calcium>
+    <carbohydrate_by_difference>21.50000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>83.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.11000</fat>
+    <fiber>0.80000</fiber>
+    <folate>5.00000</folate>
+    <iron>0.38000</iron>
+    <linoleic>0.02200</linoleic>
+    <linolenic>0.01600</linolenic>
+    <magnesium>15.00000</magnesium>
+    <manganese>1.06200</manganese>
+    <mufa>0.01300</mufa>
+    <niacin>0.28200</niacin>
+    <pantothenic_acid>0.10000</pantothenic_acid>
+    <phosphorus>7.00000</phosphorus>
+    <potassium>102.00000</potassium>
+    <protein>0.34000</protein>
+    <pufa>0.03800</pufa>
+    <riboflavin>0.02500</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.00900</sfa>
+    <sodium>1.00000</sodium>
+    <thiamin>0.08900</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.07400</vitamin_b6>
+    <vitamin_c>7.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>77.71000</water>
+    <weight>100.00000</weight>
+    <zinc>0.11000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

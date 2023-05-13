@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19249</foodid>
+    <name>Candies, HERSHEY, REESESTICKS crispy wafers, peanut butter, milk chocolate</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>70.00000</calcium>
+    <carbohydrate_by_difference>55.38000</carbohydrate_by_difference>
+    <cholesterol>6.00000</cholesterol>
+    <choline>28.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.20000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>521.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>31.34000</fat>
+    <fiber>3.30000</fiber>
+    <folate>40.00000</folate>
+    <iron>1.30000</iron>
+    <linoleic>4.59300</linoleic>
+    <linolenic>0.04900</linolenic>
+    <magnesium>49.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>10.82000</mufa>
+    <niacin>3.64000</niacin>
+    <pantothenic_acid>0.44000</pantothenic_acid>
+    <phosphorus>144.00000</phosphorus>
+    <potassium>295.00000</potassium>
+    <protein>9.53000</protein>
+    <pufa>4.68000</pufa>
+    <riboflavin>0.10000</riboflavin>
+    <selenium>0.70000</selenium>
+    <sfa>13.21000</sfa>
+    <sodium>264.00000</sodium>
+    <thiamin>0.13000</thiamin>
+    <vitamin_a>14.00000</vitamin_a>
+    <vitamin_b12>0.15000</vitamin_b12>
+    <vitamin_b6>0.08000</vitamin_b6>
+    <vitamin_c>0.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>2.77000</vitamin_e>
+    <vitamin_k>5.90000</vitamin_k>
+    <water>1.60000</water>
+    <weight>100.00000</weight>
+    <zinc>0.99000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

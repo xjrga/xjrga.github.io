@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>23053</foodid>
+    <name>Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0' fat, all grades, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>5.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>57.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.13100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>144.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>6.22000</fat>
+    <fiber>0.00000</fiber>
+    <folate>7.00000</folate>
+    <iron>1.95000</iron>
+    <linoleic>0.27600</linoleic>
+    <linolenic>0.01000</linolenic>
+    <magnesium>23.00000</magnesium>
+    <manganese>0.01600</manganese>
+    <mufa>2.13600</mufa>
+    <niacin>4.51000</niacin>
+    <pantothenic_acid>0.79900</pantothenic_acid>
+    <phosphorus>196.00000</phosphorus>
+    <potassium>327.00000</potassium>
+    <protein>20.54000</protein>
+    <pufa>0.34000</pufa>
+    <riboflavin>0.26900</riboflavin>
+    <selenium>33.30000</selenium>
+    <sfa>2.08800</sfa>
+    <sodium>58.00000</sodium>
+    <thiamin>0.08700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>3.97000</vitamin_b12>
+    <vitamin_b6>0.50300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.09000</vitamin_e>
+    <vitamin_k>0.20000</vitamin_k>
+    <water>72.80000</water>
+    <weight>100.00000</weight>
+    <zinc>3.72000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

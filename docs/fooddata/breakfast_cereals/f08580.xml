@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08580</foodid>
+    <name>Incaparina, dry mix (corn and soy flours), unprepared</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>600.00000</calcium>
+    <carbohydrate_by_difference>60.53000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.61000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>379.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.58000</fat>
+    <fiber>9.90000</fiber>
+    <folate>0.00000</folate>
+    <iron>22.00000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>220.00000</magnesium>
+    <manganese>1.60000</manganese>
+    <mufa>0.00000</mufa>
+    <niacin>27.00000</niacin>
+    <pantothenic_acid>1.10000</pantothenic_acid>
+    <phosphorus>530.00000</phosphorus>
+    <potassium>1030.00000</potassium>
+    <protein>21.75000</protein>
+    <pufa>0.00000</pufa>
+    <riboflavin>0.61000</riboflavin>
+    <selenium>14.50000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>4.00000</sodium>
+    <thiamin>1.93000</thiamin>
+    <vitamin_a>1770.00000</vitamin_a>
+    <vitamin_b12>1.50000</vitamin_b12>
+    <vitamin_b6>0.69000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.36000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>7.47000</water>
+    <weight>100.00000</weight>
+    <zinc>23.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

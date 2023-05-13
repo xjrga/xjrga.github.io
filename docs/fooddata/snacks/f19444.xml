@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19444</foodid>
+    <name>Snacks, tortilla chips, low fat, made with olestra, nacho cheese</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>128.00000</calcium>
+    <carbohydrate_by_difference>65.22000</carbohydrate_by_difference>
+    <cholesterol>2.00000</cholesterol>
+    <choline>20.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>318.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.53000</fat>
+    <fiber>6.40000</fiber>
+    <folate>16.00000</folate>
+    <iron>4.80000</iron>
+    <linoleic>1.17600</linoleic>
+    <linolenic>0.03500</linolenic>
+    <magnesium>99.00000</magnesium>
+    <manganese>0.57000</manganese>
+    <mufa>1.37900</mufa>
+    <niacin>1.30000</niacin>
+    <pantothenic_acid>0.20800</pantothenic_acid>
+    <phosphorus>245.00000</phosphorus>
+    <potassium>396.00000</potassium>
+    <protein>8.44000</protein>
+    <pufa>1.21100</pufa>
+    <riboflavin>0.13000</riboflavin>
+    <selenium>9.40000</selenium>
+    <sfa>1.05400</sfa>
+    <sodium>705.00000</sodium>
+    <thiamin>0.20600</thiamin>
+    <vitamin_a>9.00000</vitamin_a>
+    <vitamin_b12>0.27000</vitamin_b12>
+    <vitamin_b6>0.24100</vitamin_b6>
+    <vitamin_c>5.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>3.53000</vitamin_e>
+    <vitamin_k>191.90000</vitamin_k>
+    <water>1.66000</water>
+    <weight>100.00000</weight>
+    <zinc>3.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

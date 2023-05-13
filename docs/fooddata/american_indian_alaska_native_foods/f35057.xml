@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35057</foodid>
+    <name>Oil, bearded seal (Oogruk) (Alaska Native)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>0.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>52.00000</cholesterol>
+    <choline>0.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00000</copper>
+    <cost>0.0</cost>
+    <dha>12.37700</dha>
+    <energy_gross>899.00000</energy_gross>
+    <epa>9.71000</epa>
+    <fat>99.60000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.00000</iron>
+    <linoleic>0.87300</linoleic>
+    <linolenic>0.85500</linolenic>
+    <magnesium>0.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>47.08000</mufa>
+    <niacin>0.00000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>0.00000</phosphorus>
+    <potassium>0.00000</potassium>
+    <protein>0.56000</protein>
+    <pufa>33.00100</pufa>
+    <riboflavin>0.00000</riboflavin>
+    <selenium>3.30000</selenium>
+    <sfa>10.92600</sfa>
+    <sodium>0.00000</sodium>
+    <thiamin>0.01100</thiamin>
+    <vitamin_a>10.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.00000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.70000</vitamin_d>
+    <vitamin_e>10.28000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>0.02000</water>
+    <weight>100.00000</weight>
+    <zinc>0.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

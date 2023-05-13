@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>02063</foodid>
+    <name>Rosemary, fresh</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>317.00000</calcium>
+    <carbohydrate_by_difference>20.70000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.30100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>131.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.86000</fat>
+    <fiber>14.10000</fiber>
+    <folate>109.00000</folate>
+    <iron>6.65000</iron>
+    <linoleic>0.44700</linoleic>
+    <linolenic>0.41400</linolenic>
+    <magnesium>91.00000</magnesium>
+    <manganese>0.96000</manganese>
+    <mufa>1.16000</mufa>
+    <niacin>0.91200</niacin>
+    <pantothenic_acid>0.80400</pantothenic_acid>
+    <phosphorus>66.00000</phosphorus>
+    <potassium>668.00000</potassium>
+    <protein>3.31000</protein>
+    <pufa>0.90100</pufa>
+    <riboflavin>0.15200</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>2.83800</sfa>
+    <sodium>26.00000</sodium>
+    <thiamin>0.03600</thiamin>
+    <vitamin_a>146.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.33600</vitamin_b6>
+    <vitamin_c>21.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>67.77000</water>
+    <weight>100.00000</weight>
+    <zinc>0.93000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18346</foodid>
+    <name>Rolls, dinner, rye</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>30.00000</calcium>
+    <carbohydrate_by_difference>53.10000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>14.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.20100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>286.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.40000</fat>
+    <fiber>4.90000</fiber>
+    <folate>153.00000</folate>
+    <iron>2.70000</iron>
+    <linoleic>0.65600</linoleic>
+    <linolenic>0.05200</linolenic>
+    <magnesium>54.00000</magnesium>
+    <manganese>0.70200</manganese>
+    <mufa>1.23600</mufa>
+    <niacin>3.90000</niacin>
+    <pantothenic_acid>0.38300</pantothenic_acid>
+    <phosphorus>159.00000</phosphorus>
+    <potassium>180.00000</potassium>
+    <protein>10.30000</protein>
+    <pufa>0.70800</pufa>
+    <riboflavin>0.27000</riboflavin>
+    <selenium>27.80000</selenium>
+    <sfa>0.60500</sfa>
+    <sodium>650.00000</sodium>
+    <thiamin>0.38000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.06200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.34000</vitamin_e>
+    <vitamin_k>3.10000</vitamin_k>
+    <water>30.10000</water>
+    <weight>100.00000</weight>
+    <zinc>0.97000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

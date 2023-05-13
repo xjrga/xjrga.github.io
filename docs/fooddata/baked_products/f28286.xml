@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>28286</foodid>
+    <name>Bread, paratha, whole wheat, commercially prepared, frozen</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>25.00000</calcium>
+    <carbohydrate_by_difference>45.35000</carbohydrate_by_difference>
+    <cholesterol>1.00000</cholesterol>
+    <choline>6.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>326.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>13.20000</fat>
+    <fiber>9.60000</fiber>
+    <folate>10.00000</folate>
+    <iron>1.61000</iron>
+    <linoleic>2.40700</linoleic>
+    <linolenic>0.06900</linolenic>
+    <magnesium>37.00000</magnesium>
+    <manganese>1.05400</manganese>
+    <mufa>3.83700</mufa>
+    <niacin>1.83000</niacin>
+    <pantothenic_acid>0.46500</pantothenic_acid>
+    <phosphorus>120.00000</phosphorus>
+    <potassium>139.00000</potassium>
+    <protein>6.36000</protein>
+    <pufa>2.48400</pufa>
+    <riboflavin>0.07600</riboflavin>
+    <selenium>7.10000</selenium>
+    <sfa>5.82600</sfa>
+    <sodium>452.00000</sodium>
+    <thiamin>0.11000</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.08000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.35000</vitamin_e>
+    <vitamin_k>3.40000</vitamin_k>
+    <water>33.50000</water>
+    <weight>100.00000</weight>
+    <zinc>0.82000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

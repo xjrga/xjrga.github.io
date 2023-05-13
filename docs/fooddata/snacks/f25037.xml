@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25037</foodid>
+    <name>Snacks, pita chips, salted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>17.00000</calcium>
+    <carbohydrate_by_difference>68.26000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>9.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>457.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>15.20000</fat>
+    <fiber>3.80000</fiber>
+    <folate>215.00000</folate>
+    <iron>4.59000</iron>
+    <linoleic>2.02400</linoleic>
+    <linolenic>0.09900</linolenic>
+    <magnesium>37.00000</magnesium>
+    <manganese>0.65600</manganese>
+    <mufa>10.84200</mufa>
+    <niacin>7.04300</niacin>
+    <pantothenic_acid>0.50000</pantothenic_acid>
+    <phosphorus>124.00000</phosphorus>
+    <potassium>129.00000</potassium>
+    <protein>11.79000</protein>
+    <pufa>2.13000</pufa>
+    <riboflavin>0.30700</riboflavin>
+    <selenium>33.10000</selenium>
+    <sfa>1.34200</sfa>
+    <sodium>854.00000</sodium>
+    <thiamin>0.56000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.10900</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>6.93000</vitamin_e>
+    <vitamin_k>1.20000</vitamin_k>
+    <water>2.00000</water>
+    <weight>100.00000</weight>
+    <zinc>0.96000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

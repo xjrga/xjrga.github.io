@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08060</foodid>
+    <name>Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>43.00000</calcium>
+    <carbohydrate_by_difference>77.29000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>24.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.45600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>318.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.72000</fat>
+    <fiber>11.40000</fiber>
+    <folate>328.00000</folate>
+    <iron>12.33000</iron>
+    <linoleic>0.88600</linoleic>
+    <linolenic>0.06200</linolenic>
+    <magnesium>122.00000</magnesium>
+    <manganese>2.67800</manganese>
+    <mufa>0.33900</mufa>
+    <niacin>13.80000</niacin>
+    <pantothenic_acid>0.92200</pantothenic_acid>
+    <phosphorus>347.00000</phosphorus>
+    <potassium>653.00000</potassium>
+    <protein>7.72000</protein>
+    <pufa>0.94900</pufa>
+    <riboflavin>1.08000</riboflavin>
+    <selenium>4.60000</selenium>
+    <sfa>0.48000</sfa>
+    <sodium>356.00000</sodium>
+    <thiamin>0.75300</thiamin>
+    <vitamin_a>386.00000</vitamin_a>
+    <vitamin_b12>2.00000</vitamin_b12>
+    <vitamin_b6>1.84300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>3.90000</vitamin_d>
+    <vitamin_e>0.66000</vitamin_e>
+    <vitamin_k>2.10000</vitamin_k>
+    <water>10.40000</water>
+    <weight>100.00000</weight>
+    <zinc>3.39000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

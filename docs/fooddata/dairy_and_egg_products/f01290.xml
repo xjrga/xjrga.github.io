@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01290</foodid>
+    <name>Kefir, lowfat, strawberry, LIFEWAY</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>119.00000</calcium>
+    <carbohydrate_by_difference>10.20000</carbohydrate_by_difference>
+    <cholesterol>5.00000</cholesterol>
+    <choline>15.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>62.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.90000</fat>
+    <fiber>0.00000</fiber>
+    <folate>22.00000</folate>
+    <iron>0.04000</iron>
+    <linoleic>0.03300</linoleic>
+    <linolenic>0.00500</linolenic>
+    <magnesium>11.00000</magnesium>
+    <manganese>0.00500</manganese>
+    <mufa>0.26200</mufa>
+    <niacin>0.10500</niacin>
+    <pantothenic_acid>0.38000</pantothenic_acid>
+    <phosphorus>96.00000</phosphorus>
+    <potassium>154.00000</potassium>
+    <protein>3.39000</protein>
+    <pufa>0.04100</pufa>
+    <riboflavin>0.21000</riboflavin>
+    <selenium>3.60000</selenium>
+    <sfa>0.53300</sfa>
+    <sodium>37.00000</sodium>
+    <thiamin>0.03000</thiamin>
+    <vitamin_a>178.00000</vitamin_a>
+    <vitamin_b12>0.31000</vitamin_b12>
+    <vitamin_b6>0.06000</vitamin_b6>
+    <vitamin_c>1.50000</vitamin_c>
+    <vitamin_d>1.10000</vitamin_d>
+    <vitamin_e>0.06000</vitamin_e>
+    <vitamin_k>1.20000</vitamin_k>
+    <water>84.82000</water>
+    <weight>100.00000</weight>
+    <zinc>0.44000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

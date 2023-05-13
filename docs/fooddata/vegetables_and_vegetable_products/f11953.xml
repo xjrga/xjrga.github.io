@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11953</foodid>
+    <name>Squash, zucchini, baby, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>21.00000</calcium>
+    <carbohydrate_by_difference>3.11000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>21.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.40000</fat>
+    <fiber>1.10000</fiber>
+    <folate>20.00000</folate>
+    <iron>0.79000</iron>
+    <linoleic>0.06300</linoleic>
+    <linolenic>0.10600</linolenic>
+    <magnesium>33.00000</magnesium>
+    <manganese>0.19600</manganese>
+    <mufa>0.03100</mufa>
+    <niacin>0.70500</niacin>
+    <pantothenic_acid>0.36700</pantothenic_acid>
+    <phosphorus>93.00000</phosphorus>
+    <potassium>459.00000</potassium>
+    <protein>2.71000</protein>
+    <pufa>0.16900</pufa>
+    <riboflavin>0.03600</riboflavin>
+    <selenium>0.30000</selenium>
+    <sfa>0.08300</sfa>
+    <sodium>3.00000</sodium>
+    <thiamin>0.04200</thiamin>
+    <vitamin_a>25.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.14200</vitamin_b6>
+    <vitamin_c>34.10000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>92.73000</water>
+    <weight>100.00000</weight>
+    <zinc>0.83000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

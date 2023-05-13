@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15168</foodid>
+    <name>Mollusks, oyster, eastern, cooked, breaded and fried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>62.00000</calcium>
+    <carbohydrate_by_difference>11.62000</carbohydrate_by_difference>
+    <cholesterol>71.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>4.29400</copper>
+    <cost>0.0</cost>
+    <dha>0.21800</dha>
+    <energy_gross>199.00000</energy_gross>
+    <epa>0.20200</epa>
+    <fat>12.58000</fat>
+    <fiber>0.00000</fiber>
+    <folate>43.00000</folate>
+    <iron>6.95000</iron>
+    <linoleic>2.44000</linoleic>
+    <linolenic>0.15600</linolenic>
+    <magnesium>58.00000</magnesium>
+    <manganese>0.49000</manganese>
+    <mufa>4.70200</mufa>
+    <niacin>1.65000</niacin>
+    <pantothenic_acid>0.27000</pantothenic_acid>
+    <phosphorus>159.00000</phosphorus>
+    <potassium>244.00000</potassium>
+    <protein>8.77000</protein>
+    <pufa>3.31300</pufa>
+    <riboflavin>0.20200</riboflavin>
+    <selenium>66.50000</selenium>
+    <sfa>3.19700</sfa>
+    <sodium>417.00000</sodium>
+    <thiamin>0.15000</thiamin>
+    <vitamin_a>90.00000</vitamin_a>
+    <vitamin_b12>15.63000</vitamin_b12>
+    <vitamin_b6>0.06400</vitamin_b6>
+    <vitamin_c>3.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>64.72000</water>
+    <weight>100.00000</weight>
+    <zinc>87.13000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

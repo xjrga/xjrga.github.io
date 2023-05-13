@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19917</foodid>
+    <name>Candies, M&M MARS Pretzel Chocolate Candies</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>50.00000</calcium>
+    <carbohydrate_by_difference>72.94000</carbohydrate_by_difference>
+    <cholesterol>13.00000</cholesterol>
+    <choline>29.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.27100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>447.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>15.00000</fat>
+    <fiber>2.50000</fiber>
+    <folate>19.00000</folate>
+    <iron>0.90000</iron>
+    <linoleic>0.91000</linoleic>
+    <linolenic>0.10400</linolenic>
+    <magnesium>39.00000</magnesium>
+    <manganese>0.29700</manganese>
+    <mufa>3.30200</mufa>
+    <niacin>0.43300</niacin>
+    <pantothenic_acid>0.31400</pantothenic_acid>
+    <phosphorus>135.00000</phosphorus>
+    <potassium>253.00000</potassium>
+    <protein>5.00000</protein>
+    <pufa>1.01400</pufa>
+    <riboflavin>0.20300</riboflavin>
+    <selenium>3.30000</selenium>
+    <sfa>8.98600</sfa>
+    <sodium>475.00000</sodium>
+    <thiamin>0.08200</thiamin>
+    <vitamin_a>34.00000</vitamin_a>
+    <vitamin_b12>0.45000</vitamin_b12>
+    <vitamin_b6>0.03200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.37000</vitamin_e>
+    <vitamin_k>4.70000</vitamin_k>
+    <water>4.84000</water>
+    <weight>100.00000</weight>
+    <zinc>1.25000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

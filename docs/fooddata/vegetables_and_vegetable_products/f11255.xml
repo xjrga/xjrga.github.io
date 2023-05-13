@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11255</foodid>
+    <name>Lotus root, cooked, boiled, drained, without salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>26.00000</calcium>
+    <carbohydrate_by_difference>16.02000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>25.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.21700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>66.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.07000</fat>
+    <fiber>3.10000</fiber>
+    <folate>8.00000</folate>
+    <iron>0.90000</iron>
+    <linoleic>0.01000</linoleic>
+    <linolenic>0.00400</linolenic>
+    <magnesium>22.00000</magnesium>
+    <manganese>0.22000</manganese>
+    <mufa>0.01400</mufa>
+    <niacin>0.30000</niacin>
+    <pantothenic_acid>0.30200</pantothenic_acid>
+    <phosphorus>78.00000</phosphorus>
+    <potassium>363.00000</potassium>
+    <protein>1.58000</protein>
+    <pufa>0.01400</pufa>
+    <riboflavin>0.01000</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.02100</sfa>
+    <sodium>45.00000</sodium>
+    <thiamin>0.12700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.21800</vitamin_b6>
+    <vitamin_c>27.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.01000</vitamin_e>
+    <vitamin_k>0.10000</vitamin_k>
+    <water>81.42000</water>
+    <weight>100.00000</weight>
+    <zinc>0.33000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

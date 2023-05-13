@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35196</foodid>
+    <name>Lambsquarters, raw (Northern Plains Indians)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>366.00000</calcium>
+    <carbohydrate_by_difference>6.96000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>20.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.12000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>47.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.28000</fat>
+    <fiber>6.30000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.16000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>163.00000</magnesium>
+    <manganese>1.49000</manganese>
+    <mufa>0.00000</mufa>
+    <niacin>0.79000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>63.00000</phosphorus>
+    <potassium>1270.00000</potassium>
+    <protein>4.21000</protein>
+    <pufa>0.00000</pufa>
+    <riboflavin>0.30000</riboflavin>
+    <selenium>1.10000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>7.00000</sodium>
+    <thiamin>0.02900</thiamin>
+    <vitamin_a>98.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.18400</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>346.60000</vitamin_k>
+    <water>85.23000</water>
+    <weight>100.00000</weight>
+    <zinc>0.72000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

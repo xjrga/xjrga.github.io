@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>03999</foodid>
+    <name>Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, powder, with ARA and DHA</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>432.00000</calcium>
+    <carbohydrate_by_difference>55.00000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>82.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.46300</copper>
+    <cost>0.0</cost>
+    <dha>0.08500</dha>
+    <energy_gross>514.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>27.75000</fat>
+    <fiber>0.00000</fiber>
+    <folate>131.00000</folate>
+    <iron>9.30000</iron>
+    <linoleic>5.37300</linoleic>
+    <linolenic>0.59500</linolenic>
+    <magnesium>31.00000</magnesium>
+    <manganese>0.02600</manganese>
+    <mufa>2.84900</mufa>
+    <niacin>5.39600</niacin>
+    <pantothenic_acid>2.31300</pantothenic_acid>
+    <phosphorus>288.00000</phosphorus>
+    <potassium>550.00000</potassium>
+    <protein>11.00000</protein>
+    <pufa>6.21800</pufa>
+    <riboflavin>0.77100</riboflavin>
+    <selenium>9.30000</selenium>
+    <sfa>18.02500</sfa>
+    <sodium>154.00000</sodium>
+    <thiamin>0.51400</thiamin>
+    <vitamin_a>467.00000</vitamin_a>
+    <vitamin_b12>1.28000</vitamin_b12>
+    <vitamin_b6>0.30800</vitamin_b6>
+    <vitamin_c>46.00000</vitamin_c>
+    <vitamin_d>7.70000</vitamin_d>
+    <vitamin_e>6.93000</vitamin_e>
+    <vitamin_k>41.00000</vitamin_k>
+    <water>3.00000</water>
+    <weight>100.00000</weight>
+    <zinc>3.83000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

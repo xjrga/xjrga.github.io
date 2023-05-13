@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22954</foodid>
+    <name>Egg rolls, chicken, refrigerated, heated</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>47.00000</calcium>
+    <carbohydrate_by_difference>28.54000</carbohydrate_by_difference>
+    <cholesterol>14.00000</cholesterol>
+    <choline>31.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>197.00000</energy_gross>
+    <epa>0.00300</epa>
+    <fat>4.51000</fat>
+    <fiber>2.40000</fiber>
+    <folate>93.00000</folate>
+    <iron>1.69000</iron>
+    <linoleic>1.67400</linoleic>
+    <linolenic>0.11700</linolenic>
+    <magnesium>30.00000</magnesium>
+    <manganese>0.40400</manganese>
+    <mufa>1.32900</mufa>
+    <niacin>3.63000</niacin>
+    <pantothenic_acid>0.66000</pantothenic_acid>
+    <phosphorus>118.00000</phosphorus>
+    <potassium>281.00000</potassium>
+    <protein>10.44000</protein>
+    <pufa>1.81300</pufa>
+    <riboflavin>0.17000</riboflavin>
+    <selenium>17.30000</selenium>
+    <sfa>0.96400</sfa>
+    <sodium>478.00000</sodium>
+    <thiamin>0.24000</thiamin>
+    <vitamin_a>55.00000</vitamin_a>
+    <vitamin_b12>0.10000</vitamin_b12>
+    <vitamin_b6>0.28700</vitamin_b6>
+    <vitamin_c>11.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.37000</vitamin_e>
+    <vitamin_k>23.80000</vitamin_k>
+    <water>54.18000</water>
+    <weight>100.00000</weight>
+    <zinc>0.52000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>42230</foodid>
+    <name>Salad Dressing, coleslaw dressing, reduced fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>36.00000</calcium>
+    <carbohydrate_by_difference>40.00000</carbohydrate_by_difference>
+    <cholesterol>25.00000</cholesterol>
+    <choline>15.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>329.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>20.00000</fat>
+    <fiber>0.40000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.26000</iron>
+    <linoleic>6.98000</linoleic>
+    <linolenic>0.52000</linolenic>
+    <magnesium>5.00000</magnesium>
+    <manganese>0.00400</manganese>
+    <mufa>8.60000</mufa>
+    <niacin>0.25000</niacin>
+    <pantothenic_acid>0.00100</pantothenic_acid>
+    <phosphorus>30.00000</phosphorus>
+    <potassium>50.00000</potassium>
+    <protein>0.00000</protein>
+    <pufa>7.52000</pufa>
+    <riboflavin>0.01000</riboflavin>
+    <selenium>1.60000</selenium>
+    <sfa>2.98000</sfa>
+    <sodium>1600.00000</sodium>
+    <thiamin>0.01000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.10000</vitamin_b12>
+    <vitamin_b6>0.02000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.84000</vitamin_e>
+    <vitamin_k>39.50000</vitamin_k>
+    <water>37.00000</water>
+    <weight>100.00000</weight>
+    <zinc>0.18000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

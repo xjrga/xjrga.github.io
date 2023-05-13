@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>03133</foodid>
+    <name>Babyfood, fruit, pears, junior</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>8.00000</calcium>
+    <carbohydrate_by_difference>11.60000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>2.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>44.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.10000</fat>
+    <fiber>2.80000</fiber>
+    <folate>4.00000</folate>
+    <iron>0.25000</iron>
+    <linoleic>0.02300</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>9.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.02100</mufa>
+    <niacin>0.18800</niacin>
+    <pantothenic_acid>0.09500</pantothenic_acid>
+    <phosphorus>12.00000</phosphorus>
+    <potassium>115.00000</potassium>
+    <protein>0.30000</protein>
+    <pufa>0.02300</pufa>
+    <riboflavin>0.03000</riboflavin>
+    <selenium>0.40000</selenium>
+    <sfa>0.00600</sfa>
+    <sodium>1.00000</sodium>
+    <thiamin>0.01400</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.01000</vitamin_b6>
+    <vitamin_c>22.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.60000</vitamin_e>
+    <vitamin_k>3.40000</vitamin_k>
+    <water>87.80000</water>
+    <weight>100.00000</weight>
+    <zinc>0.08000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

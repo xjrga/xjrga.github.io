@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21492</foodid>
+    <name>DOMINO'S 14' Pepperoni Pizza, Crunchy Thin Crust</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>236.00000</calcium>
+    <carbohydrate_by_difference>25.35000</carbohydrate_by_difference>
+    <cholesterol>38.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10400</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>328.00000</energy_gross>
+    <epa>0.00500</epa>
+    <fat>19.05000</fat>
+    <fiber>2.60000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.13000</iron>
+    <linoleic>3.61900</linoleic>
+    <linolenic>0.36700</linolenic>
+    <magnesium>25.00000</magnesium>
+    <manganese>0.27900</manganese>
+    <mufa>5.94100</mufa>
+    <niacin>2.07000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>263.00000</phosphorus>
+    <potassium>224.00000</potassium>
+    <protein>13.88000</protein>
+    <pufa>4.10200</pufa>
+    <riboflavin>0.11000</riboflavin>
+    <selenium>26.00000</selenium>
+    <sfa>7.55700</sfa>
+    <sodium>783.00000</sodium>
+    <thiamin>0.11000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.81000</vitamin_b12>
+    <vitamin_b6>0.08000</vitamin_b6>
+    <vitamin_c>1.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>38.53000</water>
+    <weight>100.00000</weight>
+    <zinc>1.65000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

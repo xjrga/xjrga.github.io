@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14316</foodid>
+    <name>Beverages, Malted drink mix, chocolate, with added nutrients, powder, prepared with whole milk</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>139.00000</calcium>
+    <carbohydrate_by_difference>11.19000</carbohydrate_by_difference>
+    <cholesterol>10.00000</cholesterol>
+    <choline>13.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>87.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.26000</fat>
+    <fiber>0.40000</fiber>
+    <folate>5.00000</folate>
+    <iron>1.42000</iron>
+    <linoleic>0.13100</linoleic>
+    <linolenic>0.07400</linolenic>
+    <magnesium>17.00000</magnesium>
+    <manganese>0.05400</manganese>
+    <mufa>0.82300</mufa>
+    <niacin>4.16400</niacin>
+    <pantothenic_acid>0.39800</pantothenic_acid>
+    <phosphorus>109.00000</phosphorus>
+    <potassium>217.00000</potassium>
+    <protein>3.29000</protein>
+    <pufa>0.20500</pufa>
+    <riboflavin>0.48400</riboflavin>
+    <selenium>3.60000</selenium>
+    <sfa>1.87300</sfa>
+    <sodium>87.00000</sodium>
+    <thiamin>0.28700</thiamin>
+    <vitamin_a>357.00000</vitamin_a>
+    <vitamin_b12>0.42000</vitamin_b12>
+    <vitamin_b6>0.38300</vitamin_b6>
+    <vitamin_c>12.00000</vitamin_c>
+    <vitamin_d>3.10000</vitamin_d>
+    <vitamin_e>0.07000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>81.26000</water>
+    <weight>100.00000</weight>
+    <zinc>0.43000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

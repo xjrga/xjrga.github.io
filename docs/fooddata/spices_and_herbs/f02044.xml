@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>02044</foodid>
+    <name>Basil, fresh</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>177.00000</calcium>
+    <carbohydrate_by_difference>2.65000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>11.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.38500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>23.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.64000</fat>
+    <fiber>1.60000</fiber>
+    <folate>68.00000</folate>
+    <iron>3.17000</iron>
+    <linoleic>0.07300</linoleic>
+    <linolenic>0.31600</linolenic>
+    <magnesium>64.00000</magnesium>
+    <manganese>1.14800</manganese>
+    <mufa>0.08800</mufa>
+    <niacin>0.90200</niacin>
+    <pantothenic_acid>0.20900</pantothenic_acid>
+    <phosphorus>56.00000</phosphorus>
+    <potassium>295.00000</potassium>
+    <protein>3.15000</protein>
+    <pufa>0.38900</pufa>
+    <riboflavin>0.07600</riboflavin>
+    <selenium>0.30000</selenium>
+    <sfa>0.04100</sfa>
+    <sodium>4.00000</sodium>
+    <thiamin>0.03400</thiamin>
+    <vitamin_a>264.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.15500</vitamin_b6>
+    <vitamin_c>18.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.80000</vitamin_e>
+    <vitamin_k>414.80000</vitamin_k>
+    <water>92.06000</water>
+    <weight>100.00000</weight>
+    <zinc>0.81000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

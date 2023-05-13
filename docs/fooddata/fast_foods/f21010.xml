@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21010</foodid>
+    <name>Fast foods, biscuit, with crispy chicken fillet</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>44.00000</calcium>
+    <carbohydrate_by_difference>30.56000</carbohydrate_by_difference>
+    <cholesterol>24.00000</cholesterol>
+    <choline>22.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06000</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>300.00000</energy_gross>
+    <epa>0.00300</epa>
+    <fat>14.93000</fat>
+    <fiber>1.40000</fiber>
+    <folate>89.00000</folate>
+    <iron>1.76000</iron>
+    <linoleic>3.03700</linoleic>
+    <linolenic>0.21500</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.24100</manganese>
+    <mufa>5.45500</mufa>
+    <niacin>4.71500</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>355.00000</phosphorus>
+    <potassium>206.00000</potassium>
+    <protein>11.93000</protein>
+    <pufa>3.30800</pufa>
+    <riboflavin>0.27500</riboflavin>
+    <selenium>10.10000</selenium>
+    <sfa>5.71200</sfa>
+    <sodium>868.00000</sodium>
+    <thiamin>0.25000</thiamin>
+    <vitamin_a>10.00000</vitamin_a>
+    <vitamin_b12>0.12000</vitamin_b12>
+    <vitamin_b6>0.20700</vitamin_b6>
+    <vitamin_c>0.70000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>1.82000</vitamin_e>
+    <vitamin_k>6.30000</vitamin_k>
+    <water>39.40000</water>
+    <weight>100.00000</weight>
+    <zinc>0.49000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

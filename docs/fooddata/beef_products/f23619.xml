@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>23619</foodid>
+    <name>Beef, round, bottom round, roast, separable lean only, trimmed to 1/8' fat, choice, cooked, roasted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>6.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>77.00000</cholesterol>
+    <choline>104.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>179.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>6.77000</fat>
+    <fiber>0.00000</fiber>
+    <folate>9.00000</folate>
+    <iron>2.43000</iron>
+    <linoleic>0.21300</linoleic>
+    <linolenic>0.02000</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.00900</manganese>
+    <mufa>2.83100</mufa>
+    <niacin>5.29400</niacin>
+    <pantothenic_acid>0.54100</pantothenic_acid>
+    <phosphorus>174.00000</phosphorus>
+    <potassium>225.00000</potassium>
+    <protein>27.56000</protein>
+    <pufa>0.27400</pufa>
+    <riboflavin>0.17200</riboflavin>
+    <selenium>31.40000</selenium>
+    <sfa>2.33400</sfa>
+    <sodium>36.00000</sodium>
+    <thiamin>0.05700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.63000</vitamin_b12>
+    <vitamin_b6>0.38500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.37000</vitamin_e>
+    <vitamin_k>1.30000</vitamin_k>
+    <water>65.26000</water>
+    <weight>100.00000</weight>
+    <zinc>4.82000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

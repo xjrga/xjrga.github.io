@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11760</foodid>
+    <name>Carrots, frozen, cooked, boiled, drained, with salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>35.00000</calcium>
+    <carbohydrate_by_difference>7.73000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>8.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>37.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.68000</fat>
+    <fiber>3.30000</fiber>
+    <folate>11.00000</folate>
+    <iron>0.53000</iron>
+    <linoleic>0.31800</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>11.00000</magnesium>
+    <manganese>0.16700</manganese>
+    <mufa>0.03500</mufa>
+    <niacin>0.41600</niacin>
+    <pantothenic_acid>0.17400</pantothenic_acid>
+    <phosphorus>31.00000</phosphorus>
+    <potassium>192.00000</potassium>
+    <protein>0.58000</protein>
+    <pufa>0.31800</pufa>
+    <riboflavin>0.03700</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.13200</sfa>
+    <sodium>295.00000</sodium>
+    <thiamin>0.03000</thiamin>
+    <vitamin_a>846.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.08400</vitamin_b6>
+    <vitamin_c>2.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.01000</vitamin_e>
+    <vitamin_k>13.60000</vitamin_k>
+    <water>90.32000</water>
+    <weight>100.00000</weight>
+    <zinc>0.35000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

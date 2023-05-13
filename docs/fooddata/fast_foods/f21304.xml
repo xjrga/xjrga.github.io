@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21304</foodid>
+    <name>Fast Food, Pizza Chain, 14' pizza, meat and vegetable topping, regular crust</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>120.00000</calcium>
+    <carbohydrate_by_difference>25.38000</carbohydrate_by_difference>
+    <cholesterol>27.00000</cholesterol>
+    <choline>21.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.13800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>244.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>10.90000</fat>
+    <fiber>2.20000</fiber>
+    <folate>87.00000</folate>
+    <iron>1.86000</iron>
+    <linoleic>1.52100</linoleic>
+    <linolenic>0.15700</linolenic>
+    <magnesium>23.00000</magnesium>
+    <manganese>0.27300</manganese>
+    <mufa>3.78700</mufa>
+    <niacin>3.10000</niacin>
+    <pantothenic_acid>0.45500</pantothenic_acid>
+    <phosphorus>183.00000</phosphorus>
+    <potassium>184.00000</potassium>
+    <protein>11.02000</protein>
+    <pufa>1.89000</pufa>
+    <riboflavin>0.26600</riboflavin>
+    <selenium>23.10000</selenium>
+    <sfa>4.40700</sfa>
+    <sodium>589.00000</sodium>
+    <thiamin>0.25600</thiamin>
+    <vitamin_a>61.00000</vitamin_a>
+    <vitamin_b12>0.68000</vitamin_b12>
+    <vitamin_b6>0.09800</vitamin_b6>
+    <vitamin_c>0.10000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.86000</vitamin_e>
+    <vitamin_k>6.20000</vitamin_k>
+    <water>50.40000</water>
+    <weight>100.00000</weight>
+    <zinc>1.24000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21083</foodid>
+    <name>Fast foods, taco salad</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>97.00000</calcium>
+    <carbohydrate_by_difference>11.91000</carbohydrate_by_difference>
+    <cholesterol>22.00000</cholesterol>
+    <choline>23.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>141.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.46000</fat>
+    <fiber>0.00000</fiber>
+    <folate>57.00000</folate>
+    <iron>1.15000</iron>
+    <linoleic>0.83800</linoleic>
+    <linolenic>0.04500</linolenic>
+    <magnesium>26.00000</magnesium>
+    <manganese>0.16700</manganese>
+    <mufa>2.60600</mufa>
+    <niacin>1.24000</niacin>
+    <pantothenic_acid>0.68000</pantothenic_acid>
+    <phosphorus>72.00000</phosphorus>
+    <potassium>210.00000</potassium>
+    <protein>6.68000</protein>
+    <pufa>0.88300</pufa>
+    <riboflavin>0.18000</riboflavin>
+    <selenium>2.20000</selenium>
+    <sfa>3.44600</sfa>
+    <sodium>385.00000</sodium>
+    <thiamin>0.05000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.32000</vitamin_b12>
+    <vitamin_b6>0.11000</vitamin_b6>
+    <vitamin_c>1.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>72.35000</water>
+    <weight>100.00000</weight>
+    <zinc>1.36000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

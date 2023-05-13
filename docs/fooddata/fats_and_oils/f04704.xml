@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>04704</foodid>
+    <name>Salad dressing, poppyseed, creamy</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>59.00000</calcium>
+    <carbohydrate_by_difference>23.73000</carbohydrate_by_difference>
+    <cholesterol>15.00000</cholesterol>
+    <choline>6.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>399.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>33.33000</fat>
+    <fiber>0.30000</fiber>
+    <folate>3.00000</folate>
+    <iron>0.25000</iron>
+    <linoleic>15.29700</linoleic>
+    <linolenic>1.98900</linolenic>
+    <magnesium>9.00000</magnesium>
+    <manganese>0.13100</manganese>
+    <mufa>8.20700</mufa>
+    <niacin>0.04700</niacin>
+    <pantothenic_acid>0.10800</pantothenic_acid>
+    <phosphorus>49.00000</phosphorus>
+    <potassium>61.00000</potassium>
+    <protein>0.92000</protein>
+    <pufa>17.32600</pufa>
+    <riboflavin>0.05800</riboflavin>
+    <selenium>1.20000</selenium>
+    <sfa>6.06100</sfa>
+    <sodium>933.00000</sodium>
+    <thiamin>0.02400</thiamin>
+    <vitamin_a>51.00000</vitamin_a>
+    <vitamin_b12>0.09000</vitamin_b12>
+    <vitamin_b6>0.02200</vitamin_b6>
+    <vitamin_c>0.30000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>2.36000</vitamin_e>
+    <vitamin_k>50.20000</vitamin_k>
+    <water>38.85000</water>
+    <weight>100.00000</weight>
+    <zinc>0.25000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

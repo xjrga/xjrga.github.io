@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21235</foodid>
+    <name>McDONALD'S, QUARTER POUNDER with Cheese</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>144.00000</calcium>
+    <carbohydrate_by_difference>19.95000</carbohydrate_by_difference>
+    <cholesterol>47.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>258.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>14.22000</fat>
+    <fiber>1.40000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.10000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>22.00000</magnesium>
+    <manganese>0.17400</manganese>
+    <mufa>4.60800</mufa>
+    <niacin>3.85000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>161.00000</phosphorus>
+    <potassium>219.00000</potassium>
+    <protein>14.59000</protein>
+    <pufa>0.43300</pufa>
+    <riboflavin>0.35400</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>5.64300</sfa>
+    <sodium>579.00000</sodium>
+    <thiamin>0.16400</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.26000</vitamin_b12>
+    <vitamin_b6>0.00000</vitamin_b6>
+    <vitamin_c>0.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>48.90000</water>
+    <weight>100.00000</weight>
+    <zinc>2.63000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

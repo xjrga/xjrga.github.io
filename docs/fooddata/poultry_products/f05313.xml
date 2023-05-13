@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05313</foodid>
+    <name>Chicken, wing, frozen, glazed, barbecue flavored, heated (microwave)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>38.00000</calcium>
+    <carbohydrate_by_difference>3.84000</carbohydrate_by_difference>
+    <cholesterol>156.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04900</copper>
+    <cost>0.0</cost>
+    <dha>0.01700</dha>
+    <energy_gross>248.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>13.90000</fat>
+    <fiber>0.90000</fiber>
+    <folate>12.00000</folate>
+    <iron>2.74000</iron>
+    <linoleic>2.25000</linoleic>
+    <linolenic>0.13000</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>6.29700</mufa>
+    <niacin>7.10000</niacin>
+    <pantothenic_acid>0.71100</pantothenic_acid>
+    <phosphorus>272.00000</phosphorus>
+    <potassium>254.00000</potassium>
+    <protein>25.34000</protein>
+    <pufa>2.59900</pufa>
+    <riboflavin>0.29600</riboflavin>
+    <selenium>41.70000</selenium>
+    <sfa>3.65500</sfa>
+    <sodium>837.00000</sodium>
+    <thiamin>0.08100</thiamin>
+    <vitamin_a>20.00000</vitamin_a>
+    <vitamin_b12>0.48000</vitamin_b12>
+    <vitamin_b6>0.21000</vitamin_b6>
+    <vitamin_c>0.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.38000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>53.89000</water>
+    <weight>100.00000</weight>
+    <zinc>1.55000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

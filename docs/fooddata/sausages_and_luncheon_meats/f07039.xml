@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07039</foodid>
+    <name>Lebanon bologna, beef</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>20.00000</calcium>
+    <carbohydrate_by_difference>0.44000</carbohydrate_by_difference>
+    <cholesterol>55.00000</cholesterol>
+    <choline>62.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>172.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>10.44000</fat>
+    <fiber>0.00000</fiber>
+    <folate>6.00000</folate>
+    <iron>2.15000</iron>
+    <linoleic>0.24600</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.02200</manganese>
+    <mufa>4.43600</mufa>
+    <niacin>3.22300</niacin>
+    <pantothenic_acid>0.32000</pantothenic_acid>
+    <phosphorus>192.00000</phosphorus>
+    <potassium>330.00000</potassium>
+    <protein>19.03000</protein>
+    <pufa>0.25800</pufa>
+    <riboflavin>0.16500</riboflavin>
+    <selenium>15.70000</selenium>
+    <sfa>2.79400</sfa>
+    <sodium>1374.00000</sodium>
+    <thiamin>0.10100</thiamin>
+    <vitamin_a>12.00000</vitamin_a>
+    <vitamin_b12>2.90000</vitamin_b12>
+    <vitamin_b6>0.39100</vitamin_b6>
+    <vitamin_c>0.90000</vitamin_c>
+    <vitamin_d>0.30000</vitamin_d>
+    <vitamin_e>0.57000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>65.77000</water>
+    <weight>100.00000</weight>
+    <zinc>3.84000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

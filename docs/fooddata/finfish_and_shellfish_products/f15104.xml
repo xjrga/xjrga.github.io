@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15104</foodid>
+    <name>Fish, sturgeon, mixed species, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>13.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>60.00000</cholesterol>
+    <choline>56.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04100</copper>
+    <cost>0.0</cost>
+    <dha>0.09300</dha>
+    <energy_gross>105.00000</energy_gross>
+    <epa>0.19400</epa>
+    <fat>4.04000</fat>
+    <fiber>0.00000</fiber>
+    <folate>15.00000</folate>
+    <iron>0.70000</iron>
+    <linoleic>0.06800</linoleic>
+    <linolenic>0.10000</linolenic>
+    <magnesium>35.00000</magnesium>
+    <manganese>0.02500</manganese>
+    <mufa>1.93900</mufa>
+    <niacin>8.30000</niacin>
+    <pantothenic_acid>0.75000</pantothenic_acid>
+    <phosphorus>211.00000</phosphorus>
+    <potassium>284.00000</potassium>
+    <protein>16.14000</protein>
+    <pufa>0.69000</pufa>
+    <riboflavin>0.07000</riboflavin>
+    <selenium>12.60000</selenium>
+    <sfa>0.91500</sfa>
+    <sodium>54.00000</sodium>
+    <thiamin>0.07000</thiamin>
+    <vitamin_a>210.00000</vitamin_a>
+    <vitamin_b12>2.20000</vitamin_b12>
+    <vitamin_b6>0.20000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>10.30000</vitamin_d>
+    <vitamin_e>0.50000</vitamin_e>
+    <vitamin_k>0.10000</vitamin_k>
+    <water>76.55000</water>
+    <weight>100.00000</weight>
+    <zinc>0.42000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

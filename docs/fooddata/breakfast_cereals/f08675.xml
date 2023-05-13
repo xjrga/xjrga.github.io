@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08675</foodid>
+    <name>Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDERS with honey & almonds</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>33.00000</calcium>
+    <carbohydrate_by_difference>77.26000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>379.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.88000</fat>
+    <fiber>6.10000</fiber>
+    <folate>1121.00000</folate>
+    <iron>41.38000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>61.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>2.25000</mufa>
+    <niacin>23.51000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>204.00000</phosphorus>
+    <potassium>240.00000</potassium>
+    <protein>7.80000</protein>
+    <pufa>1.35000</pufa>
+    <riboflavin>1.99000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.62000</sfa>
+    <sodium>453.00000</sodium>
+    <thiamin>2.09000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>7.55000</vitamin_b12>
+    <vitamin_b6>2.69000</vitamin_b6>
+    <vitamin_c>29.60000</vitamin_c>
+    <vitamin_d>3.60000</vitamin_d>
+    <vitamin_e>1.37000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>3.10000</water>
+    <weight>100.00000</weight>
+    <zinc>17.87000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08363</foodid>
+    <name>Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Toasted Wheat Bran</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>66.00000</calcium>
+    <carbohydrate_by_difference>59.51000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>81.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.09000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>200.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.16000</fat>
+    <fiber>41.30000</fiber>
+    <folate>0.00000</folate>
+    <iron>13.88000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>606.00000</magnesium>
+    <manganese>17.38000</manganese>
+    <mufa>0.80000</mufa>
+    <niacin>20.62000</niacin>
+    <pantothenic_acid>2.93000</pantothenic_acid>
+    <phosphorus>1314.00000</phosphorus>
+    <potassium>1284.00000</potassium>
+    <protein>17.56000</protein>
+    <pufa>2.72000</pufa>
+    <riboflavin>0.45000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.77000</sfa>
+    <sodium>6.00000</sodium>
+    <thiamin>1.10000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.23000</vitamin_b12>
+    <vitamin_b6>0.68000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>11.72000</water>
+    <weight>100.00000</weight>
+    <zinc>11.23000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

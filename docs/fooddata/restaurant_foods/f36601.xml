@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36601</foodid>
+    <name>Restaurant, Chinese, egg rolls, assorted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>40.00000</calcium>
+    <carbohydrate_by_difference>27.29000</carbohydrate_by_difference>
+    <cholesterol>16.00000</cholesterol>
+    <choline>17.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>250.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>11.94000</fat>
+    <fiber>2.60000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.41000</iron>
+    <linoleic>4.92800</linoleic>
+    <linolenic>0.65600</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.24500</manganese>
+    <mufa>3.03600</mufa>
+    <niacin>2.72500</niacin>
+    <pantothenic_acid>0.38000</pantothenic_acid>
+    <phosphorus>85.00000</phosphorus>
+    <potassium>165.00000</potassium>
+    <protein>8.28000</protein>
+    <pufa>5.60100</pufa>
+    <riboflavin>0.07700</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>2.11600</sfa>
+    <sodium>468.00000</sodium>
+    <thiamin>0.16500</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.44000</vitamin_b12>
+    <vitamin_b6>0.16700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>58.90000</vitamin_k>
+    <water>50.60000</water>
+    <weight>100.00000</weight>
+    <zinc>0.62000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

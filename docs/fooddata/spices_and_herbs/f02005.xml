@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>02005</foodid>
+    <name>Spices, caraway seed</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>689.00000</calcium>
+    <carbohydrate_by_difference>49.90000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>24.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.91000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>333.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>14.59000</fat>
+    <fiber>38.00000</fiber>
+    <folate>10.00000</folate>
+    <iron>16.23000</iron>
+    <linoleic>3.12200</linoleic>
+    <linolenic>0.15000</linolenic>
+    <magnesium>258.00000</magnesium>
+    <manganese>1.30000</manganese>
+    <mufa>7.12500</mufa>
+    <niacin>3.60600</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>568.00000</phosphorus>
+    <potassium>1351.00000</potassium>
+    <protein>19.77000</protein>
+    <pufa>3.27200</pufa>
+    <riboflavin>0.37900</riboflavin>
+    <selenium>12.10000</selenium>
+    <sfa>0.62000</sfa>
+    <sodium>17.00000</sodium>
+    <thiamin>0.38300</thiamin>
+    <vitamin_a>18.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.36000</vitamin_b6>
+    <vitamin_c>21.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>2.50000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>9.87000</water>
+    <weight>100.00000</weight>
+    <zinc>5.50000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

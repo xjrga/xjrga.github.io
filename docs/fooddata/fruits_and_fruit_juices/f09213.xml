@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09213</foodid>
+    <name>Orange juice, frozen concentrate, unsweetened, undiluted, with added calcium</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>578.00000</calcium>
+    <carbohydrate_by_difference>33.86000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>20.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>147.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.25000</fat>
+    <fiber>1.00000</fiber>
+    <folate>77.00000</folate>
+    <iron>0.33000</iron>
+    <linoleic>0.04600</linoleic>
+    <linolenic>0.01700</linolenic>
+    <magnesium>35.00000</magnesium>
+    <manganese>0.11600</manganese>
+    <mufa>0.05000</mufa>
+    <niacin>1.09300</niacin>
+    <pantothenic_acid>0.73200</pantothenic_acid>
+    <phosphorus>313.00000</phosphorus>
+    <potassium>629.00000</potassium>
+    <protein>2.40000</protein>
+    <pufa>0.06300</pufa>
+    <riboflavin>0.17500</riboflavin>
+    <selenium>0.40000</selenium>
+    <sfa>0.05900</sfa>
+    <sodium>7.00000</sodium>
+    <thiamin>0.27500</thiamin>
+    <vitamin_a>13.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.26000</vitamin_b6>
+    <vitamin_c>144.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.60000</vitamin_e>
+    <vitamin_k>0.40000</vitamin_k>
+    <water>60.57000</water>
+    <weight>100.00000</weight>
+    <zinc>0.16000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

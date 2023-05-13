@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>03938</foodid>
+    <name>Infant formula, PBM PRODUCTS, store brand, powder</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>331.00000</calcium>
+    <carbohydrate_by_difference>56.00000</carbohydrate_by_difference>
+    <cholesterol>32.00000</cholesterol>
+    <choline>81.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.37000</copper>
+    <cost>0.0</cost>
+    <dha>0.10300</dha>
+    <energy_gross>524.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>28.00000</fat>
+    <fiber>0.00000</fiber>
+    <folate>66.00000</folate>
+    <iron>9.50000</iron>
+    <linoleic>3.58500</linoleic>
+    <linolenic>0.36500</linolenic>
+    <magnesium>36.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>11.13100</mufa>
+    <niacin>3.94000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>221.00000</phosphorus>
+    <potassium>441.00000</potassium>
+    <protein>12.00000</protein>
+    <pufa>3.95100</pufa>
+    <riboflavin>0.79000</riboflavin>
+    <selenium>11.00000</selenium>
+    <sfa>12.76100</sfa>
+    <sodium>118.00000</sodium>
+    <thiamin>0.53000</thiamin>
+    <vitamin_a>473.00000</vitamin_a>
+    <vitamin_b12>1.02000</vitamin_b12>
+    <vitamin_b6>0.33000</vitamin_b6>
+    <vitamin_c>43.30000</vitamin_c>
+    <vitamin_d>7.60000</vitamin_d>
+    <vitamin_e>3.38000</vitamin_e>
+    <vitamin_k>43.00000</vitamin_k>
+    <water>2.00000</water>
+    <weight>100.00000</weight>
+    <zinc>3.90000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

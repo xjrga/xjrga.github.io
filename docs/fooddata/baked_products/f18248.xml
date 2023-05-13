@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18248</foodid>
+    <name>Doughnuts, cake-type, plain (includes unsugared, old-fashioned)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>40.00000</calcium>
+    <carbohydrate_by_difference>47.06000</carbohydrate_by_difference>
+    <cholesterol>10.00000</cholesterol>
+    <choline>37.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09000</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>434.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>24.93000</fat>
+    <fiber>1.70000</fiber>
+    <folate>145.00000</folate>
+    <iron>2.53000</iron>
+    <linoleic>3.63700</linoleic>
+    <linolenic>0.25600</linolenic>
+    <magnesium>17.00000</magnesium>
+    <manganese>0.33300</manganese>
+    <mufa>8.54400</mufa>
+    <niacin>2.91000</niacin>
+    <pantothenic_acid>0.37700</pantothenic_acid>
+    <phosphorus>260.00000</phosphorus>
+    <potassium>134.00000</potassium>
+    <protein>5.31000</protein>
+    <pufa>3.91500</pufa>
+    <riboflavin>0.30100</riboflavin>
+    <selenium>10.10000</selenium>
+    <sfa>11.10500</sfa>
+    <sodium>477.00000</sodium>
+    <thiamin>0.39000</thiamin>
+    <vitamin_a>4.00000</vitamin_a>
+    <vitamin_b12>0.06000</vitamin_b12>
+    <vitamin_b6>0.05000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.99000</vitamin_e>
+    <vitamin_k>9.80000</vitamin_k>
+    <water>20.82000</water>
+    <weight>100.00000</weight>
+    <zinc>0.50000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

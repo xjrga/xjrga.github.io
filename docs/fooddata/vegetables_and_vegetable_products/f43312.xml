@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>43312</foodid>
+    <name>Vegetables, mixed (corn, lima beans, peas, green beans, carrots) canned, no salt added</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>21.00000</calcium>
+    <carbohydrate_by_difference>7.31000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>18.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>37.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.20000</fat>
+    <fiber>3.10000</fiber>
+    <folate>18.00000</folate>
+    <iron>0.65000</iron>
+    <linoleic>0.07100</linoleic>
+    <linolenic>0.02700</linolenic>
+    <magnesium>15.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.02200</mufa>
+    <niacin>0.48000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>37.00000</phosphorus>
+    <potassium>138.00000</potassium>
+    <protein>1.40000</protein>
+    <pufa>0.09800</pufa>
+    <riboflavin>0.04000</riboflavin>
+    <selenium>0.30000</selenium>
+    <sfa>0.03900</sfa>
+    <sodium>26.00000</sodium>
+    <thiamin>0.03000</thiamin>
+    <vitamin_a>583.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.08000</vitamin_b6>
+    <vitamin_c>3.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.29000</vitamin_e>
+    <vitamin_k>18.20000</vitamin_k>
+    <water>90.20000</water>
+    <weight>100.00000</weight>
+    <zinc>0.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

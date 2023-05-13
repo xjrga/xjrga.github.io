@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>06285</foodid>
+    <name>Sauce, sweet and sour, prepared-from-recipe</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>16.00000</calcium>
+    <carbohydrate_by_difference>16.72000</carbohydrate_by_difference>
+    <cholesterol>1.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>79.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.58000</fat>
+    <fiber>0.40000</fiber>
+    <folate>10.00000</folate>
+    <iron>0.67000</iron>
+    <linoleic>0.10700</linoleic>
+    <linolenic>0.01100</linolenic>
+    <magnesium>13.00000</magnesium>
+    <manganese>0.24700</manganese>
+    <mufa>0.25300</mufa>
+    <niacin>1.17800</niacin>
+    <pantothenic_acid>0.05700</pantothenic_acid>
+    <phosphorus>30.00000</phosphorus>
+    <potassium>193.00000</potassium>
+    <protein>1.84000</protein>
+    <pufa>0.11700</pufa>
+    <riboflavin>0.06300</riboflavin>
+    <selenium>1.60000</selenium>
+    <sfa>0.14400</sfa>
+    <sodium>347.00000</sodium>
+    <thiamin>0.04200</thiamin>
+    <vitamin_a>6.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.08700</vitamin_b6>
+    <vitamin_c>5.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.32000</vitamin_e>
+    <vitamin_k>1.00000</vitamin_k>
+    <water>78.56000</water>
+    <weight>100.00000</weight>
+    <zinc>0.18000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

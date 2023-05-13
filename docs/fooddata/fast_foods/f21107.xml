@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21107</foodid>
+    <name>Fast foods, hamburger; single, regular patty; plain</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>62.00000</calcium>
+    <carbohydrate_by_difference>31.50000</carbohydrate_by_difference>
+    <cholesterol>33.00000</cholesterol>
+    <choline>34.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.12100</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>297.00000</energy_gross>
+    <epa>0.00500</epa>
+    <fat>12.01000</fat>
+    <fiber>1.70000</fiber>
+    <folate>100.00000</folate>
+    <iron>3.06000</iron>
+    <linoleic>1.50200</linoleic>
+    <linolenic>0.12600</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.35700</manganese>
+    <mufa>4.83500</mufa>
+    <niacin>5.61700</niacin>
+    <pantothenic_acid>0.53000</pantothenic_acid>
+    <phosphorus>134.00000</phosphorus>
+    <potassium>197.00000</potassium>
+    <protein>16.52000</protein>
+    <pufa>1.68000</pufa>
+    <riboflavin>0.36300</riboflavin>
+    <selenium>20.30000</selenium>
+    <sfa>4.49300</sfa>
+    <sodium>331.00000</sodium>
+    <thiamin>0.31700</thiamin>
+    <vitamin_a>9.00000</vitamin_a>
+    <vitamin_b12>0.89000</vitamin_b12>
+    <vitamin_b6>0.21200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.38000</vitamin_e>
+    <vitamin_k>4.90000</vitamin_k>
+    <water>38.45000</water>
+    <weight>100.00000</weight>
+    <zinc>2.52000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

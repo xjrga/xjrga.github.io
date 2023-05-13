@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01046</foodid>
+    <name>Cheese food, pasteurized process, American, vitamin D fortified</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>682.00000</calcium>
+    <carbohydrate_by_difference>8.56000</carbohydrate_by_difference>
+    <cholesterol>98.00000</cholesterol>
+    <choline>36.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03400</copper>
+    <cost>0.0</cost>
+    <dha>0.00500</dha>
+    <energy_gross>330.00000</energy_gross>
+    <epa>0.00800</epa>
+    <fat>25.63000</fat>
+    <fiber>0.00000</fiber>
+    <folate>7.00000</folate>
+    <iron>0.26000</iron>
+    <linoleic>0.80600</linoleic>
+    <linolenic>0.12300</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.02500</manganese>
+    <mufa>6.84600</mufa>
+    <niacin>0.15500</niacin>
+    <pantothenic_acid>0.85500</pantothenic_acid>
+    <phosphorus>438.00000</phosphorus>
+    <potassium>255.00000</potassium>
+    <protein>16.86000</protein>
+    <pufa>1.04900</pufa>
+    <riboflavin>0.36000</riboflavin>
+    <selenium>19.60000</selenium>
+    <sfa>15.05700</sfa>
+    <sodium>1284.00000</sodium>
+    <thiamin>0.03500</thiamin>
+    <vitamin_a>201.00000</vitamin_a>
+    <vitamin_b12>1.33000</vitamin_b12>
+    <vitamin_b6>0.10200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>2.50000</vitamin_d>
+    <vitamin_e>0.63000</vitamin_e>
+    <vitamin_k>3.40000</vitamin_k>
+    <water>44.00000</water>
+    <weight>100.00000</weight>
+    <zinc>2.31000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18148</foodid>
+    <name>Cheesecake prepared from mix, no-bake type</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>172.00000</calcium>
+    <carbohydrate_by_difference>35.50000</carbohydrate_by_difference>
+    <cholesterol>29.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>274.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>12.70000</fat>
+    <fiber>1.90000</fiber>
+    <folate>38.00000</folate>
+    <iron>0.47000</iron>
+    <linoleic>0.65000</linoleic>
+    <linolenic>0.15700</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.12000</manganese>
+    <mufa>4.51900</mufa>
+    <niacin>0.49300</niacin>
+    <pantothenic_acid>0.61200</pantothenic_acid>
+    <phosphorus>234.00000</phosphorus>
+    <potassium>211.00000</potassium>
+    <protein>5.50000</protein>
+    <pufa>0.80800</pufa>
+    <riboflavin>0.26300</riboflavin>
+    <selenium>4.70000</selenium>
+    <sfa>6.69100</sfa>
+    <sodium>380.00000</sodium>
+    <thiamin>0.12100</thiamin>
+    <vitamin_a>96.00000</vitamin_a>
+    <vitamin_b12>0.31000</vitamin_b12>
+    <vitamin_b6>0.05200</vitamin_b6>
+    <vitamin_c>0.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>44.20000</water>
+    <weight>100.00000</weight>
+    <zinc>0.46000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

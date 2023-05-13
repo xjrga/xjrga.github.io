@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>28012</foodid>
+    <name>KELLOGG'S, EGGO, FIBERPLUS Waffles, Buttermilk</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>500.00000</calcium>
+    <carbohydrate_by_difference>41.80000</carbohydrate_by_difference>
+    <cholesterol>20.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>227.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.90000</fat>
+    <fiber>13.20000</fiber>
+    <folate>0.00000</folate>
+    <iron>6.40000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>14.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>2.00000</mufa>
+    <niacin>5.70000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>311.00000</phosphorus>
+    <potassium>66.00000</potassium>
+    <protein>4.70000</protein>
+    <pufa>3.20000</pufa>
+    <riboflavin>0.49000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>2.10000</sfa>
+    <sodium>559.00000</sodium>
+    <thiamin>0.43000</thiamin>
+    <vitamin_a>429.00000</vitamin_a>
+    <vitamin_b12>1.70000</vitamin_b12>
+    <vitamin_b6>0.60000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>41.00000</water>
+    <weight>100.00000</weight>
+    <zinc>0.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>28296</foodid>
+    <name>Cake, snack cakes, creme-filled, chocolate with frosting, low-fat, with added fiber</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>149.00000</calcium>
+    <carbohydrate_by_difference>69.37000</carbohydrate_by_difference>
+    <cholesterol>93.00000</cholesterol>
+    <choline>68.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.24300</copper>
+    <cost>0.0</cost>
+    <dha>0.00700</dha>
+    <energy_gross>409.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>13.00000</fat>
+    <fiber>14.90000</fiber>
+    <folate>105.00000</folate>
+    <iron>4.01000</iron>
+    <linoleic>2.61100</linoleic>
+    <linolenic>0.38000</linolenic>
+    <magnesium>34.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>3.51700</mufa>
+    <niacin>2.10200</niacin>
+    <pantothenic_acid>0.45200</pantothenic_acid>
+    <phosphorus>146.00000</phosphorus>
+    <potassium>193.00000</potassium>
+    <protein>3.71000</protein>
+    <pufa>3.03400</pufa>
+    <riboflavin>0.29600</riboflavin>
+    <selenium>20.50000</selenium>
+    <sfa>5.57000</sfa>
+    <sodium>483.00000</sodium>
+    <thiamin>0.27600</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.18000</vitamin_b12>
+    <vitamin_b6>0.04600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.20000</vitamin_d>
+    <vitamin_e>1.13000</vitamin_e>
+    <vitamin_k>7.50000</vitamin_k>
+    <water>11.31000</water>
+    <weight>100.00000</weight>
+    <zinc>0.73000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

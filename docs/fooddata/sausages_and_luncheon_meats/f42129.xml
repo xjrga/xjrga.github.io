@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>42129</foodid>
+    <name>Bologna, beef and pork, low fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>11.00000</calcium>
+    <carbohydrate_by_difference>2.60000</carbohydrate_by_difference>
+    <cholesterol>39.00000</cholesterol>
+    <choline>48.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>230.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>19.30000</fat>
+    <fiber>0.00000</fiber>
+    <folate>5.00000</folate>
+    <iron>0.66000</iron>
+    <linoleic>1.35900</linoleic>
+    <linolenic>0.28000</linolenic>
+    <magnesium>12.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>9.14500</mufa>
+    <niacin>2.54000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>181.00000</phosphorus>
+    <potassium>156.00000</potassium>
+    <protein>11.50000</protein>
+    <pufa>1.63900</pufa>
+    <riboflavin>0.13000</riboflavin>
+    <selenium>11.20000</selenium>
+    <sfa>7.30800</sfa>
+    <sodium>1108.00000</sodium>
+    <thiamin>0.17000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.31000</vitamin_b12>
+    <vitamin_b6>0.18000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.50000</vitamin_d>
+    <vitamin_e>0.22000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>63.40000</water>
+    <weight>100.00000</weight>
+    <zinc>1.50000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

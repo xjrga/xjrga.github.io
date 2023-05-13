@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>10861</foodid>
+    <name>Pork, cured, bacon, cooked, microwaved</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>13.00000</calcium>
+    <carbohydrate_by_difference>0.48000</carbohydrate_by_difference>
+    <cholesterol>111.00000</cholesterol>
+    <choline>107.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11700</copper>
+    <cost>0.0</cost>
+    <dha>0.00700</dha>
+    <energy_gross>476.00000</energy_gross>
+    <epa>0.00500</epa>
+    <fat>34.12000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.14000</iron>
+    <linoleic>4.85800</linoleic>
+    <linolenic>0.20400</linolenic>
+    <magnesium>34.00000</magnesium>
+    <manganese>0.02300</manganese>
+    <mufa>15.23500</mufa>
+    <niacin>10.71400</niacin>
+    <pantothenic_acid>1.16700</pantothenic_acid>
+    <phosphorus>389.00000</phosphorus>
+    <potassium>525.00000</potassium>
+    <protein>39.01000</protein>
+    <pufa>5.60200</pufa>
+    <riboflavin>0.25700</riboflavin>
+    <selenium>65.10000</selenium>
+    <sfa>11.64400</sfa>
+    <sodium>1783.00000</sodium>
+    <thiamin>0.55400</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.00000</vitamin_b12>
+    <vitamin_b6>0.51300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.48000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>20.38000</water>
+    <weight>100.00000</weight>
+    <zinc>3.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

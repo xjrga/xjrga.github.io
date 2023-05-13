@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09002</foodid>
+    <name>Acerola juice, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>10.00000</calcium>
+    <carbohydrate_by_difference>4.80000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>23.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.30000</fat>
+    <fiber>0.30000</fiber>
+    <folate>14.00000</folate>
+    <iron>0.50000</iron>
+    <linoleic>0.04600</linoleic>
+    <linolenic>0.04400</linolenic>
+    <magnesium>12.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.08200</mufa>
+    <niacin>0.40000</niacin>
+    <pantothenic_acid>0.20500</pantothenic_acid>
+    <phosphorus>9.00000</phosphorus>
+    <potassium>97.00000</potassium>
+    <protein>0.40000</protein>
+    <pufa>0.09000</pufa>
+    <riboflavin>0.06000</riboflavin>
+    <selenium>0.10000</selenium>
+    <sfa>0.06800</sfa>
+    <sodium>3.00000</sodium>
+    <thiamin>0.02000</thiamin>
+    <vitamin_a>25.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.00400</vitamin_b6>
+    <vitamin_c>1600.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.18000</vitamin_e>
+    <vitamin_k>1.40000</vitamin_k>
+    <water>94.30000</water>
+    <weight>100.00000</weight>
+    <zinc>0.10000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

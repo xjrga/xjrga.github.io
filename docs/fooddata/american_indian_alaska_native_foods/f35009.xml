@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35009</foodid>
+    <name>Whale, beluga, meat, dried (Alaska Native)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>22.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>122.00000</cholesterol>
+    <choline>131.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.32000</copper>
+    <cost>0.0</cost>
+    <dha>0.08600</dha>
+    <energy_gross>327.00000</energy_gross>
+    <epa>0.06000</epa>
+    <fat>5.34000</fat>
+    <fiber>0.00000</fiber>
+    <folate>10.00000</folate>
+    <iron>72.35000</iron>
+    <linoleic>0.04700</linoleic>
+    <linolenic>0.02700</linolenic>
+    <magnesium>63.00000</magnesium>
+    <manganese>0.13000</manganese>
+    <mufa>3.34500</mufa>
+    <niacin>15.20000</niacin>
+    <pantothenic_acid>1.68000</pantothenic_acid>
+    <phosphorus>549.00000</phosphorus>
+    <potassium>800.00000</potassium>
+    <protein>69.86000</protein>
+    <pufa>0.31900</pufa>
+    <riboflavin>0.51900</riboflavin>
+    <selenium>103.00000</selenium>
+    <sfa>1.20400</sfa>
+    <sodium>220.00000</sodium>
+    <thiamin>0.03900</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>7.31000</vitamin_b12>
+    <vitamin_b6>0.13100</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.27000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>22.39000</water>
+    <weight>100.00000</weight>
+    <zinc>7.80000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

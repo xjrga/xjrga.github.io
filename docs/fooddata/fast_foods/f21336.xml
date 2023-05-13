@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21336</foodid>
+    <name>McDONALD'S, Hot Fudge Sundae</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>139.00000</calcium>
+    <carbohydrate_by_difference>30.05000</carbohydrate_by_difference>
+    <cholesterol>13.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>186.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.91000</fat>
+    <fiber>0.40000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.83000</iron>
+    <linoleic>0.19800</linoleic>
+    <linolenic>0.01800</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.06600</manganese>
+    <mufa>1.04500</mufa>
+    <niacin>0.15100</niacin>
+    <pantothenic_acid>0.74900</pantothenic_acid>
+    <phosphorus>128.00000</phosphorus>
+    <potassium>246.00000</potassium>
+    <protein>4.14000</protein>
+    <pufa>0.22000</pufa>
+    <riboflavin>0.22600</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>3.59200</sfa>
+    <sodium>94.00000</sodium>
+    <thiamin>0.04200</thiamin>
+    <vitamin_a>81.00000</vitamin_a>
+    <vitamin_b12>0.55000</vitamin_b12>
+    <vitamin_b6>0.05200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.19000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>58.81000</water>
+    <weight>100.00000</weight>
+    <zinc>0.56000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19160</foodid>
+    <name>Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>106.00000</calcium>
+    <carbohydrate_by_difference>64.80000</carbohydrate_by_difference>
+    <cholesterol>7.00000</cholesterol>
+    <choline>20.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.19700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>502.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>24.85000</fat>
+    <fiber>1.10000</fiber>
+    <folate>39.00000</folate>
+    <iron>0.81000</iron>
+    <linoleic>0.59400</linoleic>
+    <linolenic>0.03400</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.27300</manganese>
+    <mufa>2.98800</mufa>
+    <niacin>1.10900</niacin>
+    <pantothenic_acid>0.26500</pantothenic_acid>
+    <phosphorus>105.00000</phosphorus>
+    <potassium>186.00000</potassium>
+    <protein>4.91000</protein>
+    <pufa>0.62800</pufa>
+    <riboflavin>0.20800</riboflavin>
+    <selenium>4.30000</selenium>
+    <sfa>18.96000</sfa>
+    <sodium>198.00000</sodium>
+    <thiamin>0.15500</thiamin>
+    <vitamin_a>20.00000</vitamin_a>
+    <vitamin_b12>0.33000</vitamin_b12>
+    <vitamin_b6>0.02500</vitamin_b6>
+    <vitamin_c>0.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.74000</vitamin_e>
+    <vitamin_k>5.60000</vitamin_k>
+    <water>4.23000</water>
+    <weight>100.00000</weight>
+    <zinc>1.06000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15037</foodid>
+    <name>Fish, halibut, Atlantic and Pacific, cooked, dry heat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>9.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>60.00000</cholesterol>
+    <choline>75.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02800</copper>
+    <cost>0.0</cost>
+    <dha>0.15500</dha>
+    <energy_gross>111.00000</energy_gross>
+    <epa>0.08000</epa>
+    <fat>1.61000</fat>
+    <fiber>0.00000</fiber>
+    <folate>14.00000</folate>
+    <iron>0.20000</iron>
+    <linoleic>0.04100</linoleic>
+    <linolenic>0.01300</linolenic>
+    <magnesium>28.00000</magnesium>
+    <manganese>0.01300</manganese>
+    <mufa>0.57300</mufa>
+    <niacin>7.91100</niacin>
+    <pantothenic_acid>0.41600</pantothenic_acid>
+    <phosphorus>287.00000</phosphorus>
+    <potassium>528.00000</potassium>
+    <protein>22.54000</protein>
+    <pufa>0.35200</pufa>
+    <riboflavin>0.03600</riboflavin>
+    <selenium>55.40000</selenium>
+    <sfa>0.35400</sfa>
+    <sodium>82.00000</sodium>
+    <thiamin>0.05800</thiamin>
+    <vitamin_a>24.00000</vitamin_a>
+    <vitamin_b12>1.27000</vitamin_b12>
+    <vitamin_b6>0.63200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>5.80000</vitamin_d>
+    <vitamin_e>0.74000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>76.12000</water>
+    <weight>100.00000</weight>
+    <zinc>0.43000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

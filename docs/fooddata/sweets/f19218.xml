@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19218</foodid>
+    <name>Puddings, tapioca, ready-to-eat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>71.00000</calcium>
+    <carbohydrate_by_difference>21.69000</carbohydrate_by_difference>
+    <cholesterol>1.00000</cholesterol>
+    <choline>6.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>130.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.88000</fat>
+    <fiber>0.00000</fiber>
+    <folate>3.00000</folate>
+    <iron>0.11000</iron>
+    <linoleic>0.07200</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>6.00000</magnesium>
+    <manganese>0.01100</manganese>
+    <mufa>2.53800</mufa>
+    <niacin>0.06500</niacin>
+    <pantothenic_acid>0.23500</pantothenic_acid>
+    <phosphorus>60.00000</phosphorus>
+    <potassium>92.00000</potassium>
+    <protein>1.95000</protein>
+    <pufa>0.07200</pufa>
+    <riboflavin>0.09700</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.96200</sfa>
+    <sodium>145.00000</sodium>
+    <thiamin>0.02400</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.21000</vitamin_b12>
+    <vitamin_b6>0.02400</vitamin_b6>
+    <vitamin_c>0.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.15000</vitamin_e>
+    <vitamin_k>0.40000</vitamin_k>
+    <water>71.84000</water>
+    <weight>100.00000</weight>
+    <zinc>0.22000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

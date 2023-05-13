@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05236</foodid>
+    <name>Turkey, young hen, skin only, cooked, roasted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>32.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>106.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>482.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>44.45000</fat>
+    <fiber>0.00000</fiber>
+    <folate>4.00000</folate>
+    <iron>1.82000</iron>
+    <linoleic>9.20000</linoleic>
+    <linolenic>0.69000</linolenic>
+    <magnesium>15.00000</magnesium>
+    <manganese>0.02200</manganese>
+    <mufa>18.94000</mufa>
+    <niacin>2.80100</niacin>
+    <pantothenic_acid>0.29700</pantothenic_acid>
+    <phosphorus>133.00000</phosphorus>
+    <potassium>155.00000</potassium>
+    <protein>19.03000</protein>
+    <pufa>10.18000</pufa>
+    <riboflavin>0.13300</riboflavin>
+    <selenium>144.10000</selenium>
+    <sfa>11.59000</sfa>
+    <sodium>44.00000</sodium>
+    <thiamin>0.02100</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.24000</vitamin_b12>
+    <vitamin_b6>0.07000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>35.53000</water>
+    <weight>100.00000</weight>
+    <zinc>2.06000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

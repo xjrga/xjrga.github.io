@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18321</foodid>
+    <name>Pie, lemon meringue, prepared from recipe</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>12.00000</calcium>
+    <carbohydrate_by_difference>39.10000</carbohydrate_by_difference>
+    <cholesterol>53.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04200</copper>
+    <cost>0.0</cost>
+    <dha>0.00500</dha>
+    <energy_gross>285.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>12.90000</fat>
+    <fiber>0.00000</fiber>
+    <folate>36.00000</folate>
+    <iron>1.00000</iron>
+    <linoleic>3.12100</linoleic>
+    <linolenic>0.18600</linolenic>
+    <magnesium>6.00000</magnesium>
+    <manganese>0.12800</manganese>
+    <mufa>5.58200</mufa>
+    <niacin>0.94400</niacin>
+    <pantothenic_acid>0.21400</pantothenic_acid>
+    <phosphorus>42.00000</phosphorus>
+    <potassium>65.00000</potassium>
+    <protein>3.80000</protein>
+    <pufa>3.33100</pufa>
+    <riboflavin>0.15900</riboflavin>
+    <selenium>11.60000</selenium>
+    <sfa>3.18500</sfa>
+    <sodium>242.00000</sodium>
+    <thiamin>0.11800</thiamin>
+    <vitamin_a>43.00000</vitamin_a>
+    <vitamin_b12>0.12000</vitamin_b12>
+    <vitamin_b6>0.02700</vitamin_b6>
+    <vitamin_c>3.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>43.30000</water>
+    <weight>100.00000</weight>
+    <zinc>0.28000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

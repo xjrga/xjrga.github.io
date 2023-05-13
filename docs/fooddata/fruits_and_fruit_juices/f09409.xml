@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09409</foodid>
+    <name>Pineapple juice, canned or bottled, unsweetened, with added ascorbic acid</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>13.00000</calcium>
+    <carbohydrate_by_difference>12.87000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>3.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>53.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.12000</fat>
+    <fiber>0.20000</fiber>
+    <folate>18.00000</folate>
+    <iron>0.31000</iron>
+    <linoleic>0.02400</linoleic>
+    <linolenic>0.01800</linolenic>
+    <magnesium>12.00000</magnesium>
+    <manganese>0.50400</manganese>
+    <mufa>0.01400</mufa>
+    <niacin>0.19900</niacin>
+    <pantothenic_acid>0.05600</pantothenic_acid>
+    <phosphorus>8.00000</phosphorus>
+    <potassium>130.00000</potassium>
+    <protein>0.36000</protein>
+    <pufa>0.04200</pufa>
+    <riboflavin>0.02100</riboflavin>
+    <selenium>0.10000</selenium>
+    <sfa>0.00800</sfa>
+    <sodium>2.00000</sodium>
+    <thiamin>0.05800</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.10000</vitamin_b6>
+    <vitamin_c>43.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.02000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>86.37000</water>
+    <weight>100.00000</weight>
+    <zinc>0.11000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

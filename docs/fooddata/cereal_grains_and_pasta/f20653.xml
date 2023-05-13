@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20653</foodid>
+    <name>Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>25.00000</calcium>
+    <carbohydrate_by_difference>73.30000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>17.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.39000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>361.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.55000</fat>
+    <fiber>11.30000</fiber>
+    <folate>153.00000</folate>
+    <iron>3.41000</iron>
+    <linoleic>0.79100</linoleic>
+    <linolenic>0.05300</linolenic>
+    <magnesium>94.00000</magnesium>
+    <manganese>2.11000</manganese>
+    <mufa>0.24100</mufa>
+    <niacin>8.63000</niacin>
+    <pantothenic_acid>0.70000</pantothenic_acid>
+    <phosphorus>252.00000</phosphorus>
+    <potassium>318.00000</potassium>
+    <protein>13.20000</protein>
+    <pufa>0.84600</pufa>
+    <riboflavin>0.31300</riboflavin>
+    <selenium>76.80000</selenium>
+    <sfa>0.32400</sfa>
+    <sodium>12.00000</sodium>
+    <thiamin>0.55000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.24000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.90000</vitamin_k>
+    <water>9.23000</water>
+    <weight>100.00000</weight>
+    <zinc>2.20000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

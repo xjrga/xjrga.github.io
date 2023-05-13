@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>03814</foodid>
+    <name>Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, powder, not reconstituted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>470.00000</calcium>
+    <carbohydrate_by_difference>55.00000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>59.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.37000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>502.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>25.00000</fat>
+    <fiber>0.00000</fiber>
+    <folate>134.00000</folate>
+    <iron>8.90000</iron>
+    <linoleic>4.50000</linoleic>
+    <linolenic>0.43000</linolenic>
+    <magnesium>55.00000</magnesium>
+    <manganese>0.12400</manganese>
+    <mufa>9.52000</mufa>
+    <niacin>5.00000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>310.00000</phosphorus>
+    <potassium>550.00000</potassium>
+    <protein>14.20000</protein>
+    <pufa>4.93000</pufa>
+    <riboflavin>0.45000</riboflavin>
+    <selenium>13.90000</selenium>
+    <sfa>10.99000</sfa>
+    <sodium>230.00000</sodium>
+    <thiamin>0.40000</thiamin>
+    <vitamin_a>450.00000</vitamin_a>
+    <vitamin_b12>1.49000</vitamin_b12>
+    <vitamin_b6>0.30000</vitamin_b6>
+    <vitamin_c>60.00000</vitamin_c>
+    <vitamin_d>6.30000</vitamin_d>
+    <vitamin_e>6.60000</vitamin_e>
+    <vitamin_k>40.00000</vitamin_k>
+    <water>2.50000</water>
+    <weight>100.00000</weight>
+    <zinc>5.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

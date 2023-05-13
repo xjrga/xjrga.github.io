@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11656</foodid>
+    <name>Corn pudding, home prepared</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>39.00000</calcium>
+    <carbohydrate_by_difference>16.97000</carbohydrate_by_difference>
+    <cholesterol>72.00000</cholesterol>
+    <choline>55.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04300</copper>
+    <cost>0.0</cost>
+    <dha>0.00600</dha>
+    <energy_gross>131.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>5.04000</fat>
+    <fiber>1.20000</fiber>
+    <folate>29.00000</folate>
+    <iron>0.53000</iron>
+    <linoleic>0.48400</linoleic>
+    <linolenic>0.03800</linolenic>
+    <magnesium>15.00000</magnesium>
+    <manganese>0.07900</manganese>
+    <mufa>1.49900</mufa>
+    <niacin>1.03300</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>90.00000</phosphorus>
+    <potassium>176.00000</potassium>
+    <protein>4.42000</protein>
+    <pufa>0.55000</pufa>
+    <riboflavin>0.15400</riboflavin>
+    <selenium>6.10000</selenium>
+    <sfa>2.45100</sfa>
+    <sodium>282.00000</sodium>
+    <thiamin>0.06900</thiamin>
+    <vitamin_a>57.00000</vitamin_a>
+    <vitamin_b12>0.31000</vitamin_b12>
+    <vitamin_b6>0.12700</vitamin_b6>
+    <vitamin_c>3.70000</vitamin_c>
+    <vitamin_d>0.50000</vitamin_d>
+    <vitamin_e>0.27000</vitamin_e>
+    <vitamin_k>0.50000</vitamin_k>
+    <water>72.33000</water>
+    <weight>100.00000</weight>
+    <zinc>0.48000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

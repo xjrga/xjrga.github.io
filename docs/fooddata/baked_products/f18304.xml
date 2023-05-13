@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18304</foodid>
+    <name>Pie, banana cream, prepared from recipe</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>75.00000</calcium>
+    <carbohydrate_by_difference>32.90000</carbohydrate_by_difference>
+    <cholesterol>51.00000</cholesterol>
+    <choline>28.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05200</copper>
+    <cost>0.0</cost>
+    <dha>0.00400</dha>
+    <energy_gross>269.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>13.60000</fat>
+    <fiber>0.70000</fiber>
+    <folate>38.00000</folate>
+    <iron>1.04000</iron>
+    <linoleic>3.06700</linoleic>
+    <linolenic>0.20500</linolenic>
+    <magnesium>16.00000</magnesium>
+    <manganese>0.15200</manganese>
+    <mufa>5.71900</mufa>
+    <niacin>1.05400</niacin>
+    <pantothenic_acid>0.38800</pantothenic_acid>
+    <phosphorus>92.00000</phosphorus>
+    <potassium>165.00000</potassium>
+    <protein>4.40000</protein>
+    <pufa>3.29200</pufa>
+    <riboflavin>0.20700</riboflavin>
+    <selenium>9.10000</selenium>
+    <sfa>3.75800</sfa>
+    <sodium>240.00000</sodium>
+    <thiamin>0.13900</thiamin>
+    <vitamin_a>61.00000</vitamin_a>
+    <vitamin_b12>0.25000</vitamin_b12>
+    <vitamin_b6>0.13300</vitamin_b6>
+    <vitamin_c>1.60000</vitamin_c>
+    <vitamin_d>0.80000</vitamin_d>
+    <vitamin_e>0.40000</vitamin_e>
+    <vitamin_k>6.30000</vitamin_k>
+    <water>47.90000</water>
+    <weight>100.00000</weight>
+    <zinc>0.48000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

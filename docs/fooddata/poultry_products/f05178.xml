@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05178</foodid>
+    <name>Turkey, liver, all classes, cooked, simmered</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>19.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>648.00000</cholesterol>
+    <choline>220.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.04600</copper>
+    <cost>0.0</cost>
+    <dha>0.05300</dha>
+    <energy_gross>189.00000</energy_gross>
+    <epa>0.01600</epa>
+    <fat>8.18000</fat>
+    <fiber>0.00000</fiber>
+    <folate>691.00000</folate>
+    <iron>1.79000</iron>
+    <linoleic>1.47100</linoleic>
+    <linolenic>0.03500</linolenic>
+    <magnesium>26.00000</magnesium>
+    <manganese>0.33100</manganese>
+    <mufa>1.03800</mufa>
+    <niacin>11.09000</niacin>
+    <pantothenic_acid>4.35000</pantothenic_acid>
+    <phosphorus>312.00000</phosphorus>
+    <potassium>153.00000</potassium>
+    <protein>27.00000</protein>
+    <pufa>2.16700</pufa>
+    <riboflavin>2.68700</riboflavin>
+    <selenium>102.30000</selenium>
+    <sfa>2.30400</sfa>
+    <sodium>98.00000</sodium>
+    <thiamin>0.25600</thiamin>
+    <vitamin_a>10751.00000</vitamin_a>
+    <vitamin_b12>28.17000</vitamin_b12>
+    <vitamin_b6>0.88200</vitamin_b6>
+    <vitamin_c>22.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.15000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>63.99000</water>
+    <weight>100.00000</weight>
+    <zinc>4.53000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

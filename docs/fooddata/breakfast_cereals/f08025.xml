@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08025</foodid>
+    <name>Cereals ready-to-eat, RALSTON CRISP RICE</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>5.00000</calcium>
+    <carbohydrate_by_difference>86.22000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>6.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>394.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.26000</fat>
+    <fiber>0.70000</fiber>
+    <folate>1027.00000</folate>
+    <iron>32.73000</iron>
+    <linoleic>0.29300</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>23.00000</magnesium>
+    <manganese>1.10000</manganese>
+    <mufa>0.24300</mufa>
+    <niacin>28.96700</niacin>
+    <pantothenic_acid>0.31700</pantothenic_acid>
+    <phosphorus>98.00000</phosphorus>
+    <potassium>106.00000</potassium>
+    <protein>6.69000</protein>
+    <pufa>0.29300</pufa>
+    <riboflavin>1.28800</riboflavin>
+    <selenium>18.00000</selenium>
+    <sfa>0.36000</sfa>
+    <sodium>545.00000</sodium>
+    <thiamin>2.05000</thiamin>
+    <vitamin_a>1136.00000</vitamin_a>
+    <vitamin_b12>5.45000</vitamin_b12>
+    <vitamin_b6>1.93700</vitamin_b6>
+    <vitamin_c>64.50000</vitamin_c>
+    <vitamin_d>7.60000</vitamin_d>
+    <vitamin_e>0.06000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>3.62000</water>
+    <weight>100.00000</weight>
+    <zinc>1.30000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

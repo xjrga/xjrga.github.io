@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07935</foodid>
+    <name>Oven-roasted chicken breast roll</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>6.00000</calcium>
+    <carbohydrate_by_difference>1.79000</carbohydrate_by_difference>
+    <cholesterol>39.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06900</copper>
+    <cost>0.0</cost>
+    <dha>0.01500</dha>
+    <energy_gross>134.00000</energy_gross>
+    <epa>0.01400</epa>
+    <fat>7.65000</fat>
+    <fiber>0.00000</fiber>
+    <folate>3.00000</folate>
+    <iron>0.32000</iron>
+    <linoleic>1.32500</linoleic>
+    <linolenic>0.05700</linolenic>
+    <magnesium>17.00000</magnesium>
+    <manganese>0.01700</manganese>
+    <mufa>2.81600</mufa>
+    <niacin>6.53600</niacin>
+    <pantothenic_acid>0.56500</pantothenic_acid>
+    <phosphorus>121.00000</phosphorus>
+    <potassium>324.00000</potassium>
+    <protein>14.59000</protein>
+    <pufa>1.45600</pufa>
+    <riboflavin>0.06200</riboflavin>
+    <selenium>11.70000</selenium>
+    <sfa>2.48000</sfa>
+    <sodium>883.00000</sodium>
+    <thiamin>0.04300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.24000</vitamin_b12>
+    <vitamin_b6>0.29800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.07000</vitamin_e>
+    <vitamin_k>0.50000</vitamin_k>
+    <water>72.98000</water>
+    <weight>100.00000</weight>
+    <zinc>0.65000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

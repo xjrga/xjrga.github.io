@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21415</foodid>
+    <name>POPEYES, biscuit</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>108.00000</calcium>
+    <carbohydrate_by_difference>40.95000</carbohydrate_by_difference>
+    <cholesterol>2.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>401.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>23.71000</fat>
+    <fiber>3.80000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.51000</iron>
+    <linoleic>3.95700</linoleic>
+    <linolenic>0.41600</linolenic>
+    <magnesium>13.00000</magnesium>
+    <manganese>0.30000</manganese>
+    <mufa>5.68600</mufa>
+    <niacin>3.24000</niacin>
+    <pantothenic_acid>0.45500</pantothenic_acid>
+    <phosphorus>309.00000</phosphorus>
+    <potassium>173.00000</potassium>
+    <protein>6.00000</protein>
+    <pufa>4.37900</pufa>
+    <riboflavin>0.27700</riboflavin>
+    <selenium>4.10000</selenium>
+    <sfa>11.51500</sfa>
+    <sodium>745.00000</sodium>
+    <thiamin>0.46000</thiamin>
+    <vitamin_a>64.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.04700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.02000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>26.52000</water>
+    <weight>100.00000</weight>
+    <zinc>0.49000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

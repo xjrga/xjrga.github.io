@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>12166</foodid>
+    <name>Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>426.00000</calcium>
+    <carbohydrate_by_difference>21.19000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>25.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.61000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>595.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>53.76000</fat>
+    <fiber>9.30000</fiber>
+    <folate>98.00000</folate>
+    <iron>8.95000</iron>
+    <linoleic>23.13300</linoleic>
+    <linolenic>0.40700</linolenic>
+    <magnesium>95.00000</magnesium>
+    <manganese>1.45600</manganese>
+    <mufa>20.30200</mufa>
+    <niacin>5.45000</niacin>
+    <pantothenic_acid>0.69300</pantothenic_acid>
+    <phosphorus>732.00000</phosphorus>
+    <potassium>414.00000</potassium>
+    <protein>17.00000</protein>
+    <pufa>23.56400</pufa>
+    <riboflavin>0.47300</riboflavin>
+    <selenium>34.40000</selenium>
+    <sfa>7.52900</sfa>
+    <sodium>115.00000</sodium>
+    <thiamin>1.22000</thiamin>
+    <vitamin_a>3.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.14900</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.25000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>3.05000</water>
+    <weight>100.00000</weight>
+    <zinc>4.62000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

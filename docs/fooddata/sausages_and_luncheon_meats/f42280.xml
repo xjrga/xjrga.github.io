@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>42280</foodid>
+    <name>Frankfurter, meat and poultry, low fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>12.00000</calcium>
+    <carbohydrate_by_difference>8.40000</carbohydrate_by_difference>
+    <cholesterol>44.00000</cholesterol>
+    <choline>76.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>121.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.80000</fat>
+    <fiber>0.10000</fiber>
+    <folate>3.00000</folate>
+    <iron>0.91000</iron>
+    <linoleic>0.30500</linoleic>
+    <linolenic>0.02600</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>1.19000</mufa>
+    <niacin>3.16000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>155.00000</phosphorus>
+    <potassium>261.00000</potassium>
+    <protein>15.50000</protein>
+    <pufa>0.36000</pufa>
+    <riboflavin>0.17000</riboflavin>
+    <selenium>22.20000</selenium>
+    <sfa>0.97000</sfa>
+    <sodium>983.00000</sodium>
+    <thiamin>0.30000</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.54000</vitamin_b12>
+    <vitamin_b6>0.27000</vitamin_b6>
+    <vitamin_c>0.40000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.20000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>69.90000</water>
+    <weight>100.00000</weight>
+    <zinc>1.93000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08277</foodid>
+    <name>Cereals ready-to-eat, GENERAL MILLS, NATURE VALLEY LOW FAT FRUIT GRANOLA</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>36.00000</calcium>
+    <carbohydrate_by_difference>79.40000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>16.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.19900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>381.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.69000</fat>
+    <fiber>5.00000</fiber>
+    <folate>10.00000</folate>
+    <iron>2.00000</iron>
+    <linoleic>1.36100</linoleic>
+    <linolenic>0.02900</linolenic>
+    <magnesium>44.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>2.10000</mufa>
+    <niacin>0.69000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>146.00000</phosphorus>
+    <potassium>253.00000</potassium>
+    <protein>7.90000</protein>
+    <pufa>1.39000</pufa>
+    <riboflavin>0.10000</riboflavin>
+    <selenium>13.00000</selenium>
+    <sfa>0.89000</sfa>
+    <sodium>497.00000</sodium>
+    <thiamin>0.10000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.11100</vitamin_b6>
+    <vitamin_c>0.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.02000</vitamin_e>
+    <vitamin_k>1.30000</vitamin_k>
+    <water>5.59000</water>
+    <weight>100.00000</weight>
+    <zinc>1.10000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

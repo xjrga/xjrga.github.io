@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14041</foodid>
+    <name>Beverages, NESTLE, Boost plus, nutritional drink, ready-to-drink</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>135.00000</calcium>
+    <carbohydrate_by_difference>17.29000</carbohydrate_by_difference>
+    <cholesterol>4.00000</cholesterol>
+    <choline>21.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.19200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>138.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.38000</fat>
+    <fiber>1.20000</fiber>
+    <folate>65.00000</folate>
+    <iron>1.73000</iron>
+    <linoleic>0.10100</linoleic>
+    <linolenic>0.00600</linolenic>
+    <magnesium>38.00000</magnesium>
+    <manganese>0.26900</manganese>
+    <mufa>2.55100</mufa>
+    <niacin>1.53700</niacin>
+    <pantothenic_acid>0.96100</pantothenic_acid>
+    <phosphorus>115.00000</phosphorus>
+    <potassium>138.00000</potassium>
+    <protein>5.38000</protein>
+    <pufa>0.12200</pufa>
+    <riboflavin>0.16300</riboflavin>
+    <selenium>6.70000</selenium>
+    <sfa>0.42000</sfa>
+    <sodium>77.00000</sodium>
+    <thiamin>0.14400</thiamin>
+    <vitamin_a>84.00000</vitamin_a>
+    <vitamin_b12>0.81000</vitamin_b12>
+    <vitamin_b6>0.26900</vitamin_b6>
+    <vitamin_c>23.10000</vitamin_c>
+    <vitamin_d>2.30000</vitamin_d>
+    <vitamin_e>5.19000</vitamin_e>
+    <vitamin_k>12.30000</vitamin_k>
+    <water>71.10000</water>
+    <weight>100.00000</weight>
+    <zinc>1.73000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

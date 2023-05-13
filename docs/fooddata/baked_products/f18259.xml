@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18259</foodid>
+    <name>English muffins, plain, toasted, enriched, with calcium propionate (includes sourdough)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>197.00000</calcium>
+    <carbohydrate_by_difference>52.65000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>15.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.16000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>270.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.02000</fat>
+    <fiber>2.80000</fiber>
+    <folate>180.00000</folate>
+    <iron>4.65000</iron>
+    <linoleic>0.83200</linoleic>
+    <linolenic>0.08900</linolenic>
+    <magnesium>28.00000</magnesium>
+    <manganese>0.63000</manganese>
+    <mufa>0.47800</mufa>
+    <niacin>4.99000</niacin>
+    <pantothenic_acid>0.33200</pantothenic_acid>
+    <phosphorus>107.00000</phosphorus>
+    <potassium>129.00000</potassium>
+    <protein>10.32000</protein>
+    <pufa>0.92100</pufa>
+    <riboflavin>0.28000</riboflavin>
+    <selenium>26.30000</selenium>
+    <sfa>0.53300</sfa>
+    <sodium>477.00000</sodium>
+    <thiamin>0.54100</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.05000</vitamin_b12>
+    <vitamin_b6>0.06700</vitamin_b6>
+    <vitamin_c>1.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.36000</vitamin_e>
+    <vitamin_k>1.40000</vitamin_k>
+    <water>32.97000</water>
+    <weight>100.00000</weight>
+    <zinc>1.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

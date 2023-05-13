@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15039</foodid>
+    <name>Fish, herring, Atlantic, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>57.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>60.00000</cholesterol>
+    <choline>65.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09200</copper>
+    <cost>0.0</cost>
+    <dha>0.86200</dha>
+    <energy_gross>158.00000</energy_gross>
+    <epa>0.70900</epa>
+    <fat>9.04000</fat>
+    <fiber>0.00000</fiber>
+    <folate>10.00000</folate>
+    <iron>1.10000</iron>
+    <linoleic>0.13000</linoleic>
+    <linolenic>0.10300</linolenic>
+    <magnesium>32.00000</magnesium>
+    <manganese>0.03500</manganese>
+    <mufa>3.73600</mufa>
+    <niacin>3.21700</niacin>
+    <pantothenic_acid>0.64500</pantothenic_acid>
+    <phosphorus>236.00000</phosphorus>
+    <potassium>327.00000</potassium>
+    <protein>17.96000</protein>
+    <pufa>2.13300</pufa>
+    <riboflavin>0.23300</riboflavin>
+    <selenium>36.50000</selenium>
+    <sfa>2.04000</sfa>
+    <sodium>90.00000</sodium>
+    <thiamin>0.09200</thiamin>
+    <vitamin_a>28.00000</vitamin_a>
+    <vitamin_b12>13.67000</vitamin_b12>
+    <vitamin_b6>0.30200</vitamin_b6>
+    <vitamin_c>0.70000</vitamin_c>
+    <vitamin_d>4.20000</vitamin_d>
+    <vitamin_e>1.07000</vitamin_e>
+    <vitamin_k>0.10000</vitamin_k>
+    <water>72.05000</water>
+    <weight>100.00000</weight>
+    <zinc>0.99000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

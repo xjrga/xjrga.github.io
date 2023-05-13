@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22957</foodid>
+    <name>Turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>27.00000</calcium>
+    <carbohydrate_by_difference>16.32000</carbohydrate_by_difference>
+    <cholesterol>14.00000</cholesterol>
+    <choline>17.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>128.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.89000</fat>
+    <fiber>1.30000</fiber>
+    <folate>29.00000</folate>
+    <iron>0.79000</iron>
+    <linoleic>0.96500</linoleic>
+    <linolenic>0.10200</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.15700</manganese>
+    <mufa>1.23500</mufa>
+    <niacin>3.05700</niacin>
+    <pantothenic_acid>0.23300</pantothenic_acid>
+    <phosphorus>106.00000</phosphorus>
+    <potassium>230.00000</potassium>
+    <protein>6.97000</protein>
+    <pufa>1.08700</pufa>
+    <riboflavin>0.25200</riboflavin>
+    <selenium>7.90000</selenium>
+    <sfa>0.87700</sfa>
+    <sodium>326.00000</sodium>
+    <thiamin>0.13800</thiamin>
+    <vitamin_a>44.00000</vitamin_a>
+    <vitamin_b12>0.33000</vitamin_b12>
+    <vitamin_b6>0.17700</vitamin_b6>
+    <vitamin_c>0.80000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.24000</vitamin_e>
+    <vitamin_k>11.50000</vitamin_k>
+    <water>71.16000</water>
+    <weight>100.00000</weight>
+    <zinc>0.48000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

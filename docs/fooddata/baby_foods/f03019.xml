@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>03019</foodid>
+    <name>Babyfood, snack, GERBER GRADUATE FRUIT  STRIPS, Real Fruit Bars</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>18.00000</calcium>
+    <carbohydrate_by_difference>76.61000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>14.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.24200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>330.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.24000</fat>
+    <fiber>2.00000</fiber>
+    <folate>1.00000</folate>
+    <iron>1.05000</iron>
+    <linoleic>0.54900</linoleic>
+    <linolenic>0.11500</linolenic>
+    <magnesium>9.00000</magnesium>
+    <manganese>0.70000</manganese>
+    <mufa>0.09200</mufa>
+    <niacin>0.33400</niacin>
+    <pantothenic_acid>0.14200</pantothenic_acid>
+    <phosphorus>23.00000</phosphorus>
+    <potassium>312.00000</potassium>
+    <protein>0.82000</protein>
+    <pufa>0.66400</pufa>
+    <riboflavin>0.04600</riboflavin>
+    <selenium>1.40000</selenium>
+    <sfa>0.36400</sfa>
+    <sodium>14.00000</sodium>
+    <thiamin>0.04100</thiamin>
+    <vitamin_a>12.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.20100</vitamin_b6>
+    <vitamin_c>179.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.96000</vitamin_e>
+    <vitamin_k>2.50000</vitamin_k>
+    <water>19.09000</water>
+    <weight>100.00000</weight>
+    <zinc>0.14000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

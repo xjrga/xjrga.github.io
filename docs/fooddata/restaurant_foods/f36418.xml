@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36418</foodid>
+    <name>Restaurant, Mexican, refried beans</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>57.00000</calcium>
+    <carbohydrate_by_difference>16.79000</carbohydrate_by_difference>
+    <cholesterol>5.00000</cholesterol>
+    <choline>55.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.16800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>156.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>6.77000</fat>
+    <fiber>8.00000</fiber>
+    <folate>29.00000</folate>
+    <iron>1.62000</iron>
+    <linoleic>1.91400</linoleic>
+    <linolenic>0.40500</linolenic>
+    <magnesium>44.00000</magnesium>
+    <manganese>0.36700</manganese>
+    <mufa>1.83400</mufa>
+    <niacin>0.48800</niacin>
+    <pantothenic_acid>0.29000</pantothenic_acid>
+    <phosphorus>128.00000</phosphorus>
+    <potassium>402.00000</potassium>
+    <protein>6.91000</protein>
+    <pufa>2.34400</pufa>
+    <riboflavin>0.11100</riboflavin>
+    <selenium>8.40000</selenium>
+    <sfa>1.84000</sfa>
+    <sodium>376.00000</sodium>
+    <thiamin>0.13500</thiamin>
+    <vitamin_a>11.00000</vitamin_a>
+    <vitamin_b12>0.08000</vitamin_b12>
+    <vitamin_b6>0.09800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.45000</vitamin_e>
+    <vitamin_k>13.30000</vitamin_k>
+    <water>67.57000</water>
+    <weight>100.00000</weight>
+    <zinc>0.88000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

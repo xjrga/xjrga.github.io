@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>06430</foodid>
+    <name>Soup, clam chowder, new england, canned, prepared with equal volume water</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>9.00000</calcium>
+    <carbohydrate_by_difference>5.05000</carbohydrate_by_difference>
+    <cholesterol>3.00000</cholesterol>
+    <choline>3.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.12200</copper>
+    <cost>0.0</cost>
+    <dha>0.00500</dha>
+    <energy_gross>35.00000</energy_gross>
+    <epa>0.00500</epa>
+    <fat>1.01000</fat>
+    <fiber>0.30000</fiber>
+    <folate>7.00000</folate>
+    <iron>1.22000</iron>
+    <linoleic>0.43900</linoleic>
+    <linolenic>0.01100</linolenic>
+    <magnesium>7.00000</magnesium>
+    <manganese>0.08100</manganese>
+    <mufa>0.00000</mufa>
+    <niacin>0.75900</niacin>
+    <pantothenic_acid>0.11300</pantothenic_acid>
+    <phosphorus>127.00000</phosphorus>
+    <potassium>108.00000</potassium>
+    <protein>1.55000</protein>
+    <pufa>0.46900</pufa>
+    <riboflavin>0.08100</riboflavin>
+    <selenium>3.10000</selenium>
+    <sfa>0.46800</sfa>
+    <sodium>254.00000</sodium>
+    <thiamin>0.06100</thiamin>
+    <vitamin_a>8.00000</vitamin_a>
+    <vitamin_b12>4.63000</vitamin_b12>
+    <vitamin_b6>0.05100</vitamin_b6>
+    <vitamin_c>2.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.20000</vitamin_e>
+    <vitamin_k>0.40000</vitamin_k>
+    <water>90.89000</water>
+    <weight>100.00000</weight>
+    <zinc>0.18000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

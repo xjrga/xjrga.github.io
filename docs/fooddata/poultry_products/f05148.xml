@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05148</foodid>
+    <name>Goose, domesticated, meat only, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>13.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>84.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.30600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>161.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.13000</fat>
+    <fiber>0.00000</fiber>
+    <folate>31.00000</folate>
+    <iron>2.57000</iron>
+    <linoleic>0.80000</linoleic>
+    <linolenic>0.10000</linolenic>
+    <magnesium>24.00000</magnesium>
+    <manganese>0.02400</manganese>
+    <mufa>1.85000</mufa>
+    <niacin>4.27800</niacin>
+    <pantothenic_acid>1.97300</pantothenic_acid>
+    <phosphorus>312.00000</phosphorus>
+    <potassium>420.00000</potassium>
+    <protein>22.75000</protein>
+    <pufa>0.90000</pufa>
+    <riboflavin>0.37700</riboflavin>
+    <selenium>16.80000</selenium>
+    <sfa>2.79000</sfa>
+    <sodium>87.00000</sodium>
+    <thiamin>0.12900</thiamin>
+    <vitamin_a>12.00000</vitamin_a>
+    <vitamin_b12>0.49000</vitamin_b12>
+    <vitamin_b6>0.64000</vitamin_b6>
+    <vitamin_c>7.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>68.30000</water>
+    <weight>100.00000</weight>
+    <zinc>2.34000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

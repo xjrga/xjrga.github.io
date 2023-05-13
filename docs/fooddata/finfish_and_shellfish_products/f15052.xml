@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15052</foodid>
+    <name>Fish, mackerel, spanish, cooked, dry heat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>13.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>73.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06500</copper>
+    <cost>0.0</cost>
+    <dha>0.95200</dha>
+    <energy_gross>158.00000</energy_gross>
+    <epa>0.29400</epa>
+    <fat>6.32000</fat>
+    <fiber>0.00000</fiber>
+    <folate>1.00000</folate>
+    <iron>0.74000</iron>
+    <linoleic>0.10800</linoleic>
+    <linolenic>0.11600</linolenic>
+    <magnesium>38.00000</magnesium>
+    <manganese>0.01200</manganese>
+    <mufa>2.13900</mufa>
+    <niacin>5.00000</niacin>
+    <pantothenic_acid>0.87000</pantothenic_acid>
+    <phosphorus>271.00000</phosphorus>
+    <potassium>554.00000</potassium>
+    <protein>23.59000</protein>
+    <pufa>1.80500</pufa>
+    <riboflavin>0.21000</riboflavin>
+    <selenium>40.60000</selenium>
+    <sfa>1.80100</sfa>
+    <sodium>66.00000</sodium>
+    <thiamin>0.13000</thiamin>
+    <vitamin_a>33.00000</vitamin_a>
+    <vitamin_b12>7.00000</vitamin_b12>
+    <vitamin_b6>0.46000</vitamin_b6>
+    <vitamin_c>1.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>68.46000</water>
+    <weight>100.00000</weight>
+    <zinc>0.62000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

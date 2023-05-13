@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19002</foodid>
+    <name>Snacks, beef jerky, chopped and formed</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>20.00000</calcium>
+    <carbohydrate_by_difference>11.00000</carbohydrate_by_difference>
+    <cholesterol>48.00000</cholesterol>
+    <choline>109.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.22700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>410.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>25.60000</fat>
+    <fiber>1.80000</fiber>
+    <folate>134.00000</folate>
+    <iron>5.42000</iron>
+    <linoleic>0.81000</linoleic>
+    <linolenic>0.18500</linolenic>
+    <magnesium>51.00000</magnesium>
+    <manganese>0.11100</manganese>
+    <mufa>11.30500</mufa>
+    <niacin>1.73200</niacin>
+    <pantothenic_acid>0.16300</pantothenic_acid>
+    <phosphorus>407.00000</phosphorus>
+    <potassium>597.00000</potassium>
+    <protein>33.20000</protein>
+    <pufa>1.01100</pufa>
+    <riboflavin>0.14200</riboflavin>
+    <selenium>10.70000</selenium>
+    <sfa>10.85000</sfa>
+    <sodium>2081.00000</sodium>
+    <thiamin>0.15400</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.99000</vitamin_b12>
+    <vitamin_b6>0.17900</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.30000</vitamin_d>
+    <vitamin_e>0.49000</vitamin_e>
+    <vitamin_k>2.30000</vitamin_k>
+    <water>23.36000</water>
+    <weight>100.00000</weight>
+    <zinc>8.11000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

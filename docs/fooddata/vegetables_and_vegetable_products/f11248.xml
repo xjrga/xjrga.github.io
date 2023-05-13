@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11248</foodid>
+    <name>Lentils, sprouted, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>25.00000</calcium>
+    <carbohydrate_by_difference>22.14000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.35200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>106.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.55000</fat>
+    <fiber>0.00000</fiber>
+    <folate>100.00000</folate>
+    <iron>3.21000</iron>
+    <linoleic>0.18100</linoleic>
+    <linolenic>0.03800</linolenic>
+    <magnesium>37.00000</magnesium>
+    <manganese>0.50600</manganese>
+    <mufa>0.10400</mufa>
+    <niacin>1.12800</niacin>
+    <pantothenic_acid>0.57800</pantothenic_acid>
+    <phosphorus>173.00000</phosphorus>
+    <potassium>322.00000</potassium>
+    <protein>8.96000</protein>
+    <pufa>0.21900</pufa>
+    <riboflavin>0.12800</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.05700</sfa>
+    <sodium>11.00000</sodium>
+    <thiamin>0.22800</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.19000</vitamin_b6>
+    <vitamin_c>16.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>67.34000</water>
+    <weight>100.00000</weight>
+    <zinc>1.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

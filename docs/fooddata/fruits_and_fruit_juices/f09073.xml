@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09073</foodid>
+    <name>Cherries, sweet, canned, light syrup pack, solids and liquids</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>9.00000</calcium>
+    <carbohydrate_by_difference>17.29000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>4.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>67.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.15000</fat>
+    <fiber>1.50000</fiber>
+    <folate>4.00000</folate>
+    <iron>0.36000</iron>
+    <linoleic>0.02300</linoleic>
+    <linolenic>0.02300</linolenic>
+    <magnesium>9.00000</magnesium>
+    <manganese>0.06000</manganese>
+    <mufa>0.04200</mufa>
+    <niacin>0.40300</niacin>
+    <pantothenic_acid>0.12700</pantothenic_acid>
+    <phosphorus>18.00000</phosphorus>
+    <potassium>148.00000</potassium>
+    <protein>0.61000</protein>
+    <pufa>0.04600</pufa>
+    <riboflavin>0.04100</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.03400</sfa>
+    <sodium>3.00000</sodium>
+    <thiamin>0.02100</thiamin>
+    <vitamin_a>8.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.03000</vitamin_b6>
+    <vitamin_c>3.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.23000</vitamin_e>
+    <vitamin_k>1.40000</vitamin_k>
+    <water>81.56000</water>
+    <weight>100.00000</weight>
+    <zinc>0.10000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>13477</foodid>
+    <name>Beef, short loin, t-bone steak, separable lean and fat, trimmed to 0' fat, USDA select, cooked, broiled</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>5.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>59.00000</cholesterol>
+    <choline>92.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.13300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>230.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>14.00000</fat>
+    <fiber>0.00000</fiber>
+    <folate>7.00000</folate>
+    <iron>3.38000</iron>
+    <linoleic>0.38500</linoleic>
+    <linolenic>0.16300</linolenic>
+    <magnesium>24.00000</magnesium>
+    <manganese>0.01500</manganese>
+    <mufa>6.19700</mufa>
+    <niacin>4.30500</niacin>
+    <pantothenic_acid>0.31100</pantothenic_acid>
+    <phosphorus>200.00000</phosphorus>
+    <potassium>305.00000</potassium>
+    <protein>24.38000</protein>
+    <pufa>0.62000</pufa>
+    <riboflavin>0.23300</riboflavin>
+    <selenium>10.80000</selenium>
+    <sfa>5.52700</sfa>
+    <sodium>68.00000</sodium>
+    <thiamin>0.10200</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>2.20000</vitamin_b12>
+    <vitamin_b6>0.36400</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.17000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>58.97000</water>
+    <weight>100.00000</weight>
+    <zinc>4.72000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

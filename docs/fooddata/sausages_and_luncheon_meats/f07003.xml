@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07003</foodid>
+    <name>Beerwurst, beer salami, pork</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>8.00000</calcium>
+    <carbohydrate_by_difference>2.06000</carbohydrate_by_difference>
+    <cholesterol>59.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>238.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>18.80000</fat>
+    <fiber>0.00000</fiber>
+    <folate>3.00000</folate>
+    <iron>0.76000</iron>
+    <linoleic>1.94000</linoleic>
+    <linolenic>0.42000</linolenic>
+    <magnesium>13.00000</magnesium>
+    <manganese>0.03200</manganese>
+    <mufa>8.98000</mufa>
+    <niacin>3.25400</niacin>
+    <pantothenic_acid>0.49000</pantothenic_acid>
+    <phosphorus>103.00000</phosphorus>
+    <potassium>253.00000</potassium>
+    <protein>14.24000</protein>
+    <pufa>2.36000</pufa>
+    <riboflavin>0.19200</riboflavin>
+    <selenium>20.90000</selenium>
+    <sfa>6.28000</sfa>
+    <sodium>1240.00000</sodium>
+    <thiamin>0.55400</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.87000</vitamin_b12>
+    <vitamin_b6>0.35000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.90000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>61.46000</water>
+    <weight>100.00000</weight>
+    <zinc>1.72000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

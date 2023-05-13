@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08012</foodid>
+    <name>Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>9.00000</calcium>
+    <carbohydrate_by_difference>78.65000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>14.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>417.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>9.23000</fat>
+    <fiber>2.70000</fiber>
+    <folate>2629.00000</folate>
+    <iron>18.36000</iron>
+    <linoleic>2.12600</linoleic>
+    <linolenic>0.02200</linolenic>
+    <magnesium>69.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>2.64100</mufa>
+    <niacin>20.36000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>194.00000</phosphorus>
+    <potassium>236.00000</potassium>
+    <protein>7.10000</protein>
+    <pufa>2.14800</pufa>
+    <riboflavin>1.73200</riboflavin>
+    <selenium>7.50000</selenium>
+    <sfa>3.92000</sfa>
+    <sodium>742.00000</sodium>
+    <thiamin>1.53000</thiamin>
+    <vitamin_a>8.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>2.03800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.61000</vitamin_e>
+    <vitamin_k>0.20000</vitamin_k>
+    <water>2.50000</water>
+    <weight>100.00000</weight>
+    <zinc>15.29000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

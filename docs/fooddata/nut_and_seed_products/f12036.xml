@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>12036</foodid>
+    <name>Seeds, sunflower seed kernels, dried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>78.00000</calcium>
+    <carbohydrate_by_difference>20.00000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>55.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.80000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>584.00000</energy_gross>
+    <epa>0.01400</epa>
+    <fat>51.46000</fat>
+    <fiber>8.60000</fiber>
+    <folate>227.00000</folate>
+    <iron>5.25000</iron>
+    <linoleic>23.05000</linoleic>
+    <linolenic>0.06000</linolenic>
+    <magnesium>325.00000</magnesium>
+    <manganese>1.95000</manganese>
+    <mufa>18.52800</mufa>
+    <niacin>8.33500</niacin>
+    <pantothenic_acid>1.13000</pantothenic_acid>
+    <phosphorus>660.00000</phosphorus>
+    <potassium>645.00000</potassium>
+    <protein>20.78000</protein>
+    <pufa>23.13700</pufa>
+    <riboflavin>0.35500</riboflavin>
+    <selenium>53.00000</selenium>
+    <sfa>4.45500</sfa>
+    <sodium>9.00000</sodium>
+    <thiamin>1.48000</thiamin>
+    <vitamin_a>3.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.34500</vitamin_b6>
+    <vitamin_c>1.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>35.17000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>4.73000</water>
+    <weight>100.00000</weight>
+    <zinc>5.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

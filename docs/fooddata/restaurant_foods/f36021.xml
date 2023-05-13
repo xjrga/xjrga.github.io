@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36021</foodid>
+    <name>APPLEBEE'S, coleslaw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>36.00000</calcium>
+    <carbohydrate_by_difference>13.17000</carbohydrate_by_difference>
+    <cholesterol>2.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>120.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.09000</fat>
+    <fiber>2.80000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.26000</iron>
+    <linoleic>3.32700</linoleic>
+    <linolenic>0.48400</linolenic>
+    <magnesium>10.00000</magnesium>
+    <manganese>0.14800</manganese>
+    <mufa>1.40400</mufa>
+    <niacin>0.30000</niacin>
+    <pantothenic_acid>0.20500</pantothenic_acid>
+    <phosphorus>23.00000</phosphorus>
+    <potassium>156.00000</potassium>
+    <protein>0.79000</protein>
+    <pufa>3.81900</pufa>
+    <riboflavin>0.06300</riboflavin>
+    <selenium>0.40000</selenium>
+    <sfa>1.06100</sfa>
+    <sodium>178.00000</sodium>
+    <thiamin>0.03000</thiamin>
+    <vitamin_a>77.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.12900</vitamin_b6>
+    <vitamin_c>13.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.50000</vitamin_e>
+    <vitamin_k>65.10000</vitamin_k>
+    <water>78.15000</water>
+    <weight>100.00000</weight>
+    <zinc>0.19000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

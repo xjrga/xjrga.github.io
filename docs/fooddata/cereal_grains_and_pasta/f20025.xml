@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20025</foodid>
+    <name>Cornmeal, yellow, self-rising, degermed, enriched</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>350.00000</calcium>
+    <carbohydrate_by_difference>74.79000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.13000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>355.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.72000</fat>
+    <fiber>7.10000</fiber>
+    <folate>374.00000</folate>
+    <iron>4.73000</iron>
+    <linoleic>0.71900</linoleic>
+    <linolenic>0.02000</linolenic>
+    <magnesium>49.00000</magnesium>
+    <manganese>0.10500</manganese>
+    <mufa>0.42900</mufa>
+    <niacin>4.56600</niacin>
+    <pantothenic_acid>0.31200</pantothenic_acid>
+    <phosphorus>623.00000</phosphorus>
+    <potassium>170.00000</potassium>
+    <protein>8.41000</protein>
+    <pufa>0.73900</pufa>
+    <riboflavin>0.38700</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.23400</sfa>
+    <sodium>1348.00000</sodium>
+    <thiamin>0.67800</thiamin>
+    <vitamin_a>11.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.39000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>10.17000</water>
+    <weight>100.00000</weight>
+    <zinc>1.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

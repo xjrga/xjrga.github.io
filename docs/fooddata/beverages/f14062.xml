@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14062</foodid>
+    <name>Beverages, ABBOTT, ENSURE, Nutritional Shake, Ready-to-Drink</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>127.00000</calcium>
+    <carbohydrate_by_difference>16.88000</carbohydrate_by_difference>
+    <cholesterol>2.00000</cholesterol>
+    <choline>32.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.21100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>105.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.53000</fat>
+    <fiber>0.00000</fiber>
+    <folate>72.00000</folate>
+    <iron>1.90000</iron>
+    <linoleic>0.60400</linoleic>
+    <linolenic>0.06200</linolenic>
+    <magnesium>42.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.84400</mufa>
+    <niacin>2.11000</niacin>
+    <pantothenic_acid>1.05500</pantothenic_acid>
+    <phosphorus>105.00000</phosphorus>
+    <potassium>156.00000</potassium>
+    <protein>3.80000</protein>
+    <pufa>1.26600</pufa>
+    <riboflavin>0.17900</riboflavin>
+    <selenium>7.40000</selenium>
+    <sfa>0.42200</sfa>
+    <sodium>84.00000</sodium>
+    <thiamin>0.15800</thiamin>
+    <vitamin_a>158.00000</vitamin_a>
+    <vitamin_b12>0.63000</vitamin_b12>
+    <vitamin_b6>0.21100</vitamin_b6>
+    <vitamin_c>12.70000</vitamin_c>
+    <vitamin_d>1.10000</vitamin_d>
+    <vitamin_e>1.42000</vitamin_e>
+    <vitamin_k>8.40000</vitamin_k>
+    <water>76.20000</water>
+    <weight>100.00000</weight>
+    <zinc>1.58000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

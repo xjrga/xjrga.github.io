@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11782</foodid>
+    <name>Dandelion greens, cooked, boiled, drained, with salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>140.00000</calcium>
+    <carbohydrate_by_difference>6.40000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>27.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>33.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.60000</fat>
+    <fiber>2.90000</fiber>
+    <folate>13.00000</folate>
+    <iron>1.80000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>24.00000</magnesium>
+    <manganese>0.23000</manganese>
+    <mufa>0.00000</mufa>
+    <niacin>0.51400</niacin>
+    <pantothenic_acid>0.05700</pantothenic_acid>
+    <phosphorus>42.00000</phosphorus>
+    <potassium>232.00000</potassium>
+    <protein>2.00000</protein>
+    <pufa>0.00000</pufa>
+    <riboflavin>0.17500</riboflavin>
+    <selenium>0.30000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>280.00000</sodium>
+    <thiamin>0.13000</thiamin>
+    <vitamin_a>727.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.16000</vitamin_b6>
+    <vitamin_c>18.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.60000</vitamin_e>
+    <vitamin_k>358.90000</vitamin_k>
+    <water>89.80000</water>
+    <weight>100.00000</weight>
+    <zinc>0.28000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22126</foodid>
+    <name>LOMA LINDA Big Franks, canned, unprepared</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>17.00000</calcium>
+    <carbohydrate_by_difference>5.80000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>218.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>12.10000</fat>
+    <fiber>3.50000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.50000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>0.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>3.10000</mufa>
+    <niacin>14.80000</niacin>
+    <pantothenic_acid>3.10000</pantothenic_acid>
+    <phosphorus>142.00000</phosphorus>
+    <potassium>116.00000</potassium>
+    <protein>21.50000</protein>
+    <pufa>7.40000</pufa>
+    <riboflavin>1.00000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>1.60000</sfa>
+    <sodium>426.00000</sodium>
+    <thiamin>0.60000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>13.10000</vitamin_b12>
+    <vitamin_b6>1.40000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>59.10000</water>
+    <weight>100.00000</weight>
+    <zinc>2.30000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

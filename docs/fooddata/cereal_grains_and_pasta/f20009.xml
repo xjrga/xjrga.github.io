@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20009</foodid>
+    <name>Buckwheat groats, roasted, dry</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>17.00000</calcium>
+    <carbohydrate_by_difference>74.95000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>54.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.62400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>346.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.71000</fat>
+    <fiber>10.30000</fiber>
+    <folate>42.00000</folate>
+    <iron>2.47000</iron>
+    <linoleic>0.76600</linoleic>
+    <linolenic>0.06200</linolenic>
+    <magnesium>221.00000</magnesium>
+    <manganese>1.61800</manganese>
+    <mufa>0.82800</mufa>
+    <niacin>5.13500</niacin>
+    <pantothenic_acid>1.23300</pantothenic_acid>
+    <phosphorus>319.00000</phosphorus>
+    <potassium>320.00000</potassium>
+    <protein>11.73000</protein>
+    <pufa>0.82800</pufa>
+    <riboflavin>0.27100</riboflavin>
+    <selenium>8.40000</selenium>
+    <sfa>0.59100</sfa>
+    <sodium>11.00000</sodium>
+    <thiamin>0.22400</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.35300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>8.41000</water>
+    <weight>100.00000</weight>
+    <zinc>2.42000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

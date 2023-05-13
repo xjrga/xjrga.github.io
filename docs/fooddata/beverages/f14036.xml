@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14036</foodid>
+    <name>Beverages, CYTOSPORT, Muscle Milk, ready-to-drink</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>69.00000</calcium>
+    <carbohydrate_by_difference>2.06000</carbohydrate_by_difference>
+    <cholesterol>2.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>49.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.01000</fat>
+    <fiber>0.20000</fiber>
+    <folate>56.00000</folate>
+    <iron>1.30000</iron>
+    <linoleic>0.13000</linoleic>
+    <linolenic>0.00500</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.88400</mufa>
+    <niacin>1.41600</niacin>
+    <pantothenic_acid>0.60400</pantothenic_acid>
+    <phosphorus>101.00000</phosphorus>
+    <potassium>198.00000</potassium>
+    <protein>5.87000</protein>
+    <pufa>0.22100</pufa>
+    <riboflavin>0.13900</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.22100</sfa>
+    <sodium>95.00000</sodium>
+    <thiamin>0.13300</thiamin>
+    <vitamin_a>88.00000</vitamin_a>
+    <vitamin_b12>0.69000</vitamin_b12>
+    <vitamin_b6>0.22400</vitamin_b6>
+    <vitamin_c>27.60000</vitamin_c>
+    <vitamin_d>0.70000</vitamin_d>
+    <vitamin_e>0.83000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>88.80000</water>
+    <weight>100.00000</weight>
+    <zinc>1.05000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15175</foodid>
+    <name>Mollusks, squid, mixed species, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>32.00000</calcium>
+    <carbohydrate_by_difference>3.08000</carbohydrate_by_difference>
+    <cholesterol>233.00000</cholesterol>
+    <choline>65.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.89100</copper>
+    <cost>0.0</cost>
+    <dha>0.34200</dha>
+    <energy_gross>92.00000</energy_gross>
+    <epa>0.14600</epa>
+    <fat>1.38000</fat>
+    <fiber>0.00000</fiber>
+    <folate>5.00000</folate>
+    <iron>0.68000</iron>
+    <linoleic>0.00200</linoleic>
+    <linolenic>0.00400</linolenic>
+    <magnesium>33.00000</magnesium>
+    <manganese>0.03500</manganese>
+    <mufa>0.10700</mufa>
+    <niacin>2.17500</niacin>
+    <pantothenic_acid>0.50000</pantothenic_acid>
+    <phosphorus>221.00000</phosphorus>
+    <potassium>246.00000</potassium>
+    <protein>15.58000</protein>
+    <pufa>0.52400</pufa>
+    <riboflavin>0.41200</riboflavin>
+    <selenium>44.80000</selenium>
+    <sfa>0.35800</sfa>
+    <sodium>44.00000</sodium>
+    <thiamin>0.02000</thiamin>
+    <vitamin_a>10.00000</vitamin_a>
+    <vitamin_b12>1.30000</vitamin_b12>
+    <vitamin_b6>0.05600</vitamin_b6>
+    <vitamin_c>4.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.20000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>78.55000</water>
+    <weight>100.00000</weight>
+    <zinc>1.53000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

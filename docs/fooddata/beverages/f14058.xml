@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14058</foodid>
+    <name>Beverages, Whey protein powder isolate</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>698.00000</calcium>
+    <carbohydrate_by_difference>29.07000</carbohydrate_by_difference>
+    <cholesterol>12.00000</cholesterol>
+    <choline>225.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.16300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>359.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.16000</fat>
+    <fiber>0.00000</fiber>
+    <folate>395.00000</folate>
+    <iron>1.26000</iron>
+    <linoleic>0.01800</linoleic>
+    <linolenic>0.00300</linolenic>
+    <magnesium>233.00000</magnesium>
+    <manganese>1.16000</manganese>
+    <mufa>0.14900</mufa>
+    <niacin>11.62800</niacin>
+    <pantothenic_acid>5.81400</pantothenic_acid>
+    <phosphorus>581.00000</phosphorus>
+    <potassium>872.00000</potassium>
+    <protein>58.14000</protein>
+    <pufa>0.02100</pufa>
+    <riboflavin>0.98800</riboflavin>
+    <selenium>40.70000</selenium>
+    <sfa>0.58100</sfa>
+    <sodium>372.00000</sodium>
+    <thiamin>0.87200</thiamin>
+    <vitamin_a>872.00000</vitamin_a>
+    <vitamin_b12>3.49000</vitamin_b12>
+    <vitamin_b6>1.16300</vitamin_b6>
+    <vitamin_c>34.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>7.85000</vitamin_e>
+    <vitamin_k>46.50000</vitamin_k>
+    <water>0.86000</water>
+    <weight>100.00000</weight>
+    <zinc>8.72000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22911</foodid>
+    <name>Chili, no beans, canned entree</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>30.00000</calcium>
+    <carbohydrate_by_difference>6.10000</carbohydrate_by_difference>
+    <cholesterol>21.00000</cholesterol>
+    <choline>42.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.18800</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>118.00000</energy_gross>
+    <epa>0.00200</epa>
+    <fat>7.10000</fat>
+    <fiber>0.50000</fiber>
+    <folate>8.00000</folate>
+    <iron>2.01000</iron>
+    <linoleic>0.40800</linoleic>
+    <linolenic>0.05200</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.27600</manganese>
+    <mufa>2.46900</mufa>
+    <niacin>1.24500</niacin>
+    <pantothenic_acid>0.15700</pantothenic_acid>
+    <phosphorus>77.00000</phosphorus>
+    <potassium>185.00000</potassium>
+    <protein>7.53000</protein>
+    <pufa>0.50100</pufa>
+    <riboflavin>0.11100</riboflavin>
+    <selenium>6.50000</selenium>
+    <sfa>2.25500</sfa>
+    <sodium>411.00000</sodium>
+    <thiamin>0.03100</thiamin>
+    <vitamin_a>14.00000</vitamin_a>
+    <vitamin_b12>1.02000</vitamin_b12>
+    <vitamin_b6>0.12900</vitamin_b6>
+    <vitamin_c>1.80000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.59000</vitamin_e>
+    <vitamin_k>2.20000</vitamin_k>
+    <water>77.68000</water>
+    <weight>100.00000</weight>
+    <zinc>1.12000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

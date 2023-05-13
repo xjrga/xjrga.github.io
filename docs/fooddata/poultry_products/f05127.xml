@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05127</foodid>
+    <name>Chicken, stewing, giblets, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>10.00000</calcium>
+    <carbohydrate_by_difference>2.13000</carbohydrate_by_difference>
+    <cholesterol>240.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.27500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>168.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>9.21000</fat>
+    <fiber>0.00000</fiber>
+    <folate>350.00000</folate>
+    <iron>5.93000</iron>
+    <linoleic>1.55000</linoleic>
+    <linolenic>0.05000</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.15100</manganese>
+    <mufa>2.75000</mufa>
+    <niacin>8.53000</niacin>
+    <pantothenic_acid>3.27500</pantothenic_acid>
+    <phosphorus>198.00000</phosphorus>
+    <potassium>226.00000</potassium>
+    <protein>17.89000</protein>
+    <pufa>2.10000</pufa>
+    <riboflavin>1.10600</riboflavin>
+    <selenium>56.10000</selenium>
+    <sfa>2.63000</sfa>
+    <sodium>77.00000</sodium>
+    <thiamin>0.09700</thiamin>
+    <vitamin_a>3152.00000</vitamin_a>
+    <vitamin_b12>10.83000</vitamin_b12>
+    <vitamin_b6>0.52000</vitamin_b6>
+    <vitamin_c>11.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>69.80000</water>
+    <weight>100.00000</weight>
+    <zinc>3.01000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

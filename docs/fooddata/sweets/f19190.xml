@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19190</foodid>
+    <name>Puddings, chocolate, dry mix, regular, prepared with 2% milk</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>112.00000</calcium>
+    <carbohydrate_by_difference>19.76000</carbohydrate_by_difference>
+    <cholesterol>7.00000</cholesterol>
+    <choline>12.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>111.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.06000</fat>
+    <fiber>0.80000</fiber>
+    <folate>4.00000</folate>
+    <iron>0.34000</iron>
+    <linoleic>0.06700</linoleic>
+    <linolenic>0.00700</linolenic>
+    <magnesium>21.00000</magnesium>
+    <manganese>0.10600</manganese>
+    <mufa>0.60200</mufa>
+    <niacin>0.13600</niacin>
+    <pantothenic_acid>0.31000</pantothenic_acid>
+    <phosphorus>94.00000</phosphorus>
+    <potassium>156.00000</potassium>
+    <protein>3.28000</protein>
+    <pufa>0.07600</pufa>
+    <riboflavin>0.17100</riboflavin>
+    <selenium>2.70000</selenium>
+    <sfa>1.28900</sfa>
+    <sodium>102.00000</sodium>
+    <thiamin>0.03300</thiamin>
+    <vitamin_a>47.00000</vitamin_a>
+    <vitamin_b12>0.37000</vitamin_b12>
+    <vitamin_b6>0.03200</vitamin_b6>
+    <vitamin_c>0.10000</vitamin_c>
+    <vitamin_d>1.00000</vitamin_d>
+    <vitamin_e>0.03000</vitamin_e>
+    <vitamin_k>0.20000</vitamin_k>
+    <water>73.94000</water>
+    <weight>100.00000</weight>
+    <zinc>0.57000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

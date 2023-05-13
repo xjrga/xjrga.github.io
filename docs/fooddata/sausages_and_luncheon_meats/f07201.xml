@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07201</foodid>
+    <name>OSCAR MAYER, Bologna (beef)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>12.00000</calcium>
+    <carbohydrate_by_difference>2.45000</carbohydrate_by_difference>
+    <cholesterol>64.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>316.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>29.10000</fat>
+    <fiber>0.00000</fiber>
+    <folate>13.00000</folate>
+    <iron>1.36000</iron>
+    <linoleic>0.86000</linoleic>
+    <linolenic>0.25000</linolenic>
+    <magnesium>14.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>15.21000</mufa>
+    <niacin>2.42000</niacin>
+    <pantothenic_acid>0.28000</pantothenic_acid>
+    <phosphorus>109.00000</phosphorus>
+    <potassium>168.00000</potassium>
+    <protein>11.05000</protein>
+    <pufa>1.11000</pufa>
+    <riboflavin>0.11000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>12.85000</sfa>
+    <sodium>1179.00000</sodium>
+    <thiamin>0.05000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.43000</vitamin_b12>
+    <vitamin_b6>0.17000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.80000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>54.15000</water>
+    <weight>100.00000</weight>
+    <zinc>2.03000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

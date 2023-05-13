@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36002</foodid>
+    <name>APPLEBEE'S, french fries</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>19.00000</calcium>
+    <carbohydrate_by_difference>39.50000</carbohydrate_by_difference>
+    <cholesterol>1.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>290.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>13.17000</fat>
+    <fiber>3.90000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.01000</iron>
+    <linoleic>5.01800</linoleic>
+    <linolenic>0.77100</linolenic>
+    <magnesium>29.00000</magnesium>
+    <manganese>0.26800</manganese>
+    <mufa>3.31000</mufa>
+    <niacin>2.18000</niacin>
+    <pantothenic_acid>0.49500</pantothenic_acid>
+    <phosphorus>137.00000</phosphorus>
+    <potassium>538.00000</potassium>
+    <protein>3.31000</protein>
+    <pufa>5.80200</pufa>
+    <riboflavin>0.05800</riboflavin>
+    <selenium>0.40000</selenium>
+    <sfa>2.33300</sfa>
+    <sodium>618.00000</sodium>
+    <thiamin>0.10300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.20500</vitamin_b6>
+    <vitamin_c>0.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.93000</vitamin_e>
+    <vitamin_k>33.40000</vitamin_k>
+    <water>41.29000</water>
+    <weight>100.00000</weight>
+    <zinc>0.49000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

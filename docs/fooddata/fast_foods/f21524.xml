@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21524</foodid>
+    <name>McDONALD'S, RANCH SNACK WRAP, Grilled</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>93.00000</calcium>
+    <carbohydrate_by_difference>18.43000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06200</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>222.00000</energy_gross>
+    <epa>0.00400</epa>
+    <fat>10.31000</fat>
+    <fiber>0.90000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.45000</iron>
+    <linoleic>2.96300</linoleic>
+    <linolenic>0.38300</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.20900</manganese>
+    <mufa>2.31300</mufa>
+    <niacin>5.87500</niacin>
+    <pantothenic_acid>0.59000</pantothenic_acid>
+    <phosphorus>184.00000</phosphorus>
+    <potassium>192.00000</potassium>
+    <protein>13.77000</protein>
+    <pufa>3.41500</pufa>
+    <riboflavin>0.25500</riboflavin>
+    <selenium>23.00000</selenium>
+    <sfa>3.36300</sfa>
+    <sodium>577.00000</sodium>
+    <thiamin>0.17000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.17000</vitamin_b12>
+    <vitamin_b6>0.19400</vitamin_b6>
+    <vitamin_c>0.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>55.17000</water>
+    <weight>100.00000</weight>
+    <zinc>0.77000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

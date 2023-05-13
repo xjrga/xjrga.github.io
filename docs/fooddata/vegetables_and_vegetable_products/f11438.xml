@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11438</foodid>
+    <name>Salsify, cooked, boiled, drained, without salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>47.00000</calcium>
+    <carbohydrate_by_difference>15.36000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>25.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>68.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.17000</fat>
+    <fiber>3.10000</fiber>
+    <folate>15.00000</folate>
+    <iron>0.55000</iron>
+    <linoleic>0.06400</linoleic>
+    <linolenic>0.01100</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.21000</manganese>
+    <mufa>0.00300</mufa>
+    <niacin>0.39200</niacin>
+    <pantothenic_acid>0.27600</pantothenic_acid>
+    <phosphorus>56.00000</phosphorus>
+    <potassium>283.00000</potassium>
+    <protein>2.73000</protein>
+    <pufa>0.07400</pufa>
+    <riboflavin>0.17300</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.04100</sfa>
+    <sodium>16.00000</sodium>
+    <thiamin>0.05600</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.21800</vitamin_b6>
+    <vitamin_c>4.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.19000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>81.00000</water>
+    <weight>100.00000</weight>
+    <zinc>0.30000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

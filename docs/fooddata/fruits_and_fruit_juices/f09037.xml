@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09037</foodid>
+    <name>Avocados, raw, all commercial varieties</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>12.00000</calcium>
+    <carbohydrate_by_difference>8.53000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>14.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.19000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>160.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>14.66000</fat>
+    <fiber>6.70000</fiber>
+    <folate>81.00000</folate>
+    <iron>0.55000</iron>
+    <linoleic>1.67400</linoleic>
+    <linolenic>0.12500</linolenic>
+    <magnesium>29.00000</magnesium>
+    <manganese>0.14200</manganese>
+    <mufa>9.79900</mufa>
+    <niacin>1.73800</niacin>
+    <pantothenic_acid>1.38900</pantothenic_acid>
+    <phosphorus>52.00000</phosphorus>
+    <potassium>485.00000</potassium>
+    <protein>2.00000</protein>
+    <pufa>1.81600</pufa>
+    <riboflavin>0.13000</riboflavin>
+    <selenium>0.40000</selenium>
+    <sfa>2.12600</sfa>
+    <sodium>7.00000</sodium>
+    <thiamin>0.06700</thiamin>
+    <vitamin_a>7.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.25700</vitamin_b6>
+    <vitamin_c>10.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>2.07000</vitamin_e>
+    <vitamin_k>21.00000</vitamin_k>
+    <water>73.23000</water>
+    <weight>100.00000</weight>
+    <zinc>0.64000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

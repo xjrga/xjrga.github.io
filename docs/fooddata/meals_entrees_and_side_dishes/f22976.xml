@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22976</foodid>
+    <name>Ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>79.00000</calcium>
+    <carbohydrate_by_difference>17.31000</carbohydrate_by_difference>
+    <cholesterol>11.00000</cholesterol>
+    <choline>19.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07900</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>111.00000</energy_gross>
+    <epa>0.00400</epa>
+    <fat>2.61000</fat>
+    <fiber>1.40000</fiber>
+    <folate>70.00000</folate>
+    <iron>0.93000</iron>
+    <linoleic>0.36700</linoleic>
+    <linolenic>0.03300</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.18400</manganese>
+    <mufa>0.68900</mufa>
+    <niacin>1.26700</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>78.00000</phosphorus>
+    <potassium>233.00000</potassium>
+    <protein>4.52000</protein>
+    <pufa>0.42000</pufa>
+    <riboflavin>0.11600</riboflavin>
+    <selenium>12.10000</selenium>
+    <sfa>1.19100</sfa>
+    <sodium>280.00000</sodium>
+    <thiamin>0.11800</thiamin>
+    <vitamin_a>35.00000</vitamin_a>
+    <vitamin_b12>0.14000</vitamin_b12>
+    <vitamin_b6>0.10800</vitamin_b6>
+    <vitamin_c>2.80000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.98000</vitamin_e>
+    <vitamin_k>16.10000</vitamin_k>
+    <water>74.33000</water>
+    <weight>100.00000</weight>
+    <zinc>0.43000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

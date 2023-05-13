@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05173</foodid>
+    <name>Turkey, gizzard, all classes, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>16.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>271.00000</cholesterol>
+    <choline>89.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.22000</copper>
+    <cost>0.0</cost>
+    <dha>0.00700</dha>
+    <energy_gross>111.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.37000</fat>
+    <fiber>0.00000</fiber>
+    <folate>6.00000</folate>
+    <iron>2.78000</iron>
+    <linoleic>0.53000</linoleic>
+    <linolenic>0.02300</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.08500</manganese>
+    <mufa>0.79500</mufa>
+    <niacin>6.23300</niacin>
+    <pantothenic_acid>0.91400</pantothenic_acid>
+    <phosphorus>164.00000</phosphorus>
+    <potassium>185.00000</potassium>
+    <protein>18.80000</protein>
+    <pufa>0.70800</pufa>
+    <riboflavin>0.32700</riboflavin>
+    <selenium>28.80000</selenium>
+    <sfa>0.92900</sfa>
+    <sodium>147.00000</sodium>
+    <thiamin>0.06100</thiamin>
+    <vitamin_a>46.00000</vitamin_a>
+    <vitamin_b12>3.61000</vitamin_b12>
+    <vitamin_b6>0.19800</vitamin_b6>
+    <vitamin_c>6.20000</vitamin_c>
+    <vitamin_d>0.50000</vitamin_d>
+    <vitamin_e>0.22000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>77.47000</water>
+    <weight>100.00000</weight>
+    <zinc>3.03000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

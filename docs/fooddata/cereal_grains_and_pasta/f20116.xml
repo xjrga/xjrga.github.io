@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20116</foodid>
+    <name>Noodles, japanese, somen, dry</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>23.00000</calcium>
+    <carbohydrate_by_difference>74.10000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>356.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.81000</fat>
+    <fiber>4.30000</fiber>
+    <folate>14.00000</folate>
+    <iron>1.32000</iron>
+    <linoleic>0.30200</linoleic>
+    <linolenic>0.02900</linolenic>
+    <magnesium>28.00000</magnesium>
+    <manganese>0.47900</manganese>
+    <mufa>0.09500</mufa>
+    <niacin>0.87500</niacin>
+    <pantothenic_acid>0.49100</pantothenic_acid>
+    <phosphorus>80.00000</phosphorus>
+    <potassium>164.00000</potassium>
+    <protein>11.35000</protein>
+    <pufa>0.33000</pufa>
+    <riboflavin>0.02600</riboflavin>
+    <selenium>8.30000</selenium>
+    <sfa>0.11500</sfa>
+    <sodium>1840.00000</sodium>
+    <thiamin>0.10100</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>9.21000</water>
+    <weight>100.00000</weight>
+    <zinc>0.45000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

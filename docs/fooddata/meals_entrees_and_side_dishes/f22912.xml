@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22912</foodid>
+    <name>Spaghetti, with meatballs in tomato sauce, canned</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>29.00000</calcium>
+    <carbohydrate_by_difference>11.45000</carbohydrate_by_difference>
+    <cholesterol>7.00000</cholesterol>
+    <choline>10.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>100.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.11000</fat>
+    <fiber>2.70000</fiber>
+    <folate>29.00000</folate>
+    <iron>1.03000</iron>
+    <linoleic>0.50900</linoleic>
+    <linolenic>0.02100</linolenic>
+    <magnesium>13.00000</magnesium>
+    <manganese>0.14400</manganese>
+    <mufa>1.63300</mufa>
+    <niacin>2.01700</niacin>
+    <pantothenic_acid>0.29300</pantothenic_acid>
+    <phosphorus>57.00000</phosphorus>
+    <potassium>217.00000</potassium>
+    <protein>4.37000</protein>
+    <pufa>0.56300</pufa>
+    <riboflavin>0.06600</riboflavin>
+    <selenium>9.00000</selenium>
+    <sfa>1.45900</sfa>
+    <sodium>280.00000</sodium>
+    <thiamin>0.08100</thiamin>
+    <vitamin_a>17.00000</vitamin_a>
+    <vitamin_b12>0.19000</vitamin_b12>
+    <vitamin_b6>0.06900</vitamin_b6>
+    <vitamin_c>1.90000</vitamin_c>
+    <vitamin_d>0.20000</vitamin_d>
+    <vitamin_e>0.50000</vitamin_e>
+    <vitamin_k>1.80000</vitamin_k>
+    <water>78.80000</water>
+    <weight>100.00000</weight>
+    <zinc>0.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36017</foodid>
+    <name>Restaurant, family style, macaroni & cheese, from kids' menu</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>99.00000</calcium>
+    <carbohydrate_by_difference>18.80000</carbohydrate_by_difference>
+    <cholesterol>10.00000</cholesterol>
+    <choline>3.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>151.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>6.06000</fat>
+    <fiber>1.10000</fiber>
+    <folate>42.00000</folate>
+    <iron>0.68000</iron>
+    <linoleic>1.39500</linoleic>
+    <linolenic>0.25100</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.19400</manganese>
+    <mufa>1.95400</mufa>
+    <niacin>0.78300</niacin>
+    <pantothenic_acid>0.47400</pantothenic_acid>
+    <phosphorus>137.00000</phosphorus>
+    <potassium>135.00000</potassium>
+    <protein>5.42000</protein>
+    <pufa>1.66300</pufa>
+    <riboflavin>0.25400</riboflavin>
+    <selenium>19.40000</selenium>
+    <sfa>2.14700</sfa>
+    <sodium>361.00000</sodium>
+    <thiamin>0.09500</thiamin>
+    <vitamin_a>31.00000</vitamin_a>
+    <vitamin_b12>0.18000</vitamin_b12>
+    <vitamin_b6>0.05700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.75000</vitamin_e>
+    <vitamin_k>0.50000</vitamin_k>
+    <water>68.24000</water>
+    <weight>100.00000</weight>
+    <zinc>0.64000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

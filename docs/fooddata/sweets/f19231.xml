@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19231</foodid>
+    <name>Flan, caramel custard, dry mix, prepared with 2% milk</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>113.00000</calcium>
+    <carbohydrate_by_difference>18.82000</carbohydrate_by_difference>
+    <cholesterol>7.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>103.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.72000</fat>
+    <fiber>0.00000</fiber>
+    <folate>4.00000</folate>
+    <iron>0.06000</iron>
+    <linoleic>0.03900</linoleic>
+    <linolenic>0.02500</linolenic>
+    <magnesium>12.00000</magnesium>
+    <manganese>0.00300</manganese>
+    <mufa>0.47200</mufa>
+    <niacin>0.07700</niacin>
+    <pantothenic_acid>0.28700</pantothenic_acid>
+    <phosphorus>86.00000</phosphorus>
+    <potassium>163.00000</potassium>
+    <protein>2.99000</protein>
+    <pufa>0.06400</pufa>
+    <riboflavin>0.14800</riboflavin>
+    <selenium>5.30000</selenium>
+    <sfa>1.03500</sfa>
+    <sodium>113.00000</sodium>
+    <thiamin>0.03200</thiamin>
+    <vitamin_a>52.00000</vitamin_a>
+    <vitamin_b12>0.26000</vitamin_b12>
+    <vitamin_b6>0.03500</vitamin_b6>
+    <vitamin_c>0.70000</vitamin_c>
+    <vitamin_d>0.90000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>75.71000</water>
+    <weight>100.00000</weight>
+    <zinc>0.36000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

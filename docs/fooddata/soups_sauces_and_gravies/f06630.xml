@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>06630</foodid>
+    <name>Sauce, pesto, MEZZETTA, NAPA VALLEY BISTRO, basil pesto, ready-to-serve</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>202.00000</calcium>
+    <carbohydrate_by_difference>5.12000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>496.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>49.88000</fat>
+    <fiber>1.30000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.99000</iron>
+    <linoleic>7.59800</linoleic>
+    <linolenic>1.33500</linolenic>
+    <magnesium>43.00000</magnesium>
+    <manganese>0.76500</manganese>
+    <mufa>28.65400</mufa>
+    <niacin>0.60000</niacin>
+    <pantothenic_acid>0.21000</pantothenic_acid>
+    <phosphorus>149.00000</phosphorus>
+    <potassium>205.00000</potassium>
+    <protein>6.69000</protein>
+    <pufa>9.05600</pufa>
+    <riboflavin>0.34000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>8.00700</sfa>
+    <sodium>897.00000</sodium>
+    <thiamin>0.09000</thiamin>
+    <vitamin_a>84.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.09000</vitamin_b6>
+    <vitamin_c>0.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>13.12000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>35.07000</water>
+    <weight>100.00000</weight>
+    <zinc>1.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

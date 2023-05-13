@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>33869</foodid>
+    <name>Infant formula, GERBER, GOOD START 2, PROTECT PLUS, powder</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>956.00000</calcium>
+    <carbohydrate_by_difference>56.30000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>123.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.41000</copper>
+    <cost>0.0</cost>
+    <dha>0.07300</dha>
+    <energy_gross>501.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>25.70000</fat>
+    <fiber>0.00000</fiber>
+    <folate>131.00000</folate>
+    <iron>10.00000</iron>
+    <linoleic>4.37700</linoleic>
+    <linolenic>0.49600</linolenic>
+    <magnesium>36.00000</magnesium>
+    <manganese>0.07700</manganese>
+    <mufa>9.55900</mufa>
+    <niacin>5.37600</niacin>
+    <pantothenic_acid>2.30400</pantothenic_acid>
+    <phosphorus>543.00000</phosphorus>
+    <potassium>553.00000</potassium>
+    <protein>11.10000</protein>
+    <pufa>5.09200</pufa>
+    <riboflavin>0.71700</riboflavin>
+    <selenium>15.00000</selenium>
+    <sfa>11.01600</sfa>
+    <sodium>138.00000</sodium>
+    <thiamin>0.51200</thiamin>
+    <vitamin_a>457.00000</vitamin_a>
+    <vitamin_b12>1.70000</vitamin_b12>
+    <vitamin_b6>0.38400</vitamin_b6>
+    <vitamin_c>61.00000</vitamin_c>
+    <vitamin_d>7.70000</vitamin_d>
+    <vitamin_e>4.50000</vitamin_e>
+    <vitamin_k>41.00000</vitamin_k>
+    <water>2.90000</water>
+    <weight>100.00000</weight>
+    <zinc>4.10000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

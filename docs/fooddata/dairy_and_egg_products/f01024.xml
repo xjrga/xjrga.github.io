@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01024</foodid>
+    <name>Cheese, limburger</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>497.00000</calcium>
+    <carbohydrate_by_difference>0.49000</carbohydrate_by_difference>
+    <cholesterol>90.00000</cholesterol>
+    <choline>15.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>327.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>27.25000</fat>
+    <fiber>0.00000</fiber>
+    <folate>58.00000</folate>
+    <iron>0.13000</iron>
+    <linoleic>0.33900</linoleic>
+    <linolenic>0.15600</linolenic>
+    <magnesium>21.00000</magnesium>
+    <manganese>0.03800</manganese>
+    <mufa>8.60600</mufa>
+    <niacin>0.15800</niacin>
+    <pantothenic_acid>1.17700</pantothenic_acid>
+    <phosphorus>393.00000</phosphorus>
+    <potassium>128.00000</potassium>
+    <protein>20.05000</protein>
+    <pufa>0.49500</pufa>
+    <riboflavin>0.50300</riboflavin>
+    <selenium>14.50000</selenium>
+    <sfa>16.74600</sfa>
+    <sodium>800.00000</sodium>
+    <thiamin>0.08000</thiamin>
+    <vitamin_a>340.00000</vitamin_a>
+    <vitamin_b12>1.04000</vitamin_b12>
+    <vitamin_b6>0.08600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.50000</vitamin_d>
+    <vitamin_e>0.23000</vitamin_e>
+    <vitamin_k>2.30000</vitamin_k>
+    <water>48.42000</water>
+    <weight>100.00000</weight>
+    <zinc>2.10000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35180</foodid>
+    <name>Steelhead trout, dried, flesh (Shoshone Bannock)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>85.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>227.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.21700</copper>
+    <cost>0.0</cost>
+    <dha>1.08000</dha>
+    <energy_gross>382.00000</energy_gross>
+    <epa>0.26600</epa>
+    <fat>8.06000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.96000</iron>
+    <linoleic>0.06000</linoleic>
+    <linolenic>0.03700</linolenic>
+    <magnesium>84.00000</magnesium>
+    <manganese>0.07900</manganese>
+    <mufa>1.22800</mufa>
+    <niacin>0.00000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>976.00000</phosphorus>
+    <potassium>1720.00000</potassium>
+    <protein>77.27000</protein>
+    <pufa>1.73900</pufa>
+    <riboflavin>0.00000</riboflavin>
+    <selenium>105.00000</selenium>
+    <sfa>0.82900</sfa>
+    <sodium>2850.00000</sodium>
+    <thiamin>0.00000</thiamin>
+    <vitamin_a>64.00000</vitamin_a>
+    <vitamin_b12>22.40000</vitamin_b12>
+    <vitamin_b6>0.00000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>15.70000</vitamin_d>
+    <vitamin_e>2.41000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>6.49000</water>
+    <weight>100.00000</weight>
+    <zinc>1.79000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

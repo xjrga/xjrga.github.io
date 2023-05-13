@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>03926</foodid>
+    <name>Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, liquid concentrate, not reconstituted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>133.00000</calcium>
+    <carbohydrate_by_difference>14.10000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>15.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.15200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>128.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>6.50000</fat>
+    <fiber>0.00000</fiber>
+    <folate>35.00000</folate>
+    <iron>2.29000</iron>
+    <linoleic>1.20000</linoleic>
+    <linolenic>0.12400</linolenic>
+    <magnesium>14.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>2.03000</mufa>
+    <niacin>1.65000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>80.00000</phosphorus>
+    <potassium>146.00000</potassium>
+    <protein>3.20000</protein>
+    <pufa>1.31700</pufa>
+    <riboflavin>0.11900</riboflavin>
+    <selenium>2.50000</selenium>
+    <sfa>2.80000</sfa>
+    <sodium>46.00000</sodium>
+    <thiamin>0.07600</thiamin>
+    <vitamin_a>100.00000</vitamin_a>
+    <vitamin_b12>0.38000</vitamin_b12>
+    <vitamin_b6>0.07600</vitamin_b6>
+    <vitamin_c>15.20000</vitamin_c>
+    <vitamin_d>2.00000</vitamin_d>
+    <vitamin_e>1.86000</vitamin_e>
+    <vitamin_k>10.20000</vitamin_k>
+    <water>75.40000</water>
+    <weight>100.00000</weight>
+    <zinc>1.14000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

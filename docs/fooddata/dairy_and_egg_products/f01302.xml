@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01302</foodid>
+    <name>Light ice cream, Creamsicle</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>62.00000</calcium>
+    <carbohydrate_by_difference>32.75000</carbohydrate_by_difference>
+    <cholesterol>8.00000</cholesterol>
+    <choline>20.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>165.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.08000</fat>
+    <fiber>0.00000</fiber>
+    <folate>6.00000</folate>
+    <iron>0.00000</iron>
+    <linoleic>0.08800</linoleic>
+    <linolenic>0.04900</linolenic>
+    <magnesium>12.00000</magnesium>
+    <manganese>0.00700</manganese>
+    <mufa>0.81900</mufa>
+    <niacin>0.11300</niacin>
+    <pantothenic_acid>0.40200</pantothenic_acid>
+    <phosphorus>84.00000</phosphorus>
+    <potassium>174.00000</potassium>
+    <protein>1.54000</protein>
+    <pufa>0.13700</pufa>
+    <riboflavin>0.20600</riboflavin>
+    <selenium>1.80000</selenium>
+    <sfa>1.81300</sfa>
+    <sodium>46.00000</sodium>
+    <thiamin>0.04500</thiamin>
+    <vitamin_a>93.00000</vitamin_a>
+    <vitamin_b12>0.36000</vitamin_b12>
+    <vitamin_b6>0.03800</vitamin_b6>
+    <vitamin_c>13.80000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.09000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>61.77000</water>
+    <weight>100.00000</weight>
+    <zinc>0.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

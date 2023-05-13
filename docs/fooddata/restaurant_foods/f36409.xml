@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36409</foodid>
+    <name>Restaurant, Latino, pupusas con queso (pupusas, cheese)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>325.00000</calcium>
+    <carbohydrate_by_difference>22.39000</carbohydrate_by_difference>
+    <cholesterol>32.00000</cholesterol>
+    <choline>16.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>256.00000</energy_gross>
+    <epa>0.00600</epa>
+    <fat>13.25000</fat>
+    <fiber>2.90000</fiber>
+    <folate>3.00000</folate>
+    <iron>0.56000</iron>
+    <linoleic>1.39300</linoleic>
+    <linolenic>0.09800</linolenic>
+    <magnesium>36.00000</magnesium>
+    <manganese>0.12500</manganese>
+    <mufa>3.41100</mufa>
+    <niacin>0.48300</niacin>
+    <pantothenic_acid>0.33700</pantothenic_acid>
+    <phosphorus>271.00000</phosphorus>
+    <potassium>120.00000</potassium>
+    <protein>11.72000</protein>
+    <pufa>1.55500</pufa>
+    <riboflavin>0.12700</riboflavin>
+    <selenium>15.00000</selenium>
+    <sfa>6.47900</sfa>
+    <sodium>400.00000</sodium>
+    <thiamin>0.04200</thiamin>
+    <vitamin_a>89.00000</vitamin_a>
+    <vitamin_b12>0.45000</vitamin_b12>
+    <vitamin_b6>0.14900</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>1.20000</vitamin_d>
+    <vitamin_e>0.44000</vitamin_e>
+    <vitamin_k>1.70000</vitamin_k>
+    <water>50.36000</water>
+    <weight>100.00000</weight>
+    <zinc>1.87000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

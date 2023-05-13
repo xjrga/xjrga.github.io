@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35237</foodid>
+    <name>Tamales, masa and pork filling (Hopi)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>18.00000</calcium>
+    <carbohydrate_by_difference>18.28000</carbohydrate_by_difference>
+    <cholesterol>27.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08700</copper>
+    <cost>0.0</cost>
+    <dha>0.00200</dha>
+    <energy_gross>168.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>4.70000</fat>
+    <fiber>3.30000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.66000</iron>
+    <linoleic>0.91100</linoleic>
+    <linolenic>0.03200</linolenic>
+    <magnesium>35.00000</magnesium>
+    <manganese>0.16000</manganese>
+    <mufa>1.64900</mufa>
+    <niacin>2.82300</niacin>
+    <pantothenic_acid>0.82000</pantothenic_acid>
+    <phosphorus>141.00000</phosphorus>
+    <potassium>250.00000</potassium>
+    <protein>13.19000</protein>
+    <pufa>1.00900</pufa>
+    <riboflavin>0.07000</riboflavin>
+    <selenium>32.60000</selenium>
+    <sfa>1.38300</sfa>
+    <sodium>298.00000</sodium>
+    <thiamin>0.16700</thiamin>
+    <vitamin_a>81.00000</vitamin_a>
+    <vitamin_b12>0.22000</vitamin_b12>
+    <vitamin_b6>0.26200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.11000</vitamin_e>
+    <vitamin_k>3.20000</vitamin_k>
+    <water>62.39000</water>
+    <weight>100.00000</weight>
+    <zinc>1.27000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

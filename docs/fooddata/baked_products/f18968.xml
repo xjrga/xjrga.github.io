@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18968</foodid>
+    <name>Bagels, wheat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>20.00000</calcium>
+    <carbohydrate_by_difference>48.89000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>9.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.17500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>250.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.53000</fat>
+    <fiber>4.10000</fiber>
+    <folate>108.00000</folate>
+    <iron>2.76000</iron>
+    <linoleic>0.85900</linoleic>
+    <linolenic>0.07600</linolenic>
+    <magnesium>51.00000</magnesium>
+    <manganese>1.43000</manganese>
+    <mufa>0.29000</mufa>
+    <niacin>3.37000</niacin>
+    <pantothenic_acid>0.37500</pantothenic_acid>
+    <phosphorus>142.00000</phosphorus>
+    <potassium>165.00000</potassium>
+    <protein>10.20000</protein>
+    <pufa>0.93600</pufa>
+    <riboflavin>0.20900</riboflavin>
+    <selenium>28.70000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>439.00000</sodium>
+    <thiamin>0.40300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.14700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.32000</vitamin_e>
+    <vitamin_k>1.50000</vitamin_k>
+    <water>37.55000</water>
+    <weight>100.00000</weight>
+    <zinc>1.10000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

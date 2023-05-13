@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05188</foodid>
+    <name>Turkey, from whole, dark meat, cooked, roasted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>17.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>128.00000</cholesterol>
+    <choline>95.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.12700</copper>
+    <cost>0.0</cost>
+    <dha>0.00500</dha>
+    <energy_gross>173.00000</energy_gross>
+    <epa>0.01200</epa>
+    <fat>6.04000</fat>
+    <fiber>0.00000</fiber>
+    <folate>9.00000</folate>
+    <iron>1.43000</iron>
+    <linoleic>1.43600</linoleic>
+    <linolenic>0.07500</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.01600</manganese>
+    <mufa>2.06100</mufa>
+    <niacin>6.68500</niacin>
+    <pantothenic_acid>1.01500</pantothenic_acid>
+    <phosphorus>212.00000</phosphorus>
+    <potassium>227.00000</potassium>
+    <protein>27.71000</protein>
+    <pufa>1.66200</pufa>
+    <riboflavin>0.37500</riboflavin>
+    <selenium>31.40000</selenium>
+    <sfa>1.80700</sfa>
+    <sodium>104.00000</sodium>
+    <thiamin>0.06000</thiamin>
+    <vitamin_a>5.00000</vitamin_a>
+    <vitamin_b12>1.65000</vitamin_b12>
+    <vitamin_b6>0.43800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.30000</vitamin_d>
+    <vitamin_e>0.07000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>65.23000</water>
+    <weight>100.00000</weight>
+    <zinc>3.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

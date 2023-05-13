@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11158</foodid>
+    <name>Chrysanthemum, garland, cooked, boiled, drained, without salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>69.00000</calcium>
+    <carbohydrate_by_difference>4.31000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>12.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.13300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>20.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.09000</fat>
+    <fiber>2.30000</fiber>
+    <folate>50.00000</folate>
+    <iron>3.74000</iron>
+    <linoleic>0.03400</linoleic>
+    <linolenic>0.00600</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.35500</manganese>
+    <mufa>0.00200</mufa>
+    <niacin>0.72000</niacin>
+    <pantothenic_acid>0.04200</pantothenic_acid>
+    <phosphorus>43.00000</phosphorus>
+    <potassium>569.00000</potassium>
+    <protein>1.64000</protein>
+    <pufa>0.03900</pufa>
+    <riboflavin>0.16000</riboflavin>
+    <selenium>0.30000</selenium>
+    <sfa>0.02200</sfa>
+    <sodium>53.00000</sodium>
+    <thiamin>0.02100</thiamin>
+    <vitamin_a>129.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.11800</vitamin_b6>
+    <vitamin_c>23.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>2.50000</vitamin_e>
+    <vitamin_k>142.70000</vitamin_k>
+    <water>92.49000</water>
+    <weight>100.00000</weight>
+    <zinc>0.20000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

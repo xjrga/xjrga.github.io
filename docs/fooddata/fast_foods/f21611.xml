@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21611</foodid>
+    <name>School Lunch, chicken nuggets, whole grain breaded</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>32.00000</calcium>
+    <carbohydrate_by_difference>22.86000</carbohydrate_by_difference>
+    <cholesterol>50.00000</cholesterol>
+    <choline>44.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07400</copper>
+    <cost>0.0</cost>
+    <dha>0.00200</dha>
+    <energy_gross>270.00000</energy_gross>
+    <epa>0.00200</epa>
+    <fat>12.90000</fat>
+    <fiber>2.20000</fiber>
+    <folate>15.00000</folate>
+    <iron>1.99000</iron>
+    <linoleic>3.86500</linoleic>
+    <linolenic>0.26700</linolenic>
+    <magnesium>24.00000</magnesium>
+    <manganese>0.29400</manganese>
+    <mufa>3.59300</mufa>
+    <niacin>5.98500</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>183.00000</phosphorus>
+    <potassium>231.00000</potassium>
+    <protein>15.67000</protein>
+    <pufa>4.18900</pufa>
+    <riboflavin>0.20400</riboflavin>
+    <selenium>17.70000</selenium>
+    <sfa>2.83000</sfa>
+    <sodium>511.00000</sodium>
+    <thiamin>0.09200</thiamin>
+    <vitamin_a>16.00000</vitamin_a>
+    <vitamin_b12>0.24000</vitamin_b12>
+    <vitamin_b6>0.30900</vitamin_b6>
+    <vitamin_c>0.60000</vitamin_c>
+    <vitamin_d>0.30000</vitamin_d>
+    <vitamin_e>1.23000</vitamin_e>
+    <vitamin_k>10.40000</vitamin_k>
+    <water>46.53000</water>
+    <weight>100.00000</weight>
+    <zinc>0.71000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08228</foodid>
+    <name>Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>297.00000</calcium>
+    <carbohydrate_by_difference>72.41000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.36400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>371.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>6.98000</fat>
+    <fiber>6.90000</fiber>
+    <folate>381.00000</folate>
+    <iron>10.70000</iron>
+    <linoleic>2.78300</linoleic>
+    <linolenic>0.45600</linolenic>
+    <magnesium>92.00000</magnesium>
+    <manganese>2.22400</manganese>
+    <mufa>1.90300</mufa>
+    <niacin>11.96800</niacin>
+    <pantothenic_acid>0.67500</pantothenic_acid>
+    <phosphorus>296.00000</phosphorus>
+    <potassium>374.00000</potassium>
+    <protein>8.82000</protein>
+    <pufa>3.24000</pufa>
+    <riboflavin>1.01700</riboflavin>
+    <selenium>16.40000</selenium>
+    <sfa>1.07000</sfa>
+    <sodium>516.00000</sodium>
+    <thiamin>0.89200</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.19700</vitamin_b6>
+    <vitamin_c>0.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.55000</vitamin_e>
+    <vitamin_k>2.00000</vitamin_k>
+    <water>8.35000</water>
+    <weight>100.00000</weight>
+    <zinc>1.94000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

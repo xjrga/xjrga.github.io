@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21207</foodid>
+    <name>SUBWAY, turkey breast sub on white bread with lettuce and tomato</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>169.00000</calcium>
+    <carbohydrate_by_difference>22.42000</carbohydrate_by_difference>
+    <cholesterol>10.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07500</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>147.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>2.31000</fat>
+    <fiber>1.30000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.84000</iron>
+    <linoleic>0.91900</linoleic>
+    <linolenic>0.08800</linolenic>
+    <magnesium>23.00000</magnesium>
+    <manganese>0.29700</manganese>
+    <mufa>0.52100</mufa>
+    <niacin>4.61700</niacin>
+    <pantothenic_acid>0.42500</pantothenic_acid>
+    <phosphorus>122.00000</phosphorus>
+    <potassium>253.00000</potassium>
+    <protein>9.12000</protein>
+    <pufa>1.03700</pufa>
+    <riboflavin>0.22700</riboflavin>
+    <selenium>17.00000</selenium>
+    <sfa>0.47600</sfa>
+    <sodium>317.00000</sodium>
+    <thiamin>0.27000</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>0.12000</vitamin_b12>
+    <vitamin_b6>0.17600</vitamin_b6>
+    <vitamin_c>1.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.28000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>64.33000</water>
+    <weight>100.00000</weight>
+    <zinc>0.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

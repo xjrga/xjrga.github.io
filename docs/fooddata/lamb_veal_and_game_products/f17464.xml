@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>17464</foodid>
+    <name>Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean and fat, trimmed to 0' fat, cooked, grilled</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>10.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>101.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.13600</copper>
+    <cost>0.0</cost>
+    <dha>0.01200</dha>
+    <energy_gross>276.00000</energy_gross>
+    <epa>0.02400</epa>
+    <fat>16.96000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.37000</iron>
+    <linoleic>0.67600</linoleic>
+    <linolenic>0.16700</linolenic>
+    <magnesium>26.00000</magnesium>
+    <manganese>0.00900</manganese>
+    <mufa>6.78700</mufa>
+    <niacin>8.47500</niacin>
+    <pantothenic_acid>0.65700</pantothenic_acid>
+    <phosphorus>209.00000</phosphorus>
+    <potassium>281.00000</potassium>
+    <protein>30.90000</protein>
+    <pufa>0.96900</pufa>
+    <riboflavin>0.40200</riboflavin>
+    <selenium>14.10000</selenium>
+    <sfa>8.48400</sfa>
+    <sodium>82.00000</sodium>
+    <thiamin>0.14900</thiamin>
+    <vitamin_a>4.00000</vitamin_a>
+    <vitamin_b12>1.55000</vitamin_b12>
+    <vitamin_b6>0.55500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.35000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>51.74000</water>
+    <weight>100.00000</weight>
+    <zinc>3.56000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

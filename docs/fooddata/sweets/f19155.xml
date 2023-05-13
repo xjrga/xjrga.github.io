@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19155</foodid>
+    <name>Candies, MARS SNACKFOOD US, SNICKERS Bar</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>93.00000</calcium>
+    <carbohydrate_by_difference>61.51000</carbohydrate_by_difference>
+    <cholesterol>13.00000</cholesterol>
+    <choline>38.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.27000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>491.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>23.85000</fat>
+    <fiber>2.30000</fiber>
+    <folate>31.00000</folate>
+    <iron>0.72000</iron>
+    <linoleic>2.96600</linoleic>
+    <linolenic>0.04800</linolenic>
+    <magnesium>72.00000</magnesium>
+    <manganese>0.35000</manganese>
+    <mufa>7.87500</mufa>
+    <niacin>3.60000</niacin>
+    <pantothenic_acid>0.59000</pantothenic_acid>
+    <phosphorus>190.00000</phosphorus>
+    <potassium>323.00000</potassium>
+    <protein>7.53000</protein>
+    <pufa>3.01400</pufa>
+    <riboflavin>0.13000</riboflavin>
+    <selenium>7.80000</selenium>
+    <sfa>9.06900</sfa>
+    <sodium>239.00000</sodium>
+    <thiamin>0.06000</thiamin>
+    <vitamin_a>46.00000</vitamin_a>
+    <vitamin_b12>0.16000</vitamin_b12>
+    <vitamin_b6>0.09000</vitamin_b6>
+    <vitamin_c>0.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.50000</vitamin_e>
+    <vitamin_k>1.90000</vitamin_k>
+    <water>5.55000</water>
+    <weight>100.00000</weight>
+    <zinc>2.50000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

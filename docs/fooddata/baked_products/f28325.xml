@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>28325</foodid>
+    <name>Crackers, toast thins, low sodium</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>0.00000</calcium>
+    <carbohydrate_by_difference>67.66000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>23.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.30700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>442.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>16.13000</fat>
+    <fiber>9.70000</fiber>
+    <folate>33.00000</folate>
+    <iron>3.48000</iron>
+    <linoleic>7.65100</linoleic>
+    <linolenic>0.96900</linolenic>
+    <magnesium>102.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>3.27600</mufa>
+    <niacin>3.72300</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>266.00000</phosphorus>
+    <potassium>306.00000</potassium>
+    <protein>6.45000</protein>
+    <pufa>8.61900</pufa>
+    <riboflavin>0.12700</riboflavin>
+    <selenium>46.10000</selenium>
+    <sfa>3.22600</sfa>
+    <sodium>177.00000</sodium>
+    <thiamin>0.37300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.30500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.69000</vitamin_e>
+    <vitamin_k>27.60000</vitamin_k>
+    <water>8.12000</water>
+    <weight>100.00000</weight>
+    <zinc>1.94000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

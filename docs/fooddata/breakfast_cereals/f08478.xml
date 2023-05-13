@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08478</foodid>
+    <name>Cereals ready-to-eat, MALT-O-MEAL, GOLDEN PUFFS</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>11.00000</calcium>
+    <carbohydrate_by_difference>89.72000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>14.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.29600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>370.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>0.89000</fat>
+    <fiber>2.60000</fiber>
+    <folate>1250.00000</folate>
+    <iron>7.92000</iron>
+    <linoleic>0.32800</linoleic>
+    <linolenic>0.02000</linolenic>
+    <magnesium>46.00000</magnesium>
+    <manganese>0.85200</manganese>
+    <mufa>0.22000</mufa>
+    <niacin>25.16700</niacin>
+    <pantothenic_acid>0.31700</pantothenic_acid>
+    <phosphorus>222.00000</phosphorus>
+    <potassium>204.00000</potassium>
+    <protein>5.77000</protein>
+    <pufa>0.34900</pufa>
+    <riboflavin>2.16700</riboflavin>
+    <selenium>27.20000</selenium>
+    <sfa>0.16100</sfa>
+    <sodium>204.00000</sodium>
+    <thiamin>1.74000</thiamin>
+    <vitamin_a>555.00000</vitamin_a>
+    <vitamin_b12>6.67000</vitamin_b12>
+    <vitamin_b6>2.06700</vitamin_b6>
+    <vitamin_c>27.60000</vitamin_c>
+    <vitamin_d>3.80000</vitamin_d>
+    <vitamin_e>0.43000</vitamin_e>
+    <vitamin_k>1.10000</vitamin_k>
+    <water>2.76000</water>
+    <weight>100.00000</weight>
+    <zinc>7.30000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

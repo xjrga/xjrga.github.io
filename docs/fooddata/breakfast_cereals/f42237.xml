@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>42237</foodid>
+    <name>Cereals ready-to-eat, WEETABIX whole grain cereal</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>57.00000</calcium>
+    <carbohydrate_by_difference>81.50000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>31.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.62200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>371.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.86000</fat>
+    <fiber>11.40000</fiber>
+    <folate>46.00000</folate>
+    <iron>12.86000</iron>
+    <linoleic>1.10700</linoleic>
+    <linolenic>0.05700</linolenic>
+    <magnesium>92.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.35000</mufa>
+    <niacin>5.71400</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>172.00000</phosphorus>
+    <potassium>429.00000</potassium>
+    <protein>11.43000</protein>
+    <pufa>1.17000</pufa>
+    <riboflavin>0.98000</riboflavin>
+    <selenium>5.90000</selenium>
+    <sfa>0.48000</sfa>
+    <sodium>371.00000</sodium>
+    <thiamin>1.92900</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.46000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.98000</vitamin_e>
+    <vitamin_k>1.80000</vitamin_k>
+    <water>3.00000</water>
+    <weight>100.00000</weight>
+    <zinc>1.72000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

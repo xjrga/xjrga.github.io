@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>02023</foodid>
+    <name>Spices, marjoram, dried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>1990.00000</calcium>
+    <carbohydrate_by_difference>60.56000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>43.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.13300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>271.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.04000</fat>
+    <fiber>40.30000</fiber>
+    <folate>274.00000</folate>
+    <iron>82.71000</iron>
+    <linoleic>1.17500</linoleic>
+    <linolenic>3.23000</linolenic>
+    <magnesium>346.00000</magnesium>
+    <manganese>5.43300</manganese>
+    <mufa>0.94000</mufa>
+    <niacin>4.12000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>306.00000</phosphorus>
+    <potassium>1522.00000</potassium>
+    <protein>12.66000</protein>
+    <pufa>4.40500</pufa>
+    <riboflavin>0.31600</riboflavin>
+    <selenium>4.50000</selenium>
+    <sfa>0.52900</sfa>
+    <sodium>77.00000</sodium>
+    <thiamin>0.28900</thiamin>
+    <vitamin_a>403.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.19000</vitamin_b6>
+    <vitamin_c>51.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.69000</vitamin_e>
+    <vitamin_k>621.70000</vitamin_k>
+    <water>7.64000</water>
+    <weight>100.00000</weight>
+    <zinc>3.60000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

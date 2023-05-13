@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11376</foodid>
+    <name>Potatoes, canned, drained solids</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>5.00000</calcium>
+    <carbohydrate_by_difference>13.61000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>60.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.21000</fat>
+    <fiber>2.30000</fiber>
+    <folate>6.00000</folate>
+    <iron>1.26000</iron>
+    <linoleic>0.06600</linoleic>
+    <linolenic>0.02100</linolenic>
+    <magnesium>14.00000</magnesium>
+    <manganese>0.09700</manganese>
+    <mufa>0.00500</mufa>
+    <niacin>0.91500</niacin>
+    <pantothenic_acid>0.35400</pantothenic_acid>
+    <phosphorus>28.00000</phosphorus>
+    <potassium>229.00000</potassium>
+    <protein>1.41000</protein>
+    <pufa>0.08900</pufa>
+    <riboflavin>0.01300</riboflavin>
+    <selenium>0.90000</selenium>
+    <sfa>0.05400</sfa>
+    <sodium>219.00000</sodium>
+    <thiamin>0.06800</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.18800</vitamin_b6>
+    <vitamin_c>5.10000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>84.28000</water>
+    <weight>100.00000</weight>
+    <zinc>0.28000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

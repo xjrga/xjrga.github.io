@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08102</foodid>
+    <name>Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>606.00000</calcium>
+    <carbohydrate_by_difference>76.50000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>23.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.20600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>370.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.50000</fat>
+    <fiber>3.80000</fiber>
+    <folate>182.00000</folate>
+    <iron>28.60000</iron>
+    <linoleic>0.74100</linoleic>
+    <linolenic>0.08800</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.20500</mufa>
+    <niacin>4.20000</niacin>
+    <pantothenic_acid>0.51800</pantothenic_acid>
+    <phosphorus>115.00000</phosphorus>
+    <potassium>120.00000</potassium>
+    <protein>10.50000</protein>
+    <pufa>0.82900</pufa>
+    <riboflavin>0.20000</riboflavin>
+    <selenium>20.00000</selenium>
+    <sfa>0.23800</sfa>
+    <sodium>7.00000</sodium>
+    <thiamin>0.50000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.10800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.11000</vitamin_e>
+    <vitamin_k>0.50000</vitamin_k>
+    <water>10.90000</water>
+    <weight>100.00000</weight>
+    <zinc>0.88000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

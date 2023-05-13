@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>12127</foodid>
+    <name>Nuts, ginkgo nuts, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>2.00000</calcium>
+    <carbohydrate_by_difference>37.60000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.27400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>182.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.68000</fat>
+    <fiber>0.00000</fiber>
+    <folate>54.00000</folate>
+    <iron>1.00000</iron>
+    <linoleic>0.57800</linoleic>
+    <linolenic>0.02100</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.11300</manganese>
+    <mufa>0.61900</mufa>
+    <niacin>6.00000</niacin>
+    <pantothenic_acid>0.16000</pantothenic_acid>
+    <phosphorus>124.00000</phosphorus>
+    <potassium>510.00000</potassium>
+    <protein>4.32000</protein>
+    <pufa>0.61800</pufa>
+    <riboflavin>0.09000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.31900</sfa>
+    <sodium>7.00000</sodium>
+    <thiamin>0.22000</thiamin>
+    <vitamin_a>28.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.32800</vitamin_b6>
+    <vitamin_c>15.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>55.20000</water>
+    <weight>100.00000</weight>
+    <zinc>0.34000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01040</foodid>
+    <name>Cheese, swiss</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>890.00000</calcium>
+    <carbohydrate_by_difference>1.44000</carbohydrate_by_difference>
+    <cholesterol>93.00000</cholesterol>
+    <choline>15.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>393.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>30.99000</fat>
+    <fiber>0.00000</fiber>
+    <folate>10.00000</folate>
+    <iron>0.13000</iron>
+    <linoleic>1.08600</linoleic>
+    <linolenic>0.12900</linolenic>
+    <magnesium>33.00000</magnesium>
+    <manganese>0.02600</manganese>
+    <mufa>8.04600</mufa>
+    <niacin>0.06400</niacin>
+    <pantothenic_acid>0.35300</pantothenic_acid>
+    <phosphorus>574.00000</phosphorus>
+    <potassium>72.00000</potassium>
+    <protein>26.96000</protein>
+    <pufa>1.34100</pufa>
+    <riboflavin>0.30200</riboflavin>
+    <selenium>30.00000</selenium>
+    <sfa>18.22700</sfa>
+    <sodium>187.00000</sodium>
+    <thiamin>0.01100</thiamin>
+    <vitamin_a>288.00000</vitamin_a>
+    <vitamin_b12>3.06000</vitamin_b12>
+    <vitamin_b6>0.07100</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.60000</vitamin_e>
+    <vitamin_k>1.40000</vitamin_k>
+    <water>37.63000</water>
+    <weight>100.00000</weight>
+    <zinc>4.37000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25034</foodid>
+    <name>Snacks, granola bar, KASHI GOLEAN, crunchy, mixed flavors</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>434.00000</calcium>
+    <carbohydrate_by_difference>59.58000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>43.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.79000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>393.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>9.23000</fat>
+    <fiber>5.90000</fiber>
+    <folate>264.00000</folate>
+    <iron>5.20000</iron>
+    <linoleic>1.22200</linoleic>
+    <linolenic>0.04500</linolenic>
+    <magnesium>86.00000</magnesium>
+    <manganese>1.10800</manganese>
+    <mufa>2.49800</mufa>
+    <niacin>1.88800</niacin>
+    <pantothenic_acid>0.31600</pantothenic_acid>
+    <phosphorus>263.00000</phosphorus>
+    <potassium>300.00000</potassium>
+    <protein>17.88000</protein>
+    <pufa>1.26800</pufa>
+    <riboflavin>0.17900</riboflavin>
+    <selenium>6.10000</selenium>
+    <sfa>4.68700</sfa>
+    <sodium>486.00000</sodium>
+    <thiamin>0.25900</thiamin>
+    <vitamin_a>50.00000</vitamin_a>
+    <vitamin_b12>3.22000</vitamin_b12>
+    <vitamin_b6>1.07300</vitamin_b6>
+    <vitamin_c>19.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>10.27000</vitamin_e>
+    <vitamin_k>1.70000</vitamin_k>
+    <water>9.43000</water>
+    <weight>100.00000</weight>
+    <zinc>4.83000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

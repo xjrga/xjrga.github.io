@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>44055</foodid>
+    <name>Celery flakes, dried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>587.00000</calcium>
+    <carbohydrate_by_difference>63.70000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>122.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.57100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>319.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.10000</fat>
+    <fiber>27.80000</fiber>
+    <folate>107.00000</folate>
+    <iron>7.83000</iron>
+    <linoleic>1.03500</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>196.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.40500</mufa>
+    <niacin>4.64000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>402.00000</phosphorus>
+    <potassium>4388.00000</potassium>
+    <protein>11.30000</protein>
+    <pufa>1.03500</pufa>
+    <riboflavin>0.50000</riboflavin>
+    <selenium>15.30000</selenium>
+    <sfa>0.55500</sfa>
+    <sodium>1435.00000</sodium>
+    <thiamin>0.44000</thiamin>
+    <vitamin_a>98.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.46000</vitamin_b6>
+    <vitamin_c>86.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>5.55000</vitamin_e>
+    <vitamin_k>584.20000</vitamin_k>
+    <water>9.00000</water>
+    <weight>100.00000</weight>
+    <zinc>2.77000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

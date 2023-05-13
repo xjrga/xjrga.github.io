@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15110</foodid>
+    <name>Fish, swordfish, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>5.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>66.00000</cholesterol>
+    <choline>65.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03900</copper>
+    <cost>0.0</cost>
+    <dha>0.64700</dha>
+    <energy_gross>144.00000</energy_gross>
+    <epa>0.10700</epa>
+    <fat>6.65000</fat>
+    <fiber>0.00000</fiber>
+    <folate>2.00000</folate>
+    <iron>0.38000</iron>
+    <linoleic>0.07400</linoleic>
+    <linolenic>0.02900</linolenic>
+    <magnesium>29.00000</magnesium>
+    <manganese>0.01100</manganese>
+    <mufa>2.97100</mufa>
+    <niacin>7.76000</niacin>
+    <pantothenic_acid>0.35000</pantothenic_acid>
+    <phosphorus>255.00000</phosphorus>
+    <potassium>418.00000</potassium>
+    <protein>19.66000</protein>
+    <pufa>1.14700</pufa>
+    <riboflavin>0.05300</riboflavin>
+    <selenium>57.40000</selenium>
+    <sfa>1.60200</sfa>
+    <sodium>81.00000</sodium>
+    <thiamin>0.07500</thiamin>
+    <vitamin_a>36.00000</vitamin_a>
+    <vitamin_b12>1.70000</vitamin_b12>
+    <vitamin_b6>0.54300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>13.90000</vitamin_d>
+    <vitamin_e>2.02000</vitamin_e>
+    <vitamin_k>0.10000</vitamin_k>
+    <water>73.38000</water>
+    <weight>100.00000</weight>
+    <zinc>0.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

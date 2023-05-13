@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>42155</foodid>
+    <name>Cheese, monterey, low fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>705.00000</calcium>
+    <carbohydrate_by_difference>0.70000</carbohydrate_by_difference>
+    <cholesterol>65.00000</cholesterol>
+    <choline>15.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>313.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>21.60000</fat>
+    <fiber>0.00000</fiber>
+    <folate>18.00000</folate>
+    <iron>0.72000</iron>
+    <linoleic>0.60000</linoleic>
+    <linolenic>0.24000</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>5.64000</mufa>
+    <niacin>0.09000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>444.00000</phosphorus>
+    <potassium>81.00000</potassium>
+    <protein>28.20000</protein>
+    <pufa>0.84000</pufa>
+    <riboflavin>0.36000</riboflavin>
+    <selenium>14.50000</selenium>
+    <sfa>14.04000</sfa>
+    <sodium>781.00000</sodium>
+    <thiamin>0.02000</thiamin>
+    <vitamin_a>142.00000</vitamin_a>
+    <vitamin_b12>0.83000</vitamin_b12>
+    <vitamin_b6>0.08000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.40000</vitamin_d>
+    <vitamin_e>0.19000</vitamin_e>
+    <vitamin_k>1.80000</vitamin_k>
+    <water>46.00000</water>
+    <weight>100.00000</weight>
+    <zinc>3.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

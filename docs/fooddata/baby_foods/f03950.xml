@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>03950</foodid>
+    <name>Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, powder, not reconstituted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>410.00000</calcium>
+    <carbohydrate_by_difference>54.73000</carbohydrate_by_difference>
+    <cholesterol>14.00000</cholesterol>
+    <choline>64.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.47300</copper>
+    <cost>0.0</cost>
+    <dha>0.09600</dha>
+    <energy_gross>522.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>28.87000</fat>
+    <fiber>0.00000</fiber>
+    <folate>134.00000</folate>
+    <iron>9.47000</iron>
+    <linoleic>5.77800</linoleic>
+    <linolenic>0.61800</linolenic>
+    <magnesium>32.00000</magnesium>
+    <manganese>0.02600</manganese>
+    <mufa>10.49100</mufa>
+    <niacin>5.52200</niacin>
+    <pantothenic_acid>2.36700</pantothenic_acid>
+    <phosphorus>221.00000</phosphorus>
+    <potassium>552.00000</potassium>
+    <protein>10.89000</protein>
+    <pufa>6.39600</pufa>
+    <riboflavin>0.78900</riboflavin>
+    <selenium>11.60000</selenium>
+    <sfa>9.87300</sfa>
+    <sodium>126.00000</sodium>
+    <thiamin>0.52600</thiamin>
+    <vitamin_a>473.00000</vitamin_a>
+    <vitamin_b12>1.32000</vitamin_b12>
+    <vitamin_b6>0.31600</vitamin_b6>
+    <vitamin_c>47.30000</vitamin_c>
+    <vitamin_d>7.90000</vitamin_d>
+    <vitamin_e>5.29000</vitamin_e>
+    <vitamin_k>42.10000</vitamin_k>
+    <water>2.25000</water>
+    <weight>100.00000</weight>
+    <zinc>3.94000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

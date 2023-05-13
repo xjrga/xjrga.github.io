@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11308</foodid>
+    <name>Peas, green (includes baby and lesuer types), canned, drained solids, unprepared</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>23.00000</calcium>
+    <carbohydrate_by_difference>11.36000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>30.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>68.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.80000</fat>
+    <fiber>4.90000</fiber>
+    <folate>31.00000</folate>
+    <iron>1.18000</iron>
+    <linoleic>0.30400</linoleic>
+    <linolenic>0.07100</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.21300</manganese>
+    <mufa>0.07100</mufa>
+    <niacin>0.97900</niacin>
+    <pantothenic_acid>0.24000</pantothenic_acid>
+    <phosphorus>67.00000</phosphorus>
+    <potassium>106.00000</potassium>
+    <protein>4.47000</protein>
+    <pufa>0.37500</pufa>
+    <riboflavin>0.05300</riboflavin>
+    <selenium>1.70000</selenium>
+    <sfa>0.14300</sfa>
+    <sodium>273.00000</sodium>
+    <thiamin>0.10700</thiamin>
+    <vitamin_a>43.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05600</vitamin_b6>
+    <vitamin_c>4.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.38000</vitamin_e>
+    <vitamin_k>36.80000</vitamin_k>
+    <water>82.29000</water>
+    <weight>100.00000</weight>
+    <zinc>0.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

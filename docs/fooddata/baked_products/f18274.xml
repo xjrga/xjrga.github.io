@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18274</foodid>
+    <name>Muffins, blueberry, commercially prepared (Includes mini-muffins)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>44.00000</calcium>
+    <carbohydrate_by_difference>53.00000</carbohydrate_by_difference>
+    <cholesterol>30.00000</cholesterol>
+    <choline>92.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06000</copper>
+    <cost>0.0</cost>
+    <dha>0.00800</dha>
+    <energy_gross>375.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>16.07000</fat>
+    <fiber>1.10000</fiber>
+    <folate>73.00000</folate>
+    <iron>1.30000</iron>
+    <linoleic>6.98300</linoleic>
+    <linolenic>1.07000</linolenic>
+    <magnesium>10.00000</magnesium>
+    <manganese>0.44900</manganese>
+    <mufa>4.82200</mufa>
+    <niacin>1.41800</niacin>
+    <pantothenic_acid>0.47000</pantothenic_acid>
+    <phosphorus>146.00000</phosphorus>
+    <potassium>121.00000</potassium>
+    <protein>4.49000</protein>
+    <pufa>8.10300</pufa>
+    <riboflavin>0.16300</riboflavin>
+    <selenium>8.20000</selenium>
+    <sfa>2.84400</sfa>
+    <sodium>336.00000</sodium>
+    <thiamin>0.16800</thiamin>
+    <vitamin_a>21.00000</vitamin_a>
+    <vitamin_b12>0.16000</vitamin_b12>
+    <vitamin_b6>0.04000</vitamin_b6>
+    <vitamin_c>0.90000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>1.63000</vitamin_e>
+    <vitamin_k>39.20000</vitamin_k>
+    <water>24.96000</water>
+    <weight>100.00000</weight>
+    <zinc>0.37000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

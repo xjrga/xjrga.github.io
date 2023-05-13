@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36015</foodid>
+    <name>Restaurant, family style, chicken fingers, from kid's menu</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>21.00000</calcium>
+    <carbohydrate_by_difference>18.77000</carbohydrate_by_difference>
+    <cholesterol>46.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06800</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>307.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>17.45000</fat>
+    <fiber>1.10000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.76000</iron>
+    <linoleic>7.89000</linoleic>
+    <linolenic>1.03800</linolenic>
+    <magnesium>29.00000</magnesium>
+    <manganese>0.25400</manganese>
+    <mufa>3.96200</mufa>
+    <niacin>7.62800</niacin>
+    <pantothenic_acid>1.55800</pantothenic_acid>
+    <phosphorus>306.00000</phosphorus>
+    <potassium>322.00000</potassium>
+    <protein>18.68000</protein>
+    <pufa>9.01300</pufa>
+    <riboflavin>0.16600</riboflavin>
+    <selenium>20.00000</selenium>
+    <sfa>3.19900</sfa>
+    <sodium>809.00000</sodium>
+    <thiamin>0.09800</thiamin>
+    <vitamin_a>5.00000</vitamin_a>
+    <vitamin_b12>0.13000</vitamin_b12>
+    <vitamin_b6>0.45300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.47000</vitamin_e>
+    <vitamin_k>28.00000</vitamin_k>
+    <water>42.17000</water>
+    <weight>100.00000</weight>
+    <zinc>0.67000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

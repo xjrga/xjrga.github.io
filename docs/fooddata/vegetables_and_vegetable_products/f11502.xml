@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11502</foodid>
+    <name>Succotash, (corn and limas), frozen, cooked, boiled, drained, without salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>15.00000</calcium>
+    <carbohydrate_by_difference>19.95000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>29.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>93.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.89000</fat>
+    <fiber>4.10000</fiber>
+    <folate>33.00000</folate>
+    <iron>0.89000</iron>
+    <linoleic>0.36100</linoleic>
+    <linolenic>0.06700</linolenic>
+    <magnesium>23.00000</magnesium>
+    <manganese>0.28000</manganese>
+    <mufa>0.17300</mufa>
+    <niacin>1.30600</niacin>
+    <pantothenic_acid>0.23200</pantothenic_acid>
+    <phosphorus>70.00000</phosphorus>
+    <potassium>265.00000</potassium>
+    <protein>4.31000</protein>
+    <pufa>0.42700</pufa>
+    <riboflavin>0.06800</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.16600</sfa>
+    <sodium>45.00000</sodium>
+    <thiamin>0.07400</thiamin>
+    <vitamin_a>10.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.09500</vitamin_b6>
+    <vitamin_c>5.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.18000</vitamin_e>
+    <vitamin_k>2.70000</vitamin_k>
+    <water>74.10000</water>
+    <weight>100.00000</weight>
+    <zinc>0.45000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

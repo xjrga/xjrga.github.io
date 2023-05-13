@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11725</foodid>
+    <name>Beans, snap, yellow, cooked, boiled, drained, with salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>46.00000</calcium>
+    <carbohydrate_by_difference>7.88000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>16.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>35.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.28000</fat>
+    <fiber>3.30000</fiber>
+    <folate>33.00000</folate>
+    <iron>1.28000</iron>
+    <linoleic>0.05600</linoleic>
+    <linolenic>0.08900</linolenic>
+    <magnesium>25.00000</magnesium>
+    <manganese>0.29400</manganese>
+    <mufa>0.01100</mufa>
+    <niacin>0.61400</niacin>
+    <pantothenic_acid>0.07400</pantothenic_acid>
+    <phosphorus>39.00000</phosphorus>
+    <potassium>299.00000</potassium>
+    <protein>1.89000</protein>
+    <pufa>0.14500</pufa>
+    <riboflavin>0.09700</riboflavin>
+    <selenium>0.40000</selenium>
+    <sfa>0.06400</sfa>
+    <sodium>239.00000</sodium>
+    <thiamin>0.07400</thiamin>
+    <vitamin_a>4.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05600</vitamin_b6>
+    <vitamin_c>9.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.46000</vitamin_e>
+    <vitamin_k>47.90000</vitamin_k>
+    <water>89.22000</water>
+    <weight>100.00000</weight>
+    <zinc>0.36000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

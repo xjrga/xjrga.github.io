@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08011</foodid>
+    <name>Cereals ready-to-eat, QUAKER, CAP'N CRUNCH with CRUNCHBERRIES</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>11.00000</calcium>
+    <carbohydrate_by_difference>85.93000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>8.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>397.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.83000</fat>
+    <fiber>2.60000</fiber>
+    <folate>2757.00000</folate>
+    <iron>19.80000</iron>
+    <linoleic>0.72300</linoleic>
+    <linolenic>0.02700</linolenic>
+    <magnesium>55.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.63000</mufa>
+    <niacin>20.75000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>168.00000</phosphorus>
+    <potassium>187.00000</potassium>
+    <protein>4.45000</protein>
+    <pufa>0.75000</pufa>
+    <riboflavin>1.80000</riboflavin>
+    <selenium>10.40000</selenium>
+    <sfa>3.08000</sfa>
+    <sodium>725.00000</sodium>
+    <thiamin>1.60000</thiamin>
+    <vitamin_a>7.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>2.14000</vitamin_b6>
+    <vitamin_c>0.10000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.63000</vitamin_e>
+    <vitamin_k>0.60000</vitamin_k>
+    <water>2.50000</water>
+    <weight>100.00000</weight>
+    <zinc>15.56000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

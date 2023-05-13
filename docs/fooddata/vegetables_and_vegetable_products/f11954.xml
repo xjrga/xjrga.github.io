@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11954</foodid>
+    <name>Tomatillos, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>7.00000</calcium>
+    <carbohydrate_by_difference>5.84000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>7.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>32.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.02000</fat>
+    <fiber>1.90000</fiber>
+    <folate>7.00000</folate>
+    <iron>0.62000</iron>
+    <linoleic>0.40200</linoleic>
+    <linolenic>0.01600</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.15300</manganese>
+    <mufa>0.15500</mufa>
+    <niacin>1.85000</niacin>
+    <pantothenic_acid>0.15000</pantothenic_acid>
+    <phosphorus>39.00000</phosphorus>
+    <potassium>268.00000</potassium>
+    <protein>0.96000</protein>
+    <pufa>0.41700</pufa>
+    <riboflavin>0.03500</riboflavin>
+    <selenium>0.50000</selenium>
+    <sfa>0.13900</sfa>
+    <sodium>1.00000</sodium>
+    <thiamin>0.04400</thiamin>
+    <vitamin_a>6.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05600</vitamin_b6>
+    <vitamin_c>11.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.38000</vitamin_e>
+    <vitamin_k>10.10000</vitamin_k>
+    <water>91.63000</water>
+    <weight>100.00000</weight>
+    <zinc>0.22000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

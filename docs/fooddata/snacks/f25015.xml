@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25015</foodid>
+    <name>Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar, Caramel Nut Rush</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>625.00000</calcium>
+    <carbohydrate_by_difference>50.50000</carbohydrate_by_difference>
+    <cholesterol>6.00000</cholesterol>
+    <choline>1.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.97700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>415.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>12.50000</fat>
+    <fiber>12.50000</fiber>
+    <folate>850.00000</folate>
+    <iron>10.13000</iron>
+    <linoleic>2.67100</linoleic>
+    <linolenic>0.22000</linolenic>
+    <magnesium>175.00000</magnesium>
+    <manganese>1.32200</manganese>
+    <mufa>2.64500</mufa>
+    <niacin>25.00000</niacin>
+    <pantothenic_acid>12.50000</pantothenic_acid>
+    <phosphorus>375.00000</phosphorus>
+    <potassium>188.00000</potassium>
+    <protein>25.00000</protein>
+    <pufa>2.89200</pufa>
+    <riboflavin>2.12500</riboflavin>
+    <selenium>3.90000</selenium>
+    <sfa>6.25000</sfa>
+    <sodium>238.00000</sodium>
+    <thiamin>1.87500</thiamin>
+    <vitamin_a>652.00000</vitamin_a>
+    <vitamin_b12>7.50000</vitamin_b12>
+    <vitamin_b6>2.50000</vitamin_b6>
+    <vitamin_c>75.00000</vitamin_c>
+    <vitamin_d>3.80000</vitamin_d>
+    <vitamin_e>16.88000</vitamin_e>
+    <vitamin_k>10.40000</vitamin_k>
+    <water>9.00000</water>
+    <weight>100.00000</weight>
+    <zinc>6.56000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

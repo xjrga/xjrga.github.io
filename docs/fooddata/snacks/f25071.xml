@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25071</foodid>
+    <name>Rice crackers</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>0.00000</calcium>
+    <carbohydrate_by_difference>82.64000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>33.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.30100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>416.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.00000</fat>
+    <fiber>0.00000</fiber>
+    <folate>22.00000</folate>
+    <iron>0.00000</iron>
+    <linoleic>1.58200</linoleic>
+    <linolenic>0.05900</linolenic>
+    <magnesium>156.00000</magnesium>
+    <manganese>4.07100</manganese>
+    <mufa>3.02100</mufa>
+    <niacin>5.53700</niacin>
+    <pantothenic_acid>1.62400</pantothenic_acid>
+    <phosphorus>362.00000</phosphorus>
+    <potassium>243.00000</potassium>
+    <protein>10.00000</protein>
+    <pufa>1.64100</pufa>
+    <riboflavin>0.10100</riboflavin>
+    <selenium>25.50000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>233.00000</sodium>
+    <thiamin>0.43600</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.55400</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.26000</vitamin_e>
+    <vitamin_k>2.10000</vitamin_k>
+    <water>0.11000</water>
+    <weight>100.00000</weight>
+    <zinc>2.20000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

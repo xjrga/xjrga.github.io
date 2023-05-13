@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>10954</foodid>
+    <name>Pork, fresh, enhanced, shoulder, (Boston butt), blade (steaks), separable lean and fat, cooked, braised</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>27.00000</calcium>
+    <carbohydrate_by_difference>0.03000</carbohydrate_by_difference>
+    <cholesterol>97.00000</cholesterol>
+    <choline>106.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.19200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>263.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>16.94000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.72000</iron>
+    <linoleic>1.75600</linoleic>
+    <linolenic>0.07700</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.01200</manganese>
+    <mufa>7.61300</mufa>
+    <niacin>3.61000</niacin>
+    <pantothenic_acid>1.32900</pantothenic_acid>
+    <phosphorus>227.00000</phosphorus>
+    <potassium>370.00000</potassium>
+    <protein>25.84000</protein>
+    <pufa>2.00600</pufa>
+    <riboflavin>0.35700</riboflavin>
+    <selenium>42.30000</selenium>
+    <sfa>6.28800</sfa>
+    <sodium>151.00000</sodium>
+    <thiamin>0.40600</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.98000</vitamin_b12>
+    <vitamin_b6>0.46300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>1.10000</vitamin_d>
+    <vitamin_e>0.12000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>56.13000</water>
+    <weight>100.00000</weight>
+    <zinc>4.48000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

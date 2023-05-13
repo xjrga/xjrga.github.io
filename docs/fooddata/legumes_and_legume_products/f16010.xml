@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16010</foodid>
+    <name>Beans, baked, canned, with pork and sweet sauce</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>39.00000</calcium>
+    <carbohydrate_by_difference>21.57000</carbohydrate_by_difference>
+    <cholesterol>7.00000</cholesterol>
+    <choline>22.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.17100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>105.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.89000</fat>
+    <fiber>4.40000</fiber>
+    <folate>8.00000</folate>
+    <iron>1.40000</iron>
+    <linoleic>0.22300</linoleic>
+    <linolenic>0.18000</linolenic>
+    <magnesium>30.00000</magnesium>
+    <manganese>0.36200</manganese>
+    <mufa>0.22200</mufa>
+    <niacin>0.30400</niacin>
+    <pantothenic_acid>0.14800</pantothenic_acid>
+    <phosphorus>88.00000</phosphorus>
+    <potassium>231.00000</potassium>
+    <protein>4.52000</protein>
+    <pufa>0.40000</pufa>
+    <riboflavin>0.01500</riboflavin>
+    <selenium>4.80000</selenium>
+    <sfa>0.23100</sfa>
+    <sodium>391.00000</sodium>
+    <thiamin>0.03300</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.04000</vitamin_e>
+    <vitamin_k>0.40000</vitamin_k>
+    <water>71.48000</water>
+    <weight>100.00000</weight>
+    <zinc>0.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14019</foodid>
+    <name>Alcoholic beverage, tequila sunrise, canned</name>
+    <alcohol>9.40000</alcohol>
+    <calcium>0.00000</calcium>
+    <carbohydrate_by_difference>11.30000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>110.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.10000</fat>
+    <fiber>0.00000</fiber>
+    <folate>11.00000</folate>
+    <iron>0.02000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>7.00000</magnesium>
+    <manganese>0.01400</manganese>
+    <mufa>0.00000</mufa>
+    <niacin>0.19000</niacin>
+    <pantothenic_acid>0.08800</pantothenic_acid>
+    <phosphorus>10.00000</phosphorus>
+    <potassium>10.00000</potassium>
+    <protein>0.30000</protein>
+    <pufa>0.00000</pufa>
+    <riboflavin>0.01600</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>57.00000</sodium>
+    <thiamin>0.03800</thiamin>
+    <vitamin_a>5.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05000</vitamin_b6>
+    <vitamin_c>19.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>78.80000</water>
+    <weight>100.00000</weight>
+    <zinc>0.60000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

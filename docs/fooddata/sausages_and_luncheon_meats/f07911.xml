@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07911</foodid>
+    <name>Liverwurst spread</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>22.00000</calcium>
+    <carbohydrate_by_difference>5.89000</carbohydrate_by_difference>
+    <cholesterol>118.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.24000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>305.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>25.45000</fat>
+    <fiber>2.50000</fiber>
+    <folate>30.00000</folate>
+    <iron>8.85000</iron>
+    <linoleic>2.29600</linoleic>
+    <linolenic>0.13100</linolenic>
+    <magnesium>12.00000</magnesium>
+    <manganese>0.15500</manganese>
+    <mufa>12.28600</mufa>
+    <niacin>4.30000</niacin>
+    <pantothenic_acid>2.95000</pantothenic_acid>
+    <phosphorus>230.00000</phosphorus>
+    <potassium>170.00000</potassium>
+    <protein>12.38000</protein>
+    <pufa>2.42700</pufa>
+    <riboflavin>1.03000</riboflavin>
+    <selenium>58.00000</selenium>
+    <sfa>9.92500</sfa>
+    <sodium>700.00000</sodium>
+    <thiamin>0.27200</thiamin>
+    <vitamin_a>4091.00000</vitamin_a>
+    <vitamin_b12>13.46000</vitamin_b12>
+    <vitamin_b6>0.19000</vitamin_b6>
+    <vitamin_c>3.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>53.53000</water>
+    <weight>100.00000</weight>
+    <zinc>2.30000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25068</foodid>
+    <name>Snack, BALANCE, original bar</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>543.00000</calcium>
+    <carbohydrate_by_difference>48.73000</carbohydrate_by_difference>
+    <cholesterol>1.00000</cholesterol>
+    <choline>91.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.77100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>415.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>12.00000</fat>
+    <fiber>3.10000</fiber>
+    <folate>126.00000</folate>
+    <iron>10.90000</iron>
+    <linoleic>1.82700</linoleic>
+    <linolenic>0.14100</linolenic>
+    <magnesium>119.00000</magnesium>
+    <manganese>0.71200</manganese>
+    <mufa>8.11500</mufa>
+    <niacin>8.99100</niacin>
+    <pantothenic_acid>0.70200</pantothenic_acid>
+    <phosphorus>465.00000</phosphorus>
+    <potassium>678.00000</potassium>
+    <protein>28.00000</protein>
+    <pufa>1.96900</pufa>
+    <riboflavin>1.70800</riboflavin>
+    <selenium>23.30000</selenium>
+    <sfa>1.14900</sfa>
+    <sodium>253.00000</sodium>
+    <thiamin>1.62800</thiamin>
+    <vitamin_a>1496.00000</vitamin_a>
+    <vitamin_b12>1.24000</vitamin_b12>
+    <vitamin_b6>0.89000</vitamin_b6>
+    <vitamin_c>11.20000</vitamin_c>
+    <vitamin_d>1.60000</vitamin_d>
+    <vitamin_e>5.84000</vitamin_e>
+    <vitamin_k>1.30000</vitamin_k>
+    <water>7.76000</water>
+    <weight>100.00000</weight>
+    <zinc>3.52000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

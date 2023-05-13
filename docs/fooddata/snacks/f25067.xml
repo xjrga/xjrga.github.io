@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25067</foodid>
+    <name>Formulated Bar, SOUTH BEACH protein bar</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>322.00000</calcium>
+    <carbohydrate_by_difference>38.40000</carbohydrate_by_difference>
+    <cholesterol>3.00000</cholesterol>
+    <choline>108.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.84600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>412.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>15.17000</fat>
+    <fiber>7.30000</fiber>
+    <folate>184.00000</folate>
+    <iron>5.40000</iron>
+    <linoleic>4.66700</linoleic>
+    <linolenic>0.65900</linolenic>
+    <magnesium>71.00000</magnesium>
+    <manganese>1.02400</manganese>
+    <mufa>4.29000</mufa>
+    <niacin>1.26800</niacin>
+    <pantothenic_acid>1.98700</pantothenic_acid>
+    <phosphorus>445.00000</phosphorus>
+    <potassium>793.00000</potassium>
+    <protein>30.34000</protein>
+    <pufa>5.32600</pufa>
+    <riboflavin>0.43700</riboflavin>
+    <selenium>9.00000</selenium>
+    <sfa>3.38400</sfa>
+    <sodium>436.00000</sodium>
+    <thiamin>0.17600</thiamin>
+    <vitamin_a>391.00000</vitamin_a>
+    <vitamin_b12>0.61000</vitamin_b12>
+    <vitamin_b6>0.22600</vitamin_b6>
+    <vitamin_c>27.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>4.61000</vitamin_e>
+    <vitamin_k>350.60000</vitamin_k>
+    <water>12.16000</water>
+    <weight>100.00000</weight>
+    <zinc>2.39000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

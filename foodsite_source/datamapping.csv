@@ -1,0 +1,39 @@
+ Nutrdesc, Units, Nutr_no, "Xml Element"
+Protein, g,203, protein
+Total lipid (Fat), g,204, fat
+"Carbohydrate, by difference", g,205, carbohydrate_by_difference
+Energy, kcal,208, energy_gross
+"Alcohol, ethyl", g,221, alcohol
+Water, g,255, water
+"Fiber, total dietary", g,291, fiber
+"Calcium, Ca", mg,301, calcium
+"Iron, Fe", mg,303, iron
+"Magnesium, Mg", mg,304, magnesium
+"Phosphorus, P", mg,305, phosphorus
+"Potassium, K", mg,306, potassium
+"Sodium, Na", mg,307, sodium
+"Zinc, Zn", mg,309, zinc
+"Copper, Cu", mg,312, copper
+"Manganese, Mn", mg,315, manganese
+"Selenium, Se", µg,317, selenium
+"Vitamin A, RAE", µg,320, vitamin_a
+Vitamin E (Alpha-Tocopherol), mg,323, vitamin_e
+Vitamin D (D2 + D3), µg,328, vitamin_d
+"Vitamin C, total (Ascorbic Acid)", mg,401, vitamin_c
+Thiamin, mg,404, thiamin
+Riboflavin, mg,405, riboflavin
+Niacin, mg,406, niacin
+Pantothenic acid, mg,410, pantothenic_acid
+Vitamin B-6, mg,415, vitamin_b6
+Vitamin B-12, µg,418, vitamin_b12
+"Choline, total", mg,421, choline
+Vitamin K (Phylloquinone), µg,430, vitamin_k
+"Folate, DFE", µg,435, folate
+Cholesterol, mg,601, cholesterol
+"Fatty acids, total saturated", g,606, sfa
+18:2 undifferentiated, g,618, linoleic
+18:3 undifferentiated, g,619, linolenic
+22:6 n-3 (DHA), g,621, dha
+20:5 n-3 (EPA), g,629, epa
+"Fatty acids, total monounsaturated", g,645, mufa
+"Fatty acids, total polyunsaturated", g,646, pufa

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11444</foodid>
+    <name>Seaweed, irishmoss, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>72.00000</calcium>
+    <carbohydrate_by_difference>12.29000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>12.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>49.00000</energy_gross>
+    <epa>0.04600</epa>
+    <fat>0.16000</fat>
+    <fiber>1.30000</fiber>
+    <folate>182.00000</folate>
+    <iron>8.90000</iron>
+    <linoleic>0.00200</linoleic>
+    <linolenic>0.00100</linolenic>
+    <magnesium>144.00000</magnesium>
+    <manganese>0.37000</manganese>
+    <mufa>0.01500</mufa>
+    <niacin>0.59300</niacin>
+    <pantothenic_acid>0.17600</pantothenic_acid>
+    <phosphorus>157.00000</phosphorus>
+    <potassium>63.00000</potassium>
+    <protein>1.51000</protein>
+    <pufa>0.05500</pufa>
+    <riboflavin>0.46600</riboflavin>
+    <selenium>0.70000</selenium>
+    <sfa>0.03300</sfa>
+    <sodium>67.00000</sodium>
+    <thiamin>0.01500</thiamin>
+    <vitamin_a>6.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.06900</vitamin_b6>
+    <vitamin_c>3.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.87000</vitamin_e>
+    <vitamin_k>5.00000</vitamin_k>
+    <water>81.34000</water>
+    <weight>100.00000</weight>
+    <zinc>1.95000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

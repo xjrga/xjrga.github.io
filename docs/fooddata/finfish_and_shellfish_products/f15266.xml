@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15266</foodid>
+    <name>Fish, pollock, Alaska, raw (not previously frozen)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>12.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>61.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04100</copper>
+    <cost>0.0</cost>
+    <dha>0.04200</dha>
+    <energy_gross>70.00000</energy_gross>
+    <epa>0.02000</epa>
+    <fat>0.19000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.27000</iron>
+    <linoleic>0.00200</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>34.00000</magnesium>
+    <manganese>0.01100</manganese>
+    <mufa>0.04300</mufa>
+    <niacin>0.00000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>190.00000</phosphorus>
+    <potassium>331.00000</potassium>
+    <protein>17.17000</protein>
+    <pufa>0.07200</pufa>
+    <riboflavin>0.00000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.03900</sfa>
+    <sodium>159.00000</sodium>
+    <thiamin>0.00000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.00000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>81.99000</water>
+    <weight>100.00000</weight>
+    <zinc>0.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

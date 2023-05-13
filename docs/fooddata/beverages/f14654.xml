@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14654</foodid>
+    <name>Beverages, nutritional shake mix, high protein, powder</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>714.00000</calcium>
+    <carbohydrate_by_difference>20.38000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>179.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>2.50000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>392.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>10.71000</fat>
+    <fiber>0.00000</fiber>
+    <folate>971.00000</folate>
+    <iron>22.50000</iron>
+    <linoleic>6.47800</linoleic>
+    <linolenic>0.79400</linolenic>
+    <magnesium>500.00000</magnesium>
+    <manganese>125.00000</manganese>
+    <mufa>2.90700</mufa>
+    <niacin>25.00000</niacin>
+    <pantothenic_acid>12.50000</pantothenic_acid>
+    <phosphorus>1429.00000</phosphorus>
+    <potassium>1000.00000</potassium>
+    <protein>53.57000</protein>
+    <pufa>7.26800</pufa>
+    <riboflavin>2.12500</riboflavin>
+    <selenium>87.50000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>1214.00000</sodium>
+    <thiamin>2.14300</thiamin>
+    <vitamin_a>1875.00000</vitamin_a>
+    <vitamin_b12>6.43000</vitamin_b12>
+    <vitamin_b6>2.50000</vitamin_b6>
+    <vitamin_c>75.00000</vitamin_c>
+    <vitamin_d>12.50000</vitamin_d>
+    <vitamin_e>16.88000</vitamin_e>
+    <vitamin_k>125.00000</vitamin_k>
+    <water>8.30000</water>
+    <weight>100.00000</weight>
+    <zinc>18.75000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

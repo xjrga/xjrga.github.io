@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>12147</foodid>
+    <name>Nuts, pine nuts, dried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>16.00000</calcium>
+    <carbohydrate_by_difference>13.08000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>55.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.32400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>673.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>68.37000</fat>
+    <fiber>3.70000</fiber>
+    <folate>34.00000</folate>
+    <iron>5.53000</iron>
+    <linoleic>33.15000</linoleic>
+    <linolenic>0.16400</linolenic>
+    <magnesium>251.00000</magnesium>
+    <manganese>8.80200</manganese>
+    <mufa>18.76400</mufa>
+    <niacin>4.38700</niacin>
+    <pantothenic_acid>0.31300</pantothenic_acid>
+    <phosphorus>575.00000</phosphorus>
+    <potassium>597.00000</potassium>
+    <protein>13.69000</protein>
+    <pufa>34.07100</pufa>
+    <riboflavin>0.22700</riboflavin>
+    <selenium>0.70000</selenium>
+    <sfa>4.89900</sfa>
+    <sodium>2.00000</sodium>
+    <thiamin>0.36400</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.09400</vitamin_b6>
+    <vitamin_c>0.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>9.33000</vitamin_e>
+    <vitamin_k>53.90000</vitamin_k>
+    <water>2.28000</water>
+    <weight>100.00000</weight>
+    <zinc>6.45000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

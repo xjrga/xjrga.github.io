@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08050</foodid>
+    <name>Cereals ready-to-eat, GENERAL MILLS, LUCKY CHARMS</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>434.00000</calcium>
+    <carbohydrate_by_difference>80.89000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>16.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.21300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>380.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.02000</fat>
+    <fiber>5.00000</fiber>
+    <folate>1246.00000</folate>
+    <iron>22.27000</iron>
+    <linoleic>1.49500</linoleic>
+    <linolenic>0.04400</linolenic>
+    <magnesium>74.00000</magnesium>
+    <manganese>2.17300</manganese>
+    <mufa>1.58600</mufa>
+    <niacin>25.30000</niacin>
+    <pantothenic_acid>0.43900</pantothenic_acid>
+    <phosphorus>289.00000</phosphorus>
+    <potassium>222.00000</potassium>
+    <protein>7.67000</protein>
+    <pufa>1.54200</pufa>
+    <riboflavin>1.72300</riboflavin>
+    <selenium>14.60000</selenium>
+    <sfa>0.88500</sfa>
+    <sodium>648.00000</sodium>
+    <thiamin>1.73700</thiamin>
+    <vitamin_a>847.00000</vitamin_a>
+    <vitamin_b12>6.80000</vitamin_b12>
+    <vitamin_b6>3.01000</vitamin_b6>
+    <vitamin_c>26.60000</vitamin_c>
+    <vitamin_d>3.90000</vitamin_d>
+    <vitamin_e>0.45000</vitamin_e>
+    <vitamin_k>1.40000</vitamin_k>
+    <water>4.15000</water>
+    <weight>100.00000</weight>
+    <zinc>18.62000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

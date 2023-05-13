@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19418</foodid>
+    <name>Snacks, sesame sticks, wheat-based, salted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>170.00000</calcium>
+    <carbohydrate_by_difference>46.50000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>17.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.40600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>541.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>36.70000</fat>
+    <fiber>2.80000</fiber>
+    <folate>22.00000</folate>
+    <iron>0.74000</iron>
+    <linoleic>16.44000</linoleic>
+    <linolenic>0.97000</linolenic>
+    <magnesium>45.00000</magnesium>
+    <manganese>0.90400</manganese>
+    <mufa>10.91000</mufa>
+    <niacin>1.55200</niacin>
+    <pantothenic_acid>0.23400</pantothenic_acid>
+    <phosphorus>138.00000</phosphorus>
+    <potassium>177.00000</potassium>
+    <protein>10.90000</protein>
+    <pufa>17.42000</pufa>
+    <riboflavin>0.06300</riboflavin>
+    <selenium>17.10000</selenium>
+    <sfa>6.48000</sfa>
+    <sodium>1488.00000</sodium>
+    <thiamin>0.12300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.08600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>3.85000</vitamin_e>
+    <vitamin_k>8.00000</vitamin_k>
+    <water>2.00000</water>
+    <weight>100.00000</weight>
+    <zinc>1.17000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

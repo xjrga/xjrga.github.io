@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>32021</foodid>
+    <name>Spanish rice mix, dry mix, prepared (with canola/vegetable oil blend or diced tomatoes and margarine)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>18.00000</calcium>
+    <carbohydrate_by_difference>22.74000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>125.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.38000</fat>
+    <fiber>1.50000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.02000</iron>
+    <linoleic>0.74000</linoleic>
+    <linolenic>0.12500</linolenic>
+    <magnesium>13.00000</magnesium>
+    <manganese>0.22100</manganese>
+    <mufa>0.83400</mufa>
+    <niacin>2.44700</niacin>
+    <pantothenic_acid>0.21300</pantothenic_acid>
+    <phosphorus>45.00000</phosphorus>
+    <potassium>185.00000</potassium>
+    <protein>3.27000</protein>
+    <pufa>0.86700</pufa>
+    <riboflavin>0.13500</riboflavin>
+    <selenium>9.60000</selenium>
+    <sfa>0.38700</sfa>
+    <sodium>349.00000</sodium>
+    <thiamin>0.28700</thiamin>
+    <vitamin_a>10.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.09600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.67000</vitamin_e>
+    <vitamin_k>2.90000</vitamin_k>
+    <water>70.26000</water>
+    <weight>100.00000</weight>
+    <zinc>0.30000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

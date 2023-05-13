@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36059</foodid>
+    <name>Restaurant, Italian, chicken parmesan without pasta</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>106.00000</calcium>
+    <carbohydrate_by_difference>10.92000</carbohydrate_by_difference>
+    <cholesterol>54.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07100</copper>
+    <cost>0.0</cost>
+    <dha>0.00200</dha>
+    <energy_gross>204.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>10.64000</fat>
+    <fiber>0.90000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.68000</iron>
+    <linoleic>1.65800</linoleic>
+    <linolenic>0.22800</linolenic>
+    <magnesium>26.00000</magnesium>
+    <manganese>0.14900</manganese>
+    <mufa>4.87000</mufa>
+    <niacin>6.01300</niacin>
+    <pantothenic_acid>1.05200</pantothenic_acid>
+    <phosphorus>227.00000</phosphorus>
+    <potassium>293.00000</potassium>
+    <protein>16.17000</protein>
+    <pufa>1.95100</pufa>
+    <riboflavin>0.19300</riboflavin>
+    <selenium>24.70000</selenium>
+    <sfa>2.55000</sfa>
+    <sodium>536.00000</sodium>
+    <thiamin>0.08000</thiamin>
+    <vitamin_a>45.00000</vitamin_a>
+    <vitamin_b12>0.40000</vitamin_b12>
+    <vitamin_b6>0.20500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.74000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>59.88000</water>
+    <weight>100.00000</weight>
+    <zinc>0.95000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

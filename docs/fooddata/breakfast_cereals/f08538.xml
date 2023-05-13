@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08538</foodid>
+    <name>Cereals ready-to-eat, KASHI, HEART TO HEART, Oat Flakes & Blueberry Clusters</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>43.00000</calcium>
+    <carbohydrate_by_difference>80.30000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>23.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.41500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>376.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.79000</fat>
+    <fiber>7.40000</fiber>
+    <folate>1206.00000</folate>
+    <iron>3.20000</iron>
+    <linoleic>1.12000</linoleic>
+    <linolenic>0.05800</linolenic>
+    <magnesium>2.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>1.10000</mufa>
+    <niacin>1.79000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>279.00000</phosphorus>
+    <potassium>213.00000</potassium>
+    <protein>10.39000</protein>
+    <pufa>1.20000</pufa>
+    <riboflavin>0.09000</riboflavin>
+    <selenium>24.90000</selenium>
+    <sfa>0.80000</sfa>
+    <sodium>244.00000</sodium>
+    <thiamin>0.40000</thiamin>
+    <vitamin_a>114.00000</vitamin_a>
+    <vitamin_b12>10.89000</vitamin_b12>
+    <vitamin_b6>3.64000</vitamin_b6>
+    <vitamin_c>55.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>36.50000</vitamin_e>
+    <vitamin_k>1.90000</vitamin_k>
+    <water>3.00000</water>
+    <weight>100.00000</weight>
+    <zinc>2.32000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

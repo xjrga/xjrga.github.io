@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35188</foodid>
+    <name>Fish, halibut, cooked, with skin (Alaska Native)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>33.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>75.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04100</copper>
+    <cost>0.0</cost>
+    <dha>0.36300</dha>
+    <energy_gross>113.00000</energy_gross>
+    <epa>0.24300</epa>
+    <fat>2.73000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.36000</iron>
+    <linoleic>0.01800</linoleic>
+    <linolenic>0.00900</linolenic>
+    <magnesium>29.00000</magnesium>
+    <manganese>0.01100</manganese>
+    <mufa>0.84200</mufa>
+    <niacin>6.24700</niacin>
+    <pantothenic_acid>0.48600</pantothenic_acid>
+    <phosphorus>275.00000</phosphorus>
+    <potassium>501.00000</potassium>
+    <protein>22.13000</protein>
+    <pufa>0.73100</pufa>
+    <riboflavin>0.17600</riboflavin>
+    <selenium>60.60000</selenium>
+    <sfa>0.49800</sfa>
+    <sodium>86.00000</sodium>
+    <thiamin>0.08300</thiamin>
+    <vitamin_a>48.00000</vitamin_a>
+    <vitamin_b12>2.55000</vitamin_b12>
+    <vitamin_b6>0.26600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.05000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>72.82000</water>
+    <weight>100.00000</weight>
+    <zinc>0.75000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

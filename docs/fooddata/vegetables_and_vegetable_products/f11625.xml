@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11625</foodid>
+    <name>Parsley, freeze-dried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>176.00000</calcium>
+    <carbohydrate_by_difference>42.38000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.45900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>271.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.20000</fat>
+    <fiber>32.70000</fiber>
+    <folate>194.00000</folate>
+    <iron>53.90000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>372.00000</magnesium>
+    <manganese>1.33800</manganese>
+    <mufa>0.00000</mufa>
+    <niacin>10.40000</niacin>
+    <pantothenic_acid>2.51600</pantothenic_acid>
+    <phosphorus>548.00000</phosphorus>
+    <potassium>6300.00000</potassium>
+    <protein>31.30000</protein>
+    <pufa>0.00000</pufa>
+    <riboflavin>2.26000</riboflavin>
+    <selenium>32.30000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>391.00000</sodium>
+    <thiamin>1.04000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.37500</vitamin_b6>
+    <vitamin_c>149.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>2.00000</water>
+    <weight>100.00000</weight>
+    <zinc>6.11000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

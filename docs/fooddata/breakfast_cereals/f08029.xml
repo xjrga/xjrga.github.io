@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08029</foodid>
+    <name>Cereals ready-to-eat, POST Bran Flakes</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>44.00000</calcium>
+    <carbohydrate_by_difference>80.50000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>33.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.50000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>328.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.10000</fat>
+    <fiber>18.30000</fiber>
+    <folate>1120.00000</folate>
+    <iron>28.00000</iron>
+    <linoleic>1.11100</linoleic>
+    <linolenic>0.08700</linolenic>
+    <magnesium>229.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.30000</mufa>
+    <niacin>16.70000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>449.00000</phosphorus>
+    <potassium>533.00000</potassium>
+    <protein>9.90000</protein>
+    <pufa>1.20000</pufa>
+    <riboflavin>1.40000</riboflavin>
+    <selenium>52.50000</selenium>
+    <sfa>0.40000</sfa>
+    <sodium>540.00000</sodium>
+    <thiamin>1.30000</thiamin>
+    <vitamin_a>749.00000</vitamin_a>
+    <vitamin_b12>5.00000</vitamin_b12>
+    <vitamin_b6>1.70000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>3.30000</vitamin_d>
+    <vitamin_e>0.77000</vitamin_e>
+    <vitamin_k>1.40000</vitamin_k>
+    <water>3.40000</water>
+    <weight>100.00000</weight>
+    <zinc>5.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

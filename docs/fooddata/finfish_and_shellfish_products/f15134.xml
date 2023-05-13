@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15134</foodid>
+    <name>Fish, wolffish, Atlantic, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>6.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>46.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02900</copper>
+    <cost>0.0</cost>
+    <dha>0.31600</dha>
+    <energy_gross>96.00000</energy_gross>
+    <epa>0.30700</epa>
+    <fat>2.39000</fat>
+    <fiber>0.00000</fiber>
+    <folate>5.00000</folate>
+    <iron>0.09000</iron>
+    <linoleic>0.02000</linoleic>
+    <linolenic>0.00900</linolenic>
+    <magnesium>30.00000</magnesium>
+    <manganese>0.01500</manganese>
+    <mufa>0.83700</mufa>
+    <niacin>2.13300</niacin>
+    <pantothenic_acid>0.57000</pantothenic_acid>
+    <phosphorus>200.00000</phosphorus>
+    <potassium>300.00000</potassium>
+    <protein>17.50000</protein>
+    <pufa>0.84500</pufa>
+    <riboflavin>0.08000</riboflavin>
+    <selenium>36.50000</selenium>
+    <sfa>0.36500</sfa>
+    <sodium>85.00000</sodium>
+    <thiamin>0.18000</thiamin>
+    <vitamin_a>113.00000</vitamin_a>
+    <vitamin_b12>2.03000</vitamin_b12>
+    <vitamin_b6>0.40000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>79.90000</water>
+    <weight>100.00000</weight>
+    <zinc>0.78000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

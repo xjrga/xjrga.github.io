@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21309</foodid>
+    <name>McDONALD'S, Chicken McNUGGETS</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>11.00000</calcium>
+    <carbohydrate_by_difference>15.09000</carbohydrate_by_difference>
+    <cholesterol>44.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04900</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>302.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>19.81000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.89000</iron>
+    <linoleic>5.18600</linoleic>
+    <linolenic>0.32100</linolenic>
+    <magnesium>24.00000</magnesium>
+    <manganese>0.14000</manganese>
+    <mufa>8.13400</mufa>
+    <niacin>7.40000</niacin>
+    <pantothenic_acid>0.88000</pantothenic_acid>
+    <phosphorus>272.00000</phosphorus>
+    <potassium>252.00000</potassium>
+    <protein>15.79000</protein>
+    <pufa>5.61000</pufa>
+    <riboflavin>0.11000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>3.26100</sfa>
+    <sodium>566.00000</sodium>
+    <thiamin>0.16000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.33000</vitamin_b12>
+    <vitamin_b6>0.39800</vitamin_b6>
+    <vitamin_c>1.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>47.13000</water>
+    <weight>100.00000</weight>
+    <zinc>0.59000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

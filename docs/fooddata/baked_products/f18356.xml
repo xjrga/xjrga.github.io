@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18356</foodid>
+    <name>Sweet rolls, cinnamon, commercially prepared with raisins</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>72.00000</calcium>
+    <carbohydrate_by_difference>50.90000</carbohydrate_by_difference>
+    <cholesterol>66.00000</cholesterol>
+    <choline>41.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08800</copper>
+    <cost>0.0</cost>
+    <dha>0.00400</dha>
+    <energy_gross>372.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>16.40000</fat>
+    <fiber>2.40000</fiber>
+    <folate>106.00000</folate>
+    <iron>1.60000</iron>
+    <linoleic>7.02100</linoleic>
+    <linolenic>0.43300</linolenic>
+    <magnesium>17.00000</magnesium>
+    <manganese>0.30000</manganese>
+    <mufa>4.79700</mufa>
+    <niacin>2.38400</niacin>
+    <pantothenic_acid>0.40600</pantothenic_acid>
+    <phosphorus>76.00000</phosphorus>
+    <potassium>111.00000</potassium>
+    <protein>6.20000</protein>
+    <pufa>7.47300</pufa>
+    <riboflavin>0.26500</riboflavin>
+    <selenium>17.00000</selenium>
+    <sfa>3.07900</sfa>
+    <sodium>304.00000</sodium>
+    <thiamin>0.32400</thiamin>
+    <vitamin_a>62.00000</vitamin_a>
+    <vitamin_b12>0.14000</vitamin_b12>
+    <vitamin_b6>0.10700</vitamin_b6>
+    <vitamin_c>2.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.99000</vitamin_e>
+    <vitamin_k>4.40000</vitamin_k>
+    <water>24.80000</water>
+    <weight>100.00000</weight>
+    <zinc>0.59000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11191</foodid>
+    <name>Cowpeas (blackeyes), immature seeds, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>126.00000</calcium>
+    <carbohydrate_by_difference>18.83000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.13000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>90.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.35000</fat>
+    <fiber>5.00000</fiber>
+    <folate>168.00000</folate>
+    <iron>1.10000</iron>
+    <linoleic>0.08700</linoleic>
+    <linolenic>0.06300</linolenic>
+    <magnesium>51.00000</magnesium>
+    <manganese>0.56000</manganese>
+    <mufa>0.03200</mufa>
+    <niacin>1.45000</niacin>
+    <pantothenic_acid>0.15100</pantothenic_acid>
+    <phosphorus>53.00000</phosphorus>
+    <potassium>431.00000</potassium>
+    <protein>2.95000</protein>
+    <pufa>0.15000</pufa>
+    <riboflavin>0.14500</riboflavin>
+    <selenium>2.30000</selenium>
+    <sfa>0.09000</sfa>
+    <sodium>4.00000</sodium>
+    <thiamin>0.11000</thiamin>
+    <vitamin_a>41.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.06700</vitamin_b6>
+    <vitamin_c>2.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>77.20000</water>
+    <weight>100.00000</weight>
+    <zinc>1.01000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

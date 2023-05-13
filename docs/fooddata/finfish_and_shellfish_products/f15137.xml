@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15137</foodid>
+    <name>Crustaceans, crab, alaska king, cooked, moist heat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>59.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>53.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.18200</copper>
+    <cost>0.0</cost>
+    <dha>0.11800</dha>
+    <energy_gross>97.00000</energy_gross>
+    <epa>0.29500</epa>
+    <fat>1.54000</fat>
+    <fiber>0.00000</fiber>
+    <folate>51.00000</folate>
+    <iron>0.76000</iron>
+    <linoleic>0.02000</linoleic>
+    <linolenic>0.01400</linolenic>
+    <magnesium>63.00000</magnesium>
+    <manganese>0.04000</manganese>
+    <mufa>0.18500</mufa>
+    <niacin>1.34000</niacin>
+    <pantothenic_acid>0.40000</pantothenic_acid>
+    <phosphorus>280.00000</phosphorus>
+    <potassium>262.00000</potassium>
+    <protein>19.35000</protein>
+    <pufa>0.53600</pufa>
+    <riboflavin>0.05500</riboflavin>
+    <selenium>40.00000</selenium>
+    <sfa>0.13300</sfa>
+    <sodium>1072.00000</sodium>
+    <thiamin>0.05300</thiamin>
+    <vitamin_a>9.00000</vitamin_a>
+    <vitamin_b12>11.50000</vitamin_b12>
+    <vitamin_b6>0.18000</vitamin_b6>
+    <vitamin_c>7.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>77.55000</water>
+    <weight>100.00000</weight>
+    <zinc>7.62000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

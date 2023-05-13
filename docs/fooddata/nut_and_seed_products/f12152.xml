@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>12152</foodid>
+    <name>Nuts, pistachio nuts, dry roasted, without salt added</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>107.00000</calcium>
+    <carbohydrate_by_difference>28.28000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>71.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.29300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>572.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>45.82000</fat>
+    <fiber>10.30000</fiber>
+    <folate>51.00000</folate>
+    <iron>4.03000</iron>
+    <linoleic>13.12500</linoleic>
+    <linolenic>0.21200</linolenic>
+    <magnesium>109.00000</magnesium>
+    <manganese>1.24300</manganese>
+    <mufa>24.53400</mufa>
+    <niacin>1.37300</niacin>
+    <pantothenic_acid>0.51300</pantothenic_acid>
+    <phosphorus>469.00000</phosphorus>
+    <potassium>1007.00000</potassium>
+    <protein>21.05000</protein>
+    <pufa>13.34600</pufa>
+    <riboflavin>0.23400</riboflavin>
+    <selenium>10.00000</selenium>
+    <sfa>5.64500</sfa>
+    <sodium>6.00000</sodium>
+    <thiamin>0.69500</thiamin>
+    <vitamin_a>13.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.12200</vitamin_b6>
+    <vitamin_c>3.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>2.17000</vitamin_e>
+    <vitamin_k>13.20000</vitamin_k>
+    <water>1.85000</water>
+    <weight>100.00000</weight>
+    <zinc>2.34000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

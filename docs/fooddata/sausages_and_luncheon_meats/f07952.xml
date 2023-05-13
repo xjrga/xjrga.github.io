@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07952</foodid>
+    <name>Bologna, chicken, turkey, pork</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>82.00000</calcium>
+    <carbohydrate_by_difference>5.65000</carbohydrate_by_difference>
+    <cholesterol>80.00000</cholesterol>
+    <choline>53.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>298.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>26.18000</fat>
+    <fiber>0.00000</fiber>
+    <folate>9.00000</folate>
+    <iron>1.16000</iron>
+    <linoleic>4.18600</linoleic>
+    <linolenic>0.25200</linolenic>
+    <magnesium>15.00000</magnesium>
+    <manganese>0.04400</manganese>
+    <mufa>10.55500</mufa>
+    <niacin>3.32000</niacin>
+    <pantothenic_acid>0.69600</pantothenic_acid>
+    <phosphorus>185.00000</phosphorus>
+    <potassium>152.00000</potassium>
+    <protein>9.88000</protein>
+    <pufa>4.67200</pufa>
+    <riboflavin>0.13200</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>7.99000</sfa>
+    <sodium>922.00000</sodium>
+    <thiamin>0.04200</thiamin>
+    <vitamin_a>13.00000</vitamin_a>
+    <vitamin_b12>0.79000</vitamin_b12>
+    <vitamin_b6>0.18000</vitamin_b6>
+    <vitamin_c>19.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.41000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>55.25000</water>
+    <weight>100.00000</weight>
+    <zinc>1.28000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

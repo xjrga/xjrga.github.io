@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35171</foodid>
+    <name>Fish, salmon, chum, dried (Alaska Native)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>155.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>214.00000</cholesterol>
+    <choline>231.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.25400</copper>
+    <cost>0.0</cost>
+    <dha>0.95000</dha>
+    <energy_gross>378.00000</energy_gross>
+    <epa>0.61000</epa>
+    <fat>14.38000</fat>
+    <fiber>0.00000</fiber>
+    <folate>12.00000</folate>
+    <iron>2.20000</iron>
+    <linoleic>0.12500</linoleic>
+    <linolenic>0.11500</linolenic>
+    <magnesium>68.00000</magnesium>
+    <manganese>0.07100</manganese>
+    <mufa>5.13900</mufa>
+    <niacin>14.65000</niacin>
+    <pantothenic_acid>2.76000</pantothenic_acid>
+    <phosphorus>650.00000</phosphorus>
+    <potassium>910.00000</potassium>
+    <protein>62.09000</protein>
+    <pufa>2.32300</pufa>
+    <riboflavin>0.46300</riboflavin>
+    <selenium>103.80000</selenium>
+    <sfa>2.39500</sfa>
+    <sodium>190.00000</sodium>
+    <thiamin>0.35600</thiamin>
+    <vitamin_a>16.00000</vitamin_a>
+    <vitamin_b12>28.60000</vitamin_b12>
+    <vitamin_b6>0.68100</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.82000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>22.79000</water>
+    <weight>100.00000</weight>
+    <zinc>1.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>10903</foodid>
+    <name>Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, unheated</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>6.00000</calcium>
+    <carbohydrate_by_difference>0.32000</carbohydrate_by_difference>
+    <cholesterol>62.00000</cholesterol>
+    <choline>86.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>191.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>11.11000</fat>
+    <fiber>0.00000</fiber>
+    <folate>3.00000</folate>
+    <iron>1.01000</iron>
+    <linoleic>1.25600</linoleic>
+    <linolenic>0.05400</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.02200</manganese>
+    <mufa>5.08800</mufa>
+    <niacin>4.85600</niacin>
+    <pantothenic_acid>0.48900</pantothenic_acid>
+    <phosphorus>233.00000</phosphorus>
+    <potassium>279.00000</potassium>
+    <protein>22.35000</protein>
+    <pufa>1.41900</pufa>
+    <riboflavin>0.21100</riboflavin>
+    <selenium>46.60000</selenium>
+    <sfa>3.61400</sfa>
+    <sodium>779.00000</sodium>
+    <thiamin>0.23500</thiamin>
+    <vitamin_a>10.00000</vitamin_a>
+    <vitamin_b12>0.36000</vitamin_b12>
+    <vitamin_b6>0.36100</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.34000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>65.04000</water>
+    <weight>100.00000</weight>
+    <zinc>2.53000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

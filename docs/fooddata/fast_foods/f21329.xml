@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21329</foodid>
+    <name>McDONALD'S, Sausage, Egg & Cheese McGRIDDLES</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>96.00000</calcium>
+    <carbohydrate_by_difference>22.04000</carbohydrate_by_difference>
+    <cholesterol>132.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>283.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>17.73000</fat>
+    <fiber>0.60000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.51000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>14.00000</magnesium>
+    <manganese>0.14300</manganese>
+    <mufa>6.71800</mufa>
+    <niacin>2.11100</niacin>
+    <pantothenic_acid>0.59000</pantothenic_acid>
+    <phosphorus>307.00000</phosphorus>
+    <potassium>146.00000</potassium>
+    <protein>10.77000</protein>
+    <pufa>2.26000</pufa>
+    <riboflavin>0.29000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>5.64900</sfa>
+    <sodium>652.00000</sodium>
+    <thiamin>0.17000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.53000</vitamin_b12>
+    <vitamin_b6>0.00000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>47.03000</water>
+    <weight>100.00000</weight>
+    <zinc>1.03000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

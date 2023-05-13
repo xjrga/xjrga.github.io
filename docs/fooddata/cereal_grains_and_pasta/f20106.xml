@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20106</foodid>
+    <name>Macaroni, vegetable, enriched, cooked</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>11.00000</calcium>
+    <carbohydrate_by_difference>26.61000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>5.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>128.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.11000</fat>
+    <fiber>4.30000</fiber>
+    <folate>106.00000</folate>
+    <iron>0.49000</iron>
+    <linoleic>0.03900</linoleic>
+    <linolenic>0.00500</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.98600</manganese>
+    <mufa>0.01200</mufa>
+    <niacin>1.07100</niacin>
+    <pantothenic_acid>0.35000</pantothenic_acid>
+    <phosphorus>50.00000</phosphorus>
+    <potassium>31.00000</potassium>
+    <protein>4.53000</protein>
+    <pufa>0.04400</pufa>
+    <riboflavin>0.06100</riboflavin>
+    <selenium>19.80000</selenium>
+    <sfa>0.01600</sfa>
+    <sodium>6.00000</sodium>
+    <thiamin>0.11200</thiamin>
+    <vitamin_a>5.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.02400</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.21000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>68.37000</water>
+    <weight>100.00000</weight>
+    <zinc>0.44000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

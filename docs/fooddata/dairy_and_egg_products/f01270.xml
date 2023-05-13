@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01270</foodid>
+    <name>Cheese, cheddar, sharp, sliced</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>711.00000</calcium>
+    <carbohydrate_by_difference>2.13000</carbohydrate_by_difference>
+    <cholesterol>99.00000</cholesterol>
+    <choline>16.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03500</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>410.00000</energy_gross>
+    <epa>0.01000</epa>
+    <fat>33.82000</fat>
+    <fiber>0.00000</fiber>
+    <folate>27.00000</folate>
+    <iron>0.16000</iron>
+    <linoleic>1.17900</linoleic>
+    <linolenic>0.12200</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.02400</manganese>
+    <mufa>8.42800</mufa>
+    <niacin>0.03900</niacin>
+    <pantothenic_acid>0.48100</pantothenic_acid>
+    <phosphorus>460.00000</phosphorus>
+    <potassium>76.00000</potassium>
+    <protein>24.25000</protein>
+    <pufa>1.43300</pufa>
+    <riboflavin>0.43400</riboflavin>
+    <selenium>28.30000</selenium>
+    <sfa>19.36800</sfa>
+    <sodium>644.00000</sodium>
+    <thiamin>0.02700</thiamin>
+    <vitamin_a>263.00000</vitamin_a>
+    <vitamin_b12>0.88000</vitamin_b12>
+    <vitamin_b6>0.07500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>1.00000</vitamin_d>
+    <vitamin_e>0.78000</vitamin_e>
+    <vitamin_k>2.40000</vitamin_k>
+    <water>36.15000</water>
+    <weight>100.00000</weight>
+    <zinc>3.74000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

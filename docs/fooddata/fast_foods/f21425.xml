@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21425</foodid>
+    <name>KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat only, skin and breading removed</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>25.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>96.00000</cholesterol>
+    <choline>93.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06300</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>149.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.56000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.53000</iron>
+    <linoleic>0.65000</linoleic>
+    <linolenic>0.08800</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.04200</manganese>
+    <mufa>2.31300</mufa>
+    <niacin>8.66700</niacin>
+    <pantothenic_acid>1.14000</pantothenic_acid>
+    <phosphorus>255.00000</phosphorus>
+    <potassium>285.00000</potassium>
+    <protein>26.89000</protein>
+    <pufa>0.98200</pufa>
+    <riboflavin>0.22300</riboflavin>
+    <selenium>33.10000</selenium>
+    <sfa>1.03000</sfa>
+    <sodium>499.00000</sodium>
+    <thiamin>0.10200</thiamin>
+    <vitamin_a>5.00000</vitamin_a>
+    <vitamin_b12>0.26000</vitamin_b12>
+    <vitamin_b6>0.28000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.33000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>66.44000</water>
+    <weight>100.00000</weight>
+    <zinc>0.97000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

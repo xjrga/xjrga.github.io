@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18951</foodid>
+    <name>Waffles, chocolate chip, frozen, ready-to-heat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>357.00000</calcium>
+    <carbohydrate_by_difference>45.68000</carbohydrate_by_difference>
+    <cholesterol>21.00000</cholesterol>
+    <choline>15.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.22100</copper>
+    <cost>0.0</cost>
+    <dha>0.00200</dha>
+    <energy_gross>297.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>10.10000</fat>
+    <fiber>1.50000</fiber>
+    <folate>117.00000</folate>
+    <iron>6.40000</iron>
+    <linoleic>2.91600</linoleic>
+    <linolenic>0.34700</linolenic>
+    <magnesium>16.00000</magnesium>
+    <manganese>0.39300</manganese>
+    <mufa>2.56400</mufa>
+    <niacin>5.70000</niacin>
+    <pantothenic_acid>0.21800</pantothenic_acid>
+    <phosphorus>272.00000</phosphorus>
+    <potassium>74.00000</potassium>
+    <protein>5.80000</protein>
+    <pufa>3.27200</pufa>
+    <riboflavin>0.49000</riboflavin>
+    <selenium>13.10000</selenium>
+    <sfa>3.56700</sfa>
+    <sodium>529.00000</sodium>
+    <thiamin>0.43000</thiamin>
+    <vitamin_a>429.00000</vitamin_a>
+    <vitamin_b12>1.70000</vitamin_b12>
+    <vitamin_b6>0.57000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>9.30000</vitamin_k>
+    <water>35.62000</water>
+    <weight>100.00000</weight>
+    <zinc>0.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

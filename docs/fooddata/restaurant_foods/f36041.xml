@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36041</foodid>
+    <name>Restaurant, Italian, lasagna with meat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>197.00000</calcium>
+    <carbohydrate_by_difference>11.36000</carbohydrate_by_difference>
+    <cholesterol>36.00000</cholesterol>
+    <choline>33.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07000</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>185.00000</energy_gross>
+    <epa>0.00200</epa>
+    <fat>10.69000</fat>
+    <fiber>1.50000</fiber>
+    <folate>38.00000</folate>
+    <iron>0.79000</iron>
+    <linoleic>0.67000</linoleic>
+    <linolenic>0.05700</linolenic>
+    <magnesium>22.00000</magnesium>
+    <manganese>0.13900</manganese>
+    <mufa>3.31300</mufa>
+    <niacin>1.84300</niacin>
+    <pantothenic_acid>0.49200</pantothenic_acid>
+    <phosphorus>178.00000</phosphorus>
+    <potassium>255.00000</potassium>
+    <protein>10.83000</protein>
+    <pufa>0.78800</pufa>
+    <riboflavin>0.23700</riboflavin>
+    <selenium>18.00000</selenium>
+    <sfa>4.94100</sfa>
+    <sodium>466.00000</sodium>
+    <thiamin>0.14000</thiamin>
+    <vitamin_a>81.00000</vitamin_a>
+    <vitamin_b12>0.66000</vitamin_b12>
+    <vitamin_b6>0.12200</vitamin_b6>
+    <vitamin_c>0.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.91000</vitamin_e>
+    <vitamin_k>6.80000</vitamin_k>
+    <water>64.87000</water>
+    <weight>100.00000</weight>
+    <zinc>1.32000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

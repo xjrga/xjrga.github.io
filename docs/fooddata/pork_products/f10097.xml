@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>10097</foodid>
+    <name>Pork, fresh, variety meats and by-products, brain, cooked, braised</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>9.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>2552.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.26300</copper>
+    <cost>0.0</cost>
+    <dha>0.46000</dha>
+    <energy_gross>138.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>9.51000</fat>
+    <fiber>0.00000</fiber>
+    <folate>4.00000</folate>
+    <iron>1.82000</iron>
+    <linoleic>0.09000</linoleic>
+    <linolenic>0.12000</linolenic>
+    <magnesium>12.00000</magnesium>
+    <manganese>0.08500</manganese>
+    <mufa>1.72000</mufa>
+    <niacin>3.33000</niacin>
+    <pantothenic_acid>1.82300</pantothenic_acid>
+    <phosphorus>220.00000</phosphorus>
+    <potassium>195.00000</potassium>
+    <protein>12.14000</protein>
+    <pufa>1.47000</pufa>
+    <riboflavin>0.22300</riboflavin>
+    <selenium>18.50000</selenium>
+    <sfa>2.15000</sfa>
+    <sodium>91.00000</sodium>
+    <thiamin>0.07800</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.42000</vitamin_b12>
+    <vitamin_b6>0.14000</vitamin_b6>
+    <vitamin_c>14.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>75.88000</water>
+    <weight>100.00000</weight>
+    <zinc>1.48000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11785</foodid>
+    <name>Gourd, dishcloth (towelgourd), cooked, boiled, drained, with salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>9.00000</calcium>
+    <carbohydrate_by_difference>13.75000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>54.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.34000</fat>
+    <fiber>2.90000</fiber>
+    <folate>12.00000</folate>
+    <iron>0.36000</iron>
+    <linoleic>0.14800</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.22300</manganese>
+    <mufa>0.06300</mufa>
+    <niacin>0.26000</niacin>
+    <pantothenic_acid>0.50100</pantothenic_acid>
+    <phosphorus>31.00000</phosphorus>
+    <potassium>453.00000</potassium>
+    <protein>0.66000</protein>
+    <pufa>0.14800</pufa>
+    <riboflavin>0.04200</riboflavin>
+    <selenium>0.20000</selenium>
+    <sfa>0.02700</sfa>
+    <sodium>257.00000</sodium>
+    <thiamin>0.04600</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.09900</vitamin_b6>
+    <vitamin_c>5.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.24000</vitamin_e>
+    <vitamin_k>1.70000</vitamin_k>
+    <water>84.29000</water>
+    <weight>100.00000</weight>
+    <zinc>0.17000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

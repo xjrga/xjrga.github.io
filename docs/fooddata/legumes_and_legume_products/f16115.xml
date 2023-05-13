@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16115</foodid>
+    <name>Soy flour, full-fat, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>206.00000</calcium>
+    <carbohydrate_by_difference>31.92000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>190.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>2.92000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>434.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>20.65000</fat>
+    <fiber>9.60000</fiber>
+    <folate>345.00000</folate>
+    <iron>6.37000</iron>
+    <linoleic>10.28000</linoleic>
+    <linolenic>1.37800</linolenic>
+    <magnesium>429.00000</magnesium>
+    <manganese>2.27500</manganese>
+    <mufa>4.56100</mufa>
+    <niacin>4.32000</niacin>
+    <pantothenic_acid>1.59000</pantothenic_acid>
+    <phosphorus>494.00000</phosphorus>
+    <potassium>2515.00000</potassium>
+    <protein>37.81000</protein>
+    <pufa>11.65700</pufa>
+    <riboflavin>1.16000</riboflavin>
+    <selenium>7.50000</selenium>
+    <sfa>2.98700</sfa>
+    <sodium>13.00000</sodium>
+    <thiamin>0.58100</thiamin>
+    <vitamin_a>6.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.46100</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.95000</vitamin_e>
+    <vitamin_k>70.00000</vitamin_k>
+    <water>5.16000</water>
+    <weight>100.00000</weight>
+    <zinc>3.92000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

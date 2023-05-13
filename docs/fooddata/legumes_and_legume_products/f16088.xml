@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16088</foodid>
+    <name>Peanuts, all types, cooked, boiled, with salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>55.00000</calcium>
+    <carbohydrate_by_difference>21.26000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>32.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.49900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>318.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>22.01000</fat>
+    <fiber>8.80000</fiber>
+    <folate>75.00000</folate>
+    <iron>1.01000</iron>
+    <linoleic>6.95400</linoleic>
+    <linolenic>0.00100</linolenic>
+    <magnesium>102.00000</magnesium>
+    <manganese>1.02300</manganese>
+    <mufa>10.92100</mufa>
+    <niacin>5.25900</niacin>
+    <pantothenic_acid>0.82500</pantothenic_acid>
+    <phosphorus>198.00000</phosphorus>
+    <potassium>180.00000</potassium>
+    <protein>13.50000</protein>
+    <pufa>6.95600</pufa>
+    <riboflavin>0.06300</riboflavin>
+    <selenium>4.40000</selenium>
+    <sfa>3.05500</sfa>
+    <sodium>751.00000</sodium>
+    <thiamin>0.25900</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.15200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>4.10000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>41.78000</water>
+    <weight>100.00000</weight>
+    <zinc>1.83000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

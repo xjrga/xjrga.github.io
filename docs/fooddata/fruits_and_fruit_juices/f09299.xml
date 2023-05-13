@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09299</foodid>
+    <name>Raisins, seeded</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>28.00000</calcium>
+    <carbohydrate_by_difference>78.47000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.30200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>296.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.54000</fat>
+    <fiber>6.80000</fiber>
+    <folate>3.00000</folate>
+    <iron>2.59000</iron>
+    <linoleic>0.12200</linoleic>
+    <linolenic>0.03700</linolenic>
+    <magnesium>30.00000</magnesium>
+    <manganese>0.26700</manganese>
+    <mufa>0.02200</mufa>
+    <niacin>1.11400</niacin>
+    <pantothenic_acid>0.04500</pantothenic_acid>
+    <phosphorus>75.00000</phosphorus>
+    <potassium>825.00000</potassium>
+    <protein>2.52000</protein>
+    <pufa>0.15900</pufa>
+    <riboflavin>0.18200</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.17800</sfa>
+    <sodium>28.00000</sodium>
+    <thiamin>0.11200</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.18800</vitamin_b6>
+    <vitamin_c>5.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>16.57000</water>
+    <weight>100.00000</weight>
+    <zinc>0.18000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

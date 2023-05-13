@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08274</foodid>
+    <name>Cereals ready-to-eat, GENERAL MILLS, BERRY BERRY KIX</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>421.00000</calcium>
+    <carbohydrate_by_difference>83.90000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>14.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.16500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>376.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.19000</fat>
+    <fiber>5.80000</fiber>
+    <folate>881.00000</folate>
+    <iron>23.70000</iron>
+    <linoleic>1.59000</linoleic>
+    <linolenic>0.11000</linolenic>
+    <magnesium>42.00000</magnesium>
+    <manganese>0.33200</manganese>
+    <mufa>1.70000</mufa>
+    <niacin>10.50000</niacin>
+    <pantothenic_acid>0.47100</pantothenic_acid>
+    <phosphorus>211.00000</phosphorus>
+    <potassium>228.00000</potassium>
+    <protein>6.19000</protein>
+    <pufa>1.70000</pufa>
+    <riboflavin>0.89000</riboflavin>
+    <selenium>12.20000</selenium>
+    <sfa>0.60000</sfa>
+    <sodium>517.00000</sodium>
+    <thiamin>0.80000</thiamin>
+    <vitamin_a>433.00000</vitamin_a>
+    <vitamin_b12>3.20000</vitamin_b12>
+    <vitamin_b6>1.05000</vitamin_b6>
+    <vitamin_c>18.90000</vitamin_c>
+    <vitamin_d>3.20000</vitamin_d>
+    <vitamin_e>0.40000</vitamin_e>
+    <vitamin_k>0.60000</vitamin_k>
+    <water>2.09000</water>
+    <weight>100.00000</weight>
+    <zinc>7.90000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

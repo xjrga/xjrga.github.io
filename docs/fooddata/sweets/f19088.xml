@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19088</foodid>
+    <name>Ice creams, vanilla, light</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>161.00000</calcium>
+    <carbohydrate_by_difference>29.46000</carbohydrate_by_difference>
+    <cholesterol>27.00000</cholesterol>
+    <choline>26.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>180.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.83000</fat>
+    <fiber>0.30000</fiber>
+    <folate>6.00000</folate>
+    <iron>0.19000</iron>
+    <linoleic>0.13400</linoleic>
+    <linolenic>0.08500</linolenic>
+    <magnesium>14.00000</magnesium>
+    <manganese>0.00500</manganese>
+    <mufa>1.28100</mufa>
+    <niacin>0.13600</niacin>
+    <pantothenic_acid>0.48100</pantothenic_acid>
+    <phosphorus>103.00000</phosphorus>
+    <potassium>208.00000</potassium>
+    <protein>4.78000</protein>
+    <pufa>0.21900</pufa>
+    <riboflavin>0.25500</riboflavin>
+    <selenium>2.00000</selenium>
+    <sfa>2.92700</sfa>
+    <sodium>74.00000</sodium>
+    <thiamin>0.05300</thiamin>
+    <vitamin_a>128.00000</vitamin_a>
+    <vitamin_b12>0.47000</vitamin_b12>
+    <vitamin_b6>0.04500</vitamin_b6>
+    <vitamin_c>1.20000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.12000</vitamin_e>
+    <vitamin_k>0.40000</vitamin_k>
+    <water>59.85000</water>
+    <weight>100.00000</weight>
+    <zinc>0.73000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

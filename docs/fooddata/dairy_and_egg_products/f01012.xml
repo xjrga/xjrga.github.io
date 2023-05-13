@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01012</foodid>
+    <name>Cheese, cottage, creamed, large or small curd</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>83.00000</calcium>
+    <carbohydrate_by_difference>3.38000</carbohydrate_by_difference>
+    <cholesterol>17.00000</cholesterol>
+    <choline>18.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>98.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.30000</fat>
+    <fiber>0.00000</fiber>
+    <folate>12.00000</folate>
+    <iron>0.07000</iron>
+    <linoleic>0.10500</linoleic>
+    <linolenic>0.01700</linolenic>
+    <magnesium>8.00000</magnesium>
+    <manganese>0.00200</manganese>
+    <mufa>0.77800</mufa>
+    <niacin>0.09900</niacin>
+    <pantothenic_acid>0.55700</pantothenic_acid>
+    <phosphorus>159.00000</phosphorus>
+    <potassium>104.00000</potassium>
+    <protein>11.12000</protein>
+    <pufa>0.12300</pufa>
+    <riboflavin>0.16300</riboflavin>
+    <selenium>9.70000</selenium>
+    <sfa>1.71800</sfa>
+    <sodium>364.00000</sodium>
+    <thiamin>0.02700</thiamin>
+    <vitamin_a>37.00000</vitamin_a>
+    <vitamin_b12>0.43000</vitamin_b12>
+    <vitamin_b6>0.04600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.08000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>79.79000</water>
+    <weight>100.00000</weight>
+    <zinc>0.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19001</foodid>
+    <name>Candies, TOBLERONE, milk chocolate with honey and almond nougat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>126.00000</calcium>
+    <carbohydrate_by_difference>61.21000</carbohydrate_by_difference>
+    <cholesterol>14.00000</cholesterol>
+    <choline>60.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.34000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>525.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>28.57000</fat>
+    <fiber>2.50000</fiber>
+    <folate>9.00000</folate>
+    <iron>1.60000</iron>
+    <linoleic>2.90500</linoleic>
+    <linolenic>0.32900</linolenic>
+    <magnesium>47.00000</magnesium>
+    <manganese>0.36100</manganese>
+    <mufa>3.74400</mufa>
+    <niacin>0.35300</niacin>
+    <pantothenic_acid>0.31600</pantothenic_acid>
+    <phosphorus>145.00000</phosphorus>
+    <potassium>260.00000</potassium>
+    <protein>5.71000</protein>
+    <pufa>3.23400</pufa>
+    <riboflavin>0.23700</riboflavin>
+    <selenium>3.60000</selenium>
+    <sfa>17.14300</sfa>
+    <sodium>54.00000</sodium>
+    <thiamin>0.07600</thiamin>
+    <vitamin_a>37.00000</vitamin_a>
+    <vitamin_b12>0.47000</vitamin_b12>
+    <vitamin_b6>0.02700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.77000</vitamin_e>
+    <vitamin_k>19.40000</vitamin_k>
+    <water>3.28000</water>
+    <weight>100.00000</weight>
+    <zinc>1.53000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

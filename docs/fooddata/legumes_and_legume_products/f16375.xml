@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16375</foodid>
+    <name>Lima beans, thin seeded (baby), mature seeds, cooked, boiled, with salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>29.00000</calcium>
+    <carbohydrate_by_difference>23.31000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.21500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>126.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.38000</fat>
+    <fiber>7.70000</fiber>
+    <folate>150.00000</folate>
+    <iron>2.40000</iron>
+    <linoleic>0.11700</linoleic>
+    <linolenic>0.05200</linolenic>
+    <magnesium>53.00000</magnesium>
+    <manganese>0.58500</manganese>
+    <mufa>0.03400</mufa>
+    <niacin>0.66000</niacin>
+    <pantothenic_acid>0.47200</pantothenic_acid>
+    <phosphorus>127.00000</phosphorus>
+    <potassium>401.00000</potassium>
+    <protein>8.04000</protein>
+    <pufa>0.16900</pufa>
+    <riboflavin>0.05500</riboflavin>
+    <selenium>4.90000</selenium>
+    <sfa>0.08800</sfa>
+    <sodium>239.00000</sodium>
+    <thiamin>0.16100</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.07800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>67.15000</water>
+    <weight>100.00000</weight>
+    <zinc>1.03000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>02034</foodid>
+    <name>Spices, poultry seasoning</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>996.00000</calcium>
+    <carbohydrate_by_difference>65.59000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>30.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.84300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>307.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.53000</fat>
+    <fiber>11.30000</fiber>
+    <folate>138.00000</folate>
+    <iron>35.30000</iron>
+    <linoleic>0.99200</linoleic>
+    <linolenic>0.94400</linolenic>
+    <magnesium>224.00000</magnesium>
+    <manganese>6.85700</manganese>
+    <mufa>1.20600</mufa>
+    <niacin>2.97000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>171.00000</phosphorus>
+    <potassium>684.00000</potassium>
+    <protein>9.59000</protein>
+    <pufa>1.93600</pufa>
+    <riboflavin>0.19100</riboflavin>
+    <selenium>7.20000</selenium>
+    <sfa>3.29000</sfa>
+    <sodium>27.00000</sodium>
+    <thiamin>0.26400</thiamin>
+    <vitamin_a>132.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.32000</vitamin_b6>
+    <vitamin_c>12.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.32000</vitamin_e>
+    <vitamin_k>805.40000</vitamin_k>
+    <water>9.31000</water>
+    <weight>100.00000</weight>
+    <zinc>3.14000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

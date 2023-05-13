@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08074</foodid>
+    <name>Cereals ready-to-eat, RALSTON TASTEEOS</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>357.00000</calcium>
+    <carbohydrate_by_difference>75.50000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>14.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.42900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>357.00000</energy_gross>
+    <epa>0.00600</epa>
+    <fat>5.36000</fat>
+    <fiber>10.70000</fiber>
+    <folate>1201.00000</folate>
+    <iron>32.14000</iron>
+    <linoleic>1.71900</linoleic>
+    <linolenic>0.06000</linolenic>
+    <magnesium>143.00000</magnesium>
+    <manganese>2.70000</manganese>
+    <mufa>1.78600</mufa>
+    <niacin>17.85700</niacin>
+    <pantothenic_acid>0.39300</pantothenic_acid>
+    <phosphorus>536.00000</phosphorus>
+    <potassium>607.00000</potassium>
+    <protein>10.71000</protein>
+    <pufa>1.78600</pufa>
+    <riboflavin>1.51800</riboflavin>
+    <selenium>47.00000</selenium>
+    <sfa>0.92600</sfa>
+    <sodium>571.00000</sodium>
+    <thiamin>1.33900</thiamin>
+    <vitamin_a>1071.00000</vitamin_a>
+    <vitamin_b12>5.36000</vitamin_b12>
+    <vitamin_b6>1.78600</vitamin_b6>
+    <vitamin_c>21.40000</vitamin_c>
+    <vitamin_d>7.10000</vitamin_d>
+    <vitamin_e>0.43000</vitamin_e>
+    <vitamin_k>1.30000</vitamin_k>
+    <water>3.68000</water>
+    <weight>100.00000</weight>
+    <zinc>13.39000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

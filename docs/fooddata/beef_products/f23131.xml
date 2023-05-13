@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>23131</foodid>
+    <name>Beef, shoulder pot roast, boneless, separable lean and fat, trimmed to 0' fat, all grades, cooked, braised</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>13.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>98.00000</cholesterol>
+    <choline>99.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.12900</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>204.00000</energy_gross>
+    <epa>0.00600</epa>
+    <fat>8.92000</fat>
+    <fiber>0.00000</fiber>
+    <folate>8.00000</folate>
+    <iron>3.53000</iron>
+    <linoleic>0.42000</linoleic>
+    <linolenic>0.01100</linolenic>
+    <magnesium>25.00000</magnesium>
+    <manganese>0.01400</manganese>
+    <mufa>3.88700</mufa>
+    <niacin>4.66200</niacin>
+    <pantothenic_acid>0.81000</pantothenic_acid>
+    <phosphorus>230.00000</phosphorus>
+    <potassium>352.00000</potassium>
+    <protein>31.03000</protein>
+    <pufa>0.51300</pufa>
+    <riboflavin>0.27100</riboflavin>
+    <selenium>37.50000</selenium>
+    <sfa>3.11200</sfa>
+    <sodium>61.00000</sodium>
+    <thiamin>0.07900</thiamin>
+    <vitamin_a>7.00000</vitamin_a>
+    <vitamin_b12>3.35000</vitamin_b12>
+    <vitamin_b6>0.53500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.11000</vitamin_e>
+    <vitamin_k>1.60000</vitamin_k>
+    <water>59.76000</water>
+    <weight>100.00000</weight>
+    <zinc>9.24000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

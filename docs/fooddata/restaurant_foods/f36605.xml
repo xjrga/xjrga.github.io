@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36605</foodid>
+    <name>CRACKER BARREL, country fried shrimp platter</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>43.00000</calcium>
+    <carbohydrate_by_difference>21.40000</carbohydrate_by_difference>
+    <cholesterol>89.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10700</copper>
+    <cost>0.0</cost>
+    <dha>0.05400</dha>
+    <energy_gross>287.00000</energy_gross>
+    <epa>0.05400</epa>
+    <fat>16.77000</fat>
+    <fiber>0.30000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.53000</iron>
+    <linoleic>7.42300</linoleic>
+    <linolenic>0.95400</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.40800</manganese>
+    <mufa>3.78700</mufa>
+    <niacin>0.87000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>210.00000</phosphorus>
+    <potassium>86.00000</potassium>
+    <protein>12.62000</protein>
+    <pufa>8.51900</pufa>
+    <riboflavin>0.08500</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>3.06400</sfa>
+    <sodium>1050.00000</sodium>
+    <thiamin>0.11000</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.69000</vitamin_b12>
+    <vitamin_b6>0.06600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.88000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>46.08000</water>
+    <weight>100.00000</weight>
+    <zinc>0.80000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

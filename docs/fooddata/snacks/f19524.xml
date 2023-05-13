@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19524</foodid>
+    <name>Snacks, taro chips</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>60.00000</calcium>
+    <carbohydrate_by_difference>68.10000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>44.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.28000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>498.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>24.90000</fat>
+    <fiber>7.20000</fiber>
+    <folate>20.00000</folate>
+    <iron>1.20000</iron>
+    <linoleic>12.82000</linoleic>
+    <linolenic>0.06000</linolenic>
+    <magnesium>84.00000</magnesium>
+    <manganese>0.00100</manganese>
+    <mufa>4.43000</mufa>
+    <niacin>0.51500</niacin>
+    <pantothenic_acid>0.66800</pantothenic_acid>
+    <phosphorus>131.00000</phosphorus>
+    <potassium>755.00000</potassium>
+    <protein>2.30000</protein>
+    <pufa>12.88000</pufa>
+    <riboflavin>0.02900</riboflavin>
+    <selenium>1.80000</selenium>
+    <sfa>6.43000</sfa>
+    <sodium>342.00000</sodium>
+    <thiamin>0.17400</thiamin>
+    <vitamin_a>7.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.43800</vitamin_b6>
+    <vitamin_c>5.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>11.34000</vitamin_e>
+    <vitamin_k>18.00000</vitamin_k>
+    <water>2.00000</water>
+    <weight>100.00000</weight>
+    <zinc>0.38000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

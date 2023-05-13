@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07909</foodid>
+    <name>Luncheon meat, pork and chicken, minced, canned, includes SPAM Lite</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>39.00000</calcium>
+    <carbohydrate_by_difference>1.35000</carbohydrate_by_difference>
+    <cholesterol>75.00000</cholesterol>
+    <choline>64.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>196.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>13.90000</fat>
+    <fiber>0.00000</fiber>
+    <folate>4.00000</folate>
+    <iron>1.40000</iron>
+    <linoleic>1.35000</linoleic>
+    <linolenic>0.12000</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>7.02000</mufa>
+    <niacin>3.45000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>109.00000</phosphorus>
+    <potassium>461.00000</potassium>
+    <protein>15.23000</protein>
+    <pufa>1.47000</pufa>
+    <riboflavin>0.21000</riboflavin>
+    <selenium>27.00000</selenium>
+    <sfa>4.51400</sfa>
+    <sodium>1032.00000</sodium>
+    <thiamin>0.18000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.61000</vitamin_b12>
+    <vitamin_b6>0.28300</vitamin_b6>
+    <vitamin_c>38.50000</vitamin_c>
+    <vitamin_d>0.60000</vitamin_d>
+    <vitamin_e>0.24000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>65.72000</water>
+    <weight>100.00000</weight>
+    <zinc>2.20000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

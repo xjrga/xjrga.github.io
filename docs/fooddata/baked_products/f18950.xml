@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18950</foodid>
+    <name>Crackers, wheat, reduced fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>80.00000</calcium>
+    <carbohydrate_by_difference>71.52000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>29.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.22300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>444.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>13.37000</fat>
+    <fiber>3.40000</fiber>
+    <folate>197.00000</folate>
+    <iron>5.02000</iron>
+    <linoleic>6.18000</linoleic>
+    <linolenic>0.86700</linolenic>
+    <magnesium>47.00000</magnesium>
+    <manganese>2.12700</manganese>
+    <mufa>3.29500</mufa>
+    <niacin>5.12300</niacin>
+    <pantothenic_acid>0.51000</pantothenic_acid>
+    <phosphorus>258.00000</phosphorus>
+    <potassium>210.00000</potassium>
+    <protein>9.34000</protein>
+    <pufa>7.05500</pufa>
+    <riboflavin>0.27000</riboflavin>
+    <selenium>10.40000</selenium>
+    <sfa>2.11200</sfa>
+    <sodium>776.00000</sodium>
+    <thiamin>0.62500</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.14000</vitamin_b12>
+    <vitamin_b6>0.15000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.18000</vitamin_e>
+    <vitamin_k>24.70000</vitamin_k>
+    <water>2.73000</water>
+    <weight>100.00000</weight>
+    <zinc>1.74000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

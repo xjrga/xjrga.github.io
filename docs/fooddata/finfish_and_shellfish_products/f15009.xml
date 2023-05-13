@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15009</foodid>
+    <name>Fish, carp, cooked, dry heat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>52.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>84.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07300</copper>
+    <cost>0.0</cost>
+    <dha>0.14600</dha>
+    <energy_gross>162.00000</energy_gross>
+    <epa>0.30500</epa>
+    <fat>7.17000</fat>
+    <fiber>0.00000</fiber>
+    <folate>17.00000</folate>
+    <iron>1.59000</iron>
+    <linoleic>0.66300</linoleic>
+    <linolenic>0.34600</linolenic>
+    <magnesium>38.00000</magnesium>
+    <manganese>0.05000</manganese>
+    <mufa>2.98500</mufa>
+    <niacin>2.10000</niacin>
+    <pantothenic_acid>0.87000</pantothenic_acid>
+    <phosphorus>531.00000</phosphorus>
+    <potassium>427.00000</potassium>
+    <protein>22.86000</protein>
+    <pufa>1.83500</pufa>
+    <riboflavin>0.07000</riboflavin>
+    <selenium>16.20000</selenium>
+    <sfa>1.38800</sfa>
+    <sodium>63.00000</sodium>
+    <thiamin>0.14000</thiamin>
+    <vitamin_a>10.00000</vitamin_a>
+    <vitamin_b12>1.47000</vitamin_b12>
+    <vitamin_b6>0.21900</vitamin_b6>
+    <vitamin_c>1.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>69.63000</water>
+    <weight>100.00000</weight>
+    <zinc>1.90000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

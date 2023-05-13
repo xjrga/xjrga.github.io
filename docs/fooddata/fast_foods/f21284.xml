@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21284</foodid>
+    <name>PAPA JOHN'S 14' Pepperoni Pizza, Original Crust</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>152.00000</calcium>
+    <carbohydrate_by_difference>30.04000</carbohydrate_by_difference>
+    <cholesterol>26.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.12800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>275.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>11.86000</fat>
+    <fiber>1.20000</fiber>
+    <folate>102.00000</folate>
+    <iron>1.98000</iron>
+    <linoleic>1.77400</linoleic>
+    <linolenic>0.18000</linolenic>
+    <magnesium>23.00000</magnesium>
+    <manganese>0.34800</manganese>
+    <mufa>3.91200</mufa>
+    <niacin>3.22500</niacin>
+    <pantothenic_acid>0.26600</pantothenic_acid>
+    <phosphorus>196.00000</phosphorus>
+    <potassium>150.00000</potassium>
+    <protein>11.97000</protein>
+    <pufa>2.20600</pufa>
+    <riboflavin>0.48600</riboflavin>
+    <selenium>29.30000</selenium>
+    <sfa>4.90800</sfa>
+    <sodium>671.00000</sodium>
+    <thiamin>0.43100</thiamin>
+    <vitamin_a>58.00000</vitamin_a>
+    <vitamin_b12>0.79000</vitamin_b12>
+    <vitamin_b6>0.16200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.10000</vitamin_e>
+    <vitamin_k>6.10000</vitamin_k>
+    <water>43.60000</water>
+    <weight>100.00000</weight>
+    <zinc>1.34000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

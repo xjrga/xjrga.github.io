@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14632</foodid>
+    <name>Meal supplement drink, NESTLE, SUPLIGEN, canned, peanut flavor</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>110.00000</calcium>
+    <carbohydrate_by_difference>14.74000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>101.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.07000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.20000</iron>
+    <linoleic>0.17300</linoleic>
+    <linolenic>0.00500</linolenic>
+    <magnesium>16.00000</magnesium>
+    <manganese>0.07100</manganese>
+    <mufa>1.92200</mufa>
+    <niacin>6.60000</niacin>
+    <pantothenic_acid>1.70000</pantothenic_acid>
+    <phosphorus>110.00000</phosphorus>
+    <potassium>160.00000</potassium>
+    <protein>3.50000</protein>
+    <pufa>0.17800</pufa>
+    <riboflavin>1.30000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.57100</sfa>
+    <sodium>54.00000</sodium>
+    <thiamin>0.43000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.53000</vitamin_b12>
+    <vitamin_b6>0.54000</vitamin_b6>
+    <vitamin_c>0.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.09000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>77.79000</water>
+    <weight>100.00000</weight>
+    <zinc>0.42000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18193</foodid>
+    <name>Cookies, shortbread, commercially prepared, pecan</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>30.00000</calcium>
+    <carbohydrate_by_difference>58.30000</carbohydrate_by_difference>
+    <cholesterol>33.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.15200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>542.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>32.50000</fat>
+    <fiber>1.80000</fiber>
+    <folate>102.00000</folate>
+    <iron>2.43000</iron>
+    <linoleic>3.91300</linoleic>
+    <linolenic>0.20600</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.61700</manganese>
+    <mufa>18.62800</mufa>
+    <niacin>2.48100</niacin>
+    <pantothenic_acid>0.37700</pantothenic_acid>
+    <phosphorus>85.00000</phosphorus>
+    <potassium>73.00000</potassium>
+    <protein>4.90000</protein>
+    <pufa>4.12200</pufa>
+    <riboflavin>0.22000</riboflavin>
+    <selenium>3.20000</selenium>
+    <sfa>8.20400</sfa>
+    <sodium>281.00000</sodium>
+    <thiamin>0.29300</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.01000</vitamin_b12>
+    <vitamin_b6>0.02000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>3.30000</water>
+    <weight>100.00000</weight>
+    <zinc>0.58000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25052</foodid>
+    <name>Snacks, granola bar, QUAKER, chewy, 90 Calorie Bar</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>333.00000</calcium>
+    <carbohydrate_by_difference>79.17000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>24.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.30700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>408.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>8.33000</fat>
+    <fiber>4.20000</fiber>
+    <folate>17.00000</folate>
+    <iron>1.50000</iron>
+    <linoleic>1.79800</linoleic>
+    <linolenic>0.12900</linolenic>
+    <magnesium>71.00000</magnesium>
+    <manganese>1.38900</manganese>
+    <mufa>2.94500</mufa>
+    <niacin>1.06400</niacin>
+    <pantothenic_acid>0.50600</pantothenic_acid>
+    <phosphorus>152.00000</phosphorus>
+    <potassium>224.00000</potassium>
+    <protein>4.17000</protein>
+    <pufa>1.92900</pufa>
+    <riboflavin>0.07600</riboflavin>
+    <selenium>10.10000</selenium>
+    <sfa>2.08300</sfa>
+    <sodium>313.00000</sodium>
+    <thiamin>0.18900</thiamin>
+    <vitamin_a>3.00000</vitamin_a>
+    <vitamin_b12>0.03000</vitamin_b12>
+    <vitamin_b6>0.12200</vitamin_b6>
+    <vitamin_c>0.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>2.23000</vitamin_e>
+    <vitamin_k>2.80000</vitamin_k>
+    <water>6.23000</water>
+    <weight>100.00000</weight>
+    <zinc>1.23000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21459</foodid>
+    <name>POPEYES, Fried Chicken, Mild, Wing, meat and skin with breading</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>31.00000</calcium>
+    <carbohydrate_by_difference>13.52000</carbohydrate_by_difference>
+    <cholesterol>114.00000</cholesterol>
+    <choline>60.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07900</copper>
+    <cost>0.0</cost>
+    <dha>0.00400</dha>
+    <energy_gross>338.00000</energy_gross>
+    <epa>0.00300</epa>
+    <fat>22.48000</fat>
+    <fiber>0.60000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.38000</iron>
+    <linoleic>2.10100</linoleic>
+    <linolenic>0.11000</linolenic>
+    <magnesium>22.00000</magnesium>
+    <manganese>0.15500</manganese>
+    <mufa>9.79600</mufa>
+    <niacin>6.54600</niacin>
+    <pantothenic_acid>1.00200</pantothenic_acid>
+    <phosphorus>149.00000</phosphorus>
+    <potassium>245.00000</potassium>
+    <protein>20.40000</protein>
+    <pufa>2.36200</pufa>
+    <riboflavin>0.28900</riboflavin>
+    <selenium>31.20000</selenium>
+    <sfa>8.02100</sfa>
+    <sodium>788.00000</sodium>
+    <thiamin>0.13600</thiamin>
+    <vitamin_a>19.00000</vitamin_a>
+    <vitamin_b12>0.54000</vitamin_b12>
+    <vitamin_b6>0.19000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.28000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>40.90000</water>
+    <weight>100.00000</weight>
+    <zinc>1.25000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

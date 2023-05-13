@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16127</foodid>
+    <name>Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>111.00000</calcium>
+    <carbohydrate_by_difference>1.18000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>27.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.15700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>61.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.69000</fat>
+    <fiber>0.20000</fiber>
+    <folate>44.00000</folate>
+    <iron>1.11000</iron>
+    <linoleic>1.83500</linoleic>
+    <linolenic>0.24600</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.38900</manganese>
+    <mufa>0.81400</mufa>
+    <niacin>0.53500</niacin>
+    <pantothenic_acid>0.05100</pantothenic_acid>
+    <phosphorus>92.00000</phosphorus>
+    <potassium>120.00000</potassium>
+    <protein>7.17000</protein>
+    <pufa>2.08100</pufa>
+    <riboflavin>0.03700</riboflavin>
+    <selenium>8.90000</selenium>
+    <sfa>0.53300</sfa>
+    <sodium>8.00000</sodium>
+    <thiamin>0.04700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05200</vitamin_b6>
+    <vitamin_c>0.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.01000</vitamin_e>
+    <vitamin_k>2.00000</vitamin_k>
+    <water>87.26000</water>
+    <weight>100.00000</weight>
+    <zinc>0.64000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

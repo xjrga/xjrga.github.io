@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22999</foodid>
+    <name>Rice and vermicelli mix, chicken flavor, prepared with 80% margarine</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>7.00000</calcium>
+    <carbohydrate_by_difference>23.54000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>3.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>136.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.45000</fat>
+    <fiber>0.70000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.95000</iron>
+    <linoleic>1.02300</linoleic>
+    <linolenic>0.13400</linolenic>
+    <magnesium>10.00000</magnesium>
+    <manganese>0.31500</manganese>
+    <mufa>1.42100</mufa>
+    <niacin>1.42300</niacin>
+    <pantothenic_acid>0.16000</pantothenic_acid>
+    <phosphorus>36.00000</phosphorus>
+    <potassium>58.00000</potassium>
+    <protein>2.65000</protein>
+    <pufa>1.16100</pufa>
+    <riboflavin>0.02700</riboflavin>
+    <selenium>9.50000</selenium>
+    <sfa>0.74600</sfa>
+    <sodium>377.00000</sodium>
+    <thiamin>0.15000</thiamin>
+    <vitamin_a>42.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.27000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>69.33000</water>
+    <weight>100.00000</weight>
+    <zinc>0.46000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

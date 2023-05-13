@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01134</foodid>
+    <name>Egg, whole, dried, stabilized, glucose reduced</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>222.00000</calcium>
+    <carbohydrate_by_difference>2.38000</carbohydrate_by_difference>
+    <cholesterol>2017.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.27000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>615.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>43.95000</fat>
+    <fiber>0.00000</fiber>
+    <folate>193.00000</folate>
+    <iron>8.28000</iron>
+    <linoleic>4.88100</linoleic>
+    <linolenic>0.12400</linolenic>
+    <magnesium>49.00000</magnesium>
+    <manganese>0.15000</manganese>
+    <mufa>17.56400</mufa>
+    <niacin>0.25900</niacin>
+    <pantothenic_acid>6.71000</pantothenic_acid>
+    <phosphorus>715.00000</phosphorus>
+    <potassium>515.00000</potassium>
+    <protein>48.17000</protein>
+    <pufa>5.71300</pufa>
+    <riboflavin>1.23200</riboflavin>
+    <selenium>121.10000</selenium>
+    <sfa>13.19800</sfa>
+    <sodium>548.00000</sodium>
+    <thiamin>0.32500</thiamin>
+    <vitamin_a>616.00000</vitamin_a>
+    <vitamin_b12>10.51000</vitamin_b12>
+    <vitamin_b6>0.42000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>1.87000</water>
+    <weight>100.00000</weight>
+    <zinc>5.71000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

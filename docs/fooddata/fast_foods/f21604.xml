@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21604</foodid>
+    <name>School Lunch, pizza, sausage topping, thin crust, whole grain, frozen, cooked</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>238.00000</calcium>
+    <carbohydrate_by_difference>32.24000</carbohydrate_by_difference>
+    <cholesterol>25.00000</cholesterol>
+    <choline>38.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10200</copper>
+    <cost>0.0</cost>
+    <dha>0.00200</dha>
+    <energy_gross>250.00000</energy_gross>
+    <epa>0.00200</epa>
+    <fat>7.83000</fat>
+    <fiber>3.90000</fiber>
+    <folate>104.00000</folate>
+    <iron>2.09000</iron>
+    <linoleic>0.86400</linoleic>
+    <linolenic>0.08100</linolenic>
+    <magnesium>52.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>2.24400</mufa>
+    <niacin>3.75900</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>318.00000</phosphorus>
+    <potassium>385.00000</potassium>
+    <protein>12.63000</protein>
+    <pufa>0.98600</pufa>
+    <riboflavin>0.34000</riboflavin>
+    <selenium>22.50000</selenium>
+    <sfa>3.48800</sfa>
+    <sodium>457.00000</sodium>
+    <thiamin>0.27400</thiamin>
+    <vitamin_a>89.00000</vitamin_a>
+    <vitamin_b12>2.18000</vitamin_b12>
+    <vitamin_b6>0.18900</vitamin_b6>
+    <vitamin_c>0.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.81000</vitamin_e>
+    <vitamin_k>5.30000</vitamin_k>
+    <water>45.30000</water>
+    <weight>100.00000</weight>
+    <zinc>2.53000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

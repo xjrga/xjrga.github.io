@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35183</foodid>
+    <name>Corn, dried, yellow (Northern Plains Indians)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>25.00000</calcium>
+    <carbohydrate_by_difference>66.27000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.29300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>419.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>10.64000</fat>
+    <fiber>20.50000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.61000</iron>
+    <linoleic>4.41900</linoleic>
+    <linolenic>0.12400</linolenic>
+    <magnesium>149.00000</magnesium>
+    <manganese>0.90000</manganese>
+    <mufa>3.75000</mufa>
+    <niacin>8.25000</niacin>
+    <pantothenic_acid>1.59000</pantothenic_acid>
+    <phosphorus>344.00000</phosphorus>
+    <potassium>775.00000</potassium>
+    <protein>14.48000</protein>
+    <pufa>4.54300</pufa>
+    <riboflavin>0.18100</riboflavin>
+    <selenium>56.50000</selenium>
+    <sfa>1.97400</sfa>
+    <sodium>4.00000</sodium>
+    <thiamin>0.26100</thiamin>
+    <vitamin_a>13.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.11000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.44000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>6.36000</water>
+    <weight>100.00000</weight>
+    <zinc>3.06000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

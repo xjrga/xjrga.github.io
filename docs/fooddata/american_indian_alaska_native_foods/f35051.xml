@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35051</foodid>
+    <name>Moose, liver, braised (Alaska Native)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>7.00000</calcium>
+    <carbohydrate_by_difference>3.43000</carbohydrate_by_difference>
+    <cholesterol>389.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>2.78900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>155.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.89000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>6.77000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.45000</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.41300</manganese>
+    <mufa>0.65000</mufa>
+    <niacin>10.72000</niacin>
+    <pantothenic_acid>4.57000</pantothenic_acid>
+    <phosphorus>429.00000</phosphorus>
+    <potassium>235.00000</potassium>
+    <protein>24.38000</protein>
+    <pufa>1.07000</pufa>
+    <riboflavin>4.10000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>70.00000</sodium>
+    <thiamin>0.19600</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>71.00000</vitamin_b12>
+    <vitamin_b6>0.91000</vitamin_b6>
+    <vitamin_c>22.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>66.00000</water>
+    <weight>100.00000</weight>
+    <zinc>6.07000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

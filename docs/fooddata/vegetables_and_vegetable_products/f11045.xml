@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11045</foodid>
+    <name>Mung beans, mature seeds, sprouted, cooked, stir-fried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>13.00000</calcium>
+    <carbohydrate_by_difference>10.59000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.25500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>50.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.21000</fat>
+    <fiber>1.90000</fiber>
+    <folate>70.00000</folate>
+    <iron>1.90000</iron>
+    <linoleic>0.05800</linoleic>
+    <linolenic>0.01100</linolenic>
+    <magnesium>33.00000</magnesium>
+    <manganese>0.29200</manganese>
+    <mufa>0.05600</mufa>
+    <niacin>1.20000</niacin>
+    <pantothenic_acid>0.55900</pantothenic_acid>
+    <phosphorus>79.00000</phosphorus>
+    <potassium>219.00000</potassium>
+    <protein>4.30000</protein>
+    <pufa>0.06800</pufa>
+    <riboflavin>0.18000</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.03900</sfa>
+    <sodium>9.00000</sodium>
+    <thiamin>0.14000</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.13000</vitamin_b6>
+    <vitamin_c>16.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>84.30000</water>
+    <weight>100.00000</weight>
+    <zinc>0.90000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

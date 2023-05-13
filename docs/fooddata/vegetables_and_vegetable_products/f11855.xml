@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11855</foodid>
+    <name>Spinach, canned, no salt added, solids and liquids</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>83.00000</calcium>
+    <carbohydrate_by_difference>2.92000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>15.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>19.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.37000</fat>
+    <fiber>2.20000</fiber>
+    <folate>58.00000</folate>
+    <iron>1.58000</iron>
+    <linoleic>0.02300</linoleic>
+    <linolenic>0.12200</linolenic>
+    <magnesium>56.00000</magnesium>
+    <manganese>0.49300</manganese>
+    <mufa>0.01000</mufa>
+    <niacin>0.27100</niacin>
+    <pantothenic_acid>0.03800</pantothenic_acid>
+    <phosphorus>32.00000</phosphorus>
+    <potassium>230.00000</potassium>
+    <protein>2.11000</protein>
+    <pufa>0.15500</pufa>
+    <riboflavin>0.10600</riboflavin>
+    <selenium>1.20000</selenium>
+    <sfa>0.06000</sfa>
+    <sodium>75.00000</sodium>
+    <thiamin>0.01800</thiamin>
+    <vitamin_a>404.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.08000</vitamin_b6>
+    <vitamin_c>13.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.60000</vitamin_e>
+    <vitamin_k>380.80000</vitamin_k>
+    <water>93.22000</water>
+    <weight>100.00000</weight>
+    <zinc>0.42000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>06019</foodid>
+    <name>Soup, chicken noodle, canned, condensed</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>6.00000</calcium>
+    <carbohydrate_by_difference>6.07000</carbohydrate_by_difference>
+    <cholesterol>8.00000</cholesterol>
+    <choline>11.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>48.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.55000</fat>
+    <fiber>0.90000</fiber>
+    <folate>21.00000</folate>
+    <iron>0.67000</iron>
+    <linoleic>0.31100</linoleic>
+    <linolenic>0.01400</linolenic>
+    <magnesium>8.00000</magnesium>
+    <manganese>0.09800</manganese>
+    <mufa>0.53600</mufa>
+    <niacin>1.22200</niacin>
+    <pantothenic_acid>0.10700</pantothenic_acid>
+    <phosphorus>38.00000</phosphorus>
+    <potassium>48.00000</potassium>
+    <protein>2.37000</protein>
+    <pufa>0.33900</pufa>
+    <riboflavin>0.07000</riboflavin>
+    <selenium>6.30000</selenium>
+    <sfa>0.38900</sfa>
+    <sodium>681.00000</sodium>
+    <thiamin>0.07900</thiamin>
+    <vitamin_a>22.00000</vitamin_a>
+    <vitamin_b12>0.12000</vitamin_b12>
+    <vitamin_b6>0.04200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.05000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>88.20000</water>
+    <weight>100.00000</weight>
+    <zinc>0.28000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

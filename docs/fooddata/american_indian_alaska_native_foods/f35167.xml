@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>35167</foodid>
+    <name>Fish, salmon, red, (sockeye), kippered (Alaska Native)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>54.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>68.00000</cholesterol>
+    <choline>88.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14800</copper>
+    <cost>0.0</cost>
+    <dha>0.54000</dha>
+    <energy_gross>141.00000</energy_gross>
+    <epa>0.26000</epa>
+    <fat>4.75000</fat>
+    <fiber>0.00000</fiber>
+    <folate>6.00000</folate>
+    <iron>0.49000</iron>
+    <linoleic>0.06000</linoleic>
+    <linolenic>0.06000</linolenic>
+    <magnesium>31.00000</magnesium>
+    <manganese>0.03700</manganese>
+    <mufa>1.83000</mufa>
+    <niacin>8.52000</niacin>
+    <pantothenic_acid>0.91700</pantothenic_acid>
+    <phosphorus>280.00000</phosphorus>
+    <potassium>400.00000</potassium>
+    <protein>24.50000</protein>
+    <pufa>1.13000</pufa>
+    <riboflavin>0.23000</riboflavin>
+    <selenium>33.50000</selenium>
+    <sfa>0.80000</sfa>
+    <sodium>460.00000</sodium>
+    <thiamin>0.09400</thiamin>
+    <vitamin_a>15.00000</vitamin_a>
+    <vitamin_b12>4.98000</vitamin_b12>
+    <vitamin_b6>0.28700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>2.00000</vitamin_d>
+    <vitamin_e>0.44000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>69.41000</water>
+    <weight>100.00000</weight>
+    <zinc>0.75000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

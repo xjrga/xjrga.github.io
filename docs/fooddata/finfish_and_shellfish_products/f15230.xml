@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15230</foodid>
+    <name>Mollusks, octopus, common, cooked, moist heat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>106.00000</calcium>
+    <carbohydrate_by_difference>4.40000</carbohydrate_by_difference>
+    <cholesterol>96.00000</cholesterol>
+    <choline>81.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.73900</copper>
+    <cost>0.0</cost>
+    <dha>0.16200</dha>
+    <energy_gross>164.00000</energy_gross>
+    <epa>0.15200</epa>
+    <fat>2.08000</fat>
+    <fiber>0.00000</fiber>
+    <folate>24.00000</folate>
+    <iron>9.54000</iron>
+    <linoleic>0.01800</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>60.00000</magnesium>
+    <manganese>0.04700</manganese>
+    <mufa>0.32400</mufa>
+    <niacin>3.78000</niacin>
+    <pantothenic_acid>0.90000</pantothenic_acid>
+    <phosphorus>279.00000</phosphorus>
+    <potassium>630.00000</potassium>
+    <protein>29.82000</protein>
+    <pufa>0.47700</pufa>
+    <riboflavin>0.07600</riboflavin>
+    <selenium>89.60000</selenium>
+    <sfa>0.45300</sfa>
+    <sodium>460.00000</sodium>
+    <thiamin>0.05700</thiamin>
+    <vitamin_a>90.00000</vitamin_a>
+    <vitamin_b12>36.00000</vitamin_b12>
+    <vitamin_b6>0.64800</vitamin_b6>
+    <vitamin_c>8.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.20000</vitamin_e>
+    <vitamin_k>0.10000</vitamin_k>
+    <water>60.50000</water>
+    <weight>100.00000</weight>
+    <zinc>3.36000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

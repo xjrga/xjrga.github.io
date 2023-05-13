@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21296</foodid>
+    <name>PIZZA HUT 14' Pepperoni Pizza, Hand-Tossed Crust</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>166.00000</calcium>
+    <carbohydrate_by_difference>32.11000</carbohydrate_by_difference>
+    <cholesterol>26.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10600</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>291.00000</energy_gross>
+    <epa>0.00300</epa>
+    <fat>12.63000</fat>
+    <fiber>2.60000</fiber>
+    <folate>159.00000</folate>
+    <iron>2.71000</iron>
+    <linoleic>1.74800</linoleic>
+    <linolenic>0.18600</linolenic>
+    <magnesium>24.00000</magnesium>
+    <manganese>0.41800</manganese>
+    <mufa>4.33800</mufa>
+    <niacin>4.82000</niacin>
+    <pantothenic_acid>0.40000</pantothenic_acid>
+    <phosphorus>206.00000</phosphorus>
+    <potassium>207.00000</potassium>
+    <protein>12.23000</protein>
+    <pufa>2.02200</pufa>
+    <riboflavin>0.24000</riboflavin>
+    <selenium>19.00000</selenium>
+    <sfa>5.40400</sfa>
+    <sodium>759.00000</sodium>
+    <thiamin>0.55000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.51000</vitamin_b12>
+    <vitamin_b6>0.09000</vitamin_b6>
+    <vitamin_c>1.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.65000</vitamin_e>
+    <vitamin_k>8.50000</vitamin_k>
+    <water>40.15000</water>
+    <weight>100.00000</weight>
+    <zinc>1.49000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36615</foodid>
+    <name>DENNY'S, top sirloin steak</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>6.00000</calcium>
+    <carbohydrate_by_difference>0.14000</carbohydrate_by_difference>
+    <cholesterol>82.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11800</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>182.00000</energy_gross>
+    <epa>0.01000</epa>
+    <fat>7.34000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>3.27000</iron>
+    <linoleic>0.48600</linoleic>
+    <linolenic>0.03600</linolenic>
+    <magnesium>24.00000</magnesium>
+    <manganese>0.01700</manganese>
+    <mufa>2.84000</mufa>
+    <niacin>5.31000</niacin>
+    <pantothenic_acid>0.74000</pantothenic_acid>
+    <phosphorus>264.00000</phosphorus>
+    <potassium>341.00000</potassium>
+    <protein>28.90000</protein>
+    <pufa>0.67200</pufa>
+    <riboflavin>0.22000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>2.59500</sfa>
+    <sodium>349.00000</sodium>
+    <thiamin>0.05000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>2.70000</vitamin_b12>
+    <vitamin_b6>0.61300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>1.00000</vitamin_k>
+    <water>61.82000</water>
+    <weight>100.00000</weight>
+    <zinc>5.26000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

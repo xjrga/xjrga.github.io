@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01223</foodid>
+    <name>Protein supplement, milk based, Muscle Milk, powder</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>500.00000</calcium>
+    <carbohydrate_by_difference>18.50000</carbohydrate_by_difference>
+    <cholesterol>21.00000</cholesterol>
+    <choline>81.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.00000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>411.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>17.14000</fat>
+    <fiber>7.10000</fiber>
+    <folate>340.00000</folate>
+    <iron>8.57000</iron>
+    <linoleic>1.70900</linoleic>
+    <linolenic>0.06100</linolenic>
+    <magnesium>200.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>12.10500</mufa>
+    <niacin>10.00000</niacin>
+    <pantothenic_acid>5.71400</pantothenic_acid>
+    <phosphorus>643.00000</phosphorus>
+    <potassium>1129.00000</potassium>
+    <protein>45.71000</protein>
+    <pufa>1.77000</pufa>
+    <riboflavin>0.85700</riboflavin>
+    <selenium>33.80000</selenium>
+    <sfa>1.55300</sfa>
+    <sodium>329.00000</sodium>
+    <thiamin>0.71400</thiamin>
+    <vitamin_a>750.00000</vitamin_a>
+    <vitamin_b12>3.00000</vitamin_b12>
+    <vitamin_b6>1.00000</vitamin_b6>
+    <vitamin_c>30.00000</vitamin_c>
+    <vitamin_d>5.00000</vitamin_d>
+    <vitamin_e>7.07000</vitamin_e>
+    <vitamin_k>0.50000</vitamin_k>
+    <water>15.00000</water>
+    <weight>100.00000</weight>
+    <zinc>7.14000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

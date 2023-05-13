@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36039</foodid>
+    <name>Restaurant, family style, hash browns</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>17.00000</calcium>
+    <carbohydrate_by_difference>26.59000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>197.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>8.99000</fat>
+    <fiber>2.70000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.56000</iron>
+    <linoleic>4.37200</linoleic>
+    <linolenic>0.65100</linolenic>
+    <magnesium>26.00000</magnesium>
+    <manganese>0.16800</manganese>
+    <mufa>2.03500</mufa>
+    <niacin>2.17000</niacin>
+    <pantothenic_acid>0.45500</pantothenic_acid>
+    <phosphorus>71.00000</phosphorus>
+    <potassium>416.00000</potassium>
+    <protein>2.49000</protein>
+    <pufa>5.02900</pufa>
+    <riboflavin>0.04800</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>1.68900</sfa>
+    <sodium>468.00000</sodium>
+    <thiamin>0.00700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.20300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.55000</vitamin_e>
+    <vitamin_k>32.60000</vitamin_k>
+    <water>59.85000</water>
+    <weight>100.00000</weight>
+    <zinc>0.29000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

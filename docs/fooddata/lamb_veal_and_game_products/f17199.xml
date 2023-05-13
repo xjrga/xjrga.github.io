@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>17199</foodid>
+    <name>Lamb, variety meats and by-products, liver, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>7.00000</calcium>
+    <carbohydrate_by_difference>1.78000</carbohydrate_by_difference>
+    <cholesterol>371.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>6.97900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>139.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.02000</fat>
+    <fiber>0.00000</fiber>
+    <folate>230.00000</folate>
+    <iron>7.37000</iron>
+    <linoleic>0.32000</linoleic>
+    <linolenic>0.07000</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.18400</manganese>
+    <mufa>1.05000</mufa>
+    <niacin>16.11000</niacin>
+    <pantothenic_acid>6.13000</pantothenic_acid>
+    <phosphorus>364.00000</phosphorus>
+    <potassium>313.00000</potassium>
+    <protein>20.38000</protein>
+    <pufa>0.75000</pufa>
+    <riboflavin>3.63000</riboflavin>
+    <selenium>82.40000</selenium>
+    <sfa>1.94000</sfa>
+    <sodium>70.00000</sodium>
+    <thiamin>0.34000</thiamin>
+    <vitamin_a>7391.00000</vitamin_a>
+    <vitamin_b12>90.05000</vitamin_b12>
+    <vitamin_b6>0.90000</vitamin_b6>
+    <vitamin_c>4.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>71.37000</water>
+    <weight>100.00000</weight>
+    <zinc>4.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

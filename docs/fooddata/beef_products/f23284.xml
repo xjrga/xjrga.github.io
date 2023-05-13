@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>23284</foodid>
+    <name>Beef, top loin filet, boneless, separable lean and fat, trimmed to 1/8' fat, all grades, cooked, grilled</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>7.00000</calcium>
+    <carbohydrate_by_difference>0.60000</carbohydrate_by_difference>
+    <cholesterol>86.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.16600</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>239.00000</energy_gross>
+    <epa>0.00300</epa>
+    <fat>14.10000</fat>
+    <fiber>0.00000</fiber>
+    <folate>7.00000</folate>
+    <iron>3.30000</iron>
+    <linoleic>0.40000</linoleic>
+    <linolenic>0.02700</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>6.35400</mufa>
+    <niacin>4.12700</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>236.00000</phosphorus>
+    <potassium>376.00000</potassium>
+    <protein>27.40000</protein>
+    <pufa>0.47600</pufa>
+    <riboflavin>0.27300</riboflavin>
+    <selenium>33.90000</selenium>
+    <sfa>4.81700</sfa>
+    <sodium>93.00000</sodium>
+    <thiamin>0.07800</thiamin>
+    <vitamin_a>7.00000</vitamin_a>
+    <vitamin_b12>3.96000</vitamin_b12>
+    <vitamin_b6>0.41700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.20000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>1.60000</vitamin_k>
+    <water>56.80000</water>
+    <weight>100.00000</weight>
+    <zinc>10.42000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11339</foodid>
+    <name>Peppers, sweet, green, sauteed</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>8.00000</calcium>
+    <carbohydrate_by_difference>4.22000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>4.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>127.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>11.85000</fat>
+    <fiber>1.80000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.30000</iron>
+    <linoleic>5.13000</linoleic>
+    <linolenic>0.77000</linolenic>
+    <magnesium>8.00000</magnesium>
+    <manganese>0.06200</manganese>
+    <mufa>2.33700</mufa>
+    <niacin>0.58200</niacin>
+    <pantothenic_acid>0.11100</pantothenic_acid>
+    <phosphorus>15.00000</phosphorus>
+    <potassium>134.00000</potassium>
+    <protein>0.78000</protein>
+    <pufa>5.90000</pufa>
+    <riboflavin>0.04800</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>1.59000</sfa>
+    <sodium>17.00000</sodium>
+    <thiamin>0.04200</thiamin>
+    <vitamin_a>14.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.19600</vitamin_b6>
+    <vitamin_c>177.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.40000</vitamin_e>
+    <vitamin_k>21.30000</vitamin_k>
+    <water>82.65000</water>
+    <weight>100.00000</weight>
+    <zinc>0.06000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

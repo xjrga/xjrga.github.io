@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11471</foodid>
+    <name>Squash, summer, crookneck and straightneck, canned, drained, solid, without salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>12.00000</calcium>
+    <carbohydrate_by_difference>2.96000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>4.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>13.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.07000</fat>
+    <fiber>1.40000</fiber>
+    <folate>10.00000</folate>
+    <iron>0.71000</iron>
+    <linoleic>0.01100</linoleic>
+    <linolenic>0.01900</linolenic>
+    <magnesium>13.00000</magnesium>
+    <manganese>0.09700</manganese>
+    <mufa>0.00500</mufa>
+    <niacin>0.41800</niacin>
+    <pantothenic_acid>0.04800</pantothenic_acid>
+    <phosphorus>21.00000</phosphorus>
+    <potassium>96.00000</potassium>
+    <protein>0.61000</protein>
+    <pufa>0.03100</pufa>
+    <riboflavin>0.02700</riboflavin>
+    <selenium>0.20000</selenium>
+    <sfa>0.01500</sfa>
+    <sodium>5.00000</sodium>
+    <thiamin>0.01600</thiamin>
+    <vitamin_a>5.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.04200</vitamin_b6>
+    <vitamin_c>2.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.12000</vitamin_e>
+    <vitamin_k>2.80000</vitamin_k>
+    <water>96.04000</water>
+    <weight>100.00000</weight>
+    <zinc>0.29000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07053</foodid>
+    <name>Pate, chicken liver, canned</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>10.00000</calcium>
+    <carbohydrate_by_difference>6.55000</carbohydrate_by_difference>
+    <cholesterol>391.00000</cholesterol>
+    <choline>228.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.18000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>201.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>13.10000</fat>
+    <fiber>0.00000</fiber>
+    <folate>321.00000</folate>
+    <iron>9.19000</iron>
+    <linoleic>2.16000</linoleic>
+    <linolenic>0.10000</linolenic>
+    <magnesium>13.00000</magnesium>
+    <manganese>0.16200</manganese>
+    <mufa>5.28000</mufa>
+    <niacin>7.51700</niacin>
+    <pantothenic_acid>2.62000</pantothenic_acid>
+    <phosphorus>175.00000</phosphorus>
+    <potassium>95.00000</potassium>
+    <protein>13.45000</protein>
+    <pufa>2.46000</pufa>
+    <riboflavin>1.40100</riboflavin>
+    <selenium>46.10000</selenium>
+    <sfa>4.00000</sfa>
+    <sodium>386.00000</sodium>
+    <thiamin>0.05200</thiamin>
+    <vitamin_a>217.00000</vitamin_a>
+    <vitamin_b12>8.07000</vitamin_b12>
+    <vitamin_b6>0.26000</vitamin_b6>
+    <vitamin_c>10.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.98000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>65.64000</water>
+    <weight>100.00000</weight>
+    <zinc>2.14000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

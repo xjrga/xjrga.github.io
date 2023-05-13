@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01070</foodid>
+    <name>Dessert topping, powdered</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>17.00000</calcium>
+    <carbohydrate_by_difference>52.54000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>577.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>39.92000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.03000</iron>
+    <linoleic>0.44700</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>7.00000</magnesium>
+    <manganese>0.22500</manganese>
+    <mufa>0.60000</mufa>
+    <niacin>0.00000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>74.00000</phosphorus>
+    <potassium>166.00000</potassium>
+    <protein>4.90000</protein>
+    <pufa>0.44700</pufa>
+    <riboflavin>0.00000</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>36.72300</sfa>
+    <sodium>122.00000</sodium>
+    <thiamin>0.00000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.00000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.52000</vitamin_e>
+    <vitamin_k>9.90000</vitamin_k>
+    <water>1.47000</water>
+    <weight>100.00000</weight>
+    <zinc>0.08000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

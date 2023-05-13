@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09287</foodid>
+    <name>Prickly pears, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>56.00000</calcium>
+    <carbohydrate_by_difference>9.57000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>41.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.51000</fat>
+    <fiber>3.60000</fiber>
+    <folate>6.00000</folate>
+    <iron>0.30000</iron>
+    <linoleic>0.18600</linoleic>
+    <linolenic>0.02300</linolenic>
+    <magnesium>85.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.07500</mufa>
+    <niacin>0.46000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>24.00000</phosphorus>
+    <potassium>220.00000</potassium>
+    <protein>0.73000</protein>
+    <pufa>0.21300</pufa>
+    <riboflavin>0.06000</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.06700</sfa>
+    <sodium>5.00000</sodium>
+    <thiamin>0.01400</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.06000</vitamin_b6>
+    <vitamin_c>14.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>87.55000</water>
+    <weight>100.00000</weight>
+    <zinc>0.12000</zinc>
+    <glycemicindex>7.00000</glycemicindex>
+</food>

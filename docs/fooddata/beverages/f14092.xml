@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>14092</foodid>
+    <name>Beverages, Chocolate Almond milk, unsweetened, shelf-stable, fortified with vitamin D2 and E</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>188.00000</calcium>
+    <carbohydrate_by_difference>1.25000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>21.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.46000</fat>
+    <fiber>0.40000</fiber>
+    <folate>1.00000</folate>
+    <iron>0.45000</iron>
+    <linoleic>0.24300</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>10.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.72900</mufa>
+    <niacin>0.07500</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>17.00000</phosphorus>
+    <potassium>96.00000</potassium>
+    <protein>0.83000</protein>
+    <pufa>0.24300</pufa>
+    <riboflavin>0.04700</riboflavin>
+    <selenium>0.20000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>75.00000</sodium>
+    <thiamin>0.06000</thiamin>
+    <vitamin_a>62.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.01500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>1.00000</vitamin_d>
+    <vitamin_e>4.19000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>95.78000</water>
+    <weight>100.00000</weight>
+    <zinc>0.07000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

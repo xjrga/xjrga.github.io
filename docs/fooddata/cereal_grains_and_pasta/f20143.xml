@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20143</foodid>
+    <name>Teff, cooked</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>49.00000</calcium>
+    <carbohydrate_by_difference>19.86000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.22600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>101.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.65000</fat>
+    <fiber>2.80000</fiber>
+    <folate>18.00000</folate>
+    <iron>2.05000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>50.00000</magnesium>
+    <manganese>2.86000</manganese>
+    <mufa>0.00000</mufa>
+    <niacin>0.90900</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>120.00000</phosphorus>
+    <potassium>107.00000</potassium>
+    <protein>3.87000</protein>
+    <pufa>0.00000</pufa>
+    <riboflavin>0.03300</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>8.00000</sodium>
+    <thiamin>0.18300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.09700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>74.93000</water>
+    <weight>100.00000</weight>
+    <zinc>1.11000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16424</foodid>
+    <name>Soy sauce made from soy and wheat (shoyu), low sodium</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>30.00000</calcium>
+    <carbohydrate_by_difference>5.59000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>30.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>57.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.30000</fat>
+    <fiber>0.70000</fiber>
+    <folate>44.00000</folate>
+    <iron>1.35000</iron>
+    <linoleic>0.12300</linoleic>
+    <linolenic>0.01500</linolenic>
+    <magnesium>69.00000</magnesium>
+    <manganese>1.00800</manganese>
+    <mufa>0.04200</mufa>
+    <niacin>1.14000</niacin>
+    <pantothenic_acid>0.42500</pantothenic_acid>
+    <phosphorus>166.00000</phosphorus>
+    <potassium>352.00000</potassium>
+    <protein>9.05000</protein>
+    <pufa>0.13800</pufa>
+    <riboflavin>0.24000</riboflavin>
+    <selenium>0.50000</selenium>
+    <sfa>0.03500</sfa>
+    <sodium>3598.00000</sodium>
+    <thiamin>0.04000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.16000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.41000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>75.14000</water>
+    <weight>100.00000</weight>
+    <zinc>0.79000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

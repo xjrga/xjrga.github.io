@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18934</foodid>
+    <name>Waffle, buttermilk, frozen, ready-to-heat, microwaved</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>125.00000</calcium>
+    <carbohydrate_by_difference>44.16000</carbohydrate_by_difference>
+    <cholesterol>16.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>289.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>9.40000</fat>
+    <fiber>2.40000</fiber>
+    <folate>99.00000</folate>
+    <iron>6.53000</iron>
+    <linoleic>1.48200</linoleic>
+    <linolenic>0.12300</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.23500</manganese>
+    <mufa>4.86400</mufa>
+    <niacin>6.73000</niacin>
+    <pantothenic_acid>0.24000</pantothenic_acid>
+    <phosphorus>410.00000</phosphorus>
+    <potassium>110.00000</potassium>
+    <protein>6.92000</protein>
+    <pufa>1.61500</pufa>
+    <riboflavin>0.69500</riboflavin>
+    <selenium>10.10000</selenium>
+    <sfa>2.05700</sfa>
+    <sodium>663.00000</sodium>
+    <thiamin>0.57600</thiamin>
+    <vitamin_a>429.00000</vitamin_a>
+    <vitamin_b12>2.44000</vitamin_b12>
+    <vitamin_b6>1.10500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.63000</vitamin_e>
+    <vitamin_k>10.80000</vitamin_k>
+    <water>36.48000</water>
+    <weight>100.00000</weight>
+    <zinc>0.58000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

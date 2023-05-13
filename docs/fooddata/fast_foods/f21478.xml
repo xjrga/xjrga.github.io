@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21478</foodid>
+    <name>DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>209.00000</calcium>
+    <carbohydrate_by_difference>28.67000</carbohydrate_by_difference>
+    <cholesterol>28.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10800</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>283.00000</energy_gross>
+    <epa>0.00300</epa>
+    <fat>12.86000</fat>
+    <fiber>2.80000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.90000</iron>
+    <linoleic>1.61300</linoleic>
+    <linolenic>0.13700</linolenic>
+    <magnesium>28.00000</magnesium>
+    <manganese>0.30500</manganese>
+    <mufa>4.35400</mufa>
+    <niacin>2.05300</niacin>
+    <pantothenic_acid>0.53700</pantothenic_acid>
+    <phosphorus>213.00000</phosphorus>
+    <potassium>268.00000</potassium>
+    <protein>13.22000</protein>
+    <pufa>1.82700</pufa>
+    <riboflavin>0.12500</riboflavin>
+    <selenium>24.10000</selenium>
+    <sfa>4.97300</sfa>
+    <sodium>663.00000</sodium>
+    <thiamin>0.14300</thiamin>
+    <vitamin_a>46.00000</vitamin_a>
+    <vitamin_b12>0.55000</vitamin_b12>
+    <vitamin_b6>0.16000</vitamin_b6>
+    <vitamin_c>0.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.77000</vitamin_e>
+    <vitamin_k>5.00000</vitamin_k>
+    <water>42.38000</water>
+    <weight>100.00000</weight>
+    <zinc>1.64000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

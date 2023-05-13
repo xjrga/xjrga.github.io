@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19858</foodid>
+    <name>Candies, sugar-coated almonds</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>100.00000</calcium>
+    <carbohydrate_by_difference>68.26000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>26.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.58600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>474.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>17.93000</fat>
+    <fiber>2.50000</fiber>
+    <folate>15.00000</folate>
+    <iron>1.90000</iron>
+    <linoleic>3.90400</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>137.00000</magnesium>
+    <manganese>1.12100</manganese>
+    <mufa>12.07800</mufa>
+    <niacin>1.00000</niacin>
+    <pantothenic_acid>0.15600</pantothenic_acid>
+    <phosphorus>166.00000</phosphorus>
+    <potassium>255.00000</potassium>
+    <protein>10.00000</protein>
+    <pufa>3.90400</pufa>
+    <riboflavin>0.27000</riboflavin>
+    <selenium>1.70000</selenium>
+    <sfa>1.94800</sfa>
+    <sodium>13.00000</sodium>
+    <thiamin>0.05000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.06000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>12.36000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>2.30000</water>
+    <weight>100.00000</weight>
+    <zinc>1.56000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

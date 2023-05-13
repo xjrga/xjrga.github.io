@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16055</foodid>
+    <name>Carob flour</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>348.00000</calcium>
+    <carbohydrate_by_difference>88.88000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>11.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.57100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>222.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.65000</fat>
+    <fiber>39.80000</fiber>
+    <folate>29.00000</folate>
+    <iron>2.94000</iron>
+    <linoleic>0.21200</linoleic>
+    <linolenic>0.00400</linolenic>
+    <magnesium>54.00000</magnesium>
+    <manganese>0.50800</manganese>
+    <mufa>0.19700</mufa>
+    <niacin>1.89700</niacin>
+    <pantothenic_acid>0.04700</pantothenic_acid>
+    <phosphorus>79.00000</phosphorus>
+    <potassium>827.00000</potassium>
+    <protein>4.62000</protein>
+    <pufa>0.21600</pufa>
+    <riboflavin>0.46100</riboflavin>
+    <selenium>5.30000</selenium>
+    <sfa>0.09000</sfa>
+    <sodium>35.00000</sodium>
+    <thiamin>0.05300</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.36600</vitamin_b6>
+    <vitamin_c>0.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.63000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>3.58000</water>
+    <weight>100.00000</weight>
+    <zinc>0.92000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

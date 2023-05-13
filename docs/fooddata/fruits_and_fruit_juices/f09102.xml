@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>09102</foodid>
+    <name>Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, water pack, solids and liquids</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>7.00000</calcium>
+    <carbohydrate_by_difference>7.87000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>30.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.07000</fat>
+    <fiber>1.00000</fiber>
+    <folate>3.00000</folate>
+    <iron>0.30000</iron>
+    <linoleic>0.02500</linoleic>
+    <linolenic>0.00300</linolenic>
+    <magnesium>5.00000</magnesium>
+    <manganese>0.15100</manganese>
+    <mufa>0.01300</mufa>
+    <niacin>0.37400</niacin>
+    <pantothenic_acid>0.05300</pantothenic_acid>
+    <phosphorus>9.00000</phosphorus>
+    <potassium>78.00000</potassium>
+    <protein>0.35000</protein>
+    <pufa>0.02800</pufa>
+    <riboflavin>0.02100</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.00900</sfa>
+    <sodium>3.00000</sodium>
+    <thiamin>0.01500</thiamin>
+    <vitamin_a>22.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.03200</vitamin_b6>
+    <vitamin_c>1.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>91.50000</water>
+    <weight>100.00000</weight>
+    <zinc>0.08000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

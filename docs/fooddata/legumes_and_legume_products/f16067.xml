@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16067</foodid>
+    <name>Hyacinth beans, mature seeds, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>130.00000</calcium>
+    <carbohydrate_by_difference>60.74000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.33500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>344.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.69000</fat>
+    <fiber>25.60000</fiber>
+    <folate>23.00000</folate>
+    <iron>5.10000</iron>
+    <linoleic>0.71500</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>283.00000</magnesium>
+    <manganese>1.57300</manganese>
+    <mufa>0.07600</mufa>
+    <niacin>1.61000</niacin>
+    <pantothenic_acid>1.23700</pantothenic_acid>
+    <phosphorus>372.00000</phosphorus>
+    <potassium>1235.00000</potassium>
+    <protein>23.90000</protein>
+    <pufa>0.71500</pufa>
+    <riboflavin>0.13600</riboflavin>
+    <selenium>8.20000</selenium>
+    <sfa>0.28800</sfa>
+    <sodium>21.00000</sodium>
+    <thiamin>1.13000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.15500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>9.38000</water>
+    <weight>100.00000</weight>
+    <zinc>9.30000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

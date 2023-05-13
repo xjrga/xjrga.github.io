@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18154</foodid>
+    <name>Cookies, brownies, prepared from recipe</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>57.00000</calcium>
+    <carbohydrate_by_difference>50.20000</carbohydrate_by_difference>
+    <cholesterol>73.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.38800</copper>
+    <cost>0.0</cost>
+    <dha>0.00600</dha>
+    <energy_gross>466.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>29.10000</fat>
+    <fiber>0.00000</fiber>
+    <folate>39.00000</folate>
+    <iron>1.84000</iron>
+    <linoleic>8.44600</linoleic>
+    <linolenic>0.93200</linolenic>
+    <magnesium>53.00000</magnesium>
+    <manganese>0.58700</manganese>
+    <mufa>10.83900</mufa>
+    <niacin>0.98200</niacin>
+    <pantothenic_acid>0.32800</pantothenic_acid>
+    <phosphorus>132.00000</phosphorus>
+    <potassium>176.00000</potassium>
+    <protein>6.20000</protein>
+    <pufa>9.41200</pufa>
+    <riboflavin>0.19000</riboflavin>
+    <selenium>11.50000</selenium>
+    <sfa>7.31900</sfa>
+    <sodium>343.00000</sodium>
+    <thiamin>0.14100</thiamin>
+    <vitamin_a>176.00000</vitamin_a>
+    <vitamin_b12>0.16000</vitamin_b12>
+    <vitamin_b6>0.09400</vitamin_b6>
+    <vitamin_c>0.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>12.60000</water>
+    <weight>100.00000</weight>
+    <zinc>0.97000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

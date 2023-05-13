@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20095</foodid>
+    <name>Pasta, fresh-refrigerated, spinach, as purchased</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>43.00000</calcium>
+    <carbohydrate_by_difference>55.72000</carbohydrate_by_difference>
+    <cholesterol>73.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.19700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>289.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.10000</fat>
+    <fiber>0.00000</fiber>
+    <folate>262.00000</folate>
+    <iron>3.30000</iron>
+    <linoleic>0.40300</linoleic>
+    <linolenic>0.06400</linolenic>
+    <magnesium>63.00000</magnesium>
+    <manganese>0.78100</manganese>
+    <mufa>0.65900</mufa>
+    <niacin>3.46000</niacin>
+    <pantothenic_acid>0.68800</pantothenic_acid>
+    <phosphorus>148.00000</phosphorus>
+    <potassium>272.00000</potassium>
+    <protein>11.26000</protein>
+    <pufa>0.46700</pufa>
+    <riboflavin>0.39800</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.48300</sfa>
+    <sodium>27.00000</sodium>
+    <thiamin>0.60900</thiamin>
+    <vitamin_a>25.00000</vitamin_a>
+    <vitamin_b12>0.31000</vitamin_b12>
+    <vitamin_b6>0.31500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>30.10000</water>
+    <weight>100.00000</weight>
+    <zinc>1.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

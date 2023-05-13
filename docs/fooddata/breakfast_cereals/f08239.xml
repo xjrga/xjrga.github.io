@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08239</foodid>
+    <name>Cereals ready-to-eat, GENERAL MILLS, Berry Burst CHEERIOS, Triple Berry</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>370.00000</calcium>
+    <carbohydrate_by_difference>80.50000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>27.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.25300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>378.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.50000</fat>
+    <fiber>7.60000</fiber>
+    <folate>1246.00000</folate>
+    <iron>16.70000</iron>
+    <linoleic>1.50500</linoleic>
+    <linolenic>0.09500</linolenic>
+    <magnesium>89.00000</magnesium>
+    <manganese>2.32000</manganese>
+    <mufa>1.60000</mufa>
+    <niacin>18.50000</niacin>
+    <pantothenic_acid>0.74900</pantothenic_acid>
+    <phosphorus>222.00000</phosphorus>
+    <potassium>230.00000</potassium>
+    <protein>8.80000</protein>
+    <pufa>1.60000</pufa>
+    <riboflavin>1.60000</riboflavin>
+    <selenium>18.50000</selenium>
+    <sfa>1.00000</sfa>
+    <sodium>639.00000</sodium>
+    <thiamin>1.40000</thiamin>
+    <vitamin_a>549.00000</vitamin_a>
+    <vitamin_b12>5.60000</vitamin_b12>
+    <vitamin_b6>1.85200</vitamin_b6>
+    <vitamin_c>22.20000</vitamin_c>
+    <vitamin_d>3.70000</vitamin_d>
+    <vitamin_e>0.44000</vitamin_e>
+    <vitamin_k>4.10000</vitamin_k>
+    <water>2.04000</water>
+    <weight>100.00000</weight>
+    <zinc>13.90000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

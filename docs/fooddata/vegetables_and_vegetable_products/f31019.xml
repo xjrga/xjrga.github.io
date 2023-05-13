@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>31019</foodid>
+    <name>Seaweed, Canadian Cultivated EMI-TSUNOMATA, dry</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>299.00000</calcium>
+    <carbohydrate_by_difference>46.24000</carbohydrate_by_difference>
+    <cholesterol>33.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.47000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>259.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.39000</fat>
+    <fiber>36.70000</fiber>
+    <folate>188.00000</folate>
+    <iron>66.38000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>692.00000</magnesium>
+    <manganese>5.88000</manganese>
+    <mufa>0.11000</mufa>
+    <niacin>3.75000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>260.00000</phosphorus>
+    <potassium>2944.00000</potassium>
+    <protein>15.34000</protein>
+    <pufa>0.75000</pufa>
+    <riboflavin>1.59000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.45000</sfa>
+    <sodium>4331.00000</sodium>
+    <thiamin>0.48000</thiamin>
+    <vitamin_a>406.00000</vitamin_a>
+    <vitamin_b12>2.25000</vitamin_b12>
+    <vitamin_b6>0.23000</vitamin_b6>
+    <vitamin_c>29.00000</vitamin_c>
+    <vitamin_d>3.10000</vitamin_d>
+    <vitamin_e>5.53000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>14.00000</water>
+    <weight>100.00000</weight>
+    <zinc>2.53000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

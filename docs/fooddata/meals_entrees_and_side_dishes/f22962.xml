@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22962</foodid>
+    <name>LEAN POCKETS, Ham N Cheddar</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>196.00000</calcium>
+    <carbohydrate_by_difference>32.52000</carbohydrate_by_difference>
+    <cholesterol>20.00000</cholesterol>
+    <choline>29.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07600</copper>
+    <cost>0.0</cost>
+    <dha>0.00200</dha>
+    <energy_gross>230.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>6.53000</fat>
+    <fiber>1.70000</fiber>
+    <folate>84.00000</folate>
+    <iron>2.15000</iron>
+    <linoleic>1.24800</linoleic>
+    <linolenic>0.11600</linolenic>
+    <magnesium>21.00000</magnesium>
+    <manganese>0.28600</manganese>
+    <mufa>1.55100</mufa>
+    <niacin>3.46200</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>197.00000</phosphorus>
+    <potassium>203.00000</potassium>
+    <protein>10.28000</protein>
+    <pufa>1.40300</pufa>
+    <riboflavin>0.30700</riboflavin>
+    <selenium>11.80000</selenium>
+    <sfa>2.38900</sfa>
+    <sodium>423.00000</sodium>
+    <thiamin>0.41200</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.44000</vitamin_b12>
+    <vitamin_b6>0.10200</vitamin_b6>
+    <vitamin_c>0.10000</vitamin_c>
+    <vitamin_d>0.20000</vitamin_d>
+    <vitamin_e>0.29000</vitamin_e>
+    <vitamin_k>1.70000</vitamin_k>
+    <water>48.48000</water>
+    <weight>100.00000</weight>
+    <zinc>1.21000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

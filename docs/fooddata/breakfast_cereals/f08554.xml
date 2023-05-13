@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08554</foodid>
+    <name>Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>39.00000</calcium>
+    <carbohydrate_by_difference>77.40000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>25.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.30000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>413.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>8.70000</fat>
+    <fiber>7.40000</fiber>
+    <folate>314.00000</folate>
+    <iron>3.50000</iron>
+    <linoleic>2.41500</linoleic>
+    <linolenic>0.18500</linolenic>
+    <magnesium>85.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>4.40000</mufa>
+    <niacin>9.60000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>259.00000</phosphorus>
+    <potassium>274.00000</potassium>
+    <protein>8.50000</protein>
+    <pufa>2.60000</pufa>
+    <riboflavin>0.80000</riboflavin>
+    <selenium>32.10000</selenium>
+    <sfa>1.00000</sfa>
+    <sodium>239.00000</sodium>
+    <thiamin>0.70000</thiamin>
+    <vitamin_a>431.00000</vitamin_a>
+    <vitamin_b12>2.90000</vitamin_b12>
+    <vitamin_b6>1.00000</vitamin_b6>
+    <vitamin_c>0.10000</vitamin_c>
+    <vitamin_d>1.90000</vitamin_d>
+    <vitamin_e>0.99000</vitamin_e>
+    <vitamin_k>3.70000</vitamin_k>
+    <water>3.00000</water>
+    <weight>100.00000</weight>
+    <zinc>2.90000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

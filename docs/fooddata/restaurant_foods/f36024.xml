@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36024</foodid>
+    <name>CRACKER BARREL, chicken tenderloin platter, fried</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>12.00000</calcium>
+    <carbohydrate_by_difference>20.29000</carbohydrate_by_difference>
+    <cholesterol>40.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06600</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>293.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>15.48000</fat>
+    <fiber>0.70000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.59000</iron>
+    <linoleic>6.92700</linoleic>
+    <linolenic>0.89400</linolenic>
+    <magnesium>28.00000</magnesium>
+    <manganese>0.26200</manganese>
+    <mufa>3.31900</mufa>
+    <niacin>6.73300</niacin>
+    <pantothenic_acid>1.40500</pantothenic_acid>
+    <phosphorus>268.00000</phosphorus>
+    <potassium>319.00000</potassium>
+    <protein>18.06000</protein>
+    <pufa>7.89100</pufa>
+    <riboflavin>0.13300</riboflavin>
+    <selenium>16.30000</selenium>
+    <sfa>2.76300</sfa>
+    <sodium>874.00000</sodium>
+    <thiamin>0.09700</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>0.11000</vitamin_b12>
+    <vitamin_b6>0.48700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.21000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>43.12000</water>
+    <weight>100.00000</weight>
+    <zinc>0.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

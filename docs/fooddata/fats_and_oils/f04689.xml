@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>04689</foodid>
+    <name>Salad Dressing, mayonnaise, light, SMART BALANCE, Omega Plus light</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>13.00000</calcium>
+    <carbohydrate_by_difference>9.39000</carbohydrate_by_difference>
+    <cholesterol>33.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01600</copper>
+    <cost>0.0</cost>
+    <dha>0.01000</dha>
+    <energy_gross>333.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>34.18000</fat>
+    <fiber>0.20000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.31000</iron>
+    <linoleic>8.51100</linoleic>
+    <linolenic>3.18800</linolenic>
+    <magnesium>2.00000</magnesium>
+    <manganese>0.01300</manganese>
+    <mufa>16.66200</mufa>
+    <niacin>0.02800</niacin>
+    <pantothenic_acid>0.27000</pantothenic_acid>
+    <phosphorus>27.00000</phosphorus>
+    <potassium>63.00000</potassium>
+    <protein>1.53000</protein>
+    <pufa>11.77600</pufa>
+    <riboflavin>0.03000</riboflavin>
+    <selenium>4.40000</selenium>
+    <sfa>3.28800</sfa>
+    <sodium>848.00000</sodium>
+    <thiamin>0.01500</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.17000</vitamin_b12>
+    <vitamin_b6>0.01500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>10.41000</vitamin_e>
+    <vitamin_k>65.80000</vitamin_k>
+    <water>52.44000</water>
+    <weight>100.00000</weight>
+    <zinc>0.20000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

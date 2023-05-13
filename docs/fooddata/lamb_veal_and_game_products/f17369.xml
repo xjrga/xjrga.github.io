@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>17369</foodid>
+    <name>Lamb, New Zealand, imported, liver, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>4.00000</calcium>
+    <carbohydrate_by_difference>2.22000</carbohydrate_by_difference>
+    <cholesterol>386.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>11.40000</copper>
+    <cost>0.0</cost>
+    <dha>0.16300</dha>
+    <energy_gross>136.00000</energy_gross>
+    <epa>0.12900</epa>
+    <fat>4.92000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>4.60000</iron>
+    <linoleic>0.20400</linoleic>
+    <linolenic>0.14700</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.33000</manganese>
+    <mufa>0.81700</mufa>
+    <niacin>13.70000</niacin>
+    <pantothenic_acid>5.57000</pantothenic_acid>
+    <phosphorus>381.00000</phosphorus>
+    <potassium>285.00000</potassium>
+    <protein>20.70000</protein>
+    <pufa>0.92000</pufa>
+    <riboflavin>4.21000</riboflavin>
+    <selenium>11.10000</selenium>
+    <sfa>1.51400</sfa>
+    <sodium>59.00000</sodium>
+    <thiamin>1.21000</thiamin>
+    <vitamin_a>15434.00000</vitamin_a>
+    <vitamin_b12>59.00000</vitamin_b12>
+    <vitamin_b6>0.21800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.86000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>70.80000</water>
+    <weight>100.00000</weight>
+    <zinc>3.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

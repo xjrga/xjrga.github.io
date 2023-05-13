@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25051</foodid>
+    <name>Snacks, CLIF BAR, mixed flavors</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>368.00000</calcium>
+    <carbohydrate_by_difference>65.44000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>46.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.44100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>346.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.88000</fat>
+    <fiber>7.40000</fiber>
+    <folate>118.00000</folate>
+    <iron>6.62000</iron>
+    <linoleic>1.96300</linoleic>
+    <linolenic>0.21900</linolenic>
+    <magnesium>147.00000</magnesium>
+    <manganese>2.14600</manganese>
+    <mufa>1.09300</mufa>
+    <niacin>4.41200</niacin>
+    <pantothenic_acid>2.20600</pantothenic_acid>
+    <phosphorus>294.00000</phosphorus>
+    <potassium>412.00000</potassium>
+    <protein>14.71000</protein>
+    <pufa>2.18200</pufa>
+    <riboflavin>0.37500</riboflavin>
+    <selenium>20.60000</selenium>
+    <sfa>1.47100</sfa>
+    <sodium>195.00000</sodium>
+    <thiamin>0.55100</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>1.32000</vitamin_b12>
+    <vitamin_b6>0.58800</vitamin_b6>
+    <vitamin_c>88.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.24000</vitamin_e>
+    <vitamin_k>36.80000</vitamin_k>
+    <water>11.00000</water>
+    <weight>100.00000</weight>
+    <zinc>4.41000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

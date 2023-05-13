@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>43114</foodid>
+    <name>Vermicelli, made from soy</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>55.00000</calcium>
+    <carbohydrate_by_difference>82.32000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>177.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.91600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>331.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.10000</fat>
+    <fiber>3.90000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.81000</iron>
+    <linoleic>0.03800</linoleic>
+    <linolenic>0.00400</linolenic>
+    <magnesium>2.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.01300</mufa>
+    <niacin>0.00000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>20.00000</phosphorus>
+    <potassium>3.00000</potassium>
+    <protein>0.10000</protein>
+    <pufa>0.04100</pufa>
+    <riboflavin>0.00000</riboflavin>
+    <selenium>27.00000</selenium>
+    <sfa>0.01400</sfa>
+    <sodium>4.00000</sodium>
+    <thiamin>0.00000</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.00000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.51000</vitamin_e>
+    <vitamin_k>3.80000</vitamin_k>
+    <water>11.90000</water>
+    <weight>100.00000</weight>
+    <zinc>4.24000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

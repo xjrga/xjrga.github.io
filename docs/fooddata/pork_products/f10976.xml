@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>10976</foodid>
+    <name>Pork, ground, 96% lean / 4% fat, cooked, crumbles</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>19.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>78.00000</cholesterol>
+    <choline>99.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04100</copper>
+    <cost>0.0</cost>
+    <dha>0.00400</dha>
+    <energy_gross>187.00000</energy_gross>
+    <epa>0.00300</epa>
+    <fat>7.15000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.05000</iron>
+    <linoleic>0.65900</linoleic>
+    <linolenic>0.02600</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.01300</manganese>
+    <mufa>2.71400</mufa>
+    <niacin>11.05000</niacin>
+    <pantothenic_acid>0.84600</pantothenic_acid>
+    <phosphorus>261.00000</phosphorus>
+    <potassium>428.00000</potassium>
+    <protein>30.55000</protein>
+    <pufa>0.77600</pufa>
+    <riboflavin>0.48400</riboflavin>
+    <selenium>46.70000</selenium>
+    <sfa>1.95100</sfa>
+    <sodium>84.00000</sodium>
+    <thiamin>0.50000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.86000</vitamin_b12>
+    <vitamin_b6>0.71700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.20000</vitamin_d>
+    <vitamin_e>0.26000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>61.03000</water>
+    <weight>100.00000</weight>
+    <zinc>2.56000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

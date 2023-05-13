@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22908</foodid>
+    <name>Beef, corned beef hash, with potato, canned</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>19.00000</calcium>
+    <carbohydrate_by_difference>9.27000</carbohydrate_by_difference>
+    <cholesterol>32.00000</cholesterol>
+    <choline>15.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>164.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>10.24000</fat>
+    <fiber>1.10000</fiber>
+    <folate>7.00000</folate>
+    <iron>1.00000</iron>
+    <linoleic>0.23400</linoleic>
+    <linolenic>0.06500</linolenic>
+    <magnesium>13.00000</magnesium>
+    <manganese>0.08400</manganese>
+    <mufa>5.26000</mufa>
+    <niacin>1.57200</niacin>
+    <pantothenic_acid>0.40300</pantothenic_acid>
+    <phosphorus>56.00000</phosphorus>
+    <potassium>172.00000</potassium>
+    <protein>8.73000</protein>
+    <pufa>0.30000</pufa>
+    <riboflavin>0.05000</riboflavin>
+    <selenium>7.50000</selenium>
+    <sfa>4.32000</sfa>
+    <sodium>412.00000</sodium>
+    <thiamin>0.06900</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.41000</vitamin_b12>
+    <vitamin_b6>0.23100</vitamin_b6>
+    <vitamin_c>0.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.04000</vitamin_e>
+    <vitamin_k>1.80000</vitamin_k>
+    <water>70.32000</water>
+    <weight>100.00000</weight>
+    <zinc>1.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

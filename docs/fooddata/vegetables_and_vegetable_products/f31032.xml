@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>31032</foodid>
+    <name>Vegetable smoothie, NAKED JUICE, KALE BLAZER</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>33.00000</calcium>
+    <carbohydrate_by_difference>7.00000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>28.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.07000</fat>
+    <fiber>0.70000</fiber>
+    <folate>33.00000</folate>
+    <iron>0.25000</iron>
+    <linoleic>0.01400</linoleic>
+    <linolenic>0.01400</linolenic>
+    <magnesium>15.00000</magnesium>
+    <manganese>0.23000</manganese>
+    <mufa>0.01300</mufa>
+    <niacin>0.33000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>22.00000</phosphorus>
+    <potassium>178.00000</potassium>
+    <protein>0.80000</protein>
+    <pufa>0.02800</pufa>
+    <riboflavin>0.10500</riboflavin>
+    <selenium>0.80000</selenium>
+    <sfa>0.02700</sfa>
+    <sodium>13.00000</sodium>
+    <thiamin>0.10000</thiamin>
+    <vitamin_a>19.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.05500</vitamin_b6>
+    <vitamin_c>3.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.80000</vitamin_e>
+    <vitamin_k>269.70000</vitamin_k>
+    <water>91.67000</water>
+    <weight>100.00000</weight>
+    <zinc>0.08000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

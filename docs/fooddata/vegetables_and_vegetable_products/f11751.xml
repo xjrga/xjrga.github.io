@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11751</foodid>
+    <name>Cabbage, common, cooked, boiled, drained, with salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>48.00000</calcium>
+    <carbohydrate_by_difference>5.51000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>20.30000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>23.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.06000</fat>
+    <fiber>1.90000</fiber>
+    <folate>30.00000</folate>
+    <iron>0.17000</iron>
+    <linoleic>0.00900</linoleic>
+    <linolenic>0.01400</linolenic>
+    <magnesium>15.00000</magnesium>
+    <manganese>0.20500</manganese>
+    <mufa>0.01900</mufa>
+    <niacin>0.24800</niacin>
+    <pantothenic_acid>0.17400</pantothenic_acid>
+    <phosphorus>33.00000</phosphorus>
+    <potassium>196.00000</potassium>
+    <protein>1.27000</protein>
+    <pufa>0.02300</pufa>
+    <riboflavin>0.03800</riboflavin>
+    <selenium>0.60000</selenium>
+    <sfa>0.00000</sfa>
+    <sodium>255.00000</sodium>
+    <thiamin>0.06100</thiamin>
+    <vitamin_a>4.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.11200</vitamin_b6>
+    <vitamin_c>37.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.14000</vitamin_e>
+    <vitamin_k>108.70000</vitamin_k>
+    <water>92.57000</water>
+    <weight>100.00000</weight>
+    <zinc>0.20000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

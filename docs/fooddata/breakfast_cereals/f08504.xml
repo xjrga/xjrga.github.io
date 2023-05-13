@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08504</foodid>
+    <name>Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>45.00000</calcium>
+    <carbohydrate_by_difference>79.77000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>31.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.34500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>310.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.36000</fat>
+    <fiber>16.90000</fiber>
+    <folate>0.00000</folate>
+    <iron>67.67000</iron>
+    <linoleic>1.29700</linoleic>
+    <linolenic>0.08700</linolenic>
+    <magnesium>190.00000</magnesium>
+    <manganese>3.46700</manganese>
+    <mufa>0.44300</mufa>
+    <niacin>90.56700</niacin>
+    <pantothenic_acid>29.80000</pantothenic_acid>
+    <phosphorus>533.00000</phosphorus>
+    <potassium>630.00000</potassium>
+    <protein>10.21000</protein>
+    <pufa>1.38300</pufa>
+    <riboflavin>7.29000</riboflavin>
+    <selenium>9.20000</selenium>
+    <sfa>0.43300</sfa>
+    <sodium>586.00000</sodium>
+    <thiamin>4.71300</thiamin>
+    <vitamin_a>531.00000</vitamin_a>
+    <vitamin_b12>20.69000</vitamin_b12>
+    <vitamin_b6>6.80000</vitamin_b6>
+    <vitamin_c>239.70000</vitamin_c>
+    <vitamin_d>8.60000</vitamin_d>
+    <vitamin_e>80.46000</vitamin_e>
+    <vitamin_k>2.70000</vitamin_k>
+    <water>2.53000</water>
+    <weight>100.00000</weight>
+    <zinc>64.33000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

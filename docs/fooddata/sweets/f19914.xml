@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19914</foodid>
+    <name>Candies, M&M MARS 3 MUSKETEERS Truffle Crisp</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>150.00000</calcium>
+    <carbohydrate_by_difference>63.15000</carbohydrate_by_difference>
+    <cholesterol>18.00000</cholesterol>
+    <choline>36.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.39100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>538.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>28.85000</fat>
+    <fiber>0.00000</fiber>
+    <folate>9.00000</folate>
+    <iron>1.88000</iron>
+    <linoleic>0.99100</linoleic>
+    <linolenic>0.10000</linolenic>
+    <magnesium>50.00000</magnesium>
+    <manganese>0.37400</manganese>
+    <mufa>5.53600</mufa>
+    <niacin>0.30600</niacin>
+    <pantothenic_acid>0.37500</pantothenic_acid>
+    <phosphorus>165.00000</phosphorus>
+    <potassium>296.00000</potassium>
+    <protein>6.41000</protein>
+    <pufa>1.09100</pufa>
+    <riboflavin>0.23900</riboflavin>
+    <selenium>3.60000</selenium>
+    <sfa>19.23000</sfa>
+    <sodium>63.00000</sodium>
+    <thiamin>0.08900</thiamin>
+    <vitamin_a>46.00000</vitamin_a>
+    <vitamin_b12>0.60000</vitamin_b12>
+    <vitamin_b6>0.02800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.60000</vitamin_e>
+    <vitamin_k>5.80000</vitamin_k>
+    <water>0.18000</water>
+    <weight>100.00000</weight>
+    <zinc>1.83000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21124</foodid>
+    <name>Fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>171.00000</calcium>
+    <carbohydrate_by_difference>20.43000</carbohydrate_by_difference>
+    <cholesterol>27.00000</cholesterol>
+    <choline>29.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08400</copper>
+    <cost>0.0</cost>
+    <dha>0.00200</dha>
+    <energy_gross>213.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>10.04000</fat>
+    <fiber>1.20000</fiber>
+    <folate>106.00000</folate>
+    <iron>1.81000</iron>
+    <linoleic>1.69800</linoleic>
+    <linolenic>0.10700</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.35400</manganese>
+    <mufa>3.71600</mufa>
+    <niacin>4.32300</niacin>
+    <pantothenic_acid>0.55500</pantothenic_acid>
+    <phosphorus>112.00000</phosphorus>
+    <potassium>282.00000</potassium>
+    <protein>10.52000</protein>
+    <pufa>1.92700</pufa>
+    <riboflavin>0.26700</riboflavin>
+    <selenium>19.90000</selenium>
+    <sfa>3.55400</sfa>
+    <sodium>575.00000</sodium>
+    <thiamin>0.34300</thiamin>
+    <vitamin_a>22.00000</vitamin_a>
+    <vitamin_b12>0.22000</vitamin_b12>
+    <vitamin_b6>0.20300</vitamin_b6>
+    <vitamin_c>7.50000</vitamin_c>
+    <vitamin_d>0.20000</vitamin_d>
+    <vitamin_e>0.41000</vitamin_e>
+    <vitamin_k>4.50000</vitamin_k>
+    <water>56.51000</water>
+    <weight>100.00000</weight>
+    <zinc>1.05000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

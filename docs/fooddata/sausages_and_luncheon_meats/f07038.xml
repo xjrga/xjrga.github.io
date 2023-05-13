@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07038</foodid>
+    <name>Knackwurst, knockwurst, pork, beef</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>11.00000</calcium>
+    <carbohydrate_by_difference>3.20000</carbohydrate_by_difference>
+    <cholesterol>60.00000</cholesterol>
+    <choline>55.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>307.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>27.70000</fat>
+    <fiber>0.00000</fiber>
+    <folate>2.00000</folate>
+    <iron>0.66000</iron>
+    <linoleic>2.48000</linoleic>
+    <linolenic>0.44000</linolenic>
+    <magnesium>11.00000</magnesium>
+    <manganese>0.02100</manganese>
+    <mufa>12.81000</mufa>
+    <niacin>2.73400</niacin>
+    <pantothenic_acid>0.32000</pantothenic_acid>
+    <phosphorus>98.00000</phosphorus>
+    <potassium>199.00000</potassium>
+    <protein>11.10000</protein>
+    <pufa>2.92000</pufa>
+    <riboflavin>0.14000</riboflavin>
+    <selenium>13.50000</selenium>
+    <sfa>10.21000</sfa>
+    <sodium>930.00000</sodium>
+    <thiamin>0.34200</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.18000</vitamin_b12>
+    <vitamin_b6>0.17000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>1.10000</vitamin_d>
+    <vitamin_e>0.57000</vitamin_e>
+    <vitamin_k>1.60000</vitamin_k>
+    <water>55.30000</water>
+    <weight>100.00000</weight>
+    <zinc>1.66000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

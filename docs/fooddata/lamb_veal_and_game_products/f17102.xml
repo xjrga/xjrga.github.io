@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>17102</foodid>
+    <name>Veal, leg (top round), separable lean only, cooked, pan-fried, not breaded</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>7.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>107.00000</cholesterol>
+    <choline>128.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06300</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>183.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>4.62000</fat>
+    <fiber>0.00000</fiber>
+    <folate>16.00000</folate>
+    <iron>0.87000</iron>
+    <linoleic>0.32000</linoleic>
+    <linolenic>0.02000</linolenic>
+    <magnesium>32.00000</magnesium>
+    <manganese>0.03200</manganese>
+    <mufa>1.65000</mufa>
+    <niacin>12.64000</niacin>
+    <pantothenic_acid>1.22000</pantothenic_acid>
+    <phosphorus>290.00000</phosphorus>
+    <potassium>442.00000</potassium>
+    <protein>33.17000</protein>
+    <pufa>0.41000</pufa>
+    <riboflavin>0.37000</riboflavin>
+    <selenium>10.40000</selenium>
+    <sfa>1.29000</sfa>
+    <sodium>77.00000</sodium>
+    <thiamin>0.07000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.51000</vitamin_b12>
+    <vitamin_b6>0.51000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.42000</vitamin_e>
+    <vitamin_k>5.00000</vitamin_k>
+    <water>60.68000</water>
+    <weight>100.00000</weight>
+    <zinc>3.38000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

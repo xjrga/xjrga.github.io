@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15141</foodid>
+    <name>Crustaceans, crab, blue, canned</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>91.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>97.00000</cholesterol>
+    <choline>80.90000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.81400</copper>
+    <cost>0.0</cost>
+    <dha>0.06700</dha>
+    <energy_gross>83.00000</energy_gross>
+    <epa>0.10100</epa>
+    <fat>0.74000</fat>
+    <fiber>0.00000</fiber>
+    <folate>51.00000</folate>
+    <iron>0.50000</iron>
+    <linoleic>0.02000</linoleic>
+    <linolenic>0.00900</linolenic>
+    <magnesium>36.00000</magnesium>
+    <manganese>0.07400</manganese>
+    <mufa>0.12900</mufa>
+    <niacin>2.74700</niacin>
+    <pantothenic_acid>0.99700</pantothenic_acid>
+    <phosphorus>234.00000</phosphorus>
+    <potassium>259.00000</potassium>
+    <protein>17.88000</protein>
+    <pufa>0.25800</pufa>
+    <riboflavin>0.09300</riboflavin>
+    <selenium>42.90000</selenium>
+    <sfa>0.20100</sfa>
+    <sodium>563.00000</sodium>
+    <thiamin>0.02300</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>3.33000</vitamin_b12>
+    <vitamin_b6>0.15600</vitamin_b6>
+    <vitamin_c>3.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.84000</vitamin_e>
+    <vitamin_k>0.30000</vitamin_k>
+    <water>79.69000</water>
+    <weight>100.00000</weight>
+    <zinc>3.81000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

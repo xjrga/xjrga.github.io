@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36061</foodid>
+    <name>Restaurant, Mexican, soft taco with ground beef, cheese and lettuce</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>116.00000</calcium>
+    <carbohydrate_by_difference>17.92000</carbohydrate_by_difference>
+    <cholesterol>34.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>219.00000</energy_gross>
+    <epa>0.00200</epa>
+    <fat>10.81000</fat>
+    <fiber>1.50000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.85000</iron>
+    <linoleic>1.07300</linoleic>
+    <linolenic>0.08400</linolenic>
+    <magnesium>27.00000</magnesium>
+    <manganese>0.26900</manganese>
+    <mufa>4.22900</mufa>
+    <niacin>2.63000</niacin>
+    <pantothenic_acid>0.46500</pantothenic_acid>
+    <phosphorus>172.00000</phosphorus>
+    <potassium>244.00000</potassium>
+    <protein>12.56000</protein>
+    <pufa>1.20300</pufa>
+    <riboflavin>0.24800</riboflavin>
+    <selenium>19.30000</selenium>
+    <sfa>4.48600</sfa>
+    <sodium>509.00000</sodium>
+    <thiamin>0.16200</thiamin>
+    <vitamin_a>49.00000</vitamin_a>
+    <vitamin_b12>1.22000</vitamin_b12>
+    <vitamin_b6>0.13600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.82000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>56.50000</water>
+    <weight>100.00000</weight>
+    <zinc>2.15000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

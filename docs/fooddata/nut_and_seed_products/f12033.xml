@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>12033</foodid>
+    <name>Seeds, sesame flour, low-fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>149.00000</calcium>
+    <carbohydrate_by_difference>35.51000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.42500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>333.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.75000</fat>
+    <fiber>0.00000</fiber>
+    <folate>29.00000</folate>
+    <iron>14.22000</iron>
+    <linoleic>0.61800</linoleic>
+    <linolenic>0.01100</linolenic>
+    <magnesium>338.00000</magnesium>
+    <manganese>1.39600</manganese>
+    <mufa>0.54300</mufa>
+    <niacin>12.53300</niacin>
+    <pantothenic_acid>2.74500</pantothenic_acid>
+    <phosphorus>757.00000</phosphorus>
+    <potassium>397.00000</potassium>
+    <protein>50.14000</protein>
+    <pufa>0.63000</pufa>
+    <riboflavin>0.26900</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.20100</sfa>
+    <sodium>39.00000</sodium>
+    <thiamin>2.51600</thiamin>
+    <vitamin_a>3.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.14200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>7.10000</water>
+    <weight>100.00000</weight>
+    <zinc>10.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

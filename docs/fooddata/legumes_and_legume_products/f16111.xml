@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16111</foodid>
+    <name>Soybeans, mature seeds, dry roasted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>140.00000</calcium>
+    <carbohydrate_by_difference>28.98000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.07900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>449.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>21.62000</fat>
+    <fiber>8.10000</fiber>
+    <folate>205.00000</folate>
+    <iron>3.95000</iron>
+    <linoleic>10.76400</linoleic>
+    <linolenic>1.44300</linolenic>
+    <magnesium>228.00000</magnesium>
+    <manganese>2.18400</manganese>
+    <mufa>4.77600</mufa>
+    <niacin>1.05600</niacin>
+    <pantothenic_acid>0.47300</pantothenic_acid>
+    <phosphorus>649.00000</phosphorus>
+    <potassium>1364.00000</potassium>
+    <protein>43.32000</protein>
+    <pufa>12.20700</pufa>
+    <riboflavin>0.75500</riboflavin>
+    <selenium>19.30000</selenium>
+    <sfa>3.12700</sfa>
+    <sodium>2.00000</sodium>
+    <thiamin>0.42700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.22500</vitamin_b6>
+    <vitamin_c>4.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>37.00000</vitamin_k>
+    <water>0.80000</water>
+    <weight>100.00000</weight>
+    <zinc>4.77000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

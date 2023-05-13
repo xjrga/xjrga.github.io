@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18015</foodid>
+    <name>Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>27.00000</calcium>
+    <carbohydrate_by_difference>49.05000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>19.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>324.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>11.22000</fat>
+    <fiber>2.80000</fiber>
+    <folate>100.00000</folate>
+    <iron>2.57000</iron>
+    <linoleic>2.41200</linoleic>
+    <linolenic>0.27100</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.49000</manganese>
+    <mufa>2.30900</mufa>
+    <niacin>3.68400</niacin>
+    <pantothenic_acid>0.38200</pantothenic_acid>
+    <phosphorus>446.00000</phosphorus>
+    <potassium>152.00000</potassium>
+    <protein>6.79000</protein>
+    <pufa>2.68800</pufa>
+    <riboflavin>0.29900</riboflavin>
+    <selenium>13.60000</selenium>
+    <sfa>5.51400</sfa>
+    <sodium>1002.00000</sodium>
+    <thiamin>0.44700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.04600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.67000</vitamin_e>
+    <vitamin_k>9.50000</vitamin_k>
+    <water>29.69000</water>
+    <weight>100.00000</weight>
+    <zinc>0.41000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

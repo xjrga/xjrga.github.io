@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01293</foodid>
+    <name>Yogurt, Greek, plain, whole milk</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>100.00000</calcium>
+    <carbohydrate_by_difference>3.98000</carbohydrate_by_difference>
+    <cholesterol>13.00000</cholesterol>
+    <choline>15.10000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01700</copper>
+    <cost>0.0</cost>
+    <dha>0.00400</dha>
+    <energy_gross>97.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.00000</fat>
+    <fiber>0.00000</fiber>
+    <folate>5.00000</folate>
+    <iron>0.00000</iron>
+    <linoleic>0.20900</linoleic>
+    <linolenic>0.02300</linolenic>
+    <magnesium>11.00000</magnesium>
+    <manganese>0.00900</manganese>
+    <mufa>2.13600</mufa>
+    <niacin>0.20800</niacin>
+    <pantothenic_acid>0.33100</pantothenic_acid>
+    <phosphorus>135.00000</phosphorus>
+    <potassium>141.00000</potassium>
+    <protein>9.00000</protein>
+    <pufa>0.46900</pufa>
+    <riboflavin>0.27800</riboflavin>
+    <selenium>9.70000</selenium>
+    <sfa>2.39500</sfa>
+    <sodium>35.00000</sodium>
+    <thiamin>0.02300</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>0.75000</vitamin_b12>
+    <vitamin_b6>0.06300</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.01000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>81.30000</water>
+    <weight>100.00000</weight>
+    <zinc>0.52000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

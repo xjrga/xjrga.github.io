@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20113</foodid>
+    <name>Noodles, chinese, chow mein</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>20.00000</calcium>
+    <carbohydrate_by_difference>72.80000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>8.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.16700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>475.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>15.43000</fat>
+    <fiber>3.70000</fiber>
+    <folate>165.00000</folate>
+    <iron>4.73000</iron>
+    <linoleic>3.49700</linoleic>
+    <linolenic>0.07500</linolenic>
+    <magnesium>52.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>8.92900</mufa>
+    <niacin>5.95000</niacin>
+    <pantothenic_acid>0.53300</pantothenic_acid>
+    <phosphorus>161.00000</phosphorus>
+    <potassium>120.00000</potassium>
+    <protein>8.11000</protein>
+    <pufa>3.57100</pufa>
+    <riboflavin>0.42100</riboflavin>
+    <selenium>43.00000</selenium>
+    <sfa>2.22900</sfa>
+    <sodium>1174.00000</sodium>
+    <thiamin>0.57800</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.11000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>2.30000</vitamin_e>
+    <vitamin_k>1.40000</vitamin_k>
+    <water>1.18000</water>
+    <weight>100.00000</weight>
+    <zinc>1.40000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

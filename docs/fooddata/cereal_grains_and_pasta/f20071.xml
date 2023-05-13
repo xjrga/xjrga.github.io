@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>20071</foodid>
+    <name>Wheat, hard red spring</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>25.00000</calcium>
+    <carbohydrate_by_difference>68.03000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>31.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.41000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>329.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.92000</fat>
+    <fiber>12.20000</fiber>
+    <folate>43.00000</folate>
+    <iron>3.60000</iron>
+    <linoleic>0.72700</linoleic>
+    <linolenic>0.03600</linolenic>
+    <magnesium>124.00000</magnesium>
+    <manganese>4.05500</manganese>
+    <mufa>0.30300</mufa>
+    <niacin>5.71000</niacin>
+    <pantothenic_acid>0.93500</pantothenic_acid>
+    <phosphorus>332.00000</phosphorus>
+    <potassium>340.00000</potassium>
+    <protein>15.40000</protein>
+    <pufa>0.76500</pufa>
+    <riboflavin>0.11000</riboflavin>
+    <selenium>70.70000</selenium>
+    <sfa>0.31400</sfa>
+    <sodium>2.00000</sodium>
+    <thiamin>0.50400</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.33600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.01000</vitamin_e>
+    <vitamin_k>1.90000</vitamin_k>
+    <water>12.76000</water>
+    <weight>100.00000</weight>
+    <zinc>2.78000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

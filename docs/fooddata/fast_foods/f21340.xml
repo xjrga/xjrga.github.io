@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21340</foodid>
+    <name>McDONALD'S, Sausage Burrito</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>132.00000</calcium>
+    <carbohydrate_by_difference>22.97000</carbohydrate_by_difference>
+    <cholesterol>137.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07500</copper>
+    <cost>0.0</cost>
+    <dha>0.01900</dha>
+    <energy_gross>277.00000</energy_gross>
+    <epa>0.00400</epa>
+    <fat>15.63000</fat>
+    <fiber>1.20000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.28000</iron>
+    <linoleic>2.92900</linoleic>
+    <linolenic>0.24500</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.21800</manganese>
+    <mufa>5.07300</mufa>
+    <niacin>2.13300</niacin>
+    <pantothenic_acid>0.66500</pantothenic_acid>
+    <phosphorus>168.00000</phosphorus>
+    <potassium>150.00000</potassium>
+    <protein>11.10000</protein>
+    <pufa>3.36600</pufa>
+    <riboflavin>0.41700</riboflavin>
+    <selenium>26.40000</selenium>
+    <sfa>6.40400</sfa>
+    <sodium>744.00000</sodium>
+    <thiamin>0.21000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.74000</vitamin_b12>
+    <vitamin_b6>0.10200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>47.55000</water>
+    <weight>100.00000</weight>
+    <zinc>1.09000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

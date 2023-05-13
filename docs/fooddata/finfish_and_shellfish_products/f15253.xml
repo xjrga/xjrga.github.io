@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>15253</foodid>
+    <name>Salmon, sockeye, canned, total can contents</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>198.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>67.00000</cholesterol>
+    <choline>74.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06100</copper>
+    <cost>0.0</cost>
+    <dha>0.69500</dha>
+    <energy_gross>153.00000</energy_gross>
+    <epa>0.53200</epa>
+    <fat>7.17000</fat>
+    <fiber>0.00000</fiber>
+    <folate>3.00000</folate>
+    <iron>0.57000</iron>
+    <linoleic>0.13500</linoleic>
+    <linolenic>0.06100</linolenic>
+    <magnesium>30.00000</magnesium>
+    <manganese>0.02400</manganese>
+    <mufa>2.47100</mufa>
+    <niacin>6.00000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>321.00000</phosphorus>
+    <potassium>329.00000</potassium>
+    <protein>20.63000</protein>
+    <pufa>1.74400</pufa>
+    <riboflavin>0.20000</riboflavin>
+    <selenium>30.10000</selenium>
+    <sfa>1.46000</sfa>
+    <sodium>433.00000</sodium>
+    <thiamin>0.02000</thiamin>
+    <vitamin_a>39.00000</vitamin_a>
+    <vitamin_b12>0.40000</vitamin_b12>
+    <vitamin_b6>0.33000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>19.00000</vitamin_d>
+    <vitamin_e>1.88000</vitamin_e>
+    <vitamin_k>0.10000</vitamin_k>
+    <water>71.07000</water>
+    <weight>100.00000</weight>
+    <zinc>0.67000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

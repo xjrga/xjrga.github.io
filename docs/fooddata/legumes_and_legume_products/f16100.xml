@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16100</foodid>
+    <name>Peanut flour, low fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>130.00000</calcium>
+    <carbohydrate_by_difference>31.27000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>2.03900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>428.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>21.90000</fat>
+    <fiber>15.80000</fiber>
+    <folate>133.00000</folate>
+    <iron>4.74000</iron>
+    <linoleic>6.91900</linoleic>
+    <linolenic>0.00100</linolenic>
+    <magnesium>48.00000</magnesium>
+    <manganese>4.23100</manganese>
+    <mufa>10.86600</mufa>
+    <niacin>11.49900</niacin>
+    <pantothenic_acid>1.54300</pantothenic_acid>
+    <phosphorus>508.00000</phosphorus>
+    <potassium>1358.00000</potassium>
+    <protein>33.80000</protein>
+    <pufa>6.92100</pufa>
+    <riboflavin>0.17200</riboflavin>
+    <selenium>7.10000</selenium>
+    <sfa>3.04000</sfa>
+    <sodium>1.00000</sodium>
+    <thiamin>0.45700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.30400</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>7.80000</water>
+    <weight>100.00000</weight>
+    <zinc>5.99000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

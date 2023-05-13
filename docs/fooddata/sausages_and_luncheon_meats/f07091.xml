@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07091</foodid>
+    <name>New england brand sausage, pork, beef</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>7.00000</calcium>
+    <carbohydrate_by_difference>4.83000</carbohydrate_by_difference>
+    <cholesterol>49.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.10000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>161.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.58000</fat>
+    <fiber>0.00000</fiber>
+    <folate>7.00000</folate>
+    <iron>0.94000</iron>
+    <linoleic>0.64000</linoleic>
+    <linolenic>0.09000</linolenic>
+    <magnesium>16.00000</magnesium>
+    <manganese>0.03600</manganese>
+    <mufa>3.64000</mufa>
+    <niacin>3.47800</niacin>
+    <pantothenic_acid>0.68000</pantothenic_acid>
+    <phosphorus>136.00000</phosphorus>
+    <potassium>321.00000</potassium>
+    <protein>17.27000</protein>
+    <pufa>0.72000</pufa>
+    <riboflavin>0.24800</riboflavin>
+    <selenium>19.20000</selenium>
+    <sfa>2.56000</sfa>
+    <sodium>1220.00000</sodium>
+    <thiamin>0.64000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>1.34000</vitamin_b12>
+    <vitamin_b6>0.36000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>66.77000</water>
+    <weight>100.00000</weight>
+    <zinc>2.70000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>23091</foodid>
+    <name>Beef, chuck for stew, separable lean and fat, select, cooked, braised</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>15.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>102.00000</cholesterol>
+    <choline>102.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11600</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>186.00000</energy_gross>
+    <epa>0.00500</epa>
+    <fat>6.34000</fat>
+    <fiber>0.00000</fiber>
+    <folate>8.00000</folate>
+    <iron>2.84000</iron>
+    <linoleic>0.35400</linoleic>
+    <linolenic>0.01300</linolenic>
+    <magnesium>23.00000</magnesium>
+    <manganese>0.01600</manganese>
+    <mufa>3.16400</mufa>
+    <niacin>4.85000</niacin>
+    <pantothenic_acid>0.70000</pantothenic_acid>
+    <phosphorus>236.00000</phosphorus>
+    <potassium>320.00000</potassium>
+    <protein>32.29000</protein>
+    <pufa>0.43200</pufa>
+    <riboflavin>0.30000</riboflavin>
+    <selenium>32.20000</selenium>
+    <sfa>2.51400</sfa>
+    <sodium>68.00000</sodium>
+    <thiamin>0.08000</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>2.53000</vitamin_b12>
+    <vitamin_b6>0.52200</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.07000</vitamin_e>
+    <vitamin_k>1.60000</vitamin_k>
+    <water>60.97000</water>
+    <weight>100.00000</weight>
+    <zinc>8.47000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

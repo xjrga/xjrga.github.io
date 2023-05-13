@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21406</foodid>
+    <name>McDONALD'S, Premium Grilled Chicken Ranch BLT Sandwich</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>38.00000</calcium>
+    <carbohydrate_by_difference>21.91000</carbohydrate_by_difference>
+    <cholesterol>38.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>204.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.41000</fat>
+    <fiber>1.40000</fiber>
+    <folate>0.00000</folate>
+    <iron>1.48000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>0.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>1.86500</mufa>
+    <niacin>6.17700</niacin>
+    <pantothenic_acid>0.86900</pantothenic_acid>
+    <phosphorus>0.00000</phosphorus>
+    <potassium>0.00000</potassium>
+    <protein>16.70000</protein>
+    <pufa>1.67800</pufa>
+    <riboflavin>0.18300</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>1.46300</sfa>
+    <sodium>495.00000</sodium>
+    <thiamin>0.18700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.00000</vitamin_b6>
+    <vitamin_c>4.90000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>53.61000</water>
+    <weight>100.00000</weight>
+    <zinc>0.00000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

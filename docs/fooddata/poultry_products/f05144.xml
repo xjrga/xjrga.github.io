@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05144</foodid>
+    <name>Duck, wild, meat and skin, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>5.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>80.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.31200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>211.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>15.20000</fat>
+    <fiber>0.00000</fiber>
+    <folate>21.00000</folate>
+    <iron>4.16000</iron>
+    <linoleic>1.85000</linoleic>
+    <linolenic>0.17000</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.01900</manganese>
+    <mufa>6.80000</mufa>
+    <niacin>3.31700</niacin>
+    <pantothenic_acid>0.70100</pantothenic_acid>
+    <phosphorus>168.00000</phosphorus>
+    <potassium>249.00000</potassium>
+    <protein>17.42000</protein>
+    <pufa>2.02000</pufa>
+    <riboflavin>0.26900</riboflavin>
+    <selenium>12.80000</selenium>
+    <sfa>5.04000</sfa>
+    <sodium>56.00000</sodium>
+    <thiamin>0.35100</thiamin>
+    <vitamin_a>26.00000</vitamin_a>
+    <vitamin_b12>0.65000</vitamin_b12>
+    <vitamin_b6>0.53000</vitamin_b6>
+    <vitamin_c>5.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>66.52000</water>
+    <weight>100.00000</weight>
+    <zinc>0.77000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

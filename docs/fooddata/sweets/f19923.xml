@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19923</foodid>
+    <name>Candies, HERSHEYS, PAYDAY Bar</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>94.00000</calcium>
+    <carbohydrate_by_difference>52.88000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>35.60000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.32500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>490.00000</energy_gross>
+    <epa>0.02300</epa>
+    <fat>25.00000</fat>
+    <fiber>3.80000</fiber>
+    <folate>51.00000</folate>
+    <iron>1.92000</iron>
+    <linoleic>4.63500</linoleic>
+    <linolenic>0.01600</linolenic>
+    <magnesium>90.00000</magnesium>
+    <manganese>0.91200</manganese>
+    <mufa>12.46700</mufa>
+    <niacin>7.16600</niacin>
+    <pantothenic_acid>0.52100</pantothenic_acid>
+    <phosphorus>197.00000</phosphorus>
+    <potassium>725.00000</potassium>
+    <protein>13.44000</protein>
+    <pufa>4.69100</pufa>
+    <riboflavin>0.11500</riboflavin>
+    <selenium>5.10000</selenium>
+    <sfa>4.80600</sfa>
+    <sodium>231.00000</sodium>
+    <thiamin>0.08300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.02000</vitamin_b12>
+    <vitamin_b6>0.23500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>2.47000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>6.97000</water>
+    <weight>100.00000</weight>
+    <zinc>1.57000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

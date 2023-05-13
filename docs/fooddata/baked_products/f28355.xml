@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>28355</foodid>
+    <name>CRUNCHMASTER, Multi-Grain Crisps, Snack Crackers, Gluten-Free</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>246.00000</calcium>
+    <carbohydrate_by_difference>67.18000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.50800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>456.00000</energy_gross>
+    <epa>0.00800</epa>
+    <fat>15.92000</fat>
+    <fiber>7.50000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.68000</iron>
+    <linoleic>5.03700</linoleic>
+    <linolenic>0.92600</linolenic>
+    <magnesium>149.00000</magnesium>
+    <manganese>2.42000</manganese>
+    <mufa>7.00400</mufa>
+    <niacin>4.57000</niacin>
+    <pantothenic_acid>0.84000</pantothenic_acid>
+    <phosphorus>354.00000</phosphorus>
+    <potassium>339.00000</potassium>
+    <protein>10.91000</protein>
+    <pufa>5.98100</pufa>
+    <riboflavin>0.15000</riboflavin>
+    <selenium>16.30000</selenium>
+    <sfa>2.06900</sfa>
+    <sodium>370.00000</sodium>
+    <thiamin>0.00000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.37000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>3.29000</water>
+    <weight>100.00000</weight>
+    <zinc>2.50000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

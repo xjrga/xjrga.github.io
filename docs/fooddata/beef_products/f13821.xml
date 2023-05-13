@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>13821</foodid>
+    <name>Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0' fat, all grades, cooked, roasted</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>19.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>83.00000</cholesterol>
+    <choline>79.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>183.00000</energy_gross>
+    <epa>0.00200</epa>
+    <fat>8.46000</fat>
+    <fiber>0.00000</fiber>
+    <folate>6.00000</folate>
+    <iron>2.47000</iron>
+    <linoleic>0.35800</linoleic>
+    <linolenic>0.01500</linolenic>
+    <magnesium>22.00000</magnesium>
+    <manganese>0.01400</manganese>
+    <mufa>4.16700</mufa>
+    <niacin>4.69300</niacin>
+    <pantothenic_acid>0.72500</pantothenic_acid>
+    <phosphorus>210.00000</phosphorus>
+    <potassium>344.00000</potassium>
+    <protein>26.65000</protein>
+    <pufa>0.42600</pufa>
+    <riboflavin>0.19300</riboflavin>
+    <selenium>27.30000</selenium>
+    <sfa>3.42200</sfa>
+    <sodium>80.00000</sodium>
+    <thiamin>0.07500</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>3.24000</vitamin_b12>
+    <vitamin_b6>0.40900</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.12000</vitamin_e>
+    <vitamin_k>1.60000</vitamin_k>
+    <water>64.79000</water>
+    <weight>100.00000</weight>
+    <zinc>9.73000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

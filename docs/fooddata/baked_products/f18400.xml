@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18400</foodid>
+    <name>Crackers, matzo, egg and onion</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>36.00000</calcium>
+    <carbohydrate_by_difference>77.10000</carbohydrate_by_difference>
+    <cholesterol>45.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08000</copper>
+    <cost>0.0</cost>
+    <dha>0.00800</dha>
+    <energy_gross>391.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>3.90000</fat>
+    <fiber>5.00000</fiber>
+    <folate>262.00000</folate>
+    <iron>4.37000</iron>
+    <linoleic>0.91600</linoleic>
+    <linolenic>0.04500</linolenic>
+    <magnesium>30.00000</magnesium>
+    <manganese>0.82000</manganese>
+    <mufa>0.98700</mufa>
+    <niacin>4.89100</niacin>
+    <pantothenic_acid>0.57700</pantothenic_acid>
+    <phosphorus>89.00000</phosphorus>
+    <potassium>83.00000</potassium>
+    <protein>10.00000</protein>
+    <pufa>1.00100</pufa>
+    <riboflavin>0.43700</riboflavin>
+    <selenium>36.50000</selenium>
+    <sfa>0.93600</sfa>
+    <sodium>285.00000</sodium>
+    <thiamin>0.55800</thiamin>
+    <vitamin_a>7.00000</vitamin_a>
+    <vitamin_b12>0.22000</vitamin_b12>
+    <vitamin_b6>0.11100</vitamin_b6>
+    <vitamin_c>0.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>7.20000</water>
+    <weight>100.00000</weight>
+    <zinc>0.73000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

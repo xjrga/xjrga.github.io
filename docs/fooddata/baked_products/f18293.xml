@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18293</foodid>
+    <name>Pancakes, plain, prepared from recipe</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>219.00000</calcium>
+    <carbohydrate_by_difference>28.30000</carbohydrate_by_difference>
+    <cholesterol>59.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04900</copper>
+    <cost>0.0</cost>
+    <dha>0.00500</dha>
+    <energy_gross>227.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>9.70000</fat>
+    <fiber>0.00000</fiber>
+    <folate>56.00000</folate>
+    <iron>1.80000</iron>
+    <linoleic>3.91300</linoleic>
+    <linolenic>0.51000</linolenic>
+    <magnesium>16.00000</magnesium>
+    <manganese>0.20000</manganese>
+    <mufa>2.47400</mufa>
+    <niacin>1.56700</niacin>
+    <pantothenic_acid>0.40500</pantothenic_acid>
+    <phosphorus>159.00000</phosphorus>
+    <potassium>132.00000</potassium>
+    <protein>6.40000</protein>
+    <pufa>4.44700</pufa>
+    <riboflavin>0.28100</riboflavin>
+    <selenium>14.90000</selenium>
+    <sfa>2.12200</sfa>
+    <sodium>439.00000</sodium>
+    <thiamin>0.20100</thiamin>
+    <vitamin_a>54.00000</vitamin_a>
+    <vitamin_b12>0.22000</vitamin_b12>
+    <vitamin_b6>0.04600</vitamin_b6>
+    <vitamin_c>0.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>52.90000</water>
+    <weight>100.00000</weight>
+    <zinc>0.56000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

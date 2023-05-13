@@ -1,0 +1,6 @@
+Other
+=====
+
+* `McDonald's, Big Mac (without Big Mac Sauce) <../fooddata/other/bigmac.xml>`_
+* `I Can't Believe It's Not Butter! - Original Spray <../fooddata/other/butter_spray.xml>`_
+* `Corn Tortillas <../fooddata/other/tortillas.xml>`_

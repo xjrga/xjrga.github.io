@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08194</foodid>
+    <name>Cereals ready-to-eat, GENERAL MILLS, REESE'S PUFFS</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>345.00000</calcium>
+    <carbohydrate_by_difference>75.60000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>18.40000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.22900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>413.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>11.10000</fat>
+    <fiber>4.70000</fiber>
+    <folate>573.00000</folate>
+    <iron>15.50000</iron>
+    <linoleic>3.44500</linoleic>
+    <linolenic>0.25500</linolenic>
+    <magnesium>55.00000</magnesium>
+    <manganese>0.47300</manganese>
+    <mufa>4.70000</mufa>
+    <niacin>17.20000</niacin>
+    <pantothenic_acid>0.45300</pantothenic_acid>
+    <phosphorus>207.00000</phosphorus>
+    <potassium>244.00000</potassium>
+    <protein>6.80000</protein>
+    <pufa>3.70000</pufa>
+    <riboflavin>1.50000</riboflavin>
+    <selenium>6.50000</selenium>
+    <sfa>2.10000</sfa>
+    <sodium>555.00000</sodium>
+    <thiamin>1.30000</thiamin>
+    <vitamin_a>495.00000</vitamin_a>
+    <vitamin_b12>5.20000</vitamin_b12>
+    <vitamin_b6>1.72400</vitamin_b6>
+    <vitamin_c>20.70000</vitamin_c>
+    <vitamin_d>3.40000</vitamin_d>
+    <vitamin_e>23.64000</vitamin_e>
+    <vitamin_k>1.80000</vitamin_k>
+    <water>2.60000</water>
+    <weight>100.00000</weight>
+    <zinc>12.90000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

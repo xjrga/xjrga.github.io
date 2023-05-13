@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>06007</foodid>
+    <name>Soup, bean with ham, canned, chunky, ready-to-serve</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>32.00000</calcium>
+    <carbohydrate_by_difference>11.16000</carbohydrate_by_difference>
+    <cholesterol>9.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.16000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>95.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>3.50000</fat>
+    <fiber>4.60000</fiber>
+    <folate>12.00000</folate>
+    <iron>1.33000</iron>
+    <linoleic>0.36000</linoleic>
+    <linolenic>0.04000</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.29000</manganese>
+    <mufa>1.58000</mufa>
+    <niacin>0.70000</niacin>
+    <pantothenic_acid>0.04000</pantothenic_acid>
+    <phosphorus>59.00000</phosphorus>
+    <potassium>175.00000</potassium>
+    <protein>5.19000</protein>
+    <pufa>0.39000</pufa>
+    <riboflavin>0.06000</riboflavin>
+    <selenium>6.90000</selenium>
+    <sfa>1.37000</sfa>
+    <sodium>400.00000</sodium>
+    <thiamin>0.06000</thiamin>
+    <vitamin_a>81.00000</vitamin_a>
+    <vitamin_b12>0.03000</vitamin_b12>
+    <vitamin_b6>0.05000</vitamin_b6>
+    <vitamin_c>1.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>78.63000</water>
+    <weight>100.00000</weight>
+    <zinc>0.44000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

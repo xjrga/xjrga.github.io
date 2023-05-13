@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18139</foodid>
+    <name>Cake, white, prepared from recipe without frosting</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>130.00000</calcium>
+    <carbohydrate_by_difference>57.20000</carbohydrate_by_difference>
+    <cholesterol>2.00000</cholesterol>
+    <choline>5.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>357.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>12.40000</fat>
+    <fiber>0.80000</fiber>
+    <folate>60.00000</folate>
+    <iron>1.52000</iron>
+    <linoleic>2.94900</linoleic>
+    <linolenic>0.19900</linolenic>
+    <magnesium>12.00000</magnesium>
+    <manganese>0.19700</manganese>
+    <mufa>5.30900</mufa>
+    <niacin>1.53300</niacin>
+    <pantothenic_acid>0.18400</pantothenic_acid>
+    <phosphorus>93.00000</phosphorus>
+    <potassium>95.00000</potassium>
+    <protein>5.40000</protein>
+    <pufa>3.14800</pufa>
+    <riboflavin>0.24200</riboflavin>
+    <selenium>13.00000</selenium>
+    <sfa>3.26900</sfa>
+    <sodium>327.00000</sodium>
+    <thiamin>0.18600</thiamin>
+    <vitamin_a>15.00000</vitamin_a>
+    <vitamin_b12>0.08000</vitamin_b12>
+    <vitamin_b6>0.02100</vitamin_b6>
+    <vitamin_c>0.20000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.12000</vitamin_e>
+    <vitamin_k>5.10000</vitamin_k>
+    <water>23.30000</water>
+    <weight>100.00000</weight>
+    <zinc>0.32000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

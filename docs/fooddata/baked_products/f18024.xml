@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18024</foodid>
+    <name>Bread, cornbread, prepared from recipe, made with low fat (2%) milk</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>249.00000</calcium>
+    <carbohydrate_by_difference>43.50000</carbohydrate_by_difference>
+    <cholesterol>40.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05100</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>266.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.10000</fat>
+    <fiber>0.00000</fiber>
+    <folate>118.00000</folate>
+    <iron>2.50000</iron>
+    <linoleic>2.84100</linoleic>
+    <linolenic>0.34900</linolenic>
+    <magnesium>25.00000</magnesium>
+    <manganese>0.11800</manganese>
+    <mufa>1.83000</mufa>
+    <niacin>2.25400</niacin>
+    <pantothenic_acid>0.33900</pantothenic_acid>
+    <phosphorus>169.00000</phosphorus>
+    <potassium>147.00000</potassium>
+    <protein>6.70000</protein>
+    <pufa>3.20600</pufa>
+    <riboflavin>0.29400</riboflavin>
+    <selenium>10.10000</selenium>
+    <sfa>1.55500</sfa>
+    <sodium>658.00000</sodium>
+    <thiamin>0.29100</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.15000</vitamin_b12>
+    <vitamin_b6>0.11300</vitamin_b6>
+    <vitamin_c>0.30000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>39.10000</water>
+    <weight>100.00000</weight>
+    <zinc>0.60000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

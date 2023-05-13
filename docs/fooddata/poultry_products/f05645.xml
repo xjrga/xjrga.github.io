@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05645</foodid>
+    <name>Ostrich, inside leg, cooked</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>6.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>73.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>141.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.94000</fat>
+    <fiber>0.00000</fiber>
+    <folate>16.00000</folate>
+    <iron>3.12000</iron>
+    <linoleic>0.18000</linoleic>
+    <linolenic>0.01000</linolenic>
+    <magnesium>25.00000</magnesium>
+    <manganese>0.01800</manganese>
+    <mufa>0.67000</mufa>
+    <niacin>7.27400</niacin>
+    <pantothenic_acid>1.34200</pantothenic_acid>
+    <phosphorus>244.00000</phosphorus>
+    <potassium>352.00000</potassium>
+    <protein>29.01000</protein>
+    <pufa>0.32000</pufa>
+    <riboflavin>0.29800</riboflavin>
+    <selenium>36.50000</selenium>
+    <sfa>0.70000</sfa>
+    <sodium>83.00000</sodium>
+    <thiamin>0.23700</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>6.36000</vitamin_b12>
+    <vitamin_b6>0.55500</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.22000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>69.95000</water>
+    <weight>100.00000</weight>
+    <zinc>4.71000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

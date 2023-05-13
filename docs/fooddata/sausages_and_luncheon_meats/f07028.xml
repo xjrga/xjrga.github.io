@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07028</foodid>
+    <name>Ham, sliced, pre-packaged, deli meat (96%fat free, water added)</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>5.00000</calcium>
+    <carbohydrate_by_difference>0.70000</carbohydrate_by_difference>
+    <cholesterol>41.00000</cholesterol>
+    <choline>62.40000</choline>
+    <complete_protein>16.85000</complete_protein>
+    <copper>0.05000</copper>
+    <cost>0.0</cost>
+    <dha>0.00200</dha>
+    <energy_gross>107.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>4.04000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.59000</iron>
+    <linoleic>0.50700</linoleic>
+    <linolenic>0.01600</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.01400</manganese>
+    <mufa>1.61800</mufa>
+    <niacin>5.69700</niacin>
+    <pantothenic_acid>0.69700</pantothenic_acid>
+    <phosphorus>252.00000</phosphorus>
+    <potassium>463.00000</potassium>
+    <protein>16.85000</protein>
+    <pufa>0.62600</pufa>
+    <riboflavin>0.26600</riboflavin>
+    <selenium>31.60000</selenium>
+    <sfa>1.22700</sfa>
+    <sodium>945.00000</sodium>
+    <thiamin>0.33600</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.36000</vitamin_b12>
+    <vitamin_b6>0.39400</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.60000</vitamin_d>
+    <vitamin_e>0.29000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>74.84000</water>
+    <weight>100.00000</weight>
+    <zinc>1.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

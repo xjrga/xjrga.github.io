@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>16363</foodid>
+    <name>Cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, with salt</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>24.00000</calcium>
+    <carbohydrate_by_difference>20.76000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>32.20000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.26800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>116.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.53000</fat>
+    <fiber>6.50000</fiber>
+    <folate>208.00000</folate>
+    <iron>2.51000</iron>
+    <linoleic>0.14300</linoleic>
+    <linolenic>0.08300</linolenic>
+    <magnesium>53.00000</magnesium>
+    <manganese>0.47500</manganese>
+    <mufa>0.04400</mufa>
+    <niacin>0.49500</niacin>
+    <pantothenic_acid>0.41100</pantothenic_acid>
+    <phosphorus>156.00000</phosphorus>
+    <potassium>278.00000</potassium>
+    <protein>7.73000</protein>
+    <pufa>0.22500</pufa>
+    <riboflavin>0.05500</riboflavin>
+    <selenium>2.50000</selenium>
+    <sfa>0.13800</sfa>
+    <sodium>240.00000</sodium>
+    <thiamin>0.20200</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.10000</vitamin_b6>
+    <vitamin_c>0.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.28000</vitamin_e>
+    <vitamin_k>1.70000</vitamin_k>
+    <water>70.04000</water>
+    <weight>100.00000</weight>
+    <zinc>1.29000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

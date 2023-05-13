@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>23410</foodid>
+    <name>Beef, New Zealand, imported, flank, separable lean only, cooked, braised</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>5.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>78.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.06600</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>194.00000</energy_gross>
+    <epa>0.01800</epa>
+    <fat>7.92000</fat>
+    <fiber>0.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>2.41000</iron>
+    <linoleic>0.11800</linoleic>
+    <linolenic>0.06100</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.01100</manganese>
+    <mufa>2.71200</mufa>
+    <niacin>3.46700</niacin>
+    <pantothenic_acid>0.13000</pantothenic_acid>
+    <phosphorus>141.00000</phosphorus>
+    <potassium>192.00000</potassium>
+    <protein>30.75000</protein>
+    <pufa>0.28800</pufa>
+    <riboflavin>0.08600</riboflavin>
+    <selenium>5.50000</selenium>
+    <sfa>2.86200</sfa>
+    <sodium>28.00000</sodium>
+    <thiamin>0.02100</thiamin>
+    <vitamin_a>11.00000</vitamin_a>
+    <vitamin_b12>1.40000</vitamin_b12>
+    <vitamin_b6>0.12000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.30000</vitamin_d>
+    <vitamin_e>0.95000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>61.51000</water>
+    <weight>100.00000</weight>
+    <zinc>6.89000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

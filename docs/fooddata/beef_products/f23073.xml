@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>23073</foodid>
+    <name>Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0' fat, select, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>15.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>71.00000</cholesterol>
+    <choline>72.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>137.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>5.89000</fat>
+    <fiber>0.00000</fiber>
+    <folate>3.00000</folate>
+    <iron>2.08000</iron>
+    <linoleic>0.27900</linoleic>
+    <linolenic>0.01100</linolenic>
+    <magnesium>18.00000</magnesium>
+    <manganese>0.01500</manganese>
+    <mufa>2.95000</mufa>
+    <niacin>4.25000</niacin>
+    <pantothenic_acid>0.74000</pantothenic_acid>
+    <phosphorus>189.00000</phosphorus>
+    <potassium>293.00000</potassium>
+    <protein>21.10000</protein>
+    <pufa>0.32000</pufa>
+    <riboflavin>0.18000</riboflavin>
+    <selenium>20.80000</selenium>
+    <sfa>2.57000</sfa>
+    <sodium>82.00000</sodium>
+    <thiamin>0.07000</thiamin>
+    <vitamin_a>2.00000</vitamin_a>
+    <vitamin_b12>3.10000</vitamin_b12>
+    <vitamin_b6>0.35700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.12000</vitamin_e>
+    <vitamin_k>1.50000</vitamin_k>
+    <water>72.11000</water>
+    <weight>100.00000</weight>
+    <zinc>6.53000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

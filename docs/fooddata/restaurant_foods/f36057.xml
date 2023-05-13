@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36057</foodid>
+    <name>CARRABBA'S ITALIAN GRILL, chicken parmesan without cavatappi pasta</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>142.00000</calcium>
+    <carbohydrate_by_difference>7.80000</carbohydrate_by_difference>
+    <cholesterol>67.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.07900</copper>
+    <cost>0.0</cost>
+    <dha>0.00400</dha>
+    <energy_gross>206.00000</energy_gross>
+    <epa>0.00200</epa>
+    <fat>10.95000</fat>
+    <fiber>0.90000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.78000</iron>
+    <linoleic>1.22900</linoleic>
+    <linolenic>0.12800</linolenic>
+    <magnesium>30.00000</magnesium>
+    <manganese>0.16900</manganese>
+    <mufa>4.66400</mufa>
+    <niacin>6.44700</niacin>
+    <pantothenic_acid>1.40000</pantothenic_acid>
+    <phosphorus>235.00000</phosphorus>
+    <potassium>319.00000</potassium>
+    <protein>19.00000</protein>
+    <pufa>1.43700</pufa>
+    <riboflavin>0.22300</riboflavin>
+    <selenium>25.30000</selenium>
+    <sfa>3.51700</sfa>
+    <sodium>467.00000</sodium>
+    <thiamin>0.10300</thiamin>
+    <vitamin_a>53.00000</vitamin_a>
+    <vitamin_b12>0.46000</vitamin_b12>
+    <vitamin_b6>0.22700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.89000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>59.88000</water>
+    <weight>100.00000</weight>
+    <zinc>1.16000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

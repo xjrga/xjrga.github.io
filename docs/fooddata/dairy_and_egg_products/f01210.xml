@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01210</foodid>
+    <name>Egg Mix, USDA Commodity</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>171.00000</calcium>
+    <carbohydrate_by_difference>23.97000</carbohydrate_by_difference>
+    <cholesterol>975.00000</cholesterol>
+    <choline>602.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.14900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>555.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>34.50000</fat>
+    <fiber>0.00000</fiber>
+    <folate>138.00000</folate>
+    <iron>3.23000</iron>
+    <linoleic>6.83600</linoleic>
+    <linolenic>0.16500</linolenic>
+    <magnesium>11.00000</magnesium>
+    <manganese>0.05600</manganese>
+    <mufa>13.74500</mufa>
+    <niacin>0.26700</niacin>
+    <pantothenic_acid>6.50000</pantothenic_acid>
+    <phosphorus>451.00000</phosphorus>
+    <potassium>373.00000</potassium>
+    <protein>35.60000</protein>
+    <pufa>7.55500</pufa>
+    <riboflavin>1.27700</riboflavin>
+    <selenium>118.00000</selenium>
+    <sfa>10.30500</sfa>
+    <sodium>576.00000</sodium>
+    <thiamin>0.19000</thiamin>
+    <vitamin_a>117.00000</vitamin_a>
+    <vitamin_b12>2.90000</vitamin_b12>
+    <vitamin_b6>0.20700</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>7.40000</vitamin_d>
+    <vitamin_e>2.04000</vitamin_e>
+    <vitamin_k>0.70000</vitamin_k>
+    <water>2.78000</water>
+    <weight>100.00000</weight>
+    <zinc>2.76000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

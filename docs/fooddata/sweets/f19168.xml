@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19168</foodid>
+    <name>Desserts, egg custard, baked, prepared-from-recipe</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>107.00000</calcium>
+    <carbohydrate_by_difference>11.00000</carbohydrate_by_difference>
+    <cholesterol>84.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02800</copper>
+    <cost>0.0</cost>
+    <dha>0.00700</dha>
+    <energy_gross>104.00000</energy_gross>
+    <epa>0.00100</epa>
+    <fat>4.58000</fat>
+    <fiber>0.00000</fiber>
+    <folate>10.00000</folate>
+    <iron>0.35000</iron>
+    <linoleic>0.30700</linoleic>
+    <linolenic>0.07000</linolenic>
+    <magnesium>11.00000</magnesium>
+    <manganese>0.01000</manganese>
+    <mufa>1.37900</mufa>
+    <niacin>0.10500</niacin>
+    <pantothenic_acid>0.56900</pantothenic_acid>
+    <phosphorus>113.00000</phosphorus>
+    <potassium>148.00000</potassium>
+    <protein>5.02000</protein>
+    <pufa>0.41000</pufa>
+    <riboflavin>0.24000</riboflavin>
+    <selenium>8.80000</selenium>
+    <sfa>2.16400</sfa>
+    <sodium>61.00000</sodium>
+    <thiamin>0.03800</thiamin>
+    <vitamin_a>49.00000</vitamin_a>
+    <vitamin_b12>0.39000</vitamin_b12>
+    <vitamin_b6>0.04800</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.22000</vitamin_e>
+    <vitamin_k>0.20000</vitamin_k>
+    <water>78.86000</water>
+    <weight>100.00000</weight>
+    <zinc>0.54000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

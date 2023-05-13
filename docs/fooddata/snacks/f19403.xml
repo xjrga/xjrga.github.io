@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19403</foodid>
+    <name>Snacks, crisped rice bar, almond</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>74.00000</calcium>
+    <carbohydrate_by_difference>64.60000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.24700</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>458.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>20.40000</fat>
+    <fiber>3.60000</fiber>
+    <folate>0.00000</folate>
+    <iron>6.35000</iron>
+    <linoleic>7.38000</linoleic>
+    <linolenic>0.31000</linolenic>
+    <magnesium>71.00000</magnesium>
+    <manganese>1.60100</manganese>
+    <mufa>7.50000</mufa>
+    <niacin>17.63500</niacin>
+    <pantothenic_acid>0.55600</pantothenic_acid>
+    <phosphorus>167.00000</phosphorus>
+    <potassium>229.00000</potassium>
+    <protein>7.00000</protein>
+    <pufa>7.73000</pufa>
+    <riboflavin>1.49900</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>3.77000</sfa>
+    <sodium>234.00000</sodium>
+    <thiamin>1.32300</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>1.76400</vitamin_b6>
+    <vitamin_c>11.50000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>6.70000</water>
+    <weight>100.00000</weight>
+    <zinc>5.29000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>11548</foodid>
+    <name>Tomato powder</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>166.00000</calcium>
+    <carbohydrate_by_difference>74.68000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.24100</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>302.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>0.44000</fat>
+    <fiber>16.50000</fiber>
+    <folate>120.00000</folate>
+    <iron>4.56000</iron>
+    <linoleic>0.17100</linoleic>
+    <linolenic>0.00700</linolenic>
+    <magnesium>178.00000</magnesium>
+    <manganese>1.95100</manganese>
+    <mufa>0.06600</mufa>
+    <niacin>9.13300</niacin>
+    <pantothenic_acid>3.76000</pantothenic_acid>
+    <phosphorus>295.00000</phosphorus>
+    <potassium>1927.00000</potassium>
+    <protein>12.91000</protein>
+    <pufa>0.17900</pufa>
+    <riboflavin>0.76100</riboflavin>
+    <selenium>5.30000</selenium>
+    <sfa>0.06200</sfa>
+    <sodium>134.00000</sodium>
+    <thiamin>0.91300</thiamin>
+    <vitamin_a>862.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.45700</vitamin_b6>
+    <vitamin_c>116.70000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>12.25000</vitamin_e>
+    <vitamin_k>48.80000</vitamin_k>
+    <water>3.06000</water>
+    <weight>100.00000</weight>
+    <zinc>1.71000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

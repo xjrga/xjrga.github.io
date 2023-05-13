@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>05305</foodid>
+    <name>Ground turkey, raw</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>19.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>69.00000</cholesterol>
+    <choline>50.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.09600</copper>
+    <cost>0.0</cost>
+    <dha>0.00800</dha>
+    <energy_gross>148.00000</energy_gross>
+    <epa>0.00600</epa>
+    <fat>7.66000</fat>
+    <fiber>0.00000</fiber>
+    <folate>7.00000</folate>
+    <iron>1.09000</iron>
+    <linoleic>1.93200</linoleic>
+    <linolenic>0.10800</linolenic>
+    <magnesium>23.00000</magnesium>
+    <manganese>0.00800</manganese>
+    <mufa>2.63500</mufa>
+    <niacin>6.73300</niacin>
+    <pantothenic_acid>0.99300</pantothenic_acid>
+    <phosphorus>200.00000</phosphorus>
+    <potassium>237.00000</potassium>
+    <protein>19.66000</protein>
+    <pufa>2.20500</pufa>
+    <riboflavin>0.15600</riboflavin>
+    <selenium>21.90000</selenium>
+    <sfa>2.02400</sfa>
+    <sodium>58.00000</sodium>
+    <thiamin>0.06600</thiamin>
+    <vitamin_a>20.00000</vitamin_a>
+    <vitamin_b12>1.00000</vitamin_b12>
+    <vitamin_b6>0.56400</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.40000</vitamin_d>
+    <vitamin_e>0.09000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>72.36000</water>
+    <weight>100.00000</weight>
+    <zinc>2.35000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

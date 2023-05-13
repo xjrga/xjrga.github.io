@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>21238</foodid>
+    <name>McDONALD'S, french fries</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>19.00000</calcium>
+    <carbohydrate_by_difference>42.58000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>39.80000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11400</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>323.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>15.47000</fat>
+    <fiber>3.90000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.80000</iron>
+    <linoleic>4.29800</linoleic>
+    <linolenic>0.41300</linolenic>
+    <magnesium>37.00000</magnesium>
+    <manganese>0.24900</manganese>
+    <mufa>7.37900</mufa>
+    <niacin>3.22000</niacin>
+    <pantothenic_acid>0.59000</pantothenic_acid>
+    <phosphorus>127.00000</phosphorus>
+    <potassium>596.00000</potassium>
+    <protein>3.41000</protein>
+    <pufa>4.72700</pufa>
+    <riboflavin>0.03700</riboflavin>
+    <selenium>0.40000</selenium>
+    <sfa>2.27100</sfa>
+    <sodium>189.00000</sodium>
+    <thiamin>0.18000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.38000</vitamin_b6>
+    <vitamin_c>5.60000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.38000</vitamin_e>
+    <vitamin_k>16.00000</vitamin_k>
+    <water>36.63000</water>
+    <weight>100.00000</weight>
+    <zinc>0.51000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

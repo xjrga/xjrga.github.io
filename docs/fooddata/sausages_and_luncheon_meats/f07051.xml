@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>07051</foodid>
+    <name>Olive loaf, pork</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>109.00000</calcium>
+    <carbohydrate_by_difference>9.20000</carbohydrate_by_difference>
+    <cholesterol>38.00000</cholesterol>
+    <choline>66.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.05000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>235.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>16.50000</fat>
+    <fiber>0.00000</fiber>
+    <folate>2.00000</folate>
+    <iron>0.54000</iron>
+    <linoleic>1.82000</linoleic>
+    <linolenic>0.11000</linolenic>
+    <magnesium>19.00000</magnesium>
+    <manganese>0.03500</manganese>
+    <mufa>7.87000</mufa>
+    <niacin>1.83500</niacin>
+    <pantothenic_acid>0.77000</pantothenic_acid>
+    <phosphorus>127.00000</phosphorus>
+    <potassium>297.00000</potassium>
+    <protein>11.80000</protein>
+    <pufa>1.93000</pufa>
+    <riboflavin>0.26000</riboflavin>
+    <selenium>16.40000</selenium>
+    <sfa>5.85000</sfa>
+    <sodium>964.00000</sodium>
+    <thiamin>0.29500</thiamin>
+    <vitamin_a>60.00000</vitamin_a>
+    <vitamin_b12>1.26000</vitamin_b12>
+    <vitamin_b6>0.23000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>1.10000</vitamin_d>
+    <vitamin_e>0.25000</vitamin_e>
+    <vitamin_k>3.40000</vitamin_k>
+    <water>58.20000</water>
+    <weight>100.00000</weight>
+    <zinc>1.38000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

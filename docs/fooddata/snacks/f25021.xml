@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>25021</foodid>
+    <name>Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>886.00000</calcium>
+    <carbohydrate_by_difference>52.49000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>41.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>1.41000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>403.00000</energy_gross>
+    <epa>0.00600</epa>
+    <fat>12.19000</fat>
+    <fiber>4.30000</fiber>
+    <folate>1773.00000</folate>
+    <iron>14.20000</iron>
+    <linoleic>2.58200</linoleic>
+    <linolenic>0.12400</linolenic>
+    <magnesium>329.00000</magnesium>
+    <manganese>2.59000</manganese>
+    <mufa>2.93300</mufa>
+    <niacin>37.10000</niacin>
+    <pantothenic_acid>15.90000</pantothenic_acid>
+    <phosphorus>785.00000</phosphorus>
+    <potassium>412.00000</potassium>
+    <protein>20.75000</protein>
+    <pufa>2.71400</pufa>
+    <riboflavin>3.00000</riboflavin>
+    <selenium>62.50000</selenium>
+    <sfa>5.52300</sfa>
+    <sodium>386.00000</sodium>
+    <thiamin>0.12000</thiamin>
+    <vitamin_a>374.00000</vitamin_a>
+    <vitamin_b12>6.40000</vitamin_b12>
+    <vitamin_b6>2.40000</vitamin_b6>
+    <vitamin_c>68.00000</vitamin_c>
+    <vitamin_d>3.10000</vitamin_d>
+    <vitamin_e>8.40000</vitamin_e>
+    <vitamin_k>40.80000</vitamin_k>
+    <water>9.38000</water>
+    <weight>100.00000</weight>
+    <zinc>9.72000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

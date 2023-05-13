@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>22975</foodid>
+    <name>Chicken, nuggets, white meat, precooked, frozen, not reheated</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>38.00000</calcium>
+    <carbohydrate_by_difference>16.24000</carbohydrate_by_difference>
+    <cholesterol>34.00000</cholesterol>
+    <choline>45.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.13900</copper>
+    <cost>0.0</cost>
+    <dha>0.00300</dha>
+    <energy_gross>261.00000</energy_gross>
+    <epa>0.00300</epa>
+    <fat>15.42000</fat>
+    <fiber>0.70000</fiber>
+    <folate>5.00000</folate>
+    <iron>1.43000</iron>
+    <linoleic>5.51800</linoleic>
+    <linolenic>0.56100</linolenic>
+    <magnesium>35.00000</magnesium>
+    <manganese>0.46000</manganese>
+    <mufa>4.66700</mufa>
+    <niacin>6.73600</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>213.00000</phosphorus>
+    <potassium>281.00000</potassium>
+    <protein>14.36000</protein>
+    <pufa>6.16800</pufa>
+    <riboflavin>0.05500</riboflavin>
+    <selenium>17.00000</selenium>
+    <sfa>3.36600</sfa>
+    <sodium>538.00000</sodium>
+    <thiamin>0.10600</thiamin>
+    <vitamin_a>16.00000</vitamin_a>
+    <vitamin_b12>0.23000</vitamin_b12>
+    <vitamin_b6>0.33100</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.18000</vitamin_e>
+    <vitamin_k>10.00000</vitamin_k>
+    <water>51.90000</water>
+    <weight>100.00000</weight>
+    <zinc>0.75000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

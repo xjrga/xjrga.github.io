@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>17348</foodid>
+    <name>Game meat, deer, top round, separable lean only, 1' steak, cooked, broiled</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>4.00000</calcium>
+    <carbohydrate_by_difference>0.00000</carbohydrate_by_difference>
+    <cholesterol>85.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.27200</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>152.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>1.92000</fat>
+    <fiber>0.00000</fiber>
+    <folate>10.00000</folate>
+    <iron>4.23000</iron>
+    <linoleic>0.06900</linoleic>
+    <linolenic>0.03200</linolenic>
+    <magnesium>30.00000</magnesium>
+    <manganese>0.01800</manganese>
+    <mufa>0.41200</mufa>
+    <niacin>8.40000</niacin>
+    <pantothenic_acid>0.90400</pantothenic_acid>
+    <phosphorus>272.00000</phosphorus>
+    <potassium>377.00000</potassium>
+    <protein>31.47000</protein>
+    <pufa>0.12100</pufa>
+    <riboflavin>0.50000</riboflavin>
+    <selenium>11.30000</selenium>
+    <sfa>1.03000</sfa>
+    <sodium>45.00000</sodium>
+    <thiamin>0.25000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>2.27000</vitamin_b12>
+    <vitamin_b6>0.71000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.64000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>66.10000</water>
+    <weight>100.00000</weight>
+    <zinc>3.67000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

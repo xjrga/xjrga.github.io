@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>01276</foodid>
+    <name>Yogurt, Greek, strawberry, DANNON OIKOS</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>86.00000</calcium>
+    <carbohydrate_by_difference>11.67000</carbohydrate_by_difference>
+    <cholesterol>13.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.01800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>106.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.92000</fat>
+    <fiber>1.00000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.07000</iron>
+    <linoleic>0.10700</linoleic>
+    <linolenic>0.01300</linolenic>
+    <magnesium>10.00000</magnesium>
+    <manganese>0.03400</manganese>
+    <mufa>0.74500</mufa>
+    <niacin>0.21000</niacin>
+    <pantothenic_acid>0.39000</pantothenic_acid>
+    <phosphorus>110.00000</phosphorus>
+    <potassium>131.00000</potassium>
+    <protein>8.25000</protein>
+    <pufa>0.13100</pufa>
+    <riboflavin>0.22700</riboflavin>
+    <selenium>9.50000</selenium>
+    <sfa>1.83200</sfa>
+    <sodium>34.00000</sodium>
+    <thiamin>0.03600</thiamin>
+    <vitamin_a>1.00000</vitamin_a>
+    <vitamin_b12>0.56000</vitamin_b12>
+    <vitamin_b6>0.05000</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>76.60000</water>
+    <weight>100.00000</weight>
+    <zinc>0.39000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

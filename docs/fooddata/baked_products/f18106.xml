@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>18106</foodid>
+    <name>Coffeecake, fruit</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>45.00000</calcium>
+    <carbohydrate_by_difference>51.50000</carbohydrate_by_difference>
+    <cholesterol>7.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.03000</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>311.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>10.20000</fat>
+    <fiber>2.50000</fiber>
+    <folate>67.00000</folate>
+    <iron>2.43000</iron>
+    <linoleic>1.39000</linoleic>
+    <linolenic>0.07900</linolenic>
+    <magnesium>17.00000</magnesium>
+    <manganese>0.24000</manganese>
+    <mufa>5.55700</mufa>
+    <niacin>2.57300</niacin>
+    <pantothenic_acid>0.66000</pantothenic_acid>
+    <phosphorus>118.00000</phosphorus>
+    <potassium>90.00000</potassium>
+    <protein>5.20000</protein>
+    <pufa>1.47300</pufa>
+    <riboflavin>0.19000</riboflavin>
+    <selenium>16.50000</selenium>
+    <sfa>2.49500</sfa>
+    <sodium>385.00000</sodium>
+    <thiamin>0.03700</thiamin>
+    <vitamin_a>7.00000</vitamin_a>
+    <vitamin_b12>0.02000</vitamin_b12>
+    <vitamin_b6>0.03700</vitamin_b6>
+    <vitamin_c>0.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.00000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>31.70000</water>
+    <weight>100.00000</weight>
+    <zinc>0.65000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

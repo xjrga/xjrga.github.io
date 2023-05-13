@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19434</foodid>
+    <name>Cheese puffs and twists, corn based, baked, low fat</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>357.00000</calcium>
+    <carbohydrate_by_difference>72.35000</carbohydrate_by_difference>
+    <cholesterol>1.00000</cholesterol>
+    <choline>13.70000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08500</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>432.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>12.10000</fat>
+    <fiber>3.60000</fiber>
+    <folate>97.00000</folate>
+    <iron>1.28000</iron>
+    <linoleic>5.42900</linoleic>
+    <linolenic>0.31400</linolenic>
+    <magnesium>41.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>3.50000</mufa>
+    <niacin>7.14000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>357.00000</phosphorus>
+    <potassium>286.00000</potassium>
+    <protein>8.50000</protein>
+    <pufa>5.74000</pufa>
+    <riboflavin>0.61000</riboflavin>
+    <selenium>9.60000</selenium>
+    <sfa>2.10000</sfa>
+    <sodium>847.00000</sodium>
+    <thiamin>0.54000</thiamin>
+    <vitamin_a>44.00000</vitamin_a>
+    <vitamin_b12>2.14000</vitamin_b12>
+    <vitamin_b6>0.71000</vitamin_b6>
+    <vitamin_c>21.40000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>4.25000</vitamin_e>
+    <vitamin_k>1.10000</vitamin_k>
+    <water>3.00000</water>
+    <weight>100.00000</weight>
+    <zinc>2.14000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

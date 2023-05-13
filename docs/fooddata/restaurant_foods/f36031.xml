@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36031</foodid>
+    <name>DENNY'S, onion rings</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>22.00000</calcium>
+    <carbohydrate_by_difference>41.05000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.08800</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>385.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>22.23000</fat>
+    <fiber>2.40000</fiber>
+    <folate>0.00000</folate>
+    <iron>0.74000</iron>
+    <linoleic>9.29900</linoleic>
+    <linolenic>1.24000</linolenic>
+    <magnesium>20.00000</magnesium>
+    <manganese>0.39700</manganese>
+    <mufa>4.61100</mufa>
+    <niacin>0.86300</niacin>
+    <pantothenic_acid>0.38000</pantothenic_acid>
+    <phosphorus>92.00000</phosphorus>
+    <potassium>150.00000</potassium>
+    <protein>5.29000</protein>
+    <pufa>10.56000</pufa>
+    <riboflavin>0.07000</riboflavin>
+    <selenium>5.20000</selenium>
+    <sfa>3.72900</sfa>
+    <sodium>780.00000</sodium>
+    <thiamin>0.12000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.00000</vitamin_b12>
+    <vitamin_b6>0.08900</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>1.23000</vitamin_e>
+    <vitamin_k>50.60000</vitamin_k>
+    <water>28.92000</water>
+    <weight>100.00000</weight>
+    <zinc>0.55000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

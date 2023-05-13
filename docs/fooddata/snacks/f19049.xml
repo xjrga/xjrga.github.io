@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19049</foodid>
+    <name>Snacks, M&M MARS, COMBOS Snacks Cheddar Cheese Pretzel</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>197.00000</calcium>
+    <carbohydrate_by_difference>66.50000</carbohydrate_by_difference>
+    <cholesterol>5.00000</cholesterol>
+    <choline>21.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.11900</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>463.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>16.92000</fat>
+    <fiber>3.60000</fiber>
+    <folate>8.00000</folate>
+    <iron>0.92000</iron>
+    <linoleic>1.24100</linoleic>
+    <linolenic>0.11300</linolenic>
+    <magnesium>22.00000</magnesium>
+    <manganese>0.44800</manganese>
+    <mufa>3.80600</mufa>
+    <niacin>3.18300</niacin>
+    <pantothenic_acid>0.48100</pantothenic_acid>
+    <phosphorus>143.00000</phosphorus>
+    <potassium>130.00000</potassium>
+    <protein>9.85000</protein>
+    <pufa>1.35400</pufa>
+    <riboflavin>0.55700</riboflavin>
+    <selenium>5.70000</selenium>
+    <sfa>9.65600</sfa>
+    <sodium>1117.00000</sodium>
+    <thiamin>0.30000</thiamin>
+    <vitamin_a>56.00000</vitamin_a>
+    <vitamin_b12>0.12000</vitamin_b12>
+    <vitamin_b6>0.04600</vitamin_b6>
+    <vitamin_c>0.00000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.67000</vitamin_e>
+    <vitamin_k>3.30000</vitamin_k>
+    <water>1.67000</water>
+    <weight>100.00000</weight>
+    <zinc>0.73000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

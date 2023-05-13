@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>19068</foodid>
+    <name>Candies, NESTLE, BIT-O'-HONEY Candy Chews</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>35.00000</calcium>
+    <carbohydrate_by_difference>80.89000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>2.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.02600</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>375.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>7.50000</fat>
+    <fiber>0.20000</fiber>
+    <folate>2.00000</folate>
+    <iron>0.20000</iron>
+    <linoleic>0.33600</linoleic>
+    <linolenic>0.00200</linolenic>
+    <magnesium>7.00000</magnesium>
+    <manganese>0.03800</manganese>
+    <mufa>1.03000</mufa>
+    <niacin>0.06900</niacin>
+    <pantothenic_acid>0.08200</pantothenic_acid>
+    <phosphorus>28.00000</phosphorus>
+    <potassium>44.00000</potassium>
+    <protein>2.00000</protein>
+    <pufa>0.33800</pufa>
+    <riboflavin>0.04400</riboflavin>
+    <selenium>1.30000</selenium>
+    <sfa>5.50000</sfa>
+    <sodium>295.00000</sodium>
+    <thiamin>0.06000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>0.06000</vitamin_b12>
+    <vitamin_b6>0.00900</vitamin_b6>
+    <vitamin_c>0.80000</vitamin_c>
+    <vitamin_d>0.00000</vitamin_d>
+    <vitamin_e>0.30000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>8.30000</water>
+    <weight>100.00000</weight>
+    <zinc>0.49000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>08653</foodid>
+    <name>Cereals ready-to-eat, KELLOGG'S RICE KRISPIES, Gluten Free</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>10.00000</calcium>
+    <carbohydrate_by_difference>82.40000</carbohydrate_by_difference>
+    <cholesterol>0.00000</cholesterol>
+    <choline>0.00000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.00000</copper>
+    <cost>0.0</cost>
+    <dha>0.00000</dha>
+    <energy_gross>371.00000</energy_gross>
+    <epa>0.00000</epa>
+    <fat>2.30000</fat>
+    <fiber>2.70000</fiber>
+    <folate>1131.00000</folate>
+    <iron>30.00000</iron>
+    <linoleic>0.00000</linoleic>
+    <linolenic>0.00000</linolenic>
+    <magnesium>149.00000</magnesium>
+    <manganese>0.00000</manganese>
+    <mufa>0.80000</mufa>
+    <niacin>16.70000</niacin>
+    <pantothenic_acid>0.00000</pantothenic_acid>
+    <phosphorus>292.00000</phosphorus>
+    <potassium>280.00000</potassium>
+    <protein>7.80000</protein>
+    <pufa>0.80000</pufa>
+    <riboflavin>1.42000</riboflavin>
+    <selenium>0.00000</selenium>
+    <sfa>0.50000</sfa>
+    <sodium>614.00000</sodium>
+    <thiamin>1.25000</thiamin>
+    <vitamin_a>0.00000</vitamin_a>
+    <vitamin_b12>5.00000</vitamin_b12>
+    <vitamin_b6>1.67000</vitamin_b6>
+    <vitamin_c>50.00000</vitamin_c>
+    <vitamin_d>5.00000</vitamin_d>
+    <vitamin_e>11.25000</vitamin_e>
+    <vitamin_k>0.00000</vitamin_k>
+    <water>3.60000</water>
+    <weight>100.00000</weight>
+    <zinc>2.10000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

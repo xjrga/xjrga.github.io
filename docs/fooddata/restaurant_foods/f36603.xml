@@ -1,0 +1,46 @@
+<food xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xjrga.github.io/schemas/food.xsd">
+    <foodid>36603</foodid>
+    <name>Restaurant, Chinese, beef and vegetables</name>
+    <alcohol>0.00000</alcohol>
+    <calcium>22.00000</calcium>
+    <carbohydrate_by_difference>7.29000</carbohydrate_by_difference>
+    <cholesterol>14.00000</cholesterol>
+    <choline>34.50000</choline>
+    <complete_protein>0.00000</complete_protein>
+    <copper>0.04900</copper>
+    <cost>0.0</cost>
+    <dha>0.00100</dha>
+    <energy_gross>105.00000</energy_gross>
+    <epa>0.00400</epa>
+    <fat>5.30000</fat>
+    <fiber>1.50000</fiber>
+    <folate>45.00000</folate>
+    <iron>1.11000</iron>
+    <linoleic>1.83400</linoleic>
+    <linolenic>0.26400</linolenic>
+    <magnesium>15.00000</magnesium>
+    <manganese>0.14700</manganese>
+    <mufa>1.21700</mufa>
+    <niacin>1.32000</niacin>
+    <pantothenic_acid>0.44300</pantothenic_acid>
+    <phosphorus>76.00000</phosphorus>
+    <potassium>204.00000</potassium>
+    <protein>7.08000</protein>
+    <pufa>2.13000</pufa>
+    <riboflavin>0.05500</riboflavin>
+    <selenium>6.70000</selenium>
+    <sfa>0.97800</sfa>
+    <sodium>409.00000</sodium>
+    <thiamin>0.03300</thiamin>
+    <vitamin_a>63.00000</vitamin_a>
+    <vitamin_b12>0.48000</vitamin_b12>
+    <vitamin_b6>0.16100</vitamin_b6>
+    <vitamin_c>11.60000</vitamin_c>
+    <vitamin_d>0.10000</vitamin_d>
+    <vitamin_e>0.82000</vitamin_e>
+    <vitamin_k>51.30000</vitamin_k>
+    <water>78.82000</water>
+    <weight>100.00000</weight>
+    <zinc>1.50000</zinc>
+    <glycemicindex>0.00000</glycemicindex>
+</food>

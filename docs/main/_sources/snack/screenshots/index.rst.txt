@@ -1,7 +1,7 @@
 Screenshots
 ===========
 
-Snack energy
+Snack Energy
 ------------
 
 .. toctree::
@@ -11,7 +11,7 @@ Snack energy
 
 ----
 
-Snack macronutrient
+Snack Macronutrient
 -------------------
 
 .. toctree::
@@ -21,7 +21,7 @@ Snack macronutrient
 
 ----
 
-Snack protein
+Snack Protein
 -------------
 
 .. toctree::
@@ -31,7 +31,7 @@ Snack protein
 
 ----
 
-Snack fats
+Snack Fats
 ----------
 
 .. toctree::
@@ -41,7 +41,7 @@ Snack fats
 
 ----
 
-Snack carbohydrates
+Snack Carbohydrates
 -------------------
 
 .. toctree::
@@ -51,7 +51,7 @@ Snack carbohydrates
 
 ----
 
-Snack vitamins
+Snack Vitamins
 --------------
 
 .. toctree::
@@ -61,7 +61,7 @@ Snack vitamins
 
 ----
 
-Snack minerals
+Snack Minerals
 --------------
 
 .. toctree::
@@ -72,7 +72,7 @@ Snack minerals
 
 ----
 
-Snack electrolytes
+Snack Electrolytes
 ------------------
 
 .. toctree::
@@ -82,7 +82,7 @@ Snack electrolytes
 
 ----
 
-Snack water
+Snack Water
 -----------
 
 .. toctree::
@@ -92,7 +92,7 @@ Snack water
 
 ----
 
-Snack cost
+Snack Cost
 ----------
 
 .. toctree::
@@ -102,7 +102,7 @@ Snack cost
 
 ----
 
-Snack glycemic
+Snack Glycemic
 --------------
 
 .. toctree::
@@ -112,7 +112,7 @@ Snack glycemic
 
 ----
 
-Snack rda
+Snack Rda
 ---------
 
 .. toctree::
@@ -122,7 +122,7 @@ Snack rda
 
 ----
 
-Snack model
+Snack Model
 -----------
 
 .. toctree::
@@ -132,7 +132,7 @@ Snack model
 
 ----
 
-Snack nutrient constraint
+Snack Nutrient Constraint
 -------------------------
 
 .. toctree::
@@ -142,7 +142,7 @@ Snack nutrient constraint
 
 ----
 
-Snack meal portion
+Snack Meal Portion
 ------------------
 
 .. toctree::
@@ -152,7 +152,7 @@ Snack meal portion
 
 ----
 
-Snack meal energy
+Snack Meal Energy
 ------------------
 
 .. toctree::
@@ -162,7 +162,7 @@ Snack meal energy
 
 ----
 
-Snack meals macronutrient
+Snack Meals Macronutrient
 -------------------------
 
 .. toctree::
@@ -172,7 +172,7 @@ Snack meals macronutrient
 
 ----
 
-Snack food list
+Snack Food List
 ---------------
 
 .. toctree::
@@ -182,7 +182,7 @@ Snack food list
 
 ----
 
-Snack food categories
+Snack Food Categories
 ---------------------
 
 .. toctree::

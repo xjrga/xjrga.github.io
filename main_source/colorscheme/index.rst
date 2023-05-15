@@ -1,4 +1,4 @@
-Colorscheme: Color picker application
+Colorscheme: Color Picker Application
 =====================================
 .. index:: Colorscheme
 
@@ -62,7 +62,7 @@ Screenshots
 
 ----
 
-Use cases
+Use Cases
 ---------
 
 .. toctree::

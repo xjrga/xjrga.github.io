@@ -1,4 +1,4 @@
-Snack: Learning software for nutrition
+Snack: Learning Software For Nutrition
 ======================================
 
 Summary
@@ -59,7 +59,7 @@ Screenshots
 
 ----
 
-Use cases
+Use Cases
 ---------
 
 .. toctree::
@@ -89,7 +89,7 @@ Design
 
 ----
 
-Additional food items
+Additional Food Items
 ---------------------
 
 * `See more <../../foodsite/>`_

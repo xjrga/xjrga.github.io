@@ -1,4 +1,4 @@
-Looks: Java library of swing application themes
+Looks: Java Library of Swing Application Themes
 ===============================================
 
 Summary
@@ -44,7 +44,7 @@ Screenshots
 
 ----
 
-Use cases
+Use Cases
 ---------
 
 .. toctree::

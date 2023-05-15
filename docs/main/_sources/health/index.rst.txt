@@ -1,4 +1,4 @@
-Wellness & lifestyle project
+Wellness & Lifestyle Project
 ============================
 
 Goal
@@ -50,3 +50,11 @@ Notes
    :maxdepth: 1
 
    notes/notes.rst
+
+Bibliography
+------------
+
+.. toctree::
+   :maxdepth: 1
+
+   bibliography.rst

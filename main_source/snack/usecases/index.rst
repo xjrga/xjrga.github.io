@@ -1,4 +1,4 @@
-Use cases
+Use Cases
 =========
 
 Export food item
@@ -11,7 +11,7 @@ Export food item
 
 ----
 
-Import food item
+Import Food Item
 ----------------
 
 .. toctree::
@@ -21,7 +21,7 @@ Import food item
 
 ----
 
-Import mix
+Import Mix
 ----------
 
 .. toctree::
@@ -31,7 +31,7 @@ Import mix
 
 ----
 
-Create diet using nutrient constraints
+Create Diet Using Nutrient Constraints
 --------------------------------------
 
 .. toctree::
@@ -41,7 +41,7 @@ Create diet using nutrient constraints
 
 ----
 
-Pin diet
+Pin Diet
 --------
 
 .. toctree::
@@ -51,7 +51,7 @@ Pin diet
 
 ----
 
-Create low-fat diet mix using nutrient and nutrient ratio constraints
+Create Low-fat Diet Mix Using Nutrient and Nutrient Ratio Constraints
 ---------------------------------------------------------------------
 
 .. toctree::
@@ -61,7 +61,7 @@ Create low-fat diet mix using nutrient and nutrient ratio constraints
 
 ----
 
-Add food item
+Add Food Item
 --------------
 
 .. toctree::
@@ -71,7 +71,7 @@ Add food item
 
 ----
 
-Snack update glycemic index
+Snack Update Glycemic Index
 ---------------------------
 
 .. toctree::
@@ -81,7 +81,7 @@ Snack update glycemic index
 
 ----
 
-Snack compare food items
+Snack Compare Food Items
 ------------------------
 
 .. toctree::
@@ -91,7 +91,7 @@ Snack compare food items
 
 ----
 
-Snack compare food mixes
+Snack Compare Food Mixes
 ------------------------
 
 .. toctree::
@@ -101,7 +101,7 @@ Snack compare food mixes
 
 ----
 
-Snack lookup nutrient
+Snack Lookup Nutrient
 ---------------------
 
 .. toctree::
@@ -111,7 +111,7 @@ Snack lookup nutrient
 
 ----
 
-Snack assign meal portion
+Snack Assign Meal Portion
 -------------------------
 
 .. toctree::
@@ -121,7 +121,7 @@ Snack assign meal portion
 
 ----
 
-Snack find nutrient containing food item
+Snack Find Nutrient Containing Food Item
 ----------------------------------------
 
 .. toctree::

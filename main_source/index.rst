@@ -1,7 +1,7 @@
 Projects
 ========
 
-Snack: Learning software for nutrition
+Snack: Learning Software for Nutrition
 --------------------------------------
 .. index:: Snack
 
@@ -47,7 +47,7 @@ Snack: Learning software for nutrition
 
 ----
 
-Potatosql: Learning software for database design
+Potatosql: Learning Software for Database Design
 ------------------------------------------------
 .. index:: Potatosql
 
@@ -91,7 +91,7 @@ Potatosql is learning software for database design. The project's ultimate purpo
 
 ----
 
-Wellness & lifestyle project
+Wellness & Lifestyle Project
 ----------------------------
 .. index:: Wellness
 
@@ -102,7 +102,7 @@ Wellness & lifestyle project
 
 ----
 
-Other projects
+Other Projects
 --------------
 .. index:: Other
 

@@ -3,7 +3,7 @@ Screenshots
 
 Hello, world!
 
-Hue continuum
+Hue Continuum
 -------------
 
 .. figure:: images/colorscheme_hue_continuum.gif
@@ -15,7 +15,7 @@ Hue continuum
 
 ----
 
-Import palette
+Import Palette
 --------------
 
 .. figure:: images/colorscheme_import_palette.gif
@@ -27,7 +27,7 @@ Import palette
 
 ----
 
-Pick color
+Pick Color
 ----------
 
 .. figure:: images/colorscheme_pick_color.gif
@@ -39,7 +39,7 @@ Pick color
 
 ----
 
-Export palette
+Export Palette
 --------------
 
 .. figure:: images/export_palette.png
@@ -51,7 +51,7 @@ Export palette
 
 ----
 
-Import palette
+Import Palette
 --------------
 
 .. figure:: images/import_palette.png
@@ -63,7 +63,7 @@ Import palette
 
 ----
 
-Palette viewer export
+Palette Viewer Export
 ---------------------
 
 .. figure:: images/palette_viewer_export.png
@@ -75,7 +75,7 @@ Palette viewer export
 
 ----
 
-Palette viewer import
+Palette Viewer Import
 ---------------------
 
 .. figure:: images/palette_viewer_import.png
@@ -99,7 +99,7 @@ Screenshot
 
 ----
 
-Tinkerbell palette
+Tinkerbell Palette
 ------------------
 
 .. figure:: images/tinkerbell_palette.png

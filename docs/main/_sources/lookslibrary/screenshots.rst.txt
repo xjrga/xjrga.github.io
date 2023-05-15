@@ -1,7 +1,7 @@
-Java metal themes
+Java Metal Themes
 =================
 
-Dawn themes
+Dawn Themes
 -----------
 
 .. figure:: images/snack_themes.gif
@@ -13,10 +13,10 @@ Dawn themes
 
 ----
 
-Other themes
+Other Themes
 ------------
 
-Arch theme
+Arch Theme
 ~~~~~~~~~~
 
 .. figure:: images/arch_theme.png
@@ -28,7 +28,7 @@ Arch theme
 
 ----
 
-Bronze theme
+Bronze Theme
 ~~~~~~~~~~~~
 
 .. figure:: images/bronze_theme.png
@@ -40,7 +40,7 @@ Bronze theme
 
 ----
 
-Gold theme
+Gold Theme
 ~~~~~~~~~~
 
 .. figure:: images/gold_theme.png
@@ -52,7 +52,7 @@ Gold theme
 
 ----
 
-Green theme
+Green Theme
 ~~~~~~~~~~~
 
 .. figure:: images/green_theme.png
@@ -64,7 +64,7 @@ Green theme
 
 ----
 
-Khaki theme
+Khaki Theme
 ~~~~~~~~~~~
 
 .. figure:: images/khaki_theme.png
@@ -76,7 +76,7 @@ Khaki theme
 
 ----
 
-Mars theme
+Mars Theme
 ~~~~~~~~~~
 
 .. figure:: images/mars_theme.png
@@ -88,7 +88,7 @@ Mars theme
 
 ----
 
-Pink theme
+Pink Theme
 ~~~~~~~~~~
 
 .. figure:: images/pink_theme.png
@@ -100,7 +100,7 @@ Pink theme
 
 ----
 
-Silver theme
+Silver Theme
 ~~~~~~~~~~~~
 
 .. figure:: images/silver_theme.png

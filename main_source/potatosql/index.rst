@@ -1,4 +1,4 @@
-Potatosql: Learning software for database design
+Potatosql: Learning Software For Database Design
 ================================================
 
 Summary
@@ -39,7 +39,7 @@ Screenshots
 
 ----
 
-Use cases
+Use Cases
 ---------
 
 .. toctree::

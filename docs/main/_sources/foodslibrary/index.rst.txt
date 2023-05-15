@@ -1,4 +1,4 @@
-Foods: Java library of nutritional value of foods
+Foods: Java Library of Nutritional Value of Foods
 =================================================
 
 Summary
@@ -51,7 +51,7 @@ Screenshots
 
 ----
 
-Use cases
+Use Cases
 ---------
 
 .. toctree::

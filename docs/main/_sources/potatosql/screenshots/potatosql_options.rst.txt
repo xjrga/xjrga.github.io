@@ -1,5 +1,5 @@
-Potatosql Code Generation Options
-=================================
+Code Generation Options
+=======================
 
 .. figure:: images/potatosql_80_02.png
    :alt: entity relationship diagram

@@ -1,8 +1,8 @@
 Screenshots
 ===========
 
-Potatosql Relationship
-----------------------
+Table Relationship
+------------------
 
 .. toctree::
    :maxdepth: 1
@@ -11,8 +11,8 @@ Potatosql Relationship
 
 ----
 
-Potatosql Relationship Keys
----------------------------
+Table Relationship Keys
+-----------------------
 
 .. toctree::
    :maxdepth: 1
@@ -21,8 +21,8 @@ Potatosql Relationship Keys
 
 ----
 
-Potatosql Code Generation Options
----------------------------------
+Code Generation Options
+-----------------------
 
 .. toctree::
    :maxdepth: 1
@@ -31,8 +31,8 @@ Potatosql Code Generation Options
 
 ----
 
-Potatosql Code Generation
--------------------------
+Code Generation
+---------------
 
 .. toctree::
    :maxdepth: 1

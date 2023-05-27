@@ -1,5 +1,5 @@
-Potatosql Relationship
-======================
+Table Relationship
+==================
 
 .. figure:: images/potatosql_80_00.png
    :alt: entity relationship diagram

@@ -1,5 +1,5 @@
-Potatosql Relationship Keys
-===========================
+Table Relationship Keys
+=======================
 
 .. figure:: images/potatosql_80_01.png
    :alt: entity relationship diagram

@@ -11,7 +11,7 @@ Potatosql is learning software for database design. The project's ultimate purpo
    :alt: alternate text
    :align: center
 
-   Creating table by adding primary and data keys
+   Created table and added primary and data keys
 
 ----
 
@@ -62,3 +62,13 @@ Design
    :maxdepth: 1
 
    See more<design>
+
+----
+
+Other
+-----
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<other>

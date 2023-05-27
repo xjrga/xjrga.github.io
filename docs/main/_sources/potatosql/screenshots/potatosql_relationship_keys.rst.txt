@@ -5,4 +5,4 @@ Table Relationship Keys
    :alt: entity relationship diagram
    :align: center
 
-   Keys between the parent table and child table are being linked.
+   Keys between the parent table and child table are linked.

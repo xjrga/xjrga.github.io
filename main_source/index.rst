@@ -10,14 +10,8 @@ Snack: Learning Software for Nutrition
    :alt: alternate text
    :align: center
 
-   This is the caption of the figure (a simple paragraph).
-
-   The legend consists of all elements after the caption.  In this
-   case, the legend consists of this paragraph and the following
-   table:
-
 +-------------------------------+---------------------------------------------------------------+
-| Stable Release                |April 30, 2023                                                 |
+| Stable Release                |May 27, 2023                                                   |
 +-------------------------------+---------------------------------------------------------------+
 | Repository                    |https://github.com/xjrga/snack                                 |
 +-------------------------------+---------------------------------------------------------------+
@@ -33,7 +27,7 @@ Snack: Learning Software for Nutrition
 +-------------------------------+---------------------------------------------------------------+
 | License                       |gpl2                                                           |
 +-------------------------------+---------------------------------------------------------------+
-| Download                      |`snack-1260-app.zip <../releases/snack-1260-app.zip>`_         |
+| Download                      |`snack-1270-app.zip <../releases/snack-1270-app.zip>`_         |
 +-------------------------------+---------------------------------------------------------------+
 | Signature                     |`snack-1260-app.zip.asc <../releases/snack-1260-app.zip.asc>`_ |
 +-------------------------------+---------------------------------------------------------------+
@@ -58,14 +52,8 @@ Potatosql is learning software for database design. The project's ultimate purpo
    :alt: alternate text
    :align: center
 
-   This is the caption of the figure (a simple paragraph).
-
-   The legend consists of all elements after the caption.  In this
-   case, the legend consists of this paragraph and the following
-   table:
-
 +-------------------------------+-------------------------------------------------------------------+
-| Stable Release                |September 30, 2022                                                 |
+| Stable Release                |May 27, 2023                                                       |
 +-------------------------------+-------------------------------------------------------------------+
 | Repository                    |https://github.com/xjrga/potatosql                                 |
 +-------------------------------+-------------------------------------------------------------------+
@@ -77,9 +65,9 @@ Potatosql is learning software for database design. The project's ultimate purpo
 +-------------------------------+-------------------------------------------------------------------+
 | License                       |gpl2                                                               |
 +-------------------------------+-------------------------------------------------------------------+
-| Download                      |`potatosql-70-app.zip <../releases/potatosql-70-app.zip>`_         |
+| Download                      |`potatosql-80-app.zip <../releases/potatosql-80-app.zip>`_         |
 +-------------------------------+-------------------------------------------------------------------+
-| Signature                     |`potatosql-70-app.zip.asc <../releases/potatosql-70-app.zip.asc>`_ |
+| Signature                     |`potatosql-80-app.zip.asc <../releases/potatosql-80-app.zip.asc>`_ |
 +-------------------------------+-------------------------------------------------------------------+
 | Discussion and support group  |potatosql@googlegroups.com                                         |
 +-------------------------------+-------------------------------------------------------------------+

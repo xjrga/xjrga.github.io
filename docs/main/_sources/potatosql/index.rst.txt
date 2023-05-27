@@ -11,11 +11,7 @@ Potatosql is learning software for database design. The project's ultimate purpo
    :alt: alternate text
    :align: center
 
-   This is the caption of the figure (a simple paragraph).
-
-   The legend consists of all elements after the caption.  In this
-   case, the legend consists of this paragraph and the following
-   table:
+   Creating table by adding primary and data keys
 
 ----
 
@@ -35,7 +31,7 @@ Screenshots
 .. toctree::
    :maxdepth: 1
 
-   See more<screenshots>
+   See more<screenshots/index.rst>
 
 ----
 

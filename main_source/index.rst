@@ -29,7 +29,7 @@ Snack: Learning Software for Nutrition
 +-------------------------------+---------------------------------------------------------------+
 | Download                      |`snack-1270-app.zip <../releases/snack-1270-app.zip>`_         |
 +-------------------------------+---------------------------------------------------------------+
-| Signature                     |`snack-1260-app.zip.asc <../releases/snack-1260-app.zip.asc>`_ |
+| Signature                     |`snack-1270-app.zip.asc <../releases/snack-1270-app.zip.asc>`_ |
 +-------------------------------+---------------------------------------------------------------+
 | Discussion and support group  |snack_nutrition_software@googlegroups.com                      |
 +-------------------------------+---------------------------------------------------------------+

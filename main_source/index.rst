@@ -65,9 +65,9 @@ Potatosql is learning software for database design. The project's ultimate purpo
 +-------------------------------+-------------------------------------------------------------------+
 | License                       |gpl2                                                               |
 +-------------------------------+-------------------------------------------------------------------+
-| Download                      |`potatosql-81-app.zip <../releases/potatosql-81-app.zip>`_         |
+| Download                      |`potatosql-82-app.zip <../releases/potatosql-82-app.zip>`_         |
 +-------------------------------+-------------------------------------------------------------------+
-| Signature                     |`potatosql-81-app.zip.asc <../releases/potatosql-81-app.zip.asc>`_ |
+| Signature                     |`potatosql-82-app.zip.asc <../releases/potatosql-82-app.zip.asc>`_ |
 +-------------------------------+-------------------------------------------------------------------+
 | Discussion and support group  |potatosql@googlegroups.com                                         |
 +-------------------------------+-------------------------------------------------------------------+

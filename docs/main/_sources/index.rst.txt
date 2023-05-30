@@ -53,7 +53,7 @@ Potatosql is learning software for database design. The project's ultimate purpo
    :align: center
 
 +-------------------------------+-------------------------------------------------------------------+
-| Stable Release                |May 28, 2023                                                       |
+| Stable Release                |May 30, 2023                                                       |
 +-------------------------------+-------------------------------------------------------------------+
 | Repository                    |https://github.com/xjrga/potatosql                                 |
 +-------------------------------+-------------------------------------------------------------------+
@@ -65,9 +65,9 @@ Potatosql is learning software for database design. The project's ultimate purpo
 +-------------------------------+-------------------------------------------------------------------+
 | License                       |gpl2                                                               |
 +-------------------------------+-------------------------------------------------------------------+
-| Download                      |`potatosql-82-app.zip <../releases/potatosql-82-app.zip>`_         |
+| Download                      |`potatosql-90-app.zip <../releases/potatosql-90-app.zip>`_         |
 +-------------------------------+-------------------------------------------------------------------+
-| Signature                     |`potatosql-82-app.zip.asc <../releases/potatosql-82-app.zip.asc>`_ |
+| Signature                     |`potatosql-90-app.zip.asc <../releases/potatosql-90-app.zip.asc>`_ |
 +-------------------------------+-------------------------------------------------------------------+
 | Discussion and support group  |potatosql@googlegroups.com                                         |
 +-------------------------------+-------------------------------------------------------------------+

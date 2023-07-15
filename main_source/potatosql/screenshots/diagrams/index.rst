@@ -25,6 +25,16 @@ Accounts
 
 ----
 
+Concert
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<concert>
+
+----
+
 Employees
 ---------
 
@@ -42,6 +52,46 @@ Game
    :maxdepth: 1
 
    See more<game>
+
+----
+
+Human Resources
+----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<human_resources>
+
+----
+
+Library
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<library>
+
+----
+
+Music
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<music>
+
+----
+
+Potatosql
+---------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<potatosql>
 
 ----
 
@@ -72,6 +122,16 @@ Sales Dimensional
    :maxdepth: 1
 
    See more<sales_dimensional>
+
+----
+
+Students
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<students>
 
 ----
 

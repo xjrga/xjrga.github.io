@@ -1,22 +1,6 @@
 Definitions
 ===========
 
-.. figure:: images/identifying.png
-   :alt: identifying relationship
-   :align: center
-
-   Identifying relationship is represented by **solid** line.
-
-----
-
-.. figure:: images/nonidentifying.png
-   :alt: nonidentifying relationship
-   :align: center
-
-   Identifying relationship is represented by **dashed** line.
-
-----
-
 **Identifying relationship** is when a child entity is dependent on the parent entity for its identity. The primary key of the parent entity becomes part of the primary key of the child entity. If parent entity does not exist then the child entity cannot exist.
 
 **Non-identifying relationship** is when a child entity is not dependent on the parent entity for its identity. The primary key of the parent entity is not part of the primary key of the child entity.

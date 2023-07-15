@@ -1,7 +1,7 @@
 Table Relationship Keys
 =======================
 
-.. figure:: images/potatosql_80_01.png
+.. figure:: images/relationship_keys.png
    :alt: entity relationship diagram
    :align: center
 

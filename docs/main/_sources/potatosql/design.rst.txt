@@ -1,15 +1,14 @@
 Design
 ======
 
-New Schema Proposal
--------------------
+New Schema
+-----------
 
-This will possibly be the new Potatosql database schema.
+This is Potatosql's new database schema.
 
-.. figure:: images/newschema.png
+.. figure:: images/schema.png
    :scale: 50
    :alt: new potatosql database schema
    :align: center
 
-   Let me know what you think.
 

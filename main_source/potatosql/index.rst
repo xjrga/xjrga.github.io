@@ -4,7 +4,9 @@ Potatosql: Learning Software For Database Design
 Summary
 -------
 
-Potatosql is learning software for database design. The project's ultimate purpose is to help build java database application prototypes faster.
+Potatosql is learning software for database design.
+
+Its purpose is to help build database applications faster and inexpensively.
 
 .. figure:: images/potatosql.png
    :scale: 50
@@ -32,16 +34,6 @@ Screenshots
    :maxdepth: 1
 
    See more<screenshots/index.rst>
-
-----
-
-Use Cases
----------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<usecases>
 
 ----
 

@@ -1,7 +1,7 @@
 Table Relationship
 ==================
 
-.. figure:: images/potatosql_80_00.png
+.. figure:: images/relationship.png
    :alt: entity relationship diagram
    :align: center
 

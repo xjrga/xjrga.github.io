@@ -1,7 +1,7 @@
 Code Generation
 ===============
 
-.. figure:: images/potatosql_80_03.png
+.. figure:: images/code.png
    :alt: entity relationship diagram
    :align: center
 

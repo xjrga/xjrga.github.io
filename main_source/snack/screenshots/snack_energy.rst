@@ -5,8 +5,6 @@ Snack energy
    :alt: entity relationship diagram
    :align: center
 
-   This is the caption of the figure (a simple paragraph).
-
 * Control-h maximizes upper panel.
 * Control-l maximizes bottom panel.
 * Control-m sets upper and bottom panel in normal position.

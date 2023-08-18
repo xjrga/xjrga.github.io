@@ -4,38 +4,7 @@ Snack: Learning Software For Nutrition
 Summary
 -------
 
-.. figure:: images/snack.png
-   :scale: 50
-   :alt: alternate text
-   :align: center
-
-   This is the caption of the figure (a simple paragraph).
-
-   The legend consists of all elements after the caption.  In this
-   case, the legend consists of this paragraph and the following
-   table:
-
-+-------------------------------+------------------------------------------------------------------+
-| Stable Release                |May 27, 2023                                                      |
-+-------------------------------+------------------------------------------------------------------+
-| Repository                    |https://github.com/xjrga/snack                                    |
-+-------------------------------+------------------------------------------------------------------+
-| Wiki                          |https://github.com/xjrga/snack/wiki                               |
-+-------------------------------+------------------------------------------------------------------+
-| YouTube                       |https://www.youtube.com/@SnackSoftware                            |
-+-------------------------------+------------------------------------------------------------------+
-| Written in                    |java                                                              |
-+-------------------------------+------------------------------------------------------------------+
-| Type                          |nutrition                                                         |
-+-------------------------------+------------------------------------------------------------------+
-| License                       |gpl2                                                              |
-+-------------------------------+------------------------------------------------------------------+
-| Download                      |`snack-1270-app.zip <../../releases/snack-1270-app.zip>`_         |
-+-------------------------------+------------------------------------------------------------------+
-| Signature                     |`snack-1270-app.zip.asc <../../releases/snack-1270-app.zip.asc>`_ |
-+-------------------------------+------------------------------------------------------------------+
-| Discussion and support group  |snack_nutrition_software@googlegroups.com                         |
-+-------------------------------+------------------------------------------------------------------+
+   Snack is software for nutrition, a meal design tool and calculator used for understanding a person's food intake. Its intended audience is anyone with interest in nutrition but specifically made for power users. It is a software program designed to find the lowest calorie or cost food combination. It lets user quickly, inexpensively and easily experiment with different food combinations that have specific dietary requirements. Snack's ultimate purpose is to empower its users to make better nutrition decisions that will their improve diet, nutrition, health and quality of life. Software can be downloaded and used for no money although author considers it priceless. Snack is now available to the whole world (7.674 billion people or 7674 million people).
 
 ----
 

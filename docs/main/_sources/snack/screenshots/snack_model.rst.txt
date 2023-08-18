@@ -4,5 +4,3 @@ Snack model
 .. figure:: images/snack_model.png
    :alt: entity relationship diagram
    :align: center
-
-   This is the caption of the figure (a simple paragraph).

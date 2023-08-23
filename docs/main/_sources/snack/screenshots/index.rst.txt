@@ -18,7 +18,7 @@ Screenshots
    Snack Rda<snack_rda>
    Snack Model<snack_model>
    Snack Constraints<snack_nutrient_constraint>
-   Snack Meal Portin<snack_meal_portion>
+   Snack Meal Portion<snack_meal_portion>
    Snack Meal Energy<snack_meal_energy>
    Snack Meal Macronutrient<snack_meal_macronutrient>
    Snack Food List<snack_food_list>

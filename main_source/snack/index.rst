@@ -58,25 +58,107 @@ Design
 
 ----
 
-Additional Food Items
----------------------
-
-* `See more <../../foodsite/>`_
-
-----
-
-Other
------
+Bibliography
+------------
 
 .. toctree::
    :maxdepth: 1
 
-   See more<other>
+   See more<bibliography/index.rst>
 
+----
 
+Changes
+------------
 
+.. toctree::
+   :maxdepth: 1
 
+   See more<changes/index.rst>
 
+----
 
+Cloning, building and running
+-----------------------------
 
+.. toctree::
+   :maxdepth: 1
 
+   See more<cloning/index.rst>
+
+----
+
+Constraint types
+----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<constraints/index.rst>
+
+----
+
+Data exchange
+-------------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<exchange/index.rst>
+
+----
+
+Definitions
+-----------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<definitions/index.rst>
+
+----
+
+Learning Activities
+-------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<learning/index.rst>
+
+----
+
+News
+----
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<news/index.rst>
+
+----
+
+Comments
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<comments/index.rst>
+
+----
+
+Usage & Tips
+------------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<tips/index.rst>
+
+----
+
+Additional Food Items
+---------------------
+
+* `See more <../../foodsite/>`_

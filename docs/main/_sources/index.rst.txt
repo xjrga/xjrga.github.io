@@ -11,7 +11,7 @@ Snack: Learning Software for Nutrition
    :align: center
 
 +-------------------------------+---------------------------------------------------------------+
-| Stable Release                |May 27, 2023                                                   |
+| Stable Release                |Sep 21, 2023                                                   |
 +-------------------------------+---------------------------------------------------------------+
 | Repository                    |https://github.com/xjrga/snack                                 |
 +-------------------------------+---------------------------------------------------------------+
@@ -19,17 +19,19 @@ Snack: Learning Software for Nutrition
 +-------------------------------+---------------------------------------------------------------+
 | YouTube                       |https://www.youtube.com/@SnackSoftware                         |
 +-------------------------------+---------------------------------------------------------------+
+| Twitter                       |https://twitter.com/SnackSoftware                              |
++-------------------------------+---------------------------------------------------------------+
 | Written in                    |java                                                           |
 +-------------------------------+---------------------------------------------------------------+
 | Type                          |nutrition                                                      |
 +-------------------------------+---------------------------------------------------------------+
 | License                       |gpl2                                                           |
 +-------------------------------+---------------------------------------------------------------+
-| Download                      |`snack-1270-app.zip <../releases/snack-1270-app.zip>`_         |
+| Download                      |`snack-1280-app.zip <../releases/snack-1280-app.zip>`_         |
 +-------------------------------+---------------------------------------------------------------+
-| Signature                     |`snack-1270-app.zip.asc <../releases/snack-1270-app.zip.asc>`_ |
+| Signature                     |`snack-1280-app.zip.asc <../releases/snack-1280-app.zip.asc>`_ |
 +-------------------------------+---------------------------------------------------------------+
-| Discussion and support group  |snack_nutrition_software@googlegroups.com                      |
+| Discussion and support group  |https://groups.google.com/g/snack_nutrition_software           |
 +-------------------------------+---------------------------------------------------------------+
 
 .. toctree::
@@ -59,6 +61,8 @@ Its purpose is to help build database applications faster and inexpensively.
 +-------------------------------+---------------------------------------------------------------------+
 | Wiki                          |https://github.com/xjrga/potatosql/wiki                              |
 +-------------------------------+---------------------------------------------------------------------+
+| Twitter                       |https://twitter.com/potatosql                                        |
++-------------------------------+---------------------------------------------------------------------+
 | Written in                    |java                                                                 |
 +-------------------------------+---------------------------------------------------------------------+
 | Type                          |database design and code generator                                   |
@@ -69,7 +73,7 @@ Its purpose is to help build database applications faster and inexpensively.
 +-------------------------------+---------------------------------------------------------------------+
 | Signature                     |`potatosql-100-app.zip.asc <../releases/potatosql-100-app.zip.asc>`_ |
 +-------------------------------+---------------------------------------------------------------------+
-| Discussion and support group  |potatosql@googlegroups.com                                           |
+| Discussion and support group  |https://groups.google.com/g/potatosql                                |
 +-------------------------------+---------------------------------------------------------------------+
 
 .. toctree::

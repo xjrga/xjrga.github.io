@@ -4,6 +4,8 @@ Changes
 +--------------------+---------------------+
 | Build              | Date                |
 +--------------------+---------------------+
+| `Build 1280`_      | Sep 21, 2023        |
++--------------------+---------------------+
 | `Build 1270`_      | May 27, 2023        |
 +--------------------+---------------------+
 | `Build 1260`_      | Apr 30, 2023        |
@@ -62,6 +64,15 @@ Changes
 +--------------------+---------------------+
 
 ----
+
+.. _`Build 1280`:
+
+Build 1280 - Sep 21, 2023
+
+*  Add tracking for most potent cholesterol raising saturated fatty acids (12:0, 14:0, 16:0)
+*  Update mix definition xml schema
+*  Update food definition xml schema
+*  Update mix nutritional value result tabs and help menu items
 
 .. _`Build 1270`:
 

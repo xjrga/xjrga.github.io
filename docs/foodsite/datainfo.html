@@ -47,11 +47,11 @@
 <h2>Data schema<a class="headerlink" href="#data-schema" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="snack-mix-data-exchange-document-schema">
 <h3>Snack mix data exchange document schema<a class="headerlink" href="#snack-mix-data-exchange-document-schema" title="Permalink to this headline">¶</a></h3>
-<p><a class="reference external" href="../schemas/snack.xsd">Mix Schema</a></p>
+<p><a class="reference external" href="../schemas/snack_v7.xsd">Mix Schema</a></p>
 </div>
 <div class="section" id="snack-food-data-exchange-document-schema">
 <h3>Snack food data exchange document schema<a class="headerlink" href="#snack-food-data-exchange-document-schema" title="Permalink to this headline">¶</a></h3>
-<p><a class="reference external" href="../schemas/food.xsd">Food Schema</a></p>
+<p><a class="reference external" href="../schemas/food_v2.xsd">Food Schema</a></p>
 </div>
 </div>
 <div class="section" id="data-mapping">
@@ -72,195 +72,215 @@
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><p>Protein</p></td>
-<td><p>g</p></td>
-<td><p>203</p></td>
-<td><p>protein</p></td>
-</tr>
-<tr class="row-odd"><td><p>Total lipid (Fat)</p></td>
-<td><p>g</p></td>
-<td><p>204</p></td>
-<td><p>fat</p></td>
-</tr>
 <tr class="row-even"><td><p>Carbohydrate, by difference</p></td>
 <td><p>g</p></td>
 <td><p>205</p></td>
-<td><p>carbohydrate_by_difference</p></td>
+<td><p>carbohydrates-carbs_by_diff</p></td>
 </tr>
-<tr class="row-odd"><td><p>Energy</p></td>
-<td><p>kcal</p></td>
-<td><p>208</p></td>
-<td><p>energy_gross</p></td>
-</tr>
-<tr class="row-even"><td><p>Alcohol, ethyl</p></td>
-<td><p>g</p></td>
-<td><p>221</p></td>
-<td><p>alcohol</p></td>
-</tr>
-<tr class="row-odd"><td><p>Water</p></td>
-<td><p>g</p></td>
-<td><p>255</p></td>
-<td><p>water</p></td>
-</tr>
-<tr class="row-even"><td><p>Fiber, total dietary</p></td>
+<tr class="row-odd"><td><p>Fiber, total dietary</p></td>
 <td><p>g</p></td>
 <td><p>291</p></td>
-<td><p>fiber</p></td>
+<td><p>carbohydrates-fiber</p></td>
 </tr>
-<tr class="row-odd"><td><p>Calcium, Ca</p></td>
-<td><p>mg</p></td>
-<td><p>301</p></td>
-<td><p>calcium</p></td>
+<tr class="row-even"><td><p>Energy</p></td>
+<td><p>kcal</p></td>
+<td><p>208</p></td>
+<td><p>energy-gross</p></td>
 </tr>
-<tr class="row-even"><td><p>Iron, Fe</p></td>
-<td><p>mg</p></td>
-<td><p>303</p></td>
-<td><p>iron</p></td>
-</tr>
-<tr class="row-odd"><td><p>Magnesium, Mg</p></td>
-<td><p>mg</p></td>
-<td><p>304</p></td>
-<td><p>magnesium</p></td>
-</tr>
-<tr class="row-even"><td><p>Phosphorus, P</p></td>
-<td><p>mg</p></td>
-<td><p>305</p></td>
-<td><p>phosphorus</p></td>
-</tr>
-<tr class="row-odd"><td><p>Potassium, K</p></td>
-<td><p>mg</p></td>
-<td><p>306</p></td>
-<td><p>potassium</p></td>
-</tr>
-<tr class="row-even"><td><p>Sodium, Na</p></td>
-<td><p>mg</p></td>
-<td><p>307</p></td>
-<td><p>sodium</p></td>
-</tr>
-<tr class="row-odd"><td><p>Zinc, Zn</p></td>
-<td><p>mg</p></td>
-<td><p>309</p></td>
-<td><p>zinc</p></td>
-</tr>
-<tr class="row-even"><td><p>Copper, Cu</p></td>
-<td><p>mg</p></td>
-<td><p>312</p></td>
-<td><p>copper</p></td>
-</tr>
-<tr class="row-odd"><td><p>Manganese, Mn</p></td>
-<td><p>mg</p></td>
-<td><p>315</p></td>
-<td><p>manganese</p></td>
-</tr>
-<tr class="row-even"><td><p>Selenium, Se</p></td>
-<td><p>µg</p></td>
-<td><p>317</p></td>
-<td><p>selenium</p></td>
-</tr>
-<tr class="row-odd"><td><p>Vitamin A, RAE</p></td>
-<td><p>µg</p></td>
-<td><p>320</p></td>
-<td><p>vitamin_a</p></td>
-</tr>
-<tr class="row-even"><td><p>Vitamin E (Alpha-Tocopherol)</p></td>
-<td><p>mg</p></td>
-<td><p>323</p></td>
-<td><p>vitamin_e</p></td>
-</tr>
-<tr class="row-odd"><td><p>Vitamin D (D2 + D3)</p></td>
-<td><p>µg</p></td>
-<td><p>328</p></td>
-<td><p>vitamin_d</p></td>
-</tr>
-<tr class="row-even"><td><p>Vitamin C, total (Ascorbic Acid)</p></td>
-<td><p>mg</p></td>
-<td><p>401</p></td>
-<td><p>vitamin_c</p></td>
-</tr>
-<tr class="row-odd"><td><p>Thiamin</p></td>
-<td><p>mg</p></td>
-<td><p>404</p></td>
-<td><p>thiamin</p></td>
-</tr>
-<tr class="row-even"><td><p>Riboflavin</p></td>
-<td><p>mg</p></td>
-<td><p>405</p></td>
-<td><p>riboflavin</p></td>
-</tr>
-<tr class="row-odd"><td><p>Niacin</p></td>
-<td><p>mg</p></td>
-<td><p>406</p></td>
-<td><p>niacin</p></td>
-</tr>
-<tr class="row-even"><td><p>Pantothenic acid</p></td>
-<td><p>mg</p></td>
-<td><p>410</p></td>
-<td><p>pantothenic_acid</p></td>
-</tr>
-<tr class="row-odd"><td><p>Vitamin B-6</p></td>
-<td><p>mg</p></td>
-<td><p>415</p></td>
-<td><p>vitamin_b6</p></td>
-</tr>
-<tr class="row-even"><td><p>Vitamin B-12</p></td>
-<td><p>µg</p></td>
-<td><p>418</p></td>
-<td><p>vitamin_b12</p></td>
-</tr>
-<tr class="row-odd"><td><p>Choline, total</p></td>
-<td><p>mg</p></td>
-<td><p>421</p></td>
-<td><p>choline</p></td>
-</tr>
-<tr class="row-even"><td><p>Vitamin K (Phylloquinone)</p></td>
-<td><p>µg</p></td>
-<td><p>430</p></td>
-<td><p>vitamin_k</p></td>
-</tr>
-<tr class="row-odd"><td><p>Folate, DFE</p></td>
-<td><p>µg</p></td>
-<td><p>435</p></td>
-<td><p>folate</p></td>
-</tr>
-<tr class="row-even"><td><p>Cholesterol</p></td>
+<tr class="row-odd"><td><p>Cholesterol</p></td>
 <td><p>mg</p></td>
 <td><p>601</p></td>
-<td><p>cholesterol</p></td>
-</tr>
-<tr class="row-odd"><td><p>Fatty acids, total saturated</p></td>
-<td><p>g</p></td>
-<td><p>606</p></td>
-<td><p>sfa</p></td>
-</tr>
-<tr class="row-even"><td><p>18:2 undifferentiated</p></td>
-<td><p>g</p></td>
-<td><p>618</p></td>
-<td><p>linoleic</p></td>
-</tr>
-<tr class="row-odd"><td><p>18:3 undifferentiated</p></td>
-<td><p>g</p></td>
-<td><p>619</p></td>
-<td><p>linolenic</p></td>
+<td><p>fats-cholesterol</p></td>
 </tr>
 <tr class="row-even"><td><p>22:6 n-3 (DHA)</p></td>
 <td><p>g</p></td>
 <td><p>621</p></td>
-<td><p>dha</p></td>
+<td><p>fats-dha</p></td>
 </tr>
 <tr class="row-odd"><td><p>20:5 n-3 (EPA)</p></td>
 <td><p>g</p></td>
 <td><p>629</p></td>
-<td><p>epa</p></td>
+<td><p>fats-epa</p></td>
 </tr>
-<tr class="row-even"><td><p>Fatty acids, total monounsaturated</p></td>
+<tr class="row-even"><td><p>12:0 lauric</p></td>
+<td><p>g</p></td>
+<td><p>611</p></td>
+<td><p>fats-lauric</p></td>
+</tr>
+<tr class="row-odd"><td><p>18:2 undifferentiated</p></td>
+<td><p>g</p></td>
+<td><p>618</p></td>
+<td><p>fats-linoleic</p></td>
+</tr>
+<tr class="row-even"><td><p>18:3 undifferentiated</p></td>
+<td><p>g</p></td>
+<td><p>619</p></td>
+<td><p>fats-linolenic</p></td>
+</tr>
+<tr class="row-odd"><td><p>Fatty acids, total monounsaturated</p></td>
 <td><p>g</p></td>
 <td><p>645</p></td>
-<td><p>mufa</p></td>
+<td><p>fats-monounsaturated</p></td>
 </tr>
-<tr class="row-odd"><td><p>Fatty acids, total polyunsaturated</p></td>
+<tr class="row-even"><td><p>14:0 myristic</p></td>
+<td><p>g</p></td>
+<td><p>612</p></td>
+<td><p>fats-myristic</p></td>
+</tr>
+<tr class="row-odd"><td><p>16:0 palmitic</p></td>
+<td><p>g</p></td>
+<td><p>613</p></td>
+<td><p>fats-palmitic</p></td>
+</tr>
+<tr class="row-even"><td><p>Fatty acids, total polyunsaturated</p></td>
 <td><p>g</p></td>
 <td><p>646</p></td>
-<td><p>pufa</p></td>
+<td><p>fats-polyunsaturated</p></td>
+</tr>
+<tr class="row-odd"><td><p>Fatty acids, total saturated</p></td>
+<td><p>g</p></td>
+<td><p>606</p></td>
+<td><p>fats-saturated</p></td>
+</tr>
+<tr class="row-even"><td><p>18:0 stearic</p></td>
+<td><p>g</p></td>
+<td><p>614</p></td>
+<td><p>fats-stearic</p></td>
+</tr>
+<tr class="row-odd"><td><p>Total lipid (Fat)</p></td>
+<td><p>g</p></td>
+<td><p>204</p></td>
+<td><p>fats-total</p></td>
+</tr>
+<tr class="row-even"><td><p>Calcium, Ca</p></td>
+<td><p>mg</p></td>
+<td><p>301</p></td>
+<td><p>minerals-calcium</p></td>
+</tr>
+<tr class="row-odd"><td><p>Copper, Cu</p></td>
+<td><p>mg</p></td>
+<td><p>312</p></td>
+<td><p>minerals-copper</p></td>
+</tr>
+<tr class="row-even"><td><p>Iron, Fe</p></td>
+<td><p>mg</p></td>
+<td><p>303</p></td>
+<td><p>minerals-iron</p></td>
+</tr>
+<tr class="row-odd"><td><p>Magnesium, Mg</p></td>
+<td><p>mg</p></td>
+<td><p>304</p></td>
+<td><p>minerals-magnesium</p></td>
+</tr>
+<tr class="row-even"><td><p>Manganese, Mn</p></td>
+<td><p>mg</p></td>
+<td><p>315</p></td>
+<td><p>minerals-manganese</p></td>
+</tr>
+<tr class="row-odd"><td><p>Phosphorus, P</p></td>
+<td><p>mg</p></td>
+<td><p>305</p></td>
+<td><p>minerals-phosphorus</p></td>
+</tr>
+<tr class="row-even"><td><p>Potassium, K</p></td>
+<td><p>mg</p></td>
+<td><p>306</p></td>
+<td><p>minerals-potassium</p></td>
+</tr>
+<tr class="row-odd"><td><p>Selenium, Se</p></td>
+<td><p>µg</p></td>
+<td><p>317</p></td>
+<td><p>minerals-selenium</p></td>
+</tr>
+<tr class="row-even"><td><p>Sodium, Na</p></td>
+<td><p>mg</p></td>
+<td><p>307</p></td>
+<td><p>minerals-sodium</p></td>
+</tr>
+<tr class="row-odd"><td><p>Zinc, Zn</p></td>
+<td><p>mg</p></td>
+<td><p>309</p></td>
+<td><p>minerals-zinc</p></td>
+</tr>
+<tr class="row-even"><td><p>Alcohol, ethyl</p></td>
+<td><p>g</p></td>
+<td><p>221</p></td>
+<td><p>other-alcohol</p></td>
+</tr>
+<tr class="row-odd"><td><p>Water</p></td>
+<td><p>g</p></td>
+<td><p>255</p></td>
+<td><p>other-water</p></td>
+</tr>
+<tr class="row-even"><td><p>Protein</p></td>
+<td><p>g</p></td>
+<td><p>203</p></td>
+<td><p>protein-total</p></td>
+</tr>
+<tr class="row-odd"><td><p>Choline, total</p></td>
+<td><p>mg</p></td>
+<td><p>421</p></td>
+<td><p>vitamins-choline</p></td>
+</tr>
+<tr class="row-even"><td><p>Folate, DFE</p></td>
+<td><p>µg</p></td>
+<td><p>435</p></td>
+<td><p>vitamins-folate</p></td>
+</tr>
+<tr class="row-odd"><td><p>Niacin</p></td>
+<td><p>mg</p></td>
+<td><p>406</p></td>
+<td><p>vitamins-niacin</p></td>
+</tr>
+<tr class="row-even"><td><p>Pantothenic acid</p></td>
+<td><p>mg</p></td>
+<td><p>410</p></td>
+<td><p>vitamins-pantothenic_acid</p></td>
+</tr>
+<tr class="row-odd"><td><p>Riboflavin</p></td>
+<td><p>mg</p></td>
+<td><p>405</p></td>
+<td><p>vitamins-riboflavin</p></td>
+</tr>
+<tr class="row-even"><td><p>Thiamin</p></td>
+<td><p>mg</p></td>
+<td><p>404</p></td>
+<td><p>vitamins-thiamin</p></td>
+</tr>
+<tr class="row-odd"><td><p>Vitamin A, RAE</p></td>
+<td><p>µg</p></td>
+<td><p>320</p></td>
+<td><p>vitamins-vitamin_a</p></td>
+</tr>
+<tr class="row-even"><td><p>Vitamin B-12</p></td>
+<td><p>µg</p></td>
+<td><p>418</p></td>
+<td><p>vitamins-vitamin_b12</p></td>
+</tr>
+<tr class="row-odd"><td><p>Vitamin B-6</p></td>
+<td><p>mg</p></td>
+<td><p>415</p></td>
+<td><p>vitamins-vitamin_b6</p></td>
+</tr>
+<tr class="row-even"><td><p>Vitamin C, total (Ascorbic Acid)</p></td>
+<td><p>mg</p></td>
+<td><p>401</p></td>
+<td><p>vitamins-vitamin_c</p></td>
+</tr>
+<tr class="row-odd"><td><p>Vitamin D (D2 + D3)</p></td>
+<td><p>µg</p></td>
+<td><p>328</p></td>
+<td><p>vitamins-vitamin_d</p></td>
+</tr>
+<tr class="row-even"><td><p>Vitamin E (Alpha-Tocopherol)</p></td>
+<td><p>mg</p></td>
+<td><p>323</p></td>
+<td><p>vitamins-vitamin_e</p></td>
+</tr>
+<tr class="row-odd"><td><p>Vitamin K (Phylloquinone)</p></td>
+<td><p>µg</p></td>
+<td><p>430</p></td>
+<td><p>vitamins-vitamin_k</p></td>
 </tr>
 </tbody>
 </table>

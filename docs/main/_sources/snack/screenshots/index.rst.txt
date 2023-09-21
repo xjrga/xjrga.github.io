@@ -8,11 +8,12 @@ Screenshots
    Snack Macronutrient<snack_macronutrient>
    Snack Protein<snack_protein>
    Snack Fats<snack_fats>
+   Snack Saturated<snack_saturated>
+   Snack Polyunsaturated<snack_polyunsaturated>
    Snack Carbohydrates<snack_carbohydrates>
    Snack Vitamins<snack_vitamins>
    Snack Minerals<snack_minerals>
    Snack Electrolytes<snack_electrolytes>
-   Snack Water<snack_water>
    Snack Cost<snack_cost>
    Snack Glycemic<snack_glycemic>
    Snack Rda<snack_rda>

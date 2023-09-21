@@ -17,13 +17,13 @@ Data schema
 Snack mix data exchange document schema
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Mix Schema <../schemas/snack.xsd>`_
+`Mix Schema <../schemas/snack_v7.xsd>`_
 
 
 Snack food data exchange document schema
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Food Schema <../schemas/food.xsd>`_
+`Food Schema <../schemas/food_v2.xsd>`_
 
 
 Data mapping

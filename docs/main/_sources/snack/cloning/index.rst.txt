@@ -14,13 +14,13 @@ Run application
 ::
 
  cd target
- unzip snack-1270-app.zip
- cd snack-1270
- java -jar snack-1270.jar
+ unzip snack-1280-app.zip
+ cd snack-1280
+ java -jar snack-1280.jar
 
 ----
 
-.. figure:: images/clone_1270.png
+.. figure:: images/clone_1280.png
    :scale: 100
    :alt: alternate text
    :align: center

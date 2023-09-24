@@ -15,7 +15,7 @@
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Foods: Java Library of Nutritional Value of Foods" href="../foodslibrary/index.html" />
-    <link rel="prev" title="Use Cases" href="usecases.html" /> 
+    <link rel="prev" title="Java Metal Themes" href="screenshots.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Navigation</h3>
@@ -27,7 +27,7 @@
           <a href="../foodslibrary/index.html" title="Foods: Java Library of Nutritional Value of Foods"
              accesskey="N">next</a> |</li>
         <li class="right" >
-          <a href="usecases.html" title="Use Cases"
+          <a href="screenshots.html" title="Java Metal Themes"
              accesskey="P">previous</a> |</li>
         <li class="nav-item nav-item-0"><a href="../index.html">Project  documentation</a> &#187;</li>
           <li class="nav-item nav-item-1"><a href="index.html" accesskey="U">Looks: Java Library of Swing Application Themes</a> &#187;</li>
@@ -42,6 +42,21 @@
             
   <div class="section" id="installation">
 <h1>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h1>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">public</span> <span class="n">static</span> <span class="n">void</span> <span class="n">main</span><span class="p">(</span> <span class="n">String</span><span class="p">[]</span> <span class="n">args</span> <span class="p">)</span> <span class="p">{</span>
+        <span class="k">try</span> <span class="p">{</span>
+            <span class="n">Font</span> <span class="n">font</span> <span class="o">=</span> <span class="n">new</span> <span class="n">Font</span><span class="p">(</span> <span class="n">Font</span><span class="o">.</span><span class="n">DIALOG</span><span class="p">,</span> <span class="n">Font</span><span class="o">.</span><span class="n">PLAIN</span><span class="p">,</span> <span class="mi">12</span> <span class="p">);</span>
+            <span class="n">MetalLookAndFeel</span><span class="o">.</span><span class="n">setCurrentTheme</span><span class="p">(</span> <span class="n">new</span> <span class="n">io</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">xjrga</span><span class="o">.</span><span class="n">looks</span><span class="o">.</span><span class="n">themes</span><span class="o">.</span><span class="n">Dawn_150</span><span class="p">(</span> <span class="n">font</span> <span class="p">)</span> <span class="p">);</span>
+            <span class="n">UIManager</span><span class="o">.</span><span class="n">setLookAndFeel</span><span class="p">(</span> <span class="s2">&quot;javax.swing.plaf.metal.MetalLookAndFeel&quot;</span> <span class="p">);</span>
+        <span class="p">}</span> <span class="n">catch</span> <span class="p">(</span> <span class="n">ClassNotFoundException</span> <span class="o">|</span> <span class="n">IllegalAccessException</span> <span class="o">|</span> <span class="n">InstantiationException</span> <span class="o">|</span> <span class="n">UnsupportedLookAndFeelException</span> <span class="n">e</span> <span class="p">)</span> <span class="p">{</span>
+        <span class="p">}</span>
+        <span class="k">try</span> <span class="p">{</span>
+            <span class="n">Main</span> <span class="n">main</span> <span class="o">=</span> <span class="n">new</span> <span class="n">Main</span><span class="p">();</span>
+        <span class="p">}</span> <span class="n">catch</span> <span class="p">(</span> <span class="ne">Exception</span> <span class="n">e</span> <span class="p">)</span> <span class="p">{</span>
+
+        <span class="p">}</span>
+    <span class="p">}</span>
+</pre></div>
+</div>
 </div>
 
 
@@ -52,8 +67,8 @@
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
   <h4>Previous topic</h4>
-  <p class="topless"><a href="usecases.html"
-                        title="previous chapter">Use Cases</a></p>
+  <p class="topless"><a href="screenshots.html"
+                        title="previous chapter">Java Metal Themes</a></p>
   <h4>Next topic</h4>
   <p class="topless"><a href="../foodslibrary/index.html"
                         title="next chapter">Foods: Java Library of Nutritional Value of Foods</a></p>
@@ -88,7 +103,7 @@
           <a href="../foodslibrary/index.html" title="Foods: Java Library of Nutritional Value of Foods"
              >next</a> |</li>
         <li class="right" >
-          <a href="usecases.html" title="Use Cases"
+          <a href="screenshots.html" title="Java Metal Themes"
              >previous</a> |</li>
         <li class="nav-item nav-item-0"><a href="../index.html">Project  documentation</a> &#187;</li>
           <li class="nav-item nav-item-1"><a href="index.html" >Looks: Java Library of Swing Application Themes</a> &#187;</li>

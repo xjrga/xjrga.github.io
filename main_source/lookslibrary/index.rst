@@ -44,16 +44,6 @@ Screenshots
 
 ----
 
-Use Cases
----------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<usecases>
-
-----
-
 Installation
 ------------
 
@@ -61,14 +51,3 @@ Installation
    :maxdepth: 1
 
    See more<installation>
-
-----
-
-Design
-------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<design>
-

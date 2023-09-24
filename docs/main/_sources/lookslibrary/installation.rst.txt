@@ -1,6 +1,21 @@
 Installation
 ============
 
+User can add this dependency on the maven project file (pom.xml).
+
+::
+
+  <!-- https://mvnrepository.com/artifact/io.github.xjrga/looks -->
+  <dependency>
+      <groupId>io.github.xjrga</groupId>
+      <artifactId>looks</artifactId>
+      <version>02</version>
+  </dependency>
+
+----
+
+User can use this snippet to install the metal theme.
+
 ::
 
   public static void main( String[] args ) {
@@ -13,6 +28,8 @@ Installation
           try {
               Main main = new Main();
           } catch ( Exception e ) {
-  
+
           }
       }
+
+

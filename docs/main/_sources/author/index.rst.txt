@@ -4,7 +4,7 @@ Author
 Bio
 ---
 
-Jorge aka "JR" would like to say Hi!
+The author's name is Jorge Rolando Garcia de Alba. Friends call him Jorge, Rolando or "JR".
 
 Education
 ---------

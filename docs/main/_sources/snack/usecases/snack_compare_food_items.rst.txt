@@ -1,6 +1,6 @@
-Compare food items
+Compare Food Items
 ==================
 
-.. figure:: images/snack_compare_food_items.png
+.. figure:: images/snack_food_comparison.png
    :alt: entity relationship diagram
    :align: center

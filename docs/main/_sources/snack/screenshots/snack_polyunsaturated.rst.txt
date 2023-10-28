@@ -1,6 +1,8 @@
-Snack fats
-==========
+Snack Polyunsaturated Fat
+=========================
 
 .. figure:: images/snack_polyunsaturated.png
-   :alt: entity relationship diagram
+   :alt: polyunsaturated fat summary view
    :align: center
+
+   This is the polyunsaturated fat summary view

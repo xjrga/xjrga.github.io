@@ -5,11 +5,11 @@ Screenshots
    :maxdepth: 1
 
    Snack Energy<snack_energy>
-   Snack Macronutrient<snack_macronutrient>
+   Snack Mass<snack_mass>
    Snack Protein<snack_protein>
    Snack Fats<snack_fats>
-   Snack Saturated<snack_saturated>
-   Snack Polyunsaturated<snack_polyunsaturated>
+   Snack Saturated Fat<snack_saturated>
+   Snack Polyunsaturated Fat<snack_polyunsaturated>
    Snack Carbohydrates<snack_carbohydrates>
    Snack Vitamins<snack_vitamins>
    Snack Minerals<snack_minerals>
@@ -21,7 +21,7 @@ Screenshots
    Snack Constraints<snack_nutrient_constraint>
    Snack Meal Portion<snack_meal_portion>
    Snack Meal Energy<snack_meal_energy>
-   Snack Meal Macronutrient<snack_meal_macronutrient>
+   Snack Meal Mass<snack_meal_mass>
    Snack Food List<snack_food_list>
    Snack Food Categories<snack_food_categories>
 

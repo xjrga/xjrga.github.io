@@ -1,4 +1,4 @@
-Snack update glycemic index
+Snack Update Glycemic Index
 ===========================
 
 .. figure:: images/snack_update_glycemic_index.png

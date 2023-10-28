@@ -17,16 +17,14 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 -->
 <project default="build">
-    <!--    This ant script helps me document and memorize the git commands I use. Use with care.-->
     <tstamp>
-        <!--        <format property="timestamp" pattern="yyyy-MM-dd HH:mm:ss"/>-->
-        <format property="timestamp" pattern="yyyyMMdd_HHmm"/>
+        <format property="timestamp" pattern="yyyy-MM-dd-HH-mm"/>
     </tstamp>
     <target name="backup" >
-        <echo>Backup files to ../xjrga.github.io_${timestamp}.tgz</echo>
+        <echo>Backup files to ../backups/xjrga.github.io_${timestamp}.tgz</echo>
         <exec executable="tar">
             <arg line="czfv"/>
-            <arg line="../xjrga.github.io_'${timestamp}'.tgz"/>
+            <arg line="../backups/xjrga.github.io_'${timestamp}'.tgz"/>
             <arg line="."/>
         </exec>
     </target>

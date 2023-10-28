@@ -1,4 +1,4 @@
-Snack assign meal portion
+Snack Assign Meal Portion
 =========================
 
 .. figure:: images/snack_assign_meal_portion.png

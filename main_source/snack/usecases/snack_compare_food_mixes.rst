@@ -1,6 +1,6 @@
-Compare food mixes
+Compare Food Mixes
 ==================
 
-.. figure:: images/snack_compare_mixes.png
+.. figure:: images/snack_mix_comparison.png
    :alt: entity relationship diagram
    :align: center

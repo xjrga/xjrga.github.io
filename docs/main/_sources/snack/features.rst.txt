@@ -14,10 +14,16 @@ Features
 * Calculate basal metabolic rate (BMR)
 * Calculate glycemic index (GI) and glycemic load (GL) of a meal
 * Check glycemic index range
+* Calculate macronutrient energy percentages
+* Calculate essential fat ratio
+* Calculate electrolyte ratio
+* Calculate polyunsaturate/saturate ratio
+* Calculate monunsaturate/saturate ratio
 * Calculate food quotient (FQ)
 * Convert percent daily value (%DV) to grams
 * Exchange mix, food and meal plan data easily through simple text document (xml)
 * Easily create and export meal plans to spreadsheet
 * Facilitate learning/teaching anyone with interest in nutrition
+* Provides many additional food items to experiment with
 * Is free and open source
 

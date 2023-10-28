@@ -14,7 +14,7 @@
     <script src="../../_static/doctools.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Other" href="../other.html" />
+    <link rel="next" title="Potatosql: Learning Software For Database Design" href="../../potatosql/index.html" />
     <link rel="prev" title="Comments" href="../comments/index.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
@@ -24,7 +24,7 @@
           <a href="../../genindex.html" title="General Index"
              accesskey="I">index</a></li>
         <li class="right" >
-          <a href="../other.html" title="Other"
+          <a href="../../potatosql/index.html" title="Potatosql: Learning Software For Database Design"
              accesskey="N">next</a> |</li>
         <li class="right" >
           <a href="../comments/index.html" title="Comments"
@@ -47,13 +47,13 @@
 <blockquote>
 <div><ul class="simple">
 <li><p>Is meant to be used like a compass</p></li>
-<li><p>May enhance your diet and nutrition decision making</p></li>
-<li><p>Realize that learning to use Snack take time just like any other business or scientific software</p></li>
+<li><p>May enhance nutrition decision making and eventually diet and health will improve</p></li>
+<li><p>Realize it takes time to learn how to use Snack. It is just like any other business or scientific software which requires studying and learning.</p></li>
 </ul>
 </div></blockquote>
 <hr class="docutils" />
-<p>Snack is an advanced calorie calculator and it can be used for many different purposes. One of those is to verify that a diet meets rda. This verification is important because it is related to a long, healthy, productive life.</p>
-<p>One of the things that I would do as a new user to get an idea of where I stand nutrition wise (after learning how to use software) would be to enter the food items and quantities I consume in a typical day. To do that, user will need the nutrition facts for each of the food items and the amounts consumed. Snack will then calculate things and give a report. Registered dietitians usually do this for you.</p>
+<p>Snack is an advanced calorie calculator and it can be used for many different purposes. One of those is to verify that a diet meets rda/dri. This verification is important because it is related to a long, healthy, productive life.</p>
+<p>One of the things that I would do as a new user would be to enter the food items and quantities I consume in a typical day. To do that, user will need the nutrition facts for each of the food items and the amounts consumed. Snack will then calculate things and give a report. Registered dietitians usually do this for you.</p>
 </div>
 <hr class="docutils" />
 <div class="section" id="usage-tips">
@@ -65,26 +65,31 @@
 <li><p>Fiber, complete protein and calories constraints are good ones to start with</p></li>
 <li><p>Snack will always give you the food combination that is lowest in calories</p></li>
 <li><p>Snack may find the solution unfeasible</p></li>
+<li><p>Create constraints based on recommended guidelines by health organizations</p></li>
 <li><p>Watch out for constraints working against each other</p></li>
 <li><dl class="simple">
-<dt>When you get the solution unfeasible message try:</dt><dd><p>changing = for &gt; or &lt;
-deleting constraints
-adding extra food items</p>
+<dt>When you get the solution unfeasible message try:</dt><dd><ul>
+<li><p>changing = for &gt; or &lt;</p></li>
+<li><p>deleting constraints</p></li>
+<li><p>adding extra food items</p></li>
+</ul>
 </dd>
 </dl>
 </li>
 <li><p>Any food item (diet or not) that has a nutritional label will work</p></li>
 <li><p>Once in a while, a ratio constraint may seem to not have an effect but an additional “greater than one” nutrient constraint will enforce it.</p></li>
 <li><p>Use a mix of equalities and inequalities to build your model.</p></li>
-<li><p>Easily exchange favorite mixes and food data using the new import and export functionality. You can find your data exchange document (small xml text file with a long numeric name, it is ok to rename it) in the model directory which you can then email or share through any other means.</p></li>
 <li><p>Sometimes it may be necessary to flip the inequality on a constraint depending on how the model is setup</p></li>
+<li><p>A ‘Mix already exists’ message means mixid already exists in database. Changing the mixid on data exchange document will make it a different mix.</p></li>
+<li><p>If a model has not been solved, it can be undone using ‘undo’. It will delete any modifications since previous solution.</p></li>
+<li><p>Easily backup and share your favorite mixes and food data using the import and export functionality</p></li>
 </ul>
 </div></blockquote>
 </div>
 <hr class="docutils" />
 <div class="section" id="more-usage-tips">
 <h2>More usage tips<a class="headerlink" href="#more-usage-tips" title="Permalink to this headline">¶</a></h2>
-<p>Create a few meal plans that meet your calorie budget and rda requirements (as best as possible) and use them as menu alternatives to add variety to your nutrition lifestyle. This will help to avoid eating boredom and satisfy your cravings. Take advantage of multivitamin/mineral supplements to fill the holes in your diet. In this way, you can rest assured that any plan you choose will meet your needs and take you a step closer to your health goals. Switch food menus at will.</p>
+<p>Create a few meal plans that meet your calorie budget and rda requirements (as best as possible) and use them as menu alternatives to add variety to your nutrition lifestyle. This will help to avoid eating boredom and satisfy your cravings. Take advantage of multivitamin/mineral supplements to fill the nutritional gaps in your diet. In this way, you can rest assured that any plan you choose will meet your needs and take you a step closer to your health goals.</p>
 </div>
 </div>
 
@@ -109,8 +114,8 @@ adding extra food items</p>
   <p class="topless"><a href="../comments/index.html"
                         title="previous chapter">Comments</a></p>
   <h4>Next topic</h4>
-  <p class="topless"><a href="../other.html"
-                        title="next chapter">Other</a></p>
+  <p class="topless"><a href="../../potatosql/index.html"
+                        title="next chapter">Potatosql: Learning Software For Database Design</a></p>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
@@ -139,7 +144,7 @@ adding extra food items</p>
           <a href="../../genindex.html" title="General Index"
              >index</a></li>
         <li class="right" >
-          <a href="../other.html" title="Other"
+          <a href="../../potatosql/index.html" title="Potatosql: Learning Software For Database Design"
              >next</a> |</li>
         <li class="right" >
           <a href="../comments/index.html" title="Comments"

@@ -1,6 +1,8 @@
-Snack protein
+Snack Protein
 =============
 
 .. figure:: images/snack_protein.png
-   :alt: entity relationship diagram
+   :alt: protein summary view
    :align: center
+
+   This is the protein summary view

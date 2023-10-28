@@ -11,7 +11,7 @@ Snack: Learning software for nutrition
 Food category
 -------------
 
-Food data files for snack 1280.
+Food data files for snack 1280 and 1300
 
 .. toctree::
    :maxdepth: 1

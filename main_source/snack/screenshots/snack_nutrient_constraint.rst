@@ -1,6 +1,8 @@
-Snack nutrient constraint
+Snack Nutrient Constraint
 =========================
 
 .. figure:: images/snack_nutrient_constraint.png
-   :alt: entity relationship diagram
+   :alt: nutrient constraints tab
    :align: center
+
+   This is the nutrient constraints tab

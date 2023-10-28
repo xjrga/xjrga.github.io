@@ -5,7 +5,7 @@ Design
    :alt: entity relationship diagram
    :align: center
 
-   This is the caption of the figure (a simple paragraph).
+   This is the relational database entity relationship (er) diagram.
 
 
 * It shows relationships between database tables

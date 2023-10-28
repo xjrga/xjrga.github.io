@@ -13,11 +13,10 @@ Important points on HGI vs LGI
     * Type of carbohydrate (HGI vs LGI)
 * The amount of carbohydrate in meals has much greater influence on glycemia than source or type of carbohydrate
 * There is an active promotion of carbohydrate foods with a low glycemic index in the nutritional management of diabetes.
-* HGI carbohydrate meals shortens sleep onset.
-* Factors that Affect Glycemic Response to Foods
+* Factors that affect glycemic response to foods are:
     * Amount of carbohydrate
     * Composition of carbohydrate (content of sugars, resistant starch, etc)
     * Effects of cooking or processing
-
+* HGI carbohydrate meals may shorten sleep onset.
 
 

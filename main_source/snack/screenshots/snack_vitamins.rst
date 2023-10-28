@@ -1,6 +1,8 @@
-Snack vitamins
+Snack Vitamins
 ==============
 
 .. figure:: images/snack_vitamins.png
-   :alt:
+   :alt: vitamins summary view
    :align: center
+
+   This is the vitamins summary view

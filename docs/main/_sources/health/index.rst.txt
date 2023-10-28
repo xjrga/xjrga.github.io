@@ -4,7 +4,7 @@ Wellness & Lifestyle Project
 Goal
 ----
 
-I realized many years ago that I would enjoy the rest of my life more if I went through it in better shape so I got serious about diet, nutrition and exercise. It is a lifelong journey. My goal was to have the energy and ability to do the things that need to get done and those that I enjoy.
+I realized many years ago that I would enjoy the rest of my life more if I went through it in better shape so I got serious about diet, nutrition and exercise. It is a lifelong journey. My goal is to have the energy and ability to do the things that need to get done and those that I enjoy.
 
 Diet criteria
 -------------
@@ -24,7 +24,7 @@ Nutrition
 ----------------------
 * Diet includes fruits, vegetables, grains, nonfat dairy products, fish, legumes, poultry, and lean meats
 * All essential nutrients are consumed everyday including vitamins, minerals and essential fatty acids
-* Fatty acids come mainly from fish, vegetables, legumes, and nuts
+* Fatty acids come mainly from fish, vegetables, legumes, plant oils and nuts
 * There is enough fiber to keep digestive system functioning well
 * There is intake of foods that are high in antioxidants
 * Saturated fats and cholesterol are minimal

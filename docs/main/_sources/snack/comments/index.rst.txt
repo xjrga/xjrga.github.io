@@ -3,7 +3,6 @@ Comments
 
 ✓ All comments are welcome.
 
-✓ Food menu is limited and it is not culturally diverse.
 
 Health Risks from Excessive Vitamin A
 -------------------------------------

@@ -4,6 +4,8 @@ Changes
 +--------------------+---------------------+
 | Build              | Date                |
 +--------------------+---------------------+
+| `Build 1300`_      | Oct 28, 2023        |
++--------------------+---------------------+
 | `Build 1280`_      | Sep 21, 2023        |
 +--------------------+---------------------+
 | `Build 1270`_      | May 27, 2023        |
@@ -64,6 +66,18 @@ Changes
 +--------------------+---------------------+
 
 ----
+
+.. _`Build 1300`:
+
+Build 1300 - Oct 28, 2023
+
+*  Add tracking for cholesterol raising saturated fatty acids (12:0, 14:0, 16:0) total
+*  Add essential fat ratio (la/ala)
+*  Add electrolyte ratio (k/na)
+*  Add polyunsaturate/saturate ratio (pufa/sfa)
+*  Add monounsaturate/saturate ratio (mufa/sfa)
+*  Calculate mix statistics by selecting menu item under mix menu
+*  Calculate food statistics by right clicking on food list item
 
 .. _`Build 1280`:
 

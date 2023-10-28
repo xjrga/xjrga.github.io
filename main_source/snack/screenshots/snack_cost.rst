@@ -1,6 +1,8 @@
-Snack cost
+Snack Cost
 ==========
 
 .. figure:: images/snack_cost.png
-   :alt: entity relationship diagram
+   :alt: cost summary view
    :align: center
+
+   This is the cost summary view

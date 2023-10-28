@@ -1,43 +1,43 @@
  Nutrdesc, Units, Nutr_no, "Xml Element"
-"Carbohydrate, by difference", g,205, carbohydrates-carbs_by_diff
-"Fiber, total dietary", g,291, carbohydrates-fiber
-Energy, kcal,208, energy-gross
-Cholesterol, mg,601, fats-cholesterol
-22:6 n-3 (DHA), g,621, fats-dha
-20:5 n-3 (EPA), g,629, fats-epa
-"12:0 lauric", g, 611, fats-lauric
-18:2 undifferentiated, g,618, fats-linoleic
-18:3 undifferentiated, g,619, fats-linolenic
-"Fatty acids, total monounsaturated", g,645, fats-monounsaturated
-"14:0 myristic", g, 612, fats-myristic
-"16:0 palmitic", g, 613, fats-palmitic
-"Fatty acids, total polyunsaturated", g,646, fats-polyunsaturated
-"Fatty acids, total saturated", g,606, fats-saturated
-"18:0 stearic", g, 614, fats-stearic
-Total lipid (Fat), g,204, fats-total
-"Calcium, Ca", mg,301, minerals-calcium
-"Copper, Cu", mg,312, minerals-copper
-"Iron, Fe", mg,303, minerals-iron
-"Magnesium, Mg", mg,304, minerals-magnesium
-"Manganese, Mn", mg,315, minerals-manganese
-"Phosphorus, P", mg,305, minerals-phosphorus
-"Potassium, K", mg,306, minerals-potassium
-"Selenium, Se", µg,317, minerals-selenium
-"Sodium, Na", mg,307, minerals-sodium
-"Zinc, Zn", mg,309, minerals-zinc
-"Alcohol, ethyl", g,221, other-alcohol
-Water, g,255, other-water
-Protein, g,203, protein-total
-"Choline, total", mg,421, vitamins-choline
-"Folate, DFE", µg,435, vitamins-folate
-Niacin, mg,406, vitamins-niacin
-Pantothenic acid, mg,410, vitamins-pantothenic_acid
-Riboflavin, mg,405, vitamins-riboflavin
-Thiamin, mg,404, vitamins-thiamin
-"Vitamin A, RAE", µg,320, vitamins-vitamin_a
-Vitamin B-12, µg,418, vitamins-vitamin_b12
-Vitamin B-6, mg,415, vitamins-vitamin_b6
-"Vitamin C, total (Ascorbic Acid)", mg,401, vitamins-vitamin_c
-Vitamin D (D2 + D3), µg,328, vitamins-vitamin_d
-Vitamin E (Alpha-Tocopherol), mg,323, vitamins-vitamin_e
-Vitamin K (Phylloquinone), µg,430, vitamins-vitamin_k
+"Carbohydrates, By Difference (g)", g,205, carbohydrates-carbs_by_diff
+"Carbohydrates, Fiber (g)", g,291, carbohydrates-fiber
+"Energy, Gross (kcal)",kcal,208,energy-gross
+"Fats, Cholesterol (mg)", mg,601, fats-cholesterol
+"Fats, Docosahexaenoic Acid, DHA, 22:6 n-3 (g)", g,621, fats-dha
+"Fats, Eicosapentaenoic Acid, EPA, 20:5 n-3 (g)", g,629, fats-epa
+"Fats, Lauric Acid, 12:0 (g)", g, 611, fats-lauric
+"Fats, Linoleic Acid, LA, 18:2 n-6 (g)", g,618, fats-linoleic
+"Fats, α-Linolenic Acid, ALA, 18:3 n-3 (g)", g,619, fats-linolenic
+"Fats, Monounsaturated Fat, MUFA (g)", g,645, fats-monounsaturated
+"Fats, Myristic Acid, 14:0 (g)", g, 612, fats-myristic
+"Fats, Palmitic Acid, 16:0 (g)", g, 613, fats-palmitic
+"Fats, Polyunsaturated Fat, PUFA (g)", g,646, fats-polyunsaturated
+"Fats, Saturated Fat, SFA (g)", g,606, fats-saturated
+"Fats, Stearic Acid, 18:0 (g)", g, 614, fats-stearic
+"Fats, Total Fat (g)", g,204, fats-total
+"Minerals, Calcium (mg)", mg,301, minerals-calcium
+"Minerals, Copper (mg)", mg,312, minerals-copper
+"Minerals, Iron (mg)", mg,303, minerals-iron
+"Minerals, Magnesium (mg)", mg,304, minerals-magnesium
+"Minerals, Manganese (mg)", mg,315, minerals-manganese
+"Minerals, Phosphorus (mg)", mg,305, minerals-phosphorus
+"Minerals, Potassium (mg)", mg,306, minerals-potassium
+"Minerals, Selenium (µg)", µg,317, minerals-selenium
+"Minerals, Sodium (mg)", mg,307, minerals-sodium
+"Minerals, Zinc (mg)", mg,309, minerals-zinc
+"Other, Alcohol (g)", g,221, other-alcohol
+"Other, Water (g)", g,255, other-water
+"Protein, Total Protein (g)", g,203, protein-total
+"Vitamins, Choline (mg)", mg,421, vitamins-choline
+"Vitamins, Folate, DFE (µg)", µg,435, vitamins-folate
+"Vitamins, Niacin (mg)", mg,406, vitamins-niacin
+"Vitamins, Pantothenic Acid (mg)", mg,410, vitamins-pantothenic_acid
+"Vitamins, Riboflavin (mg)", mg,405, vitamins-riboflavin
+"Vitamins, Thiamin (mg)", mg,404, vitamins-thiamin
+"Vitamins, A, RAE (µg)", µg,320, vitamins-vitamin_a
+"Vitamins, B12 (µg)", µg,418, vitamins-vitamin_b12
+"Vitamins, B6 (mg)", mg,415, vitamins-vitamin_b6
+"Vitamins, C (mg)", mg,401, vitamins-vitamin_c
+"Vitamins, D (µg)", µg,328, vitamins-vitamin_d
+"Vitamins, E (mg)", mg,323, vitamins-vitamin_e
+"Vitamins, K (µg)", µg,430, vitamins-vitamin_k

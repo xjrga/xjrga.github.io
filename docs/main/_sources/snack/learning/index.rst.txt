@@ -39,4 +39,9 @@ Find out your daily:
 Activity #6
 -----------
 
-Compare different food items to see how much food (as in grams) 50g of protein is.
+Find out how much food you would have to eat to get 50g of protein. Compare different food items.
+
+Activity #7
+-----------
+
+Fix the chicken, rice and veggies mix so that it meets the daily recommended intake (DRI) requirements.

@@ -25,7 +25,7 @@ Nutrition Activities and Objectives
 * Drink a glass of water before every meal to keep you hydrated
 * Author uses Snack to make sure he is within budget (calories) and to make sure he get the essential nutrients
 * Author eats from a limited menu most of the time
-* Author eats six or seven equally sized meals per day from 4am to 10pm, a meal every 3 hrs.
+* Author eats six equally sized meals per day from 5am to 8pm, a meal every 3 hrs.
 * When hunger temporarily occurs, author ignores it until next meal
 * Always warm-up well before exercising to minimize injuries and avoid jerky movements
 

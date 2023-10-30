@@ -1,7 +1,7 @@
 Log
 ====
 
-There is a linear programming file that is created everytime a user solves the model and it is found on the log directory.
+There is a linear programming text file that is created in the log directory everytime a solution is found.
 
 * Delete files if not needed
 

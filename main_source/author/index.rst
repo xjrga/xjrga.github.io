@@ -9,9 +9,29 @@ The author's name is Jorge Rolando Garcia de Alba. Friends call him Jorge, Rolan
 Education
 ---------
 
-* B.Sc. in Food Engineering from ITESM
-* M.Sc. in Nutrition (Incomplete) from Texas A&M University
-* M.Sc. in Operations Management/ Life Cycle Engineering from Texas A&M University
-* M.Sc. in Management Information Systems from University of Arizona
+Professional Degrees
+~~~~~~~~~~~~~~~~~~~~
 
-Incomplete will be completed at a later time.
+* ITESM
+
+  - B.Sc. in Food Engineering
+  - MBA (Incomplete)
+
+* Texas A&M University
+
+  - M.Sc. in Nutrition (Incomplete)
+  - M.Sc. in Operations Management/ Life Cycle Engineering
+
+* University of Arizona
+
+  - M.Sc. in Management Information Systems
+
+Nutrition incomplete will be completed at a later time.
+
+Certificates
+~~~~~~~~~~~~
+
+* `Introduction to Nutrition <../../files/Nutrition_Course_Certificate_Introduction_to_Nutrition.pdf>`_ from *Unicef*
+* `Master Certificate Programming for Infant and Young Children <../../files/Master_Certificate_Programming_for_Infant_and_Young_Child_Feeding.pdf>`_ from *Unicef* and *Cornell University*
+
+

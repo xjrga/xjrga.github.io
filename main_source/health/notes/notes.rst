@@ -10,7 +10,7 @@ Suggestions
 Personal Notes
 --------------
 
-Author's original problem was overnutrition, an intake of calories that exceeded his expenditure, so over time, he became overweight and that brought complications like high blood pressure, high cholesterol, high triglycerides and low energy that in the long term could have led to cardiovascular disease. To solve the problem before it got out of hand, he had to increase his expenditure to exceed his intake, follow suggestions from health organizations, get the necessary essential nutrients from nutrient-dense food and wait for slowly appearing results. It is a process that takes years in either direction it goes.
+Author's original problem was overnutrition, an intake of calories that exceeded his expenditure, so over time, he became overweight and that brought complications like high blood pressure, high cholesterol, high triglycerides and low energy that in the long term could have led to cardiovascular disease. To solve the problem before it got out of hand, he had to lower his calorie intake, increase his expenditure, follow suggestions from health organizations, get the necessary essential nutrients from nutrient-dense food and wait for slowly appearing results. It is a process that takes years in either direction it goes.
 
 Nutrition Activities and Objectives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,7 +62,7 @@ Energy intake - calorie budget
 * An increase in activity level may trigger a hunger response
 * A lower glycemic index diet may cause less hunger
 * To keep daily calories equal, keep protein intake steady and exchange carbohydrates for fat and vice versa
-* Distribute your carbohydrates and protein evenly through out the day except after exercise when you may have to eat more
+* Distribute your carbohydrates and protein evenly through out the day except after exercise when you may have to eat a little extra
 
 Energy expenditure - exercise
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

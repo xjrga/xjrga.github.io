@@ -39,18 +39,31 @@ An Example File
 
 -----
 
-Solving Problem on a Different Solver
--------------------------------------
+Solving Problem on lpsolve, a Mixed Integer Linear Programming (MILP) Solver
+----------------------------------------------------------------------------
+
+For example, user could use the following command to solve problem in linux
+
+* lp_solve -S3 chicken_rice_and_veggies.lp
 
 .. figure:: images/snack_lpsolve.png
    :alt: Solving Problem on a Different Solver
    :align: center
 
-   An example of using another linear programming solver to find a solution
+   The chicken, rice and veggies mix problem on lpsolve for linux
 
+On windows, user can use lpsolve for windows
 
-For example, user could use the following command to solve problem.
+.. figure:: images/lpsolve_01.png
+   :alt: Solving Problem on a Different Solver
+   :align: center
 
-* lp_solve -S3 chicken_rice_and_veggies.lp
+   The chicken, rice and veggies mix problem on lpsolve for windows
 
+.. figure:: images/lpsolve_02.png
+   :alt: Solving Problem on a Different Solver
+   :align: center
 
+   The result of the chicken, rice and veggies mix problem on lpsolve for windows
+
+* `https://sourceforge.net/projects/lpsolve <https://sourceforge.net/projects/lpsolve>`_

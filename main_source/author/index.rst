@@ -34,4 +34,19 @@ Certificates
 * `Introduction to Nutrition <../../files/Nutrition_Course_Certificate_Introduction_to_Nutrition.pdf>`_ from *Unicef*
 * `Master Certificate Programming for Infant and Young Children <../../files/Master_Certificate_Programming_for_Infant_and_Young_Child_Feeding.pdf>`_ from *Unicef* and *Cornell University*
 
+Online
+~~~~~~
+* `Github <https://github.com/xjrga/>`_
+* `Github Gist <https://gist.github.com/xjrga>`_
+* `Author at Twitter, now X <https://twitter.com/JRGarciaDeAlba>`_
+* `Snack at Twitter, now X <https://twitter.com/snacksoftware>`_
+* `Snack at Google Groups <https://groups.google.com/g/snack_nutrition_software>`_
+* `Snack at Youtube <https://www.youtube.com/@SnackSoftware>`_
+* `Potatosql at Twitter, now X <https://twitter.com/potatosql>`_
+* `Potatosql at Google Groups <https://groups.google.com/g/potatosql>`_
+
+
+
+
+
 

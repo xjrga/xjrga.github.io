@@ -1,8 +1,9 @@
 Projects
 ========
 
-Snack: Learning Software for Nutrition
---------------------------------------
+Snack (Nutrition)
+-----------------
+
 .. index:: Snack
 
 .. figure:: snack/images/snack.png
@@ -40,8 +41,8 @@ Snack: Learning Software for Nutrition
 
 ----
 
-Potatosql: Learning Software for Database Design
-------------------------------------------------
+Potatosql (Database Design)
+---------------------------
 .. index:: Potatosql
 
 .. figure:: potatosql/images/potatosql.png
@@ -76,8 +77,8 @@ Potatosql: Learning Software for Database Design
 
 ----
 
-Other Software Projects
------------------------
+Other Software
+--------------
 .. index:: Other
 
 .. toctree::
@@ -89,14 +90,25 @@ Other Software Projects
 
 ----
 
-Wellness & Lifestyle Project
-----------------------------
+Wellness & Lifestyle
+--------------------
 .. index:: Wellness
 
 .. toctree::
    :maxdepth: 1
 
    See more<health/index>
+
+----
+
+Various
+-------
+.. index:: Various
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<various/index>
 
 ----
 

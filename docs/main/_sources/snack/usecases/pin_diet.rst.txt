@@ -1,24 +1,8 @@
 Pin Diet
 ========
 
-.. figure:: images/snack_mix_pin_02.png
+.. figure:: images/snack_mix_pin.gif
    :alt: mix pin
    :align: center
 
-   These are the nutrient constraints which will be converted to food nutrient constraints through pinning
-
------
-
-.. figure:: images/snack_mix_pin_01.png
-   :alt: mix pin
-   :align: center
-
-   Pinning a diet fixes you solution, results and quantities by converting all constraints to food nutrient constraints
-
------
-
-.. figure:: images/snack_mix_pin_03.png
-   :alt: mix pin
-   :align: center
-
-   These are the new food nutrient constraints.
+   These are the nutrient quantity constraints that will be converted to food quantity constraints through pinning. All constraints are converted to food quantity constraints.

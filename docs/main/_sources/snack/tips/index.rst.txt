@@ -22,15 +22,17 @@ Usage Tips
  * Start building your model slowly
  * Solve immediately after adding a new constraint
  * Fiber, complete protein and calories constraints are good ones to start with
+ * Try to use the fewest of constraints possible but use as many as you need
  * Snack will always give you the food combination that is lowest in calories
  * Snack may find the solution unfeasible
  * Create constraints based on recommended guidelines by health organizations
+ * The more constraints there are the pickier it gets
  * Watch out for constraints working against each other
  * When you get the solution unfeasible message try:
      - changing = for > or <
      - deleting constraints
      - adding extra food items
- * Any food item (diet or not) that has a nutritional label will work
+ * Any food item (healthy, organic or not) that has a nutritional label will work
  * Once in a while, a ratio constraint may seem to not have an effect but an additional "greater than one" nutrient constraint will enforce it.
  * Use a mix of equalities and inequalities to build your model.
  * Sometimes it may be necessary to flip the inequality on a constraint depending on how the model is setup

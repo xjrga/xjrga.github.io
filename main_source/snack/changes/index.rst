@@ -4,6 +4,8 @@ Changes
 +--------------------+---------------------+
 | Build              | Date                |
 +--------------------+---------------------+
+| `Build 1320`_      | Nov 18, 2023        |
++--------------------+---------------------+
 | `Build 1301`_      | Oct 30, 2023        |
 +--------------------+---------------------+
 | `Build 1300`_      | Oct 28, 2023        |
@@ -69,6 +71,13 @@ Changes
 
 ----
 
+.. _`Build 1320`:
+
+Build 1320 - Nov 18, 2023
+
+*  Update graphical user interface
+*  Add linear programming model file generation for glpk solver
+
 .. _`Build 1301`:
 
 Build 1301 - Oct 30, 2023
@@ -79,6 +88,7 @@ Build 1301 - Oct 30, 2023
 
 Build 1300 - Oct 28, 2023
 
+*  Add linear programming model file generation for lpsolve solver
 *  Add tracking for cholesterol raising saturated fatty acids (12:0, 14:0, 16:0) total
 *  Add essential fat ratio (la/ala)
 *  Add electrolyte ratio (k/na)

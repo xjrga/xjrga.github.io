@@ -1,7 +1,7 @@
 Snack Meal Mass
 ===============
 
-.. figure:: images/snack_meal_mass.png
+.. figure:: images/snack_mass_by_meal.png
    :alt: entity relationship diagram
    :align: center
 

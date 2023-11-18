@@ -1,7 +1,7 @@
 Snack Food Categories
 =====================
 
-.. figure:: images/snack_food_categories.png
+.. figure:: images/snack_food_category.png
    :alt: food categories view
    :align: center
 

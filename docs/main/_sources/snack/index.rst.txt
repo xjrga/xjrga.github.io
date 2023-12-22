@@ -163,7 +163,7 @@ Usage & Tips
 Additional Food Items
 ---------------------
 
-* `See more <../../foodsite/>`_
+* `See more <../../foodsite/index.html>`_
 
 ----
 

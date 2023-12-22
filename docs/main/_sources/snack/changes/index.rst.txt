@@ -4,6 +4,8 @@ Changes
 +--------------------+---------------------+
 | Build              | Date                |
 +--------------------+---------------------+
+| `Build 1330`_      | Dec 22, 2024        |
++--------------------+---------------------+
 | `Build 1320`_      | Nov 18, 2023        |
 +--------------------+---------------------+
 | `Build 1301`_      | Oct 30, 2023        |
@@ -71,12 +73,19 @@ Changes
 
 ----
 
+.. _`Build 1330`:
+
+Build 1330 - Dec 22, 2024
+
+*  Add GNU MathProg modeling language linear programming model file generation
+*  Remove undo feature
+
 .. _`Build 1320`:
 
 Build 1320 - Nov 18, 2023
 
 *  Update graphical user interface
-*  Add linear programming model file generation for glpk solver
+*  Add CPLEX LP format linear programming model file generation
 
 .. _`Build 1301`:
 

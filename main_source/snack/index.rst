@@ -175,3 +175,13 @@ Log
 
    See more<log/index.rst>
 
+----
+
+Next Generation
+---------------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<nextgen/index.rst>
+

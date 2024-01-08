@@ -1,5 +1,5 @@
 /*
- * sphinxdoc.css_t
+ * sphinxdoc.css
  * ~~~~~~~~~~~~~~~
  *
  * Sphinx stylesheet -- sphinxdoc theme.  Originally created by
@@ -15,8 +15,8 @@
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    font-family: 'Lato','Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
-        'Verdana', sans-serif;
+    /* font-family: 'Lato','Lucida Grande', 'Lucida Sans Unicode', 'Geneva','Verdana', sans-serif; */
+    font-family: 'Inconsolata';
     font-size: 15px;
     letter-spacing: -0.01em;
     line-height: 150%;
@@ -209,8 +209,8 @@ a.headerlink:hover {
 }
 
 cite, code, code {
-    font-family: 'Consolas', 'Deja Vu Sans Mono',
-        'Bitstream Vera Sans Mono', monospace;
+    /* font-family: 'Consolas', 'Deja Vu Sans Mono','Bitstream Vera Sans Mono', monospace; */
+    font-family: 'Inconsolata';
     font-size: 0.95em;
     letter-spacing: 0.01em;
 }
@@ -240,8 +240,8 @@ a code:hover {
 }
 
 pre {
-    font-family: 'Consolas', 'Deja Vu Sans Mono',
-        'Bitstream Vera Sans Mono', monospace;
+    /* font-family: 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace; */
+    font-family: 'Inconsolata';
     font-size: 0.95em;
     letter-spacing: 0.015em;
     line-height: 120%;
@@ -331,8 +331,8 @@ div.versioninfo {
 }
 
 .viewcode-back {
-    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
-        'Verdana', sans-serif;
+    /* font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva','Verdana', sans-serif; */
+    font-family: 'Inconsolata';
 }
 
 div.viewcode-block:target {

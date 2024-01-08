@@ -16,7 +16,7 @@
 
 body {
     /* font-family: 'Lato','Lucida Grande', 'Lucida Sans Unicode', 'Geneva','Verdana', sans-serif; */
-    font-family: 'Inconsolata';
+    font-family: 'Inconsolata, monospace';
     font-size: 15px;
     letter-spacing: -0.01em;
     line-height: 150%;
@@ -210,7 +210,7 @@ a.headerlink:hover {
 
 cite, code, code {
     /* font-family: 'Consolas', 'Deja Vu Sans Mono','Bitstream Vera Sans Mono', monospace; */
-    font-family: 'Inconsolata';
+    font-family: 'Inconsolata, monospace';
     font-size: 0.95em;
     letter-spacing: 0.01em;
 }
@@ -241,7 +241,7 @@ a code:hover {
 
 pre {
     /* font-family: 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace; */
-    font-family: 'Inconsolata';
+    font-family: 'Inconsolata, monospace';
     font-size: 0.95em;
     letter-spacing: 0.015em;
     line-height: 120%;
@@ -332,7 +332,7 @@ div.versioninfo {
 
 .viewcode-back {
     /* font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva','Verdana', sans-serif; */
-    font-family: 'Inconsolata';
+    font-family: 'Inconsolata, monospace';
 }
 
 div.viewcode-block:target {

@@ -36,14 +36,12 @@ Certificates
 
 Online
 ~~~~~~
-* `Github <https://github.com/xjrga/>`_
-* `Github Gist <https://gist.github.com/xjrga>`_
 * `Author at Twitter, now X <https://twitter.com/JRGarciaDeAlba>`_
 * `Snack at Twitter, now X <https://twitter.com/snacksoftware>`_
-* `Snack at Google Groups <https://groups.google.com/g/snack_nutrition_software>`_
-* `Snack at Youtube <https://www.youtube.com/@SnackSoftware>`_
 * `Potatosql at Twitter, now X <https://twitter.com/potatosql>`_
-* `Potatosql at Google Groups <https://groups.google.com/g/potatosql>`_
+* `Github <https://github.com/xjrga/>`_
+* `Github Gist <https://gist.github.com/xjrga>`_
+* `Snack at Youtube <https://www.youtube.com/@SnackSoftware>`_
 
 
 

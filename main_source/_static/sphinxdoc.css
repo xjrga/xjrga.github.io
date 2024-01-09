@@ -10,13 +10,13 @@
  *
  */
 
+/* @import "https://fonts.googleapis.com/css?family=Courier"; */
 @import url("basic.css");
 
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    /* font-family: 'Lato','Lucida Grande', 'Lucida Sans Unicode', 'Geneva','Verdana', sans-serif; */
-    font-family: 'Inconsolata, monospace';
+    font-family:Verdana, Helvetica, Arial, sans-serif;
     font-size: 15px;
     letter-spacing: -0.01em;
     line-height: 150%;
@@ -209,8 +209,7 @@ a.headerlink:hover {
 }
 
 cite, code, code {
-    /* font-family: 'Consolas', 'Deja Vu Sans Mono','Bitstream Vera Sans Mono', monospace; */
-    font-family: 'Inconsolata, monospace';
+    font-family:Verdana, Helvetica, Arial, sans-serif;
     font-size: 0.95em;
     letter-spacing: 0.01em;
 }
@@ -240,8 +239,7 @@ a code:hover {
 }
 
 pre {
-    /* font-family: 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace; */
-    font-family: 'Inconsolata, monospace';
+    font-family:Verdana, Helvetica, Arial, sans-serif;
     font-size: 0.95em;
     letter-spacing: 0.015em;
     line-height: 120%;
@@ -331,8 +329,8 @@ div.versioninfo {
 }
 
 .viewcode-back {
-    /* font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva','Verdana', sans-serif; */
-    font-family: 'Inconsolata, monospace';
+    font-family:Verdana, Helvetica, Arial, sans-serif;
+    
 }
 
 div.viewcode-block:target {

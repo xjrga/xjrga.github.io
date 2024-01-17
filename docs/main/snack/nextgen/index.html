@@ -7,7 +7,7 @@
 
     <title>Next Generation Snack Nutrition Software &#8212; Project  documentation</title>
     <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=b849a4e9" />
-    <link rel="stylesheet" type="text/css" href="../../_static/sphinxdoc.css?v=cc133581" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinxdoc.css?v=14b14ff3" />
     <script src="../../_static/documentation_options.js?v=5929fcd5"></script>
     <script src="../../_static/doctools.js?v=888ff710"></script>
     <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
@@ -47,14 +47,15 @@
 <p><strong>2 ) We need to design a user friendly graphical user interface that provides access to all of the model’s power</strong>.</p>
 <p>An Example File</p>
 <ul class="simple">
-<li><p><a class="reference external" href="../../../files/other/snack_nextgen_glpk.md.txt">Chicken, Rice and Veggies in GNU MathProg modeling language</a></p></li>
-<li><p><a class="reference external" href="../../../files/other/snack_nextgen_summary_report.txt">Summary Report</a></p></li>
-<li><p><a class="reference external" href="../../../files/other/snack_nextgen_glpk.md.sol.txt">Solution</a></p></li>
+<li><p><a class="reference external" href="../../../files/other/snack_glpk.mod.txt">Chicken, Rice and Veggies Model in GNU MathProg</a></p></li>
+<li><p><a class="reference external" href="../../../files/other/snack_glpk.dat.txt">Chicken, Rice and Veggies Data in GNU MathProg</a></p></li>
+<li><p><a class="reference external" href="../../../files/other/output.txt">Summary Report</a></p></li>
+<li><p><a class="reference external" href="../../../files/other/snack_glpk.mod.sol.txt">Solution</a></p></li>
 </ul>
 <p>For best viewing experience of summary report set “wrap long lines” to off on your favorite text editor.</p>
 <p>Solve problem with the following command on linux.</p>
 <ul class="simple">
-<li><p>glpsol –math snack_nextgen_glpk.md -o snack_glpk_nextgen.md.sol</p></li>
+<li><p>glpsol - -math snack_glpk.mod - -data snack_glpk.dat -o snack_glpk.mod.sol</p></li>
 </ul>
 </section>
 

@@ -16,7 +16,11 @@
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    font-family:Verdana, Helvetica, Arial, sans-serif;
+    font-family:Helvetica, Arial, Verdana, sans-serif;
+    /* font-family:Helvetica; */
+    /* font-family:Arial; */
+    /* font-family:Verdana; */
+    /* font-family:sans-serif; */
     font-size: 15px;
     letter-spacing: -0.01em;
     line-height: 150%;
@@ -209,7 +213,6 @@ a.headerlink:hover {
 }
 
 cite, code, code {
-    font-family:Verdana, Helvetica, Arial, sans-serif;
     font-size: 0.95em;
     letter-spacing: 0.01em;
 }
@@ -239,7 +242,6 @@ a code:hover {
 }
 
 pre {
-    font-family:Verdana, Helvetica, Arial, sans-serif;
     font-size: 0.95em;
     letter-spacing: 0.015em;
     line-height: 120%;
@@ -329,8 +331,7 @@ div.versioninfo {
 }
 
 .viewcode-back {
-    font-family:Verdana, Helvetica, Arial, sans-serif;
-    
+
 }
 
 div.viewcode-block:target {

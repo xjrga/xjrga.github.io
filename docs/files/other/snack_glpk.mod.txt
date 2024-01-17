@@ -1,0 +1,703 @@
+/*
+ Problem:  Chicken, Rice and Veggies Diet Example for Next Generation Snack: Learning Software For Nutrition
+*/
+
+/* Food Fact Coefficient, c[food,nutrient] */
+param c{food in {1,2,3,4,5},nutrient in {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54}};
+
+/* Constraint Id */
+param b{constraint in {1,2,3}};
+
+/*  Amount of Food in Each Meal, x[food,meal] */
+var x{food in {1,2,3,4,5}, meal in {1,2,3}} >= 0;
+
+/* Minimize Calories */
+minimize z: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1,2,3}} c[food,nutrient] * x[food,meal];
+
+/* Protein, Complete Protein (g) = 100.0 */
+s.t. req01: sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,2] * x[food,meal] = 100;
+
+/* All meals provide same amount of complete protein */
+s.t. req01a: sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;
+s.t. req01b: sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {3}} c[food,nutrient] * x[food,meal] = 0;
+
+/* Energy, Digestible (kcal) = 2000.0 */
+s.t. req02: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 2000;
+
+/* All meals provide same amount of digestible energy */
+s.t. req02a: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;
+s.t. req02b: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {3}} c[food,nutrient] * x[food,meal] = 0;
+
+/* Carbohydrates, Fiber (g) = 40.0 */
+s.t. req03: sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 40;
+
+/* All meals provide same amount of fiber */
+s.t. req03a: sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;
+s.t. req03b: sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {3}} c[food,nutrient] * x[food,meal] = 0;
+
+/* Fish must be equal to 300 */
+/* s.t. req04: sum{food in {3}, nutrient in {1}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 300; */
+
+/*  All meals provide same amount of fish  */
+s.t. req04a: sum{food in {3}, nutrient in {1}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {3}, nutrient in {1}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;
+s.t. req04b: sum{food in {3}, nutrient in {1}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {3}, nutrient in {1}, meal in {3}} c[food,nutrient] * x[food,meal] = 0;
+
+/* These food items must be in a 1:1 ratio */
+s.t. req05: 1.0 * sum{food in {1}, nutrient in {1}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] - 1.0 * sum{food in {3}, nutrient in {1}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 0;
+
+solve;
+
+/*
+Param C column:
+  1) Other, Weight (g)
+  2) Protein, Complete Protein (g)
+  3) Carbohydrates, Digestible (g)
+  4) Other, Cost (g)
+  5) Carbohydrates, Glycemic Load (g)
+  6) Energy, Digestible (kcal)
+  7) Energy, Fat and Carbohydrate (kcal)
+  8) Energy, Carbohydrate (kcal)
+  9) Energy, Protein (kcal)
+ 10) Energy, Fat (kcal)
+ 11) Energy, Alcohol (kcal)
+ 12) Fats, Hypercholesterolemic Fat (g)
+ 13) Protein, Total Protein (g)
+ 14) Fats, Total Fat (g)
+ 15) Carbohydrates, By Difference (g)
+ 16) Energy, Gross (kcal)
+ 17) Other, Alcohol (g)
+ 18) Other, Water (g)
+ 19) Carbohydrates, Fiber (g)
+ 20) Minerals, Calcium (mg)
+ 21) Minerals, Iron (mg)
+ 22) Minerals, Magnesium (mg)
+ 23) Minerals, Phosphorus (mg)
+ 24) Minerals, Potassium (mg)
+ 25) Minerals, Sodium (mg)
+ 26) Minerals, Zinc (mg)
+ 27) Minerals, Copper (mg)
+ 28) Minerals, Manganese (mg)
+ 29) Minerals, Selenium (µg)
+ 30) Vitamins, A, RAE (µg)
+ 31) Vitamins, E (mg)
+ 32) Vitamins, D (µg)
+ 33) Vitamins, C (mg)
+ 34) Vitamins, Thiamin (mg)
+ 35) Vitamins, Riboflavin (mg)
+ 36) Vitamins, Niacin (mg)
+ 37) Vitamins, Pantothenic Acid (mg)
+ 38) Vitamins, B6 (mg)
+ 39) Vitamins, B12 (µg)
+ 40) Vitamins, Choline (mg)
+ 41) Vitamins, K (µg)
+ 42) Vitamins, Folate, DFE (µg)
+ 43) Fats, Cholesterol (mg)
+ 44) Fats, Saturated Fat, SFA (g)
+ 45) Fats, Lauric Acid, 12:0 (g)
+ 46) Fats, Myristic Acid, 14:0 (g)
+ 47) Fats, Palmitic Acid, 16:0 (g)
+ 48) Fats, Stearic Acid, 18:0 (g)
+ 49) Fats, Linoleic Acid, LA, 18:2 n-6 (g)
+ 50) Fats, Alpha-linolenic Acid, ALA, 18:3 n-3 (g)
+ 51) Fats, Docosahexaenoic Acid, DHA, 22:6 n-3 (g)
+ 52) Fats, Eicosapentaenoic Acid, EPA, 20:5 n-3 (g)
+ 53) Fats, Monounsaturated Fat, MUFA (g)
+ 54) Fats, Polyunsaturated Fat, PUFA (g)
+
+Param A row:
+ 1) Chicken, broilers or fryers, breast, meat only, cooked, roasted
+ 2) Broccoli, cooked, boiled, drained, without salt
+ 3) Fish, tilapia, cooked, dry heat
+ 4) Oats
+ 5) Rice, brown, medium-grain, cooked
+*/
+
+param file, symbolic := "output.txt";
+
+/* Nutrient by meal by food */
+printf "Nutrient by meal by food:\n\n" > file;
+printf "%13s","" >> file;
+printf "%0s%22s","","Weight (g)" >> file;
+printf "%0s%22s","","CompleteProt (g)" >> file;
+printf "%0s%22s","","CarbsDigest (g)" >> file;
+printf "%0s%22s","","Cost (g)" >> file;
+printf "%0s%22s","","Glycemic Load (g)" >> file;
+printf "%0s%22s","","eDigestible (kcal)" >> file;
+printf "%0s%22s","","eFat&eCarbs (kcal)" >> file;
+printf "%0s%22s","","eCarbohydrate (kcal)" >> file;
+printf "%0s%22s","","eProtein (kcal)" >> file;
+printf "%0s%22s","","eFat (kcal)" >> file;
+printf "%0s%22s","","eAlcohol (kcal)" >> file;
+printf "%0s%22s","","HCSFA (g)" >> file;
+printf "%0s%22s","","Protein (g)" >> file;
+printf "%0s%22s","","Fat (g)" >> file;
+printf "%0s%22s","","CarbsByDiff (g)" >> file;
+printf "%0s%22s","","eGross (kcal)" >> file;
+printf "%0s%22s","","Alcohol (g)" >> file;
+printf "%0s%22s","","Water (g)" >> file;
+printf "%0s%22s","","Fiber (g)" >> file;
+printf "%0s%22s","","Calcium (mg)" >> file;
+printf "%0s%22s","","Iron (mg)" >> file;
+printf "%0s%22s","","Magnesium (mg)" >> file;
+printf "%0s%22s","","Phosphorus (mg)" >> file;
+printf "%0s%22s","","Potassium (mg)" >> file;
+printf "%0s%22s","","Sodium (mg)" >> file;
+printf "%0s%22s","","Zinc (mg)" >> file;
+printf "%0s%22s","","Copper (mg)" >> file;
+printf "%0s%22s","","Manganese (mg)" >> file;
+printf "%0s%23s","","Selenium (µg)" >> file;
+printf "%0s%23s","","VitA, RAE (µg)" >> file;
+printf "%0s%22s","","VitE (mg)" >> file;
+printf "%0s%23s","","VitD (µg)" >> file;
+printf "%0s%22s","","VitC (mg)" >> file;
+printf "%0s%22s","","Thiamin (mg)" >> file;
+printf "%0s%22s","","Riboflavin (mg)" >> file;
+printf "%0s%22s","","Niacin (mg)" >> file;
+printf "%0s%22s","","Pantothenic Acid (mg)" >> file;
+printf "%0s%22s","","VitB6 (mg)" >> file;
+printf "%0s%23s","","VitB12 (µg)" >> file;
+printf "%0s%22s","","Choline (mg)" >> file;
+printf "%0s%23s","","VitK (µg)" >> file;
+printf "%0s%23s","","Folate, DFE (µg)" >> file;
+printf "%0s%22s","","Cholesterol (mg)" >> file;
+printf "%0s%22s","","SFA (g)" >> file;
+printf "%0s%22s","","Lauric (g)" >> file;
+printf "%0s%22s","","Myristic (g)" >> file;
+printf "%0s%22s","","Palmitic (g)" >> file;
+printf "%0s%22s","","Stearic (g)" >> file;
+printf "%0s%22s","","LA (g)" >> file;
+printf "%0s%22s","","ALA (g)" >> file;
+printf "%0s%22s","","DHA (g)" >> file;
+printf "%0s%22s","","EPA (g)" >> file;
+printf "%0s%22s","","MUFA (g)" >> file;
+printf "%0s%22s","","PUFA (g)" >> file;
+printf "\n" >> file;
+for {meal in {1,2,3}} {
+ for {food in {1,2,3,4,5}} {
+ printf "%6s %6s", "meal "&meal, "food "&food >> file;
+ printf "%0s%22.5f", "", c[food,1] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,2] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,3] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,4] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,5] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,6] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,7] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,8] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,9] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,10] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,11] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,12] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,13] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,14] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,15] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,16] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,17] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,18] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,19] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,20] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,21] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,22] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,23] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,24] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,25] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,26] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,27] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,28] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,29] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,30] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,31] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,32] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,33] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,34] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,35] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,36] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,37] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,38] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,39] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,40] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,41] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,42] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,43] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,44] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,45] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,46] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,47] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,48] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,49] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,50] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,51] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,52] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,53] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,54] * x[food,meal] >> file;
+ printf "\n" >> file;
+ }
+}
+ printf "%13s", "Total" >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,1] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,2] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,3] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,4] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,5] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,6] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,7] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,8] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,9] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,10] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,11] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,12] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,13] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,14] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,15] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,16] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,17] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,18] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,19] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,20] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,21] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,22] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,23] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,24] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,25] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,26] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,27] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,28] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,29] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,30] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,31] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,32] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,33] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,34] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,35] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,36] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,37] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,38] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,39] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,40] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,41] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,42] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,43] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,44] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,45] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,46] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,47] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,48] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,49] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,50] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,51] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,52] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,53] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,54] * x[food,meal] >> file;
+ printf "\n\n" >> file;
+
+ /* Nutrient by meal */
+ printf "Nutrient by meal:\n\n" >> file;
+ /* Meals */
+ for {meal in {1,2,3}} {
+   printf "%-13s", "meal "&meal >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,1] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,2] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,3] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,4] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,5] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,6] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,7] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,8] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,9] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,10] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,11] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,12] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,13] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,14] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,15] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,16] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,17] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,18] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,19] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,20] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,21] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,22] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,23] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,24] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,25] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,26] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,27] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,28] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,29] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,30] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,31] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,32] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,33] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,34] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,35] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,36] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,37] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,38] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,39] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,40] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,41] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,42] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,43] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,44] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,45] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,46] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,47] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,48] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,49] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,50] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,51] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,52] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,53] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}} c[food,54] * x[food,meal] >> file;
+   printf "\n" >> file;
+ }
+ /* Meal totals */
+ printf "%13s", "Total" >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,1] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,2] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,3] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,4] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,5] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,6] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,7] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,8] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,9] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,10] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,11] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,12] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,13] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,14] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,15] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,16] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,17] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,18] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,19] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,20] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,21] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,22] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,23] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,24] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,25] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,26] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,27] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,28] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,29] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,30] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,31] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,32] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,33] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,34] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,35] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,36] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,37] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,38] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,39] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,40] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,41] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,42] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,43] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,44] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,45] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,46] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,47] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,48] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,49] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,50] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,51] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,52] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,53] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,54] * x[food,meal] >> file;
+ printf "\n\n" >> file;
+
+/* Nutrient by food by meal */
+printf "Nutrient by food by meal:\n\n" >> file;
+printf "%13s","" >> file;
+printf "%0s%22s","","Weight (g)" >> file;
+printf "%0s%22s","","CompleteProt (g)" >> file;
+printf "%0s%22s","","CarbsDigest (g)" >> file;
+printf "%0s%22s","","Cost (g)" >> file;
+printf "%0s%22s","","Glycemic Load (g)" >> file;
+printf "%0s%22s","","eDigestible (kcal)" >> file;
+printf "%0s%22s","","eFat&eCarbs (kcal)" >> file;
+printf "%0s%22s","","eCarbohydrate (kcal)" >> file;
+printf "%0s%22s","","eProtein (kcal)" >> file;
+printf "%0s%22s","","eFat (kcal)" >> file;
+printf "%0s%22s","","eAlcohol (kcal)" >> file;
+printf "%0s%22s","","HCSFA (g)" >> file;
+printf "%0s%22s","","Protein (g)" >> file;
+printf "%0s%22s","","Fat (g)" >> file;
+printf "%0s%22s","","CarbsByDiff (g)" >> file;
+printf "%0s%22s","","eGross (kcal)" >> file;
+printf "%0s%22s","","Alcohol (g)" >> file;
+printf "%0s%22s","","Water (g)" >> file;
+printf "%0s%22s","","Fiber (g)" >> file;
+printf "%0s%22s","","Calcium (mg)" >> file;
+printf "%0s%22s","","Iron (mg)" >> file;
+printf "%0s%22s","","Magnesium (mg)" >> file;
+printf "%0s%22s","","Phosphorus (mg)" >> file;
+printf "%0s%22s","","Potassium (mg)" >> file;
+printf "%0s%22s","","Sodium (mg)" >> file;
+printf "%0s%22s","","Zinc (mg)" >> file;
+printf "%0s%22s","","Copper (mg)" >> file;
+printf "%0s%22s","","Manganese (mg)" >> file;
+printf "%0s%23s","","Selenium (µg)" >> file;
+printf "%0s%23s","","VitA, RAE (µg)" >> file;
+printf "%0s%22s","","VitE (mg)" >> file;
+printf "%0s%23s","","VitD (µg)" >> file;
+printf "%0s%22s","","VitC (mg)" >> file;
+printf "%0s%22s","","Thiamin (mg)" >> file;
+printf "%0s%22s","","Riboflavin (mg)" >> file;
+printf "%0s%22s","","Niacin (mg)" >> file;
+printf "%0s%22s","","Pantothenic Acid (mg)" >> file;
+printf "%0s%22s","","VitB6 (mg)" >> file;
+printf "%0s%23s","","VitB12 (µg)" >> file;
+printf "%0s%22s","","Choline (mg)" >> file;
+printf "%0s%23s","","VitK (µg)" >> file;
+printf "%0s%23s","","Folate, DFE (µg)" >> file;
+printf "%0s%22s","","Cholesterol (mg)" >> file;
+printf "%0s%22s","","SFA (g)" >> file;
+printf "%0s%22s","","Lauric (g)" >> file;
+printf "%0s%22s","","Myristic (g)" >> file;
+printf "%0s%22s","","Palmitic (g)" >> file;
+printf "%0s%22s","","Stearic (g)" >> file;
+printf "%0s%22s","","LA (g)" >> file;
+printf "%0s%22s","","ALA (g)" >> file;
+printf "%0s%22s","","DHA (g)" >> file;
+printf "%0s%22s","","EPA (g)" >> file;
+printf "%0s%22s","","MUFA (g)" >> file;
+printf "%0s%22s","","PUFA (g)" >> file;
+printf "\n" >> file;
+for {food in {1,2,3,4,5}} {
+ for {meal in {1,2,3}} {
+ printf "%6s %6s", "food "&food, "meal "&meal  >> file;
+ printf "%0s%22.5f", "", c[food,1] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,2] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,3] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,4] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,5] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,6] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,7] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,8] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,9] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,10] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,11] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,12] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,13] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,14] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,15] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,16] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,17] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,18] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,19] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,20] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,21] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,22] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,23] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,24] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,25] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,26] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,27] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,28] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,29] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,30] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,31] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,32] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,33] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,34] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,35] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,36] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,37] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,38] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,39] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,40] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,41] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,42] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,43] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,44] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,45] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,46] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,47] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,48] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,49] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,50] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,51] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,52] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,53] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", c[food,54] * x[food,meal] >> file;
+ printf "\n" >> file;
+ }
+}
+ printf "%13s", "Total" >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,1] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,2] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,3] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,4] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,5] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,6] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,7] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,8] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,9] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,10] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,11] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,12] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,13] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,14] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,15] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,16] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,17] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,18] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,19] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,20] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,21] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,22] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,23] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,24] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,25] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,26] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,27] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,28] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,29] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,30] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,31] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,32] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,33] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,34] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,35] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,36] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,37] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,38] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,39] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,40] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,41] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,42] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,43] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,44] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,45] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,46] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,47] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,48] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,49] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,50] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,51] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,52] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,53] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,54] * x[food,meal] >> file;
+ printf "\n\n" >> file;
+
+/* Nutrient by food */
+printf "Nutrient by food:\n\n" >> file;
+for {food in {1,2,3,4,5}} {
+   printf "%-13s", "food "&food >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,1] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,2] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,3] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,4] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,5] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,6] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,7] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,8] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,9] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,10] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,11] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,12] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,13] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,14] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,15] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,16] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,17] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,18] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,19] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,20] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,21] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,22] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,23] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,24] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,25] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,26] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,27] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,28] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,29] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,30] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,31] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,32] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,33] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,34] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,35] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,36] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,37] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,38] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,39] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,40] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,41] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,42] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,43] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,44] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,45] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,46] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,47] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,48] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,49] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,50] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,51] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,52] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,53] * x[food,meal] >> file;
+   printf "%0s%22.5f", "", sum{meal in {1,2,3}} c[food,54] * x[food,meal] >> file;
+   printf "\n" >> file;
+ }
+/* Food totals */
+ printf "%13s", "Total" >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,1] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,2] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,3] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,4] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,5] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,6] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,7] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,8] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,9] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,10] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,11] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,12] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,13] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,14] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,15] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,16] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,17] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,18] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,19] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,20] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,21] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,22] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,23] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,24] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,25] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,26] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,27] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,28] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,29] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,30] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,31] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,32] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,33] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,34] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,35] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,36] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,37] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,38] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,39] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,40] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,41] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,42] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,43] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,44] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,45] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,46] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,47] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,48] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,49] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,50] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,51] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,52] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,53] * x[food,meal] >> file;
+ printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,54] * x[food,meal] >> file;
+ printf "\n\n" >> file;
+

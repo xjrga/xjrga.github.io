@@ -15,7 +15,7 @@ var x{food in {1,2,3,4,5}, meal in {1,2,3}} >= 0;
 minimize z: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1,2,3}} c[food,nutrient] * x[food,meal];
 
 /* Protein, Complete Protein (g) = 100.0 */
-s.t. req01: sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,2] * x[food,meal] = 100;
+s.t. req01: sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 100;
 
 /* All meals provide same amount of complete protein */
 s.t. req01a: sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;

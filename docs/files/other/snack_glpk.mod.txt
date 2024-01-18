@@ -5,45 +5,39 @@
 /* Food Fact Coefficient, c[food,nutrient] */
 param c{food in {1,2,3,4,5},nutrient in {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54}};
 
-/* Constraint Id */
-param b{constraint in {1,2,3}};
-
 /*  Amount of Food in Each Meal, x[food,meal] */
 var x{food in {1,2,3,4,5}, meal in {1,2,3}} >= 0;
 
 /* Minimize Calories */
-minimize z: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1,2,3}} c[food,nutrient] * x[food,meal];
+minimize z: sum{food in {1,2,3,4,5}} sum{nutrient in {6}} c[food,nutrient] * sum{meal in {1,2,3}} x[food,meal];
 
-/* Protein, Complete Protein (g) = 100.0 */
-s.t. req01: sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 100;
+/* The sum of complete protein provided by all foods in all meals will give you 100 grams */
+s.t. req01: sum{food in {1,2,3,4,5}} sum{nutrient in {2}} c[food,nutrient] * sum{meal in {1,2,3}} x[food,meal] = 100;
 
 /* All meals provide same amount of complete protein */
-s.t. req01a: sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;
-s.t. req01b: sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {2}, meal in {3}} c[food,nutrient] * x[food,meal] = 0;
+s.t. req01a: sum{food in {1,2,3,4,5}} sum{nutrient in {2}} c[food,nutrient] * sum{meal in {1}} x[food,meal] - sum{food in {1,2,3,4,5}} sum{nutrient in {2}} c[food,nutrient] * sum{meal in {2}} x[food,meal] = 0;
+s.t. req01b: sum{food in {1,2,3,4,5}} sum{nutrient in {2}} c[food,nutrient] * sum{meal in {1}} x[food,meal] - sum{food in {1,2,3,4,5}} sum{nutrient in {2}} c[food,nutrient] * sum{meal in {3}} x[food,meal] = 0;
 
 /* Energy, Digestible (kcal) = 2000.0 */
-s.t. req02: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 2000;
+s.t. req02: sum{food in {1,2,3,4,5}} sum{nutrient in {6}} c[food,nutrient] * sum{meal in {1,2,3}} x[food,meal] = 2000;
 
 /* All meals provide same amount of digestible energy */
-s.t. req02a: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;
-s.t. req02b: sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {6}, meal in {3}} c[food,nutrient] * x[food,meal] = 0;
+s.t. req02a: sum{food in {1,2,3,4,5}} sum{nutrient in {6}} c[food,nutrient] * sum{meal in {1}} x[food,meal] - sum{food in {1,2,3,4,5}} sum{nutrient in {6}} c[food,nutrient] * sum{meal in {2}} x[food,meal] = 0;
+s.t. req02b: sum{food in {1,2,3,4,5}} sum{nutrient in {6}} c[food,nutrient] * sum{meal in {1}} x[food,meal] - sum{food in {1,2,3,4,5}} sum{nutrient in {6}} c[food,nutrient] * sum{meal in {3}} x[food,meal] = 0;
 
 /* Carbohydrates, Fiber (g) = 40.0 */
-s.t. req03: sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 40;
+s.t. req03: sum{food in {1,2,3,4,5}} sum{nutrient in {19}} c[food,nutrient] * sum{meal in {1,2,3}} x[food,meal] = 40;
 
 /* All meals provide same amount of fiber */
-s.t. req03a: sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;
-s.t. req03b: sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {1,2,3,4,5}, nutrient in {19}, meal in {3}} c[food,nutrient] * x[food,meal] = 0;
-
-/* Fish must be equal to 300 */
-/* s.t. req04: sum{food in {3}, nutrient in {1}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 300; */
+s.t. req03a: sum{food in {1,2,3,4,5}} sum{nutrient in {19}} c[food,nutrient] * sum{meal in {1}} x[food,meal] - sum{food in {1,2,3,4,5}} sum{nutrient in {19}} c[food,nutrient] * sum{meal in {2}} x[food,meal] = 0;
+s.t. req03b: sum{food in {1,2,3,4,5}} sum{nutrient in {19}} c[food,nutrient] * sum{meal in {1}} x[food,meal] - sum{food in {1,2,3,4,5}} sum{nutrient in {19}} c[food,nutrient] * sum{meal in {3}} x[food,meal] = 0;
 
 /*  All meals provide same amount of fish  */
-s.t. req04a: sum{food in {3}, nutrient in {1}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {3}, nutrient in {1}, meal in {2}} c[food,nutrient] * x[food,meal] = 0;
-s.t. req04b: sum{food in {3}, nutrient in {1}, meal in {1}} c[food,nutrient] * x[food,meal] - sum{food in {3}, nutrient in {1}, meal in {3}} c[food,nutrient] * x[food,meal] = 0;
+s.t. req04a: sum{food in {3}} sum{nutrient in {1}} c[food,nutrient] * sum{meal in {1}} x[food,meal] - sum{food in {3}} sum{nutrient in {1}} c[food,nutrient] * sum{meal in {2}} x[food,meal] = 0;
+s.t. req04b: sum{food in {3}} sum{nutrient in {1}} c[food,nutrient] * sum{meal in {1}} x[food,meal] - sum{food in {3}} sum{nutrient in {1}} c[food,nutrient] * sum{meal in {3}} x[food,meal] = 0;
 
 /* These food items must be in a 1:1 ratio */
-s.t. req05: 1.0 * sum{food in {1}, nutrient in {1}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] - 1.0 * sum{food in {3}, nutrient in {1}, meal in {1,2,3}} c[food,nutrient] * x[food,meal] = 0;
+s.t. req05: 1.0 * sum{food in {1}} sum{nutrient in {1}} c[food,nutrient] * sum{meal in {1,2,3}} x[food,meal] - 1.0 * sum{food in {3}} sum{nutrient in {1}} c[food,nutrient] * sum{meal in {1,2,3}} x[food,meal] = 0;
 
 solve;
 

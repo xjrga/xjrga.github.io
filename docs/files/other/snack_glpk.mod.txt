@@ -695,3 +695,4 @@ for {food in {1,2,3,4,5}} {
  printf "%0s%22.5f", "", sum{food in {1,2,3,4,5}, meal in {1,2,3}} c[food,54] * x[food,meal] >> file;
  printf "\n\n" >> file;
 
+ end;

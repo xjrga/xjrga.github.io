@@ -1,7 +1,7 @@
 Problem:    snack_glpk
-Rows:       13
-Columns:    15
-Non-zeros:  95
+Rows:       5
+Columns:    6
+Non-zeros:  20
 Status:     OPTIMAL
 Objective:  z = 2000 (MINimum)
 
@@ -9,52 +9,35 @@ Objective:  z = 2000 (MINimum)
 ------ ------------ -- ------------- ------------- ------------- -------------
      1 z            B           2000                             
      2 req01        NS           100           100             =         < eps
-     3 req01a       NS             0            -0             =         < eps
-     4 req01b       NS             0            -0             =         < eps
-     5 req02        NS          2000          2000             =             1 
-     6 req02a       NS             0            -0             =         < eps
-     7 req02b       NS             0            -0             =         < eps
-     8 req03        NS            40            40             =         < eps
-     9 req03a       NS             0            -0             =         < eps
-    10 req03b       NS             0            -0             =         < eps
-    11 req04a       NS             0            -0             =         < eps
-    12 req04b       NS             0            -0             =         < eps
-    13 req05        NS             0            -0             =         < eps
+     3 req02        NS          2000          2000             =             1 
+     4 req03        NS            40            40             =         < eps
+     5 req04        NS             0            -0             =         < eps
 
    No. Column name  St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
-     1 x[1,1]       B        58.3056             0               
-     2 x[1,2]       B        58.3056             0               
-     3 x[1,3]       B        58.3056             0               
-     4 x[2,1]       NL             0             0                       < eps
-     5 x[2,2]       B        185.852             0               
-     6 x[2,3]       B        185.852             0               
-     7 x[3,1]       B        58.3056             0               
-     8 x[3,2]       B        58.3056             0               
-     9 x[3,3]       B        58.3056             0               
-    10 x[4,1]       B        118.233             0               
-    11 x[4,2]       NL             0             0                       < eps
-    12 x[4,3]       NL             0             0                       < eps
-    13 x[5,1]       B        44.4815             0               
-    14 x[5,2]       B        400.012             0               
-    15 x[5,3]       B        400.012             0               
+     1 x[1,1]       B        161.186             0               
+     2 x[1,2]       B        161.186             0               
+     3 x[2,1]       B        561.039             0               
+     4 x[2,2]       NL             0             0                       < eps
+     5 x[3,1]       NL             0             0                       < eps
+     6 x[3,2]       B        1193.65             0               
 
 Karush-Kuhn-Tucker optimality conditions:
 
-KKT.PE: max.abs.err = 9.09e-13 on row 5
-        max.rel.err = 3.21e-16 on row 10
+KKT.PE: max.abs.err = 2.84e-14 on row 2
+        max.rel.err = 1.41e-16 on row 2
         High quality
 
 KKT.PB: max.abs.err = 0.00e+00 on row 0
         max.rel.err = 0.00e+00 on row 0
         High quality
 
-KKT.DE: max.abs.err = 4.44e-16 on column 11
-        max.rel.err = 7.15e-17 on column 13
+KKT.DE: max.abs.err = 2.22e-16 on column 6
+        max.rel.err = 7.15e-17 on column 6
         High quality
 
-KKT.DB: max.abs.err = 2.35e-16 on column 4
-        max.rel.err = 2.35e-16 on column 4
+KKT.DB: max.abs.err = 4.04e-17 on column 4
+        max.rel.err = 4.04e-17 on column 4
         High quality
 
 End of output

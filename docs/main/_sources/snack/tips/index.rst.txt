@@ -37,7 +37,6 @@ Usage Tips
  * Use a mix of equalities and inequalities to build your model.
  * Sometimes it may be necessary to flip the inequality on a constraint depending on how the model is setup
  * A 'Mix already exists' message means mixid already exists in database. Changing the mixid on data exchange document will make it a different mix.
- * If a model has not been solved, it can be undone using 'undo'. It will delete any modifications since previous solution.
  * Easily backup and share your favorite mixes and food data using the import and export functionality
 
 ----

@@ -1,4 +1,4 @@
-Problem:    snack_glpk
+Problem:    test
 Rows:       4
 Columns:    3
 Non-zeros:  9
@@ -20,7 +20,7 @@ Objective:  z = 2000 (MINimum)
 
 Karush-Kuhn-Tucker optimality conditions:
 
-KKT.PE: max.abs.err = 2.27e-13 on row 3
+KKT.PE: max.abs.err = 1.42e-14 on row 2
         max.rel.err = 7.07e-17 on row 2
         High quality
 

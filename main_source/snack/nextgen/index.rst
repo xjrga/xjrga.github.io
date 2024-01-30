@@ -1,7 +1,7 @@
 Snack Nutrition Software - Next Generation 
 ==========================================
 
-The next generation Snack Nutrition Software will based on this new expanded linear programming model. This model uses an extra variable called meals.
+The next generation Snack Nutrition Software will based on a new expanded linear programming model. This model uses an extra variable called meals.
 
 ----
 

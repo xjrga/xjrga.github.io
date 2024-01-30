@@ -41,6 +41,11 @@ s.t. req02: sum{food in 1..FOODS} sum{nutrient in {6}} c[food,nutrient] * sum{me
 /*  3) Carbohydrates, Fiber (g) = 40.0 */
 s.t. req03: sum{food in 1..FOODS} sum{nutrient in {19}} c[food,nutrient] * sum{meal in 1..MEALS} x[food,meal] = 40.0;
 
+/*  4) All meals contain equal protein */
+s.t. req_a_{meal in 1..MEALS}: (MEALS * (sum{food in 1..FOODS} sum{nutrient in {2}} c[food,nutrient] * x[food,meal])) - 
+(sum{food in 1..FOODS} sum{nutrient in {2}} c[food,nutrient] *  sum{comida in 1..MEALS} x[food,comida]) = 0;
+
+
 solve;
 
 /* Mix Nutrition Report */
@@ -489,6 +494,7 @@ for {meal in 1..MEALS} {
 }
 
 /* Table Data - Nutrient by Meal Total */
+printf "\n" >> file;
 printf "%13s", "" >> file;
 for {nutrient in 1..NUTRIENTS} {
   printf "%22s", "----------" >> file;
@@ -498,7 +504,7 @@ printf "%13s", "Total" >> file;
 for {nutrient in 1..NUTRIENTS} {
   printf "%0s%22.5f", "", sum{food in 1..FOODS, meal in 1..MEALS} c[food,nutrient] * x[food,meal] >> file;
 }
-printf "\n\n" >> file;
+printf "\n\n\n" >> file;
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
@@ -515,6 +521,7 @@ for {food in 1..FOODS} {
 }
 
 /* Table Data - Nutrient by Food Total */
+printf "\n" >> file;
 printf "%13s", "" >> file;
 for {nutrient in 1..NUTRIENTS} {
   printf "%22s", "----------" >> file;
@@ -524,7 +531,7 @@ printf "%13s", "Total" >> file;
 for {nutrient in 1..NUTRIENTS} {
   printf "%0s%22.5f", "", sum{food in 1..FOODS, meal in 1..MEALS} c[food,nutrient] * x[food,meal] >> file;
 }
-printf "\n\n" >> file;
+printf "\n\n\n" >> file;
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
@@ -534,12 +541,13 @@ printf "Nutrient by meal by food:\n\n" >> file;
 /* Table Data - Nutrient by Meal by Food */
 for {meal in 1..MEALS} {
   for {food in 1..FOODS} {
-  printf "%6s %6s", "meal "&meal, "food "&food >> file;
+  	printf "%6s %6s", "meal "&meal, "food "&food >> file;
     for {nutrient in 1..NUTRIENTS} {
     printf "%0s%22.5f", "", c[food,nutrient] * x[food,meal] >> file;
     }
-  printf "\n" >> file;
+    printf "\n" >> file;
   }
+  printf "\n" >> file;
 }
 
 /* Table Data - Nutrient by Meal by Food Total */
@@ -553,7 +561,7 @@ printf "%13s", "Total" >> file;
 for {nutrient in 1..NUTRIENTS} {
   printf "%0s%22.5f", "", sum{food in 1..FOODS, meal in 1..MEALS} c[food,nutrient] * x[food,meal] >> file;
 }
-printf "\n\n" >> file;
+printf "\n\n\n" >> file;
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
@@ -569,6 +577,7 @@ for {food in 1..FOODS} {
       }
     printf "\n" >> file;
   }
+printf "\n" >> file;  
 }
 
 /* Table Data - Nutrient by Food by Meal Total */
@@ -582,7 +591,7 @@ printf "%13s", "Total" >> file;
 for {nutrient in 1..NUTRIENTS} {
   printf "%0s%22.5f", "", sum{food in 1..FOODS, meal in 1..MEALS} c[food,nutrient] * x[food,meal] >> file;
 }
-printf "\n\n" >> file;
+printf "\n\n\n" >> file;
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 

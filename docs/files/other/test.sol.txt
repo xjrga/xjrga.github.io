@@ -1,5 +1,5 @@
 Problem:    test
-Rows:       4
+Rows:       5
 Columns:    3
 Non-zeros:  9
 Status:     OPTIMAL
@@ -11,6 +11,7 @@ Objective:  z = 2000 (MINimum)
      2 req01        NS           100           100             =         < eps
      3 req02        NS          2000          2000             =             1 
      4 req03        NS            40            40             =         < eps
+     5 req_a_[1]    B              0            -0             = 
 
    No. Column name  St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------

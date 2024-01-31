@@ -1,6 +1,6 @@
 /*
  Problem:  Chicken, rice and veggies
-    Date:  Friday, January 26, 2024 at 15:51:43
+    Date:  Friday, January 31, 2024
   Author:  Jorge R. Garcia de Alba
 */
 
@@ -41,10 +41,21 @@ s.t. req02: sum{food in 1..FOODS} sum{nutrient in {6}} c[food,nutrient] * sum{me
 /*  3) Carbohydrates, Fiber (g) = 40.0 */
 s.t. req03: sum{food in 1..FOODS} sum{nutrient in {19}} c[food,nutrient] * sum{meal in 1..MEALS} x[food,meal] = 40.0;
 
-/*  4) All meals contain equal protein */
-s.t. req_a_{meal in 1..MEALS}: (MEALS * (sum{food in 1..FOODS} sum{nutrient in {2}} c[food,nutrient] * x[food,meal])) - 
+/*  4) All meals provide same amount of protein */
+s.t. cProtein{meal in 1..MEALS}: (MEALS * (sum{food in 1..FOODS} sum{nutrient in {2}} c[food,nutrient] * x[food,meal])) - 
 (sum{food in 1..FOODS} sum{nutrient in {2}} c[food,nutrient] *  sum{comida in 1..MEALS} x[food,comida]) = 0;
 
+/*  5) All meals provide same amount of chicken  */
+s.t. cChicken{meal in 1..MEALS}: (MEALS * (sum{food in {1}} sum{nutrient in {1}} c[food,nutrient] * x[food,meal])) - 
+(sum{food in {1}} sum{nutrient in {1}} c[food,nutrient] *  sum{comida in 1..MEALS} x[food,comida]) = 0;
+
+/*  6) All meals provide same amount of broccoli  */
+s.t. cBroccoli{meal in 1..MEALS}: (MEALS * (sum{food in {2}} sum{nutrient in {1}} c[food,nutrient] * x[food,meal])) - 
+(sum{food in {2}} sum{nutrient in {1}} c[food,nutrient] *  sum{comida in 1..MEALS} x[food,comida]) = 0;
+
+/*  7) All meals provide same amount of rice  */
+s.t. cRice{meal in 1..MEALS}: (MEALS * (sum{food in {3}} sum{nutrient in {1}} c[food,nutrient] * x[food,meal])) - 
+(sum{food in {3}} sum{nutrient in {1}} c[food,nutrient] *  sum{comida in 1..MEALS} x[food,comida]) = 0;
 
 solve;
 
@@ -592,6 +603,10 @@ for {nutrient in 1..NUTRIENTS} {
   printf "%0s%22.5f", "", sum{food in 1..FOODS, meal in 1..MEALS} c[food,nutrient] * x[food,meal] >> file;
 }
 printf "\n\n\n" >> file;
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+table result{food in 1..FOODS, nutrient in 1..NUTRIENTS, meal in 1..MEALS} OUT "CSV" "test.csv": food~FOOD, nutrient~NUTRIENT, meal~MEAL,  c[food,nutrient] * x[food,meal]~Q;
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 

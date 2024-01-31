@@ -21,8 +21,9 @@ This is an example that any user can run on their computers to get a better unde
 To run the example, a software called GLPK must be installed on the system. GLPK is a solver for large scale linear programming (LP) and mixed integer programming (MIP). GLPK understands the GMLP (MathProg) language which is what the example is written in.
 
 *  `Chicken, Rice and Veggies Model in GNU MathProg <../../../files/other/test.mod.txt>`_
-*  `Summary Report <../../../files/other/test.txt>`_
 *  `Solution <../../../files/other/test.sol.txt>`_
+*  `Report <../../../files/other/test.txt>`_
+*  `Report Data <../../../files/other/test.csv.txt>`_
 
 To solve the problem use the following command.
 

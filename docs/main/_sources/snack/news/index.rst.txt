@@ -5,6 +5,8 @@ Snack project receives open source license for `intellij ultimate <https://www.j
 
 Snack project receives open source license for ej-technologies `JProfiler <https://www.ej-technologies.com/products/jprofiler/overview.html>`_. (March 14, 2022)
 
+
+
 .. figure:: images/jprofiler.png
    :alt: jprofiler
    :align: center

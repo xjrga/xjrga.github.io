@@ -37,11 +37,13 @@ Certificates
 Online
 ~~~~~~
 * `Author at Twitter, now X <https://twitter.com/JRGarciaDeAlba>`_
+* `Author at Linkedin <https://www.linkedin.com/in/jrgarciadealba>`_
 * `Snack at Twitter, now X <https://twitter.com/snacksoftware>`_
 * `Potatosql at Twitter, now X <https://twitter.com/potatosql>`_
 * `Github <https://github.com/xjrga/>`_
 * `Github Gist <https://gist.github.com/xjrga>`_
 * `Snack at Youtube <https://www.youtube.com/@SnackSoftware>`_
+
 
 
 

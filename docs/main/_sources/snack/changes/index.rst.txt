@@ -4,6 +4,8 @@ Changes
 +--------------------+---------------------+
 | Build              | Date                |
 +--------------------+---------------------+
+| `Build 1350`_      | Mar 01, 2024        |
++--------------------+---------------------+
 | `Build 1340`_      | Feb 12, 2024        |
 +--------------------+---------------------+
 | `Build 1330`_      | Dec 22, 2024        |
@@ -74,6 +76,14 @@ Changes
 +--------------------+---------------------+
 
 ----
+
+.. _`Build 1350`:
+
+Build 1350 - Mar 01, 2024
+
+*  Fixed mix import bug
+*  Fixed mix combobox selection behavior after mix import
+*  Fixed mix/food import exception reporting
 
 .. _`Build 1340`:
 

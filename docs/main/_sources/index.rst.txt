@@ -12,7 +12,7 @@ Snack (Nutrition)
    :align: center
 
 +------------------+---------------------------------------------------------------+
-| Stable Release   |Feb 12, 2024                                                   |
+| Stable Release   |Mar 01, 2024                                                   |
 +------------------+---------------------------------------------------------------+
 | Repository       |https://github.com/xjrga/snack                                 |
 +------------------+---------------------------------------------------------------+
@@ -26,9 +26,9 @@ Snack (Nutrition)
 +------------------+---------------------------------------------------------------+
 | License          |gpl2                                                           |
 +------------------+---------------------------------------------------------------+
-| Download         |`snack-1340-app.zip <../releases/snack-1340-app.zip>`_         |
+| Download         |`snack-1350-app.zip <../releases/snack-1350-app.zip>`_         |
 +------------------+---------------------------------------------------------------+
-| Signature        |`snack-1340-app.zip.asc <../releases/snack-1340-app.zip.asc>`_ |
+| Signature        |`snack-1350-app.zip.asc <../releases/snack-1350-app.zip.asc>`_ |
 +------------------+---------------------------------------------------------------+
 
 
@@ -94,17 +94,6 @@ Wellness & Lifestyle
    :maxdepth: 1
 
    See more<health/index>
-
-----
-
-Various
--------
-.. index:: Various
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<various/index>
 
 ----
 

@@ -167,13 +167,13 @@ Additional Food Items
 
 ----
 
-Log
----
+Model
+-----
 
 .. toctree::
    :maxdepth: 1
 
-   See more<log/index.rst>
+   See more<model/index.rst>
 
 ----
 

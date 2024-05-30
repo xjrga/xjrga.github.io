@@ -47,7 +47,8 @@ templates_path = ['_templates']
 #html_theme = 'alabaster'
 #html_theme = 'classic'
 #html_theme = 'dask_sphinx_theme'
-html_theme = 'sphinxdoc'
+#html_theme = 'sphinxdoc'
+html_theme = 'haiku'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,

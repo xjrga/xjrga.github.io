@@ -1,4 +1,4 @@
-Projects x
+Projects
 ========
 
 Snack (Nutrition)

@@ -1,8 +1,18 @@
 Screenshots
 ===========
 
-Table Relationship
-------------------
+Tables
+------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<potatosql_table>
+
+----
+
+Relationships
+-------------
 
 .. toctree::
    :maxdepth: 1
@@ -11,8 +21,8 @@ Table Relationship
 
 ----
 
-Table Relationship Keys
------------------------
+Relationship Keys
+-----------------
 
 .. toctree::
    :maxdepth: 1
@@ -21,8 +31,8 @@ Table Relationship Keys
 
 ----
 
-Code Generation Options
------------------------
+Code Generation
+---------------
 
 .. toctree::
    :maxdepth: 1
@@ -31,20 +41,30 @@ Code Generation Options
 
 ----
 
-Sql Code Generation
--------------------
+Dot Code
+--------
 
 .. toctree::
    :maxdepth: 1
 
-   See more<potatosql_output>
+   See more<potatosql_dot>   
 
 ----
 
-Dot Code Generation
--------------------
+Sql Code
+--------
 
 .. toctree::
    :maxdepth: 1
 
-   See more<diagrams/index.rst>
+   See more<potatosql_sql>
+
+----
+
+Java Code
+---------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<potatosql_java>

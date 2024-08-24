@@ -1,8 +1,10 @@
-Table Relationship
-==================
+Potatosql - Creates entity relationships
+========================================
 
-.. figure:: images/relationship.png
-   :alt: entity relationship diagram
+.. figure:: ../images/screenshots/potatosql08.png
+   :alt: 
    :align: center
 
-   Dependency relationship is created between parent table and child table.
+   Potatosql creates new entity relationship
+
+   

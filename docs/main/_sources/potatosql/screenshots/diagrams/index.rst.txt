@@ -1,17 +1,7 @@
-Dot Code Generation
-===================
+Entity Relationship Diagrams Designed Using PotatoSql
+=====================================================
 
-Potatosql is able to generate dot code for `graphviz <https://graphviz.org/>`_ which will create a entity relationship diagram (ERD).
-
-----
-
-Definitions
------------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<definitions>
+Potatosql generates dot code that `graphviz <https://graphviz.org/>`_  uses to draw entity relationship diagrams (ERD).
 
 ----
 
@@ -85,15 +75,6 @@ Music
 
 ----
 
-Potatosql
----------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<potatosql>
-
-----
 
 Rolodex
 -------
@@ -141,3 +122,12 @@ To replicate diagram
     2) Generate dot code
     3) Run dot code through `Graphviz <https://graphviz.org/>`_ to create image
 
+----
+
+Definitions
+-----------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<definitions>

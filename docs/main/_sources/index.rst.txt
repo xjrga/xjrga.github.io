@@ -1,13 +1,15 @@
-Projects
+Projects x
 ========
 
 Snack (Nutrition)
 -----------------
 
+Snack is a diet calculator and a meal design software and used for understanding a person’s food intake. It finds the lowest calorie (or cost) food combination that meets a set of nutritional requirements. 
+
 .. index:: Snack
 
 .. figure:: snack/images/snack.png
-   :scale: 50
+   :scale: 75
    :alt: alternate text
    :align: center
 
@@ -41,15 +43,18 @@ Snack (Nutrition)
 
 Potatosql (Database Design)
 ---------------------------
+
+Potatosql is software to create entity relationship diagrams. It helps an organization express their ideas into an information model (data structures and business rules) that helps it to perform some organizational routine.
+
 .. index:: Potatosql
 
-.. figure:: potatosql/images/potatosql.png
-   :scale: 50
+.. figure:: potatosql/images/screenshots/potatosql00.png
+   :scale: 75
    :alt: alternate text
    :align: center
 
 +-----------------+---------------------------------------------------------------------+
-| Stable Release  |July 15, 2023                                                        |
+| Stable Release  |August 24, 2024                                                      |
 +-----------------+---------------------------------------------------------------------+
 | Repository      |https://github.com/xjrga/potatosql                                   |
 +-----------------+---------------------------------------------------------------------+
@@ -61,39 +66,16 @@ Potatosql (Database Design)
 +-----------------+---------------------------------------------------------------------+
 | License         |gpl2                                                                 |
 +-----------------+---------------------------------------------------------------------+
-| Download        |`potatosql-100-app.zip <../releases/potatosql-100-app.zip>`_         |
+| Download        |`potatosql-105-app.zip <../releases/potatosql-105-app.zip>`_         |
 +-----------------+---------------------------------------------------------------------+
-| Signature       |`potatosql-100-app.zip.asc <../releases/potatosql-100-app.zip.asc>`_ |
+| Signature       |`potatosql-105-app.zip.asc <../releases/potatosql-105-app.zip.asc>`_ |
 +-----------------+---------------------------------------------------------------------+
+
 
 .. toctree::
    :maxdepth: 1
 
    See more<potatosql/index>
-
-----
-
-Other Software
---------------
-.. index:: Other
-
-.. toctree::
-   :maxdepth: 1
-
-   colorscheme/index
-   lookslibrary/index
-   foodslibrary/index
-
-----
-
-Wellness & Lifestyle
---------------------
-.. index:: Wellness
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<health/index>
 
 ----
 

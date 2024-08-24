@@ -1,9 +1,8 @@
-Accounts
+Library
 ========
 
-.. figure:: images/library.png
+.. figure:: ../../images/diagrams/library.png
    :alt: entity relationship diagram
    :align: center
 
-Recreate entity relationship schema by importing `library.xml <../../../../files/diagrams/library.xml>`_ into Potatosql.
 

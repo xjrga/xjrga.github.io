@@ -1,8 +1,10 @@
-Table Relationship Keys
-=======================
+Potatosql - Uses keys to create entity relationships
+====================================================
 
-.. figure:: images/relationship_keys.png
-   :alt: entity relationship diagram
+.. figure:: ../images/screenshots/potatosql07.png
+   :alt: 
    :align: center
 
-   Keys between the parent table and child table are linked.
+   Potatosql creates entity relationship by linking data keys together
+
+   

@@ -1,21 +1,30 @@
-Potatosql: Learning Software For Database Design
+Potatosql: Software For Database Design
 ================================================
 
 Summary
 -------
 
-Potatosql is learning software for database design.
+Potatosql is software to create entity relationship diagrams. Its purpose is to help an organization express their ideas into an information model (data structures and business rules) that allows or helps it to perform some organizational routine.
 
-Its purpose is to help build database applications faster and inexpensively.
-
-.. figure:: images/potatosql.png
-   :scale: 50
+.. figure:: images/screenshots/potatosql00.png
+   :scale: 75
    :alt: alternate text
    :align: center
 
-   Created table and added primary and data keys
+   
 
 ----
+
+Entity Relationship Diagrams (ERD)
+----------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<screenshots/diagrams/index.rst>
+
+----
+
 
 Features
 --------
@@ -44,16 +53,6 @@ Installation
    :maxdepth: 1
 
    See more<installation>
-
-----
-
-Design
-------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<design>
 
 ----
 

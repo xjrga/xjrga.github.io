@@ -6,6 +6,8 @@ Bio
 
 The author's name is Jorge Rolando Garcia de Alba. Friends call him Jorge, Rolando or "JR".
 
+----
+
 Education
 ---------
 
@@ -26,13 +28,28 @@ Professional Degrees
 
   - M.Sc. in Management Information Systems
 
-Nutrition incomplete will be completed at a later time.
+Nutrition incomplete will be completed at a later time
+
+----
+
+Wellness & Lifestyle
+~~~~~~~~~~~~~~~~~~~~
+.. index:: Wellness
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<health/index>
+
+----
 
 Certificates
 ~~~~~~~~~~~~
 
 * `Introduction to Nutrition <../../files/Nutrition_Course_Certificate_Introduction_to_Nutrition.pdf>`_ from *Unicef*
 * `Master Certificate Programming for Infant and Young Children <../../files/Master_Certificate_Programming_for_Infant_and_Young_Child_Feeding.pdf>`_ from *Unicef* and *Cornell University*
+
+----
 
 Online
 ~~~~~~

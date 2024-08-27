@@ -8,7 +8,7 @@ Potatosql is software to create entity relationship diagrams. Its purpose is to 
 
 .. figure:: images/screenshots/potatosql00.png
    :scale: 75
-   :alt: alternate text
+   :alt:
    :align: center
 
    

@@ -10,6 +10,11 @@ Summary
 
    * Snack is now available to the whole world (7.674 billion people or 7674 million people)
 
+.. figure:: images/snack.png
+   :scale: 75
+   :alt: alternate text
+   :align: center
+
 ----
 
 Features

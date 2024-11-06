@@ -77,16 +77,6 @@ Bibliography
 
 ----
 
-Changes
-------------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<changes/index.rst>
-
-----
-
 Cloning, building and running
 -----------------------------
 
@@ -181,14 +171,3 @@ Model
    :maxdepth: 1
 
    See more<model/index.rst>
-
-----
-
-Next Generation
----------------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<nextgen/index.rst>
-

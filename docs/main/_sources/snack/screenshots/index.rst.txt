@@ -24,4 +24,5 @@ Screenshots
    Snack Meal Mass<snack_meal_mass>
    Snack Food List<snack_food_list>
    Snack Food Categories<snack_food_categories>
+   Snack Food Forecasts<snack_food_forecasts>
 

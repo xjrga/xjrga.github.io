@@ -1,0 +1,8 @@
+Snack Food Requirements
+=======================
+
+.. figure:: images/snack_requirements.png
+   :alt: food requirements / food demand forecast
+   :align: center
+
+   This is the food requirements / food demand forecast view

@@ -28,5 +28,6 @@ Features
 * Generate linear programming GNU MathProg modeling language model files
 * Facilitate learning/teaching anyone with interest in nutrition
 * Provides many additional food items to experiment with
+* Generate food forecasts
 * Is free and open source
 

@@ -6,25 +6,28 @@ Nutrient Quantity Constraint
 
 This constraint is used to limit a nutrient in your food mix.
 
-Food Quantity Constraint
-------------------------
-
-This constraint is used to limit a food item in your food mix.
+----
 
 Nutrient Ratio Constraint
 -------------------------
 
 This constraint is used to specify a nutrient proportion in your food mix. It is used in conjunction with another constraint.
 
+----
+
+Food Quantity Constraint
+------------------------
+
+This constraint is used to limit a food item in your food mix.
+
+----
+
 Food Ratio Constraint
 ---------------------
 
 This constraint is used to specify a food proportion in your food mix. It is used in conjunction with another constraint.
 
-Food Percent Constraint
------------------------
-
-This constraint is used to limit a food item in your food mix using a percentage. It is used in conjunction with another constraint.
+----
 
 Unfeasible Solution
 -------------------

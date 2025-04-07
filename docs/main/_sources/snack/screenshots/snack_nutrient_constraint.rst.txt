@@ -1,7 +1,7 @@
 Snack Nutrient Constraint
 =========================
 
-.. figure:: images/snack_constraint_nutrient_quantity.png
+.. figure:: images/07.png
    :alt: nutrient constraints tab
    :align: center
 

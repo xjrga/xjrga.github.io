@@ -44,4 +44,4 @@ Find out how much food you would have to eat to get 50g of protein. Compare diff
 Activity #7
 -----------
 
-Fix the chicken, rice and veggies mix so that it meets the daily recommended intake (DRI) requirements.
+Fix the chicken, rice and veggies mix so that it meets the daily reference intake (DRI) levels.

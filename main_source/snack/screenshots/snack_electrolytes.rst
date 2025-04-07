@@ -1,7 +1,7 @@
 Snack Electrolytes
 ==================
 
-.. figure:: images/snack_electrolytes.png
+.. figure:: images/10.png
    :alt: electrolytes summary view
    :align: center
 

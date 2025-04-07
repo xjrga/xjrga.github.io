@@ -7,9 +7,9 @@ Features
 * Find food items that provide a specific nutrient
 * Keep a food journal and track progress
 * Compare two foods or meals to see difference in nutritional value
-* Compare meals against Required Daily Allowance (RDA) values
+* Compare meals against Dietary Reference Intake (DRI) values
 * Compare meals against Upper Limit (UL) values
-* Create nutritional reports in spreadsheet
+* Create nutritional reports
 * Quantify any popular diet for comparison and research purposes
 * Calculate basal metabolic rate (BMR)
 * Calculate glycemic index (GI) and glycemic load (GL) of a meal
@@ -22,12 +22,9 @@ Features
 * Calculate food quotient (FQ)
 * Convert percent daily value (%DV) to grams
 * Exchange mix, food and meal plan data easily through simple text document (xml)
-* Easily create and export meal plans to spreadsheet
-* Generate linear programming LPSOLVER model files
-* Generate linear programming CPLEX LP format model files
-* Generate linear programming GNU MathProg modeling language model files
+* Easily generate reports and export them to text file (csv)
+* Generate linear programming model files for lpsolve solver  
 * Facilitate learning/teaching anyone with interest in nutrition
 * Provides many additional food items to experiment with
-* Generate food forecasts
+* Calculate food demand forecasts
 * Is free and open source
-

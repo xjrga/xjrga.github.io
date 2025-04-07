@@ -1,7 +1,7 @@
 Snack Cost
 ==========
 
-.. figure:: images/snack_cost.png
+.. figure:: images/12.png
    :alt: cost summary view
    :align: center
 

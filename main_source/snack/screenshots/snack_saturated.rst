@@ -1,7 +1,7 @@
 Snack Saturated Fat
 ===================
 
-.. figure:: images/snack_saturated.png
+.. figure:: images/05.png
    :alt: saturated fat summary view
    :align: center
 

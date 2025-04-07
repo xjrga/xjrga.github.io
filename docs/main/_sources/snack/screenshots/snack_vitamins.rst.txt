@@ -1,7 +1,7 @@
 Snack Vitamins
 ==============
 
-.. figure:: images/snack_vitamins.png
+.. figure:: images/08.png
    :alt: vitamins summary view
    :align: center
 

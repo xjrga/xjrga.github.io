@@ -1,7 +1,7 @@
 Snack Meal Portion
 ==================
 
-.. figure:: images/snack_portion.png
+.. figure:: images/15.png
    :alt: snack portion
    :align: center
 

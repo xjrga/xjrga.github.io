@@ -1,15 +1,7 @@
 Snack Model
 ===========
 
-.. figure:: images/snack_model.png
-   :alt: linear program model view
-   :align: center
-
-   This is the linear program model view
-
------
-
-.. figure:: images/snack_lpmodeltxt.png
+.. figure:: images/14.png
    :alt: linear program model view
    :align: center
 

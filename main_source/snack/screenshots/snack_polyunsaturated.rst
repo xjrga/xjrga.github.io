@@ -1,7 +1,7 @@
 Snack Polyunsaturated Fat
 =========================
 
-.. figure:: images/snack_polyunsaturated.png
+.. figure:: images/06.png
    :alt: polyunsaturated fat summary view
    :align: center
 

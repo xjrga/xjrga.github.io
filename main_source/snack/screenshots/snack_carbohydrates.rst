@@ -1,7 +1,7 @@
 Snack Carbohydrates
 ===================
 
-.. figure:: images/snack_carbohydrates.png
+.. figure:: images/07.png
    :alt: carbohydrates summary view
    :align: center
 

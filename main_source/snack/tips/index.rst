@@ -25,6 +25,7 @@ Usage Tips
  * Try to use the fewest of constraints possible but use as many as you need
  * Snack will always give you the food combination that is lowest in calories
  * Snack may find the solution unfeasible
+ * If Snack says solution is unfeasible after adding a new constraint, try pinning the model and continue
  * Create constraints based on recommended guidelines by health organizations
  * The more constraints there are the pickier it gets
  * Watch out for constraints working against each other
@@ -44,4 +45,4 @@ Usage Tips
 More usage tips
 ---------------
 
-Create a few meal plans that meet your calorie budget and rda requirements (as best as possible) and use them as menu alternatives to add variety to your nutrition lifestyle. This will help to avoid eating boredom and satisfy your cravings. Take advantage of multivitamin/mineral supplements to fill the nutritional gaps in your diet. In this way, you can rest assured that any plan you choose will meet your needs and take you a step closer to your health goals.
+Create a few meal plans that meet your calorie budget and dri requirements (as best as possible) and use them as menu alternatives to add variety to your nutrition lifestyle. This will help to avoid eating boredom and satisfy your cravings. Take advantage of multivitamin/mineral supplements to fill the nutritional gaps in your diet. In this way, you can rest assured that any plan you choose will meet your needs and take you a step closer to your health goals.

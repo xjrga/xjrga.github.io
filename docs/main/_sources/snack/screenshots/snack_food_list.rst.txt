@@ -1,7 +1,7 @@
 Snack Food List
 ===============
 
-.. figure:: images/snack_food_list.png
+.. figure:: images/18.png
    :alt: food list
    :align: center
 

@@ -14,7 +14,7 @@ Snack is a diet calculator and a meal design software and used for understanding
    :align: center
 
 +------------------+---------------------------------------------------------------+
-| Stable Release   |Nov 14, 2024                                                   |
+| Stable Release   |To be released soon                                            |
 +------------------+---------------------------------------------------------------+
 | Repository       |https://github.com/xjrga/snack                                 |
 +------------------+---------------------------------------------------------------+
@@ -28,9 +28,9 @@ Snack is a diet calculator and a meal design software and used for understanding
 +------------------+---------------------------------------------------------------+
 | License          |gpl2                                                           |
 +------------------+---------------------------------------------------------------+
-| Download         |`snack-1380.zip <../releases/snack-1380.zip>`_                 |
+| Download         |`snack-1500.zip <../releases/snack-1500.zip>`_                 |
 +------------------+---------------------------------------------------------------+
-| Signature        |`snack-1380.zip.asc <../releases/snack-1380.zip.asc>`_         |
+| Signature        |`snack-1500.zip.asc <../releases/snack-1500.zip.asc>`_         |
 +------------------+---------------------------------------------------------------+
 
 

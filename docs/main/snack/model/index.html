@@ -1,33 +1,37 @@
+
 <!DOCTYPE html>
 
-<html lang="en" data-content_root="../../">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
 
     <title>Model &#8212; Project  documentation</title>
-    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=f63d8bfa" />
-    <link rel="stylesheet" type="text/css" href="../../_static/haiku.css?v=fce32b03" />
-    <script src="../../_static/documentation_options.js?v=5929fcd5"></script>
-    <script src="../../_static/doctools.js?v=9bcbadda"></script>
-    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/haiku.css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/sphinx_highlight.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Snack Nutrition Software - Next Generation" href="../nextgen/index.html" />
+    <link rel="next" title="Potatosql: Software For Database Design" href="../../potatosql/index.html" />
     <link rel="prev" title="Tips" href="../tips/index.html" /> 
   </head><body>
       <div class="header" role="banner"><h1 class="heading"><a href="../../index.html">
           <span>Project  documentation</span></a></h1>
         <h2 class="heading"><span>Model</span></h2>
       </div>
-      <div class="topnav" role="navigation" aria-label="Top">
+      <div class="topnav" role="navigation" aria-label="top navigation">
       
         <p>
         «&#160;&#160;<a href="../tips/index.html">Tips</a>
         &#160;&#160;::&#160;&#160;
         <a class="uplink" href="../../index.html">Contents</a>
         &#160;&#160;::&#160;&#160;
-        <a href="../nextgen/index.html">Snack Nutrition Software - Next Generation</a>&#160;&#160;»
+        <a href="../../potatosql/index.html">Potatosql: Software For Database Design</a>&#160;&#160;»
         </p>
 
       </div>
@@ -35,141 +39,77 @@
         
         
   <section id="model">
-<h1>Model<a class="headerlink" href="#model" title="Link to this heading">¶</a></h1>
+<h1>Model<a class="headerlink" href="#model" title="Permalink to this heading">¶</a></h1>
 <section id="writing-model-to-file">
-<h2>Writing Model to File<a class="headerlink" href="#writing-model-to-file" title="Link to this heading">¶</a></h2>
+<h2>Writing Model to File<a class="headerlink" href="#writing-model-to-file" title="Permalink to this heading">¶</a></h2>
 <figure class="align-center" id="id1">
-<img alt="write model to file" src="../../_images/write_to_file.png" />
+<img alt="write model to file" src="../../_images/24.png" />
 <figcaption>
-<p><span class="caption-text">A model file will be written to file every time a Snack finds a solution</span><a class="headerlink" href="#id1" title="Link to this image">¶</a></p>
+<p><span class="caption-text">A model file will be written to file every time a Snack finds a solution and you can find it in the models directory</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
 </figcaption>
 </figure>
 </section>
 <hr class="docutils" />
 <section id="the-linear-program-model-view">
-<h2>The Linear Program Model View<a class="headerlink" href="#the-linear-program-model-view" title="Link to this heading">¶</a></h2>
+<h2>The Linear Program Model View<a class="headerlink" href="#the-linear-program-model-view" title="Permalink to this heading">¶</a></h2>
 <figure class="align-center" id="id2">
-<img alt="linear program model view" src="../../_images/snack_lpmodel_mathprog.png" />
+<img alt="linear program model view" src="../../_images/141.png" />
 <figcaption>
-<p><span class="caption-text">This is the linear program model view</span><a class="headerlink" href="#id2" title="Link to this image">¶</a></p>
-</figcaption>
-</figure>
-</section>
-<hr class="docutils" />
-<section id="the-linear-program-model">
-<h2>The Linear Program Model<a class="headerlink" href="#the-linear-program-model" title="Link to this heading">¶</a></h2>
-<figure class="align-center" id="id3">
-<img alt="linear program model view" src="../../_images/snack_lpmodeltxt_mathprog.png" />
-<figcaption>
-<p><span class="caption-text">This is the linear program output generated by Snack that is saved to the log file</span><a class="headerlink" href="#id3" title="Link to this image">¶</a></p>
+<p><span class="caption-text">This is the linear program model view</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
 </figcaption>
 </figure>
 </section>
 <hr class="docutils" />
 <section id="lpsolve-lp-format-example">
-<h2>LPSOLVE LP format example<a class="headerlink" href="#lpsolve-lp-format-example" title="Link to this heading">¶</a></h2>
+<h2>LPSOLVE LP format example<a class="headerlink" href="#lpsolve-lp-format-example" title="Permalink to this heading">¶</a></h2>
 <p>An Example File</p>
 <ul class="simple">
-<li><p><a class="reference external" href="../../../files/other/snack_lpsolve_1700248493.lp">Chicken, Rice and Veggies model file for lpsolve</a></p></li>
+<li><p><a class="reference external" href="../../../files/other/snack_lpsolve_1743971125.lp">Chicken, Rice and Veggies model file for lpsolve</a></p></li>
 </ul>
 <p>For example, user could use the following command to solve problem in linux</p>
 <ul class="simple">
-<li><p>lp_solve -S3 chicken_rice_and_veggies.lp</p></li>
+<li><p>lp_solve -piv1 -s1 -S3 chicken_rice_and_veggies.lp</p></li>
 </ul>
-<figure class="align-center" id="id4">
-<img alt="Solving Problem on a Different Solver" src="../../_images/snack_lpsolve.png" />
-<figcaption>
-<p><span class="caption-text">The chicken, rice and veggies mix problem using lpsolve for linux</span><a class="headerlink" href="#id4" title="Link to this image">¶</a></p>
-</figcaption>
-</figure>
+<p>The Solution File</p>
+<ul class="simple">
+<li><p><a class="reference external" href="../../../files/other/snack_lpsolve_1743971125.lp.sol">Chicken, Rice and Veggies model solution</a></p></li>
+</ul>
 <p>On windows, user can use lpsolve for windows</p>
-<figure class="align-center" id="id5">
+<figure class="align-center" id="id3">
 <img alt="Solving Problem on a Different Solver" src="../../_images/lpsolve_01.png" />
 <figcaption>
-<p><span class="caption-text">The chicken, rice and veggies mix problem on lpsolve for windows</span><a class="headerlink" href="#id5" title="Link to this image">¶</a></p>
+<p><span class="caption-text">The chicken, rice and veggies mix problem on lpsolve for windows</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
 </figcaption>
 </figure>
-<figure class="align-center" id="id6">
+<figure class="align-center" id="id4">
 <img alt="Solving Problem on a Different Solver" src="../../_images/lpsolve_02.png" />
 <figcaption>
-<p><span class="caption-text">The result of the chicken, rice and veggies mix problem using lpsolve for windows</span><a class="headerlink" href="#id6" title="Link to this image">¶</a></p>
+<p><span class="caption-text">The result of the chicken, rice and veggies mix problem using lpsolve for windows</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
 </figcaption>
 </figure>
 <ul class="simple">
 <li><p><a class="reference external" href="https://sourceforge.net/projects/lpsolve">https://sourceforge.net/projects/lpsolve</a></p></li>
 </ul>
 </section>
-<hr class="docutils" />
-<section id="cplex-lp-format-example">
-<h2>CPLEX LP format example<a class="headerlink" href="#cplex-lp-format-example" title="Link to this heading">¶</a></h2>
-<p>An Example File</p>
-<ul class="simple">
-<li><p><a class="reference external" href="../../../files/other/snack_glpk_1700248493.lp">Chicken, Rice and Veggies in CPLEX LP format</a></p></li>
-</ul>
-<p>For example, user could use the following command to solve problem in linux</p>
-<ul class="simple">
-<li><p>glpsol –lp snack_glpk_1700248493.lp -o snack_glpk_1700248493.lp.sol</p></li>
-</ul>
-<p>Solving The Problem</p>
-<figure class="align-center" id="id7">
-<img alt="Solving Problem on a Different Solver" src="../../_images/snack_glpk.png" />
-<figcaption>
-<p><span class="caption-text">The chicken, rice and veggies mix problem using glpk solver on linux</span><a class="headerlink" href="#id7" title="Link to this image">¶</a></p>
-</figcaption>
-</figure>
-<p>The Solution</p>
-<figure class="align-center" id="id8">
-<img alt="Solving Problem on a Different Solver" src="../../_images/snack_glpk_sol.png" />
-<figcaption>
-<p><span class="caption-text">The chicken, rice and veggies mix solution generated by glpsol on linux</span><a class="headerlink" href="#id8" title="Link to this image">¶</a></p>
-</figcaption>
-</figure>
-</section>
-<hr class="docutils" />
-<section id="gnu-mathprog-modeling-language-example">
-<h2>GNU MathProg modeling language example<a class="headerlink" href="#gnu-mathprog-modeling-language-example" title="Link to this heading">¶</a></h2>
-<p>An Example File</p>
-<ul class="simple">
-<li><p><a class="reference external" href="../../../files/other/snack_glpk_1703204570.mod.txt">Chicken, Rice and Veggies in GNU MathProg modeling language</a></p></li>
-</ul>
-<p>For example, user could use the following command to solve problem in linux</p>
-<ul class="simple">
-<li><p>glpsol –math snack_glpk_1703204570.mod -o snack_glpk_1703204570.mod.sol</p></li>
-</ul>
-<p>Solving The Problem</p>
-<figure class="align-center" id="id9">
-<img alt="Solving Problem on a Different Solver" src="../../_images/snack_glpk_mathprog.png" />
-<figcaption>
-<p><span class="caption-text">The chicken, rice and veggies mix problem using glpk solver on linux</span><a class="headerlink" href="#id9" title="Link to this image">¶</a></p>
-</figcaption>
-</figure>
-<p>The Solution</p>
-<figure class="align-center" id="id10">
-<img alt="Solving Problem on a Different Solver" src="../../_images/snack_glpk_mathprog_sol.png" />
-<figcaption>
-<p><span class="caption-text">The chicken, rice and veggies mix solution generated by glpsol on linux</span><a class="headerlink" href="#id10" title="Link to this image">¶</a></p>
-</figcaption>
-</figure>
-</section>
 </section>
 
 
       </div>
-      <div class="bottomnav" role="navigation" aria-label="Bottom">
+      <div class="bottomnav" role="navigation" aria-label="bottom navigation">
       
         <p>
         «&#160;&#160;<a href="../tips/index.html">Tips</a>
         &#160;&#160;::&#160;&#160;
         <a class="uplink" href="../../index.html">Contents</a>
         &#160;&#160;::&#160;&#160;
-        <a href="../nextgen/index.html">Snack Nutrition Software - Next Generation</a>&#160;&#160;»
+        <a href="../../potatosql/index.html">Potatosql: Software For Database Design</a>&#160;&#160;»
         </p>
 
       </div>
 
     <div class="footer" role="contentinfo">
-    &#169; Copyright 2023, jrga.
-      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 8.1.3.
+        &#169; Copyright 2023, jrga.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.3.0.
     </div>
   </body>
 </html>

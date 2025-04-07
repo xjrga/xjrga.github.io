@@ -1,7 +1,7 @@
 Snack Fats
 ==========
 
-.. figure:: images/snack_fats.png
+.. figure:: images/04.png
    :alt: fats summary view
    :align: center
 

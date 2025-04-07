@@ -1,7 +1,7 @@
 Snack Protein
 =============
 
-.. figure:: images/snack_protein.png
+.. figure:: images/03.png
    :alt: protein summary view
    :align: center
 

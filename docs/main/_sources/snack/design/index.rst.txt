@@ -1,7 +1,7 @@
 Design
 ======
 
-.. figure:: images/er_diagram.png
+.. figure:: images/erd.png
    :alt: entity relationship diagram
    :align: center
 

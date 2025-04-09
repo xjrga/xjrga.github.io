@@ -5,4 +5,4 @@ Snack Nutrient Search
    :alt: food list
    :align: center
 
-   This is the nutrient search view
+   Make a list of the foods that contain the nutrient you are looking for.

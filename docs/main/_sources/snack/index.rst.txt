@@ -8,7 +8,9 @@ Summary
 
    Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life. Software can be downloaded and used for no money although author considers it priceless.
 
-   * Snack is now available to the whole world (7.674 billion people or 7674 million people)
+   * Snack is now available to the whole world (7.674 billion people or 7674 million people).   
+   * We hope nutrition scientists, registered dietitians and nutrition and food science students use it and share with us some of that insight.
+   * We hope many people use it and teach others how to.
 
 .. figure:: images/snack.png
    :scale: 75

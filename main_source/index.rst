@@ -4,7 +4,7 @@ Projects
 Snack (Nutrition)
 -----------------
 
-Snack is a diet calculator and a meal design software and used for understanding a person’s food intake. It finds the lowest calorie (or cost) food combination that meets a set of nutritional requirements. 
+Snack is a diet calculator and a meal design software and used for understanding a person’s food intake. It finds the lowest calorie (or cost) food combination that meets a set of nutritional requirements.
 
 .. index:: Snack
 
@@ -14,7 +14,7 @@ Snack is a diet calculator and a meal design software and used for understanding
    :align: center
 
 +------------------+---------------------------------------------------------------+
-| Stable Release   |To be released soon                                            |
+| Stable Release   |April 09, 2025                                                 |
 +------------------+---------------------------------------------------------------+
 | Repository       |https://github.com/xjrga/snack                                 |
 +------------------+---------------------------------------------------------------+

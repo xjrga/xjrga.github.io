@@ -5,5 +5,5 @@ Snack Food Categories
    :alt: food categories view
    :align: center
 
-   Create special food categories to easily find your food items.
+   Create special food categories to easily find your food items. For example, you can have "Favorites" category.
 

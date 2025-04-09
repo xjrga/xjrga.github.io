@@ -2,7 +2,7 @@ Snack Meal Plan Usage
 =====================
 
 .. figure:: images/23.png
-   :alt: food forecasts
+   :alt: meal plan usage
    :align: center
 
-   This is the food forecast view
+   To get an estimate of how much food a user should buy then we can create a meal plan usage report.

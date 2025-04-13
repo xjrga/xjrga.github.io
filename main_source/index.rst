@@ -4,8 +4,16 @@ Projects
 Snack (Nutrition)
 -----------------
 
-Snack is a diet calculator and a meal design software and used for understanding a person’s food intake. It finds the lowest calorie (or cost) food combination that meets a set of nutritional requirements.
-
+ Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life.
+ 
+ * It is a diet calculator and meal design software used for understanding a person's food intake.
+ * It is a software program designed to find the lowest calorie or cost food combination. 
+ * It lets user quickly, inexpensively and easily experiment creating different food combinations that have specific dietary requirements.
+ * Its intended audience is anyone with interest in nutrition. 
+ * Snack is now available to the whole world (7.674 billion people or 7674 million people).
+ * Software can be downloaded and used for no money although author considers it priceless.
+ * Nutrition scientists, registered dietitians and nutrition / food / animal science students and food producers are especially invited to use it and share their insight
+ 
 .. index:: Snack
 
 .. figure:: snack/images/snack.png

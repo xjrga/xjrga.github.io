@@ -4,13 +4,16 @@ Snack: Diet Calculator and Meal Design Software
 Summary
 -------
 
-   Snack is a diet calculator and meal design software used for understanding a person's food intake. It is a software program designed to find the lowest calorie or cost food combination. Its intended audience is anyone with interest in nutrition. It lets user quickly, inexpensively and easily experiment creating different food combinations that have specific dietary requirements.
+ Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life.
+ 
+ * It is a diet calculator and meal design software used for understanding a person's food intake.
+ * It is a software program designed to find the lowest calorie or cost food combination. 
+ * It lets user quickly, inexpensively and easily experiment creating different food combinations that have specific dietary requirements.
+ * Its intended audience is anyone with interest in nutrition. 
+ * Snack is now available to the whole world (7.674 billion people or 7674 million people).
+ * Software can be downloaded and used for no money although author considers it priceless.
+ * Nutrition scientists, registered dietitians and nutrition / food / animal science students and food producers are especially invited to use it and share their insight
 
-   Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life. Software can be downloaded and used for no money although author considers it priceless.
-
-   * Snack is now available to the whole world (7.674 billion people or 7674 million people).   
-   * We hope nutrition scientists, registered dietitians and nutrition and food science students use it and share with us some of that insight.
-   * We hope many people use it and teach others how to.
 
 .. figure:: images/snack.png
    :scale: 75

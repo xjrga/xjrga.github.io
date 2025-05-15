@@ -1,0 +1,21 @@
+Entity Relationship Diagrams
+============================
+
+Accounts
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<accounts>
+
+----
+
+Employees
+---------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<employees>
+

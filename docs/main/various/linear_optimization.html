@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Linear Optimization Using SimplexSolver &#8212; Project  documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=649a27d8" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinxdoc.css?v=14b14ff3" />
+    <script src="../_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="../_static/doctools.js?v=888ff710"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Author" href="../author/index.html" />
+    <link rel="prev" title="Various" href="index.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../author/index.html" title="Author"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Various"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Project  documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" accesskey="U">Various</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Linear Optimization Using SimplexSolver</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <section id="linear-optimization-using-simplexsolver">
+<h1>Linear Optimization Using SimplexSolver<a class="headerlink" href="#linear-optimization-using-simplexsolver" title="Link to this heading">¶</a></h1>
+<section id="solving-a-lp-problem">
+<h2>Solving a LP Problem<a class="headerlink" href="#solving-a-lp-problem" title="Link to this heading">¶</a></h2>
+<section id="testlpmodel">
+<h3>TestLPModel<a class="headerlink" href="#testlpmodel" title="Link to this heading">¶</a></h3>
+<div class="highlight-java notranslate"><div class="highlight"><pre><span></span><span class="linenos">  1</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.junit.Assert</span><span class="p">;</span>
+<span class="linenos">  2</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.junit.Test</span><span class="p">;</span>
+<span class="linenos">  3</span>
+<span class="linenos">  4</span><span class="cm">/*</span>
+<span class="linenos">  5</span><span class="cm"> * @author  Jorge Garcia de Alba</span>
+<span class="linenos">  6</span><span class="cm"> */</span>
+<span class="linenos">  7</span><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">TestLPModel</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">  8</span>
+<span class="linenos">  9</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">TestLPModel</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos"> 10</span>
+<span class="linenos"> 11</span><span class="w">        </span><span class="c1">//commons-math3-3.6.1, hamcrest-core-1.3, junit-4.12 libraries on classpath</span>
+<span class="linenos"> 12</span>
+<span class="linenos"> 13</span><span class="w">        </span><span class="cm">/*</span>
+<span class="linenos"> 14</span><span class="cm">        </span>
+<span class="linenos"> 15</span><span class="cm">        Problem</span>
+<span class="linenos"> 16</span>
+<span class="linenos"> 17</span><span class="cm">        Acme Foods, Inc., wishes to minimize ingredient cost of its veggies and beans salad</span>
+<span class="linenos"> 18</span><span class="cm">        while at the same time it wishes the product meets the minimum daily fiber requirement</span>
+<span class="linenos"> 19</span><span class="cm">        for an adult. The ratio of veggies to beans must be 2 to 1.</span>
+<span class="linenos"> 20</span>
+<span class="linenos"> 21</span><span class="cm">        Facts</span>
+<span class="linenos"> 22</span>
+<span class="linenos"> 23</span><span class="cm">        1) Cost must be lowest.</span>
+<span class="linenos"> 24</span><span class="cm">        2) Veggies amount must be twice as much as beans.</span>
+<span class="linenos"> 25</span><span class="cm">        3) Veggies cost $4/Kg and they provide 4 g of fiber per 100 g serving.</span>
+<span class="linenos"> 26</span><span class="cm">        4) Beans cost $2/Kg and they provide 9 g of fiber per 100 g serving.</span>
+<span class="linenos"> 27</span><span class="cm">        5) Daily recommended fiber intake is 40g.</span>
+<span class="linenos"> 28</span>
+<span class="linenos"> 29</span><span class="cm">        Questions</span>
+<span class="linenos"> 30</span>
+<span class="linenos"> 31</span><span class="cm">        a) What is minimum cost combination of ingredients that satisfies all constraints?</span>
+<span class="linenos"> 32</span><span class="cm">        b) What is the minimum cost?</span>
+<span class="linenos"> 33</span>
+<span class="linenos"> 34</span><span class="cm">        Problem can be represented this way</span>
+<span class="linenos"> 35</span>
+<span class="linenos"> 36</span><span class="cm">        Minimize</span>
+<span class="linenos"> 37</span>
+<span class="linenos"> 38</span><span class="cm">        .002 x0 + 0.004 x1;</span>
+<span class="linenos"> 39</span>
+<span class="linenos"> 40</span><span class="cm">        subject to</span>
+<span class="linenos"> 41</span>
+<span class="linenos"> 42</span><span class="cm">        0.09 x0 + 0.04 x1 &gt;=  40.0;</span>
+<span class="linenos"> 43</span><span class="cm">       -2.00 x0 + 1.00 x1  =  00.0;</span>
+<span class="linenos"> 44</span>
+<span class="hll"><span class="linenos"> 45</span><span class="cm">        Solution</span>
+</span><span class="hll"><span class="linenos"> 46</span>
+</span><span class="hll"><span class="linenos"> 47</span><span class="cm">        cost = $ 2.35294117647059</span>
+</span><span class="hll"><span class="linenos"> 48</span><span class="cm">        x0 = 235.294117647059 g</span>
+</span><span class="hll"><span class="linenos"> 49</span><span class="cm">        x1 = 470.588235294118 g</span>
+</span><span class="linenos"> 50</span>
+<span class="linenos"> 51</span><span class="cm">        As an exercise, substitute the veggies and beans with your favorite foods to</span>
+<span class="linenos"> 52</span><span class="cm">        find out how much you would have to eat to meet the minimum daily fiber requirement.</span>
+<span class="linenos"> 53</span>
+<span class="linenos"> 54</span><span class="cm">        How much more or less would you have to eat?</span>
+<span class="linenos"> 55</span>
+<span class="linenos"> 56</span><span class="cm">        */</span>
+<span class="linenos"> 57</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos"> 58</span>
+<span class="linenos"> 59</span><span class="w">    </span><span class="nd">@Test</span>
+<span class="linenos"> 60</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">testSolve</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos"> 61</span>
+<span class="linenos"> 62</span><span class="w">        </span><span class="n">LPModel</span><span class="w"> </span><span class="n">lpmodel</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">LPModel</span><span class="p">();</span>
+<span class="linenos"> 63</span>
+<span class="linenos"> 64</span><span class="w">        </span><span class="c1">//Cost objective function</span>
+<span class="linenos"> 65</span><span class="w">        </span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">coefficients0</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="kt">double</span><span class="o">[]</span><span class="p">{</span><span class="mf">.002</span><span class="p">,</span><span class="w"> </span><span class="mf">0.004</span><span class="p">};</span>
+<span class="linenos"> 66</span><span class="w">        </span><span class="n">lpmodel</span><span class="p">.</span><span class="na">addObjective</span><span class="p">(</span><span class="n">coefficients0</span><span class="p">);</span>
+<span class="linenos"> 67</span>
+<span class="linenos"> 68</span><span class="w">        </span><span class="c1">//Fiber constraint        </span>
+<span class="linenos"> 69</span><span class="w">        </span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">coefficients1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="kt">double</span><span class="o">[]</span><span class="p">{</span><span class="mf">0.09</span><span class="p">,</span><span class="w"> </span><span class="mf">0.04</span><span class="p">};</span>
+<span class="linenos"> 70</span><span class="w">        </span><span class="kt">double</span><span class="w"> </span><span class="n">amount1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">40</span><span class="p">;</span>
+<span class="linenos"> 71</span><span class="w">        </span><span class="n">lpmodel</span><span class="p">.</span><span class="na">addConstraint</span><span class="p">(</span><span class="n">coefficients1</span><span class="p">,</span><span class="w"> </span><span class="n">LPModel</span><span class="p">.</span><span class="na">GEQ</span><span class="p">,</span><span class="w"> </span><span class="n">amount1</span><span class="p">);</span>
+<span class="linenos"> 72</span>
+<span class="linenos"> 73</span><span class="w">        </span><span class="c1">//Ratio constraint</span>
+<span class="linenos"> 74</span><span class="w">        </span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">coefficients2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="kt">double</span><span class="o">[]</span><span class="p">{</span><span class="o">-</span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="mi">1</span><span class="p">};</span>
+<span class="linenos"> 75</span><span class="w">        </span><span class="kt">double</span><span class="w"> </span><span class="n">amount2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="linenos"> 76</span><span class="w">        </span><span class="n">lpmodel</span><span class="p">.</span><span class="na">addConstraint</span><span class="p">(</span><span class="n">coefficients2</span><span class="p">,</span><span class="w"> </span><span class="n">LPModel</span><span class="p">.</span><span class="na">EQ</span><span class="p">,</span><span class="w"> </span><span class="n">amount2</span><span class="p">);</span>
+<span class="linenos"> 77</span>
+<span class="linenos"> 78</span><span class="w">        </span><span class="c1">//Print model</span>
+<span class="linenos"> 79</span><span class="w">        </span><span class="n">System</span><span class="p">.</span><span class="na">out</span><span class="p">.</span><span class="na">println</span><span class="p">(</span><span class="n">lpmodel</span><span class="p">.</span><span class="na">printModel</span><span class="p">());</span>
+<span class="linenos"> 80</span>
+<span class="linenos"> 81</span><span class="w">        </span><span class="c1">//Solution</span>
+<span class="linenos"> 82</span><span class="w">        </span><span class="n">lpmodel</span><span class="p">.</span><span class="na">solve</span><span class="p">();</span>
+<span class="linenos"> 83</span>
+<span class="linenos"> 84</span><span class="w">        </span><span class="c1">//Test</span>
+<span class="linenos"> 85</span><span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">expectedModel</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;/* Objective function */\n&quot;</span><span class="w"> </span><span class="o">+</span>
+<span class="linenos"> 86</span><span class="w">                </span><span class="s">&quot;min: 0.002 x0 + 0.004 x1;\n&quot;</span><span class="w"> </span><span class="o">+</span>
+<span class="linenos"> 87</span><span class="w">                </span><span class="s">&quot;/* Variable bounds */\n&quot;</span><span class="w"> </span><span class="o">+</span>
+<span class="linenos"> 88</span><span class="w">                </span><span class="s">&quot;0.09 x0 + 0.04 x1 &gt;= 40.0;\n&quot;</span><span class="w"> </span><span class="o">+</span>
+<span class="linenos"> 89</span><span class="w">                </span><span class="s">&quot;-2.0 x0 + 1.0 x1 = 0.0;\n&quot;</span><span class="p">;</span>
+<span class="linenos"> 90</span><span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">actualModel</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">lpmodel</span><span class="p">.</span><span class="na">printModel</span><span class="p">();</span>
+<span class="linenos"> 91</span>
+<span class="linenos"> 92</span><span class="w">        </span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">expectedQuantity</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="kt">double</span><span class="o">[]</span><span class="p">{</span><span class="mf">235.294117647059</span><span class="p">,</span><span class="w"> </span><span class="mf">470.588235294118</span><span class="p">};</span>
+<span class="linenos"> 93</span><span class="w">        </span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">actualQuantity</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">lpmodel</span><span class="p">.</span><span class="na">getPoint</span><span class="p">();</span>
+<span class="linenos"> 94</span>
+<span class="linenos"> 95</span><span class="w">        </span><span class="kt">double</span><span class="w"> </span><span class="n">expectedCost</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mf">2.35294117647059</span><span class="p">;</span>
+<span class="linenos"> 96</span><span class="w">        </span><span class="kt">double</span><span class="w"> </span><span class="n">actualCost</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">lpmodel</span><span class="p">.</span><span class="na">getCost</span><span class="p">();</span>
+<span class="linenos"> 97</span>
+<span class="linenos"> 98</span><span class="w">        </span><span class="n">Assert</span><span class="p">.</span><span class="na">assertEquals</span><span class="p">(</span><span class="n">expectedModel</span><span class="p">,</span><span class="w"> </span><span class="n">actualModel</span><span class="p">);</span>
+<span class="linenos"> 99</span><span class="w">        </span><span class="n">Assert</span><span class="p">.</span><span class="na">assertArrayEquals</span><span class="p">(</span><span class="n">expectedQuantity</span><span class="p">,</span><span class="w"> </span><span class="n">actualQuantity</span><span class="p">,</span><span class="w"> </span><span class="mf">.00001</span><span class="p">);</span>
+<span class="linenos">100</span><span class="w">        </span><span class="n">Assert</span><span class="p">.</span><span class="na">assertEquals</span><span class="p">(</span><span class="n">expectedCost</span><span class="p">,</span><span class="w"> </span><span class="n">actualCost</span><span class="p">,</span><span class="w"> </span><span class="mf">.00001</span><span class="p">);</span>
+<span class="linenos">101</span>
+<span class="linenos">102</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">103</span><span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="lpformat">
+<h3>LPFormat<a class="headerlink" href="#lpformat" title="Link to this heading">¶</a></h3>
+<div class="highlight-java notranslate"><div class="highlight"><pre><span></span><span class="hll"><span class="linenos"> 1</span><span class="cm">/**</span>
+</span><span class="linenos"> 2</span><span class="cm"> * Created by jr on 5/23/2017.</span>
+<span class="linenos"> 3</span><span class="cm"> */</span>
+<span class="linenos"> 4</span><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">LPFormat</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos"> 5</span>
+<span class="linenos"> 6</span><span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">StringBuilder</span><span class="w"> </span><span class="n">sb</span><span class="p">;</span>
+<span class="linenos"> 7</span>
+<span class="linenos"> 8</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">LPFormat</span><span class="p">(){</span>
+<span class="linenos"> 9</span>
+<span class="linenos">10</span><span class="w">        </span><span class="n">sb</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">StringBuilder</span><span class="p">();</span>
+<span class="linenos">11</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">12</span>
+<span class="linenos">13</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">objectiveToLp</span><span class="p">(</span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">coefficients</span><span class="p">){</span>
+<span class="linenos">14</span>
+<span class="linenos">15</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;/* Objective function */&quot;</span><span class="p">);</span>
+<span class="linenos">16</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;\n&quot;</span><span class="p">);</span>
+<span class="linenos">17</span>
+<span class="linenos">18</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;min: &quot;</span><span class="p">);</span>
+<span class="linenos">19</span>
+<span class="linenos">20</span><span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">coefficients</span><span class="p">.</span><span class="na">length</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">21</span>
+<span class="linenos">22</span><span class="w">            </span><span class="kt">double</span><span class="w"> </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">coefficients</span><span class="o">[</span><span class="n">i</span><span class="o">]</span><span class="p">;</span>
+<span class="linenos">23</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="n">c</span><span class="p">);</span>
+<span class="linenos">24</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot; &quot;</span><span class="p">);</span>
+<span class="linenos">25</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;x&quot;</span><span class="p">);</span>
+<span class="linenos">26</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="n">i</span><span class="p">);</span>
+<span class="linenos">27</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot; + &quot;</span><span class="p">);</span>
+<span class="linenos">28</span>
+<span class="linenos">29</span><span class="w">        </span><span class="p">}</span>
+<span class="linenos">30</span>
+<span class="linenos">31</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">deleteCharAt</span><span class="p">(</span><span class="n">sb</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span>
+<span class="linenos">32</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">deleteCharAt</span><span class="p">(</span><span class="n">sb</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span>
+<span class="linenos">33</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">deleteCharAt</span><span class="p">(</span><span class="n">sb</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span>
+<span class="linenos">34</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;;&quot;</span><span class="p">);</span>
+<span class="linenos">35</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;\n&quot;</span><span class="p">);</span>
+<span class="linenos">36</span>
+<span class="linenos">37</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;/* Variable bounds */&quot;</span><span class="p">);</span>
+<span class="linenos">38</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;\n&quot;</span><span class="p">);</span>
+<span class="linenos">39</span>
+<span class="linenos">40</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">41</span>
+<span class="linenos">42</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">constraintToLp</span><span class="p">(</span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">coefficients</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">rel</span><span class="p">,</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="n">value</span><span class="p">){</span>
+<span class="linenos">43</span>
+<span class="linenos">44</span><span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;&quot;</span><span class="p">;</span>
+<span class="linenos">45</span>
+<span class="linenos">46</span><span class="w">        </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getRelationship</span><span class="p">(</span><span class="n">rel</span><span class="p">);</span>
+<span class="linenos">47</span>
+<span class="linenos">48</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;&quot;</span><span class="p">);</span>
+<span class="linenos">49</span>
+<span class="linenos">50</span><span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">coefficients</span><span class="p">.</span><span class="na">length</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">51</span>
+<span class="linenos">52</span><span class="w">            </span><span class="kt">double</span><span class="w"> </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">coefficients</span><span class="o">[</span><span class="n">i</span><span class="o">]</span><span class="p">;</span>
+<span class="linenos">53</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="n">c</span><span class="p">);</span>
+<span class="linenos">54</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot; &quot;</span><span class="p">);</span>
+<span class="linenos">55</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;x&quot;</span><span class="p">);</span>
+<span class="linenos">56</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="n">i</span><span class="p">);</span>
+<span class="linenos">57</span><span class="w">            </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot; + &quot;</span><span class="p">);</span>
+<span class="linenos">58</span>
+<span class="linenos">59</span><span class="w">        </span><span class="p">}</span>
+<span class="linenos">60</span>
+<span class="linenos">61</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">deleteCharAt</span><span class="p">(</span><span class="n">sb</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span>
+<span class="linenos">62</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">deleteCharAt</span><span class="p">(</span><span class="n">sb</span><span class="p">.</span><span class="na">length</span><span class="p">()</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span>
+<span class="linenos">63</span>
+<span class="linenos">64</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="n">relationship</span><span class="p">);</span>
+<span class="linenos">65</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot; &quot;</span><span class="p">);</span>
+<span class="linenos">66</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="n">value</span><span class="p">);</span>
+<span class="linenos">67</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;;&quot;</span><span class="p">);</span>
+<span class="linenos">68</span><span class="w">        </span><span class="n">sb</span><span class="p">.</span><span class="na">append</span><span class="p">(</span><span class="s">&quot;\n&quot;</span><span class="p">);</span>
+<span class="linenos">69</span>
+<span class="linenos">70</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">71</span>
+<span class="linenos">72</span><span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">getRelationship</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">rel</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">73</span>
+<span class="linenos">74</span><span class="w">        </span><span class="n">String</span><span class="w"> </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;&quot;</span><span class="p">;</span>
+<span class="linenos">75</span>
+<span class="linenos">76</span><span class="w">        </span><span class="k">switch</span><span class="w"> </span><span class="p">(</span><span class="n">rel</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">77</span><span class="w">            </span><span class="k">case</span><span class="w"> </span><span class="mi">1</span><span class="p">:</span>
+<span class="linenos">78</span><span class="w">                </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;&gt;=&quot;</span><span class="p">;</span>
+<span class="linenos">79</span><span class="w">                </span><span class="c1">//</span>
+<span class="linenos">80</span><span class="w">                </span><span class="k">break</span><span class="p">;</span>
+<span class="linenos">81</span><span class="w">            </span><span class="k">case</span><span class="w"> </span><span class="mi">2</span><span class="p">:</span>
+<span class="linenos">82</span><span class="w">                </span><span class="c1">//</span>
+<span class="linenos">83</span><span class="w">                </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;&lt;=&quot;</span><span class="p">;</span>
+<span class="linenos">84</span><span class="w">                </span><span class="k">break</span><span class="p">;</span>
+<span class="linenos">85</span><span class="w">            </span><span class="k">case</span><span class="w"> </span><span class="mi">3</span><span class="p">:</span>
+<span class="linenos">86</span><span class="w">                </span><span class="c1">//</span>
+<span class="linenos">87</span><span class="w">                </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;=&quot;</span><span class="p">;</span>
+<span class="linenos">88</span><span class="w">                </span><span class="k">break</span><span class="p">;</span>
+<span class="linenos">89</span><span class="w">        </span><span class="p">}</span>
+<span class="linenos">90</span>
+<span class="linenos">91</span><span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">relationship</span><span class="p">;</span>
+<span class="linenos">92</span>
+<span class="linenos">93</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">94</span>
+<span class="linenos">95</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">getModel</span><span class="p">(){</span>
+<span class="linenos">96</span><span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">sb</span><span class="p">.</span><span class="na">toString</span><span class="p">();</span>
+<span class="linenos">97</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">98</span>
+<span class="linenos">99</span><span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="lpmodel">
+<h3>LPModel<a class="headerlink" href="#lpmodel" title="Link to this heading">¶</a></h3>
+<div class="highlight-java notranslate"><div class="highlight"><pre><span></span><span class="hll"><span class="linenos"> 1</span><span class="kn">import</span><span class="w"> </span><span class="nn">java.util.ArrayList</span><span class="p">;</span>
+</span><span class="linenos"> 2</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.OptimizationData</span><span class="p">;</span>
+<span class="linenos"> 3</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.PointValuePair</span><span class="p">;</span>
+<span class="linenos"> 4</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.linear.LinearConstraint</span><span class="p">;</span>
+<span class="linenos"> 5</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.linear.LinearConstraintSet</span><span class="p">;</span>
+<span class="linenos"> 6</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.linear.LinearObjectiveFunction</span><span class="p">;</span>
+<span class="linenos"> 7</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.linear.NonNegativeConstraint</span><span class="p">;</span>
+<span class="linenos"> 8</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.linear.Relationship</span><span class="p">;</span>
+<span class="linenos"> 9</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.linear.SimplexSolver</span><span class="p">;</span>
+<span class="linenos">10</span><span class="kn">import</span><span class="w"> </span><span class="nn">org.apache.commons.math3.optim.nonlinear.scalar.GoalType</span><span class="p">;</span>
+<span class="linenos">11</span>
+<span class="linenos">12</span>
+<span class="linenos">13</span><span class="cm">/*</span>
+<span class="linenos">14</span><span class="cm">* @author  Jorge Garcia de Alba</span>
+<span class="linenos">15</span><span class="cm"> */</span>
+<span class="linenos">16</span><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">LPModel</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">17</span>
+<span class="linenos">18</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">GEQ</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span>
+<span class="linenos">19</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">LEQ</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">2</span><span class="p">;</span>
+<span class="linenos">20</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kd">static</span><span class="w"> </span><span class="kd">final</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">EQ</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">3</span><span class="p">;</span>
+<span class="linenos">21</span>
+<span class="linenos">22</span><span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">LinearObjectiveFunction</span><span class="w"> </span><span class="n">linearObjectiveFunction</span><span class="p">;</span>
+<span class="linenos">23</span><span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">ArrayList</span><span class="w"> </span><span class="n">constraints</span><span class="p">;</span>
+<span class="linenos">24</span><span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">point</span><span class="p">;</span>
+<span class="linenos">25</span><span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="n">cost</span><span class="p">;</span>
+<span class="linenos">26</span><span class="w">    </span><span class="kd">private</span><span class="w"> </span><span class="n">LPFormat</span><span class="w"> </span><span class="n">lpFormat</span><span class="p">;</span>
+<span class="linenos">27</span>
+<span class="linenos">28</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="nf">LPModel</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">29</span>
+<span class="linenos">30</span><span class="w">        </span><span class="c1">//commons-math3-3.6.1 library on classpath</span>
+<span class="linenos">31</span><span class="w">        </span><span class="n">constraints</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">ArrayList</span><span class="p">();</span>
+<span class="linenos">32</span><span class="w">        </span><span class="n">lpFormat</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">LPFormat</span><span class="p">();</span>
+<span class="linenos">33</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">34</span>
+<span class="linenos">35</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">addObjective</span><span class="p">(</span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">coefficients</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">36</span>
+<span class="linenos">37</span><span class="w">        </span><span class="kt">byte</span><span class="w"> </span><span class="n">constantTerm</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="linenos">38</span><span class="w">        </span><span class="c1">//Objective function</span>
+<span class="linenos">39</span><span class="w">        </span><span class="n">linearObjectiveFunction</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">LinearObjectiveFunction</span><span class="p">(</span><span class="n">coefficients</span><span class="p">,</span><span class="w"> </span><span class="n">constantTerm</span><span class="p">);</span>
+<span class="linenos">40</span><span class="w">        </span><span class="c1">//</span>
+<span class="linenos">41</span><span class="w">        </span><span class="n">lpFormat</span><span class="p">.</span><span class="na">objectiveToLp</span><span class="p">(</span><span class="n">coefficients</span><span class="p">);</span>
+<span class="linenos">42</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">43</span>
+<span class="linenos">44</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">addConstraint</span><span class="p">(</span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="n">coefficients</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">rel</span><span class="p">,</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="n">amount</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">45</span>
+<span class="linenos">46</span><span class="w">        </span><span class="n">Relationship</span><span class="w"> </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">null</span><span class="p">;</span>
+<span class="linenos">47</span>
+<span class="linenos">48</span><span class="w">        </span><span class="k">switch</span><span class="w"> </span><span class="p">(</span><span class="n">rel</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">49</span><span class="w">            </span><span class="k">case</span><span class="w"> </span><span class="n">LPModel</span><span class="p">.</span><span class="na">GEQ</span><span class="p">:</span>
+<span class="linenos">50</span><span class="w">                </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Relationship</span><span class="p">.</span><span class="na">GEQ</span><span class="p">;</span>
+<span class="linenos">51</span><span class="w">                </span><span class="c1">//</span>
+<span class="linenos">52</span><span class="w">                </span><span class="k">break</span><span class="p">;</span>
+<span class="linenos">53</span><span class="w">            </span><span class="k">case</span><span class="w"> </span><span class="n">LPModel</span><span class="p">.</span><span class="na">LEQ</span><span class="p">:</span>
+<span class="linenos">54</span><span class="w">                </span><span class="c1">//</span>
+<span class="linenos">55</span><span class="w">                </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Relationship</span><span class="p">.</span><span class="na">LEQ</span><span class="p">;</span>
+<span class="linenos">56</span><span class="w">                </span><span class="k">break</span><span class="p">;</span>
+<span class="linenos">57</span><span class="w">            </span><span class="k">case</span><span class="w"> </span><span class="n">LPModel</span><span class="p">.</span><span class="na">EQ</span><span class="p">:</span>
+<span class="linenos">58</span><span class="w">                </span><span class="c1">//</span>
+<span class="linenos">59</span><span class="w">                </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Relationship</span><span class="p">.</span><span class="na">EQ</span><span class="p">;</span>
+<span class="linenos">60</span><span class="w">                </span><span class="k">break</span><span class="p">;</span>
+<span class="linenos">61</span><span class="w">            </span><span class="k">default</span><span class="p">:</span>
+<span class="linenos">62</span><span class="w">                </span><span class="n">relationship</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Relationship</span><span class="p">.</span><span class="na">GEQ</span><span class="p">;</span>
+<span class="linenos">63</span><span class="w">                </span><span class="k">break</span><span class="p">;</span>
+<span class="linenos">64</span><span class="w">        </span><span class="p">}</span>
+<span class="linenos">65</span>
+<span class="linenos">66</span><span class="w">        </span><span class="c1">//Linear Constraint</span>
+<span class="linenos">67</span><span class="w">        </span><span class="n">LinearConstraint</span><span class="w"> </span><span class="n">c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">LinearConstraint</span><span class="p">(</span><span class="n">coefficients</span><span class="p">,</span><span class="w"> </span><span class="n">relationship</span><span class="p">,</span><span class="w"> </span><span class="n">amount</span><span class="p">);</span>
+<span class="linenos">68</span><span class="w">        </span><span class="n">constraints</span><span class="p">.</span><span class="na">add</span><span class="p">(</span><span class="n">c</span><span class="p">);</span>
+<span class="linenos">69</span><span class="w">        </span><span class="c1">//</span>
+<span class="linenos">70</span><span class="w">        </span><span class="n">lpFormat</span><span class="p">.</span><span class="na">constraintToLp</span><span class="p">(</span><span class="n">coefficients</span><span class="p">,</span><span class="n">rel</span><span class="p">,</span><span class="n">amount</span><span class="p">);</span>
+<span class="linenos">71</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">72</span>
+<span class="linenos">73</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">solve</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">74</span>
+<span class="linenos">75</span><span class="w">        </span><span class="c1">//Constraint Set</span>
+<span class="linenos">76</span><span class="w">        </span><span class="n">LinearConstraintSet</span><span class="w"> </span><span class="n">linearConstraintSet</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">LinearConstraintSet</span><span class="p">(</span><span class="n">constraints</span><span class="p">);</span>
+<span class="linenos">77</span>
+<span class="linenos">78</span><span class="w">        </span><span class="c1">//Solution</span>
+<span class="linenos">79</span><span class="w">        </span><span class="n">GoalType</span><span class="w"> </span><span class="n">minimize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">GoalType</span><span class="p">.</span><span class="na">MINIMIZE</span><span class="p">;</span>
+<span class="linenos">80</span><span class="w">        </span><span class="n">NonNegativeConstraint</span><span class="w"> </span><span class="n">nonNegativeConstraint</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">NonNegativeConstraint</span><span class="p">(</span><span class="kc">true</span><span class="p">);</span>
+<span class="linenos">81</span><span class="w">        </span><span class="n">PointValuePair</span><span class="w"> </span><span class="n">solution</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">SimplexSolver</span><span class="p">()).</span><span class="na">optimize</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">OptimizationData</span><span class="o">[]</span><span class="p">{</span><span class="n">linearObjectiveFunction</span><span class="p">,</span><span class="w"> </span><span class="n">linearConstraintSet</span><span class="p">,</span><span class="w"> </span><span class="n">minimize</span><span class="p">,</span><span class="w"> </span><span class="n">nonNegativeConstraint</span><span class="p">});</span>
+<span class="linenos">82</span><span class="w">        </span><span class="n">point</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">solution</span><span class="p">.</span><span class="na">getPoint</span><span class="p">();</span>
+<span class="linenos">83</span><span class="w">        </span><span class="n">cost</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">solution</span><span class="p">.</span><span class="na">getSecond</span><span class="p">();</span>
+<span class="linenos">84</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">85</span>
+<span class="linenos">86</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">double</span><span class="o">[]</span><span class="w"> </span><span class="nf">getPoint</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">87</span><span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">point</span><span class="p">;</span>
+<span class="linenos">88</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">89</span>
+<span class="linenos">90</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="kt">double</span><span class="w"> </span><span class="nf">getCost</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="linenos">91</span><span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">cost</span><span class="p">;</span>
+<span class="linenos">92</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">93</span>
+<span class="linenos">94</span><span class="w">    </span><span class="kd">public</span><span class="w"> </span><span class="n">String</span><span class="w"> </span><span class="nf">printModel</span><span class="p">(){</span>
+<span class="linenos">95</span><span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">lpFormat</span><span class="p">.</span><span class="na">getModel</span><span class="p">();</span>
+<span class="linenos">96</span><span class="w">    </span><span class="p">}</span>
+<span class="linenos">97</span><span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="lp-model-in-lp-format">
+<h3>LP model in lp-format<a class="headerlink" href="#lp-model-in-lp-format" title="Link to this heading">¶</a></h3>
+<p>The lp-format is lpsolve’s native format to read and write lp models.</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span><span class="hll"><span class="linenos"> 1</span>/*
+</span><span class="linenos"> 2</span>
+<span class="linenos"> 3</span>To solve:
+<span class="linenos"> 4</span>LPSolve IDE (windows)
+<span class="linenos"> 5</span>lp_solve -S3 linear_programming_problem.lp (linux)
+<span class="linenos"> 6</span>
+<span class="linenos"> 7</span>
+<span class="linenos"> 8</span>Problem
+<span class="linenos"> 9</span>
+<span class="linenos">10</span>Acme Foods, Inc., wishes to minimize ingredient cost of its veggies and beans salad
+<span class="linenos">11</span>while at the same time it wishes the product meets the minimum daily fiber requirement
+<span class="linenos">12</span>for an adult. The ratio of veggies to beans must be 2 to 1.
+<span class="linenos">13</span>
+<span class="linenos">14</span>Facts
+<span class="linenos">15</span>
+<span class="linenos">16</span>1) Cost must be lowest.
+<span class="linenos">17</span>2) Veggies amount must be twice as much as beans.
+<span class="linenos">18</span>3) Veggies cost $4/Kg and they provide 4 g of fiber per 100 g serving.
+<span class="linenos">19</span>4) Beans cost $2/Kg and they provide 9 g of fiber per 100 g serving.
+<span class="linenos">20</span>5) Daily recommended fiber intake is 40g.
+<span class="linenos">21</span>
+<span class="linenos">22</span>Questions
+<span class="linenos">23</span>
+<span class="linenos">24</span>a) What is minimum cost combination of ingredients that satisfies all constraints?
+<span class="linenos">25</span>b) What is the minimum cost?
+<span class="linenos">26</span>
+<span class="linenos">27</span>Problem can be represented this way
+<span class="linenos">28</span>
+<span class="linenos">29</span>                Minimize
+<span class="linenos">30</span>
+<span class="linenos">31</span>                .002 x0 + 0.004 x1;
+<span class="linenos">32</span>
+<span class="linenos">33</span>                subject to
+<span class="linenos">34</span>
+<span class="linenos">35</span>                0.09 x0 + 0.04 x1 &gt;=  40.0;
+<span class="linenos">36</span>               -2.00 x0 + 1.00 x1  =  00.0;
+<span class="linenos">37</span>
+<span class="linenos">38</span>Solution
+<span class="linenos">39</span>
+<span class="linenos">40</span>              cost = $ 2.35294117647059
+<span class="linenos">41</span>                x0 = 235.294117647059 g
+<span class="linenos">42</span>                x1 = 470.588235294118 g
+<span class="linenos">43</span>
+<span class="linenos">44</span>As an exercise, substitute the veggies and beans with your favorite foods to
+<span class="linenos">45</span>find out how much you would have to eat to meet the minimum daily fiber requirement.
+<span class="linenos">46</span>
+<span class="linenos">47</span>How much more or less would you have to eat?
+<span class="linenos">48</span>
+<span class="linenos">49</span>*/
+<span class="linenos">50</span>
+<span class="linenos">51</span>/* Objective function */
+<span class="linenos">52</span>min: .002 x0 + .004 x1;
+<span class="linenos">53</span>
+<span class="linenos">54</span>/* Variable bounds */
+<span class="linenos">55</span>
+<span class="linenos">56</span>//Fiber constraint
+<span class="linenos">57</span>0.09 x0 + 0.04 x1 &gt;= 40.0;
+<span class="linenos">58</span>
+<span class="linenos">59</span>//Ratio constraint
+<span class="linenos">60</span>-2.0 x0 + 1.0 x1 = 0.0;
+</pre></div>
+</div>
+</section>
+</section>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div>
+    <h3><a href="../index.html">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">Linear Optimization Using SimplexSolver</a><ul>
+<li><a class="reference internal" href="#solving-a-lp-problem">Solving a LP Problem</a><ul>
+<li><a class="reference internal" href="#testlpmodel">TestLPModel</a></li>
+<li><a class="reference internal" href="#lpformat">LPFormat</a></li>
+<li><a class="reference internal" href="#lpmodel">LPModel</a></li>
+<li><a class="reference internal" href="#lp-model-in-lp-format">LP model in lp-format</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  </div>
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="index.html"
+                          title="previous chapter">Various</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="../author/index.html"
+                          title="next chapter">Author</a></p>
+  </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/various/linear_optimization.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../author/index.html" title="Author"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Various"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">Project  documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="index.html" >Various</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Linear Optimization Using SimplexSolver</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+    &#169; Copyright 2023, jrga.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 7.2.6.
+    </div>
+  </body>
+</html>

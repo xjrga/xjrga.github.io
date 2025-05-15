@@ -1,0 +1,12 @@
+Accounts
+========
+
+.. figure:: images/accounts.png
+   :alt: entity relationship diagram
+   :align: center
+
+   Description...
+
+   Hello, world! Hello, world! Hello, world!
+
+Recreate entity relationship schema and diagram by importing `accounts.xml <../../../files/diagrams/accounts.xml>`_ into Potatosql.

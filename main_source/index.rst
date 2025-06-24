@@ -1,8 +1,8 @@
 Projects
 ========
 
-Snack (Nutrition)
------------------
+Snack Nutrition Software
+------------------------
 
  Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life.
  
@@ -16,8 +16,7 @@ Snack (Nutrition)
  
 .. index:: Snack
 
-.. figure:: snack/images/snack.png
-   :scale: 75
+.. figure:: snack/images/snack.png   
    :alt: alternate text
    :align: center
 

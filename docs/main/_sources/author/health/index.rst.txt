@@ -43,14 +43,6 @@ Results
    :header-rows: 1
    :widths: 30,30,30,30,30,30,30,30
 
-Notes
-----------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   notes/notes.rst
-
 Bibliography
 ------------
 

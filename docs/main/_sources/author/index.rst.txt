@@ -32,17 +32,6 @@ Nutrition incomplete will be completed at a later time
 
 ----
 
-Wellness & Lifestyle
-~~~~~~~~~~~~~~~~~~~~
-.. index:: Wellness
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<health/index>
-
-----
-
 Certificates
 ~~~~~~~~~~~~
 
@@ -51,8 +40,19 @@ Certificates
 
 ----
 
+Lifestyle
+---------
+.. index:: Wellness
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<lifestyle/index>
+
+----
+
 Online
-~~~~~~
+------
 * `Author at Twitter, now X <https://twitter.com/JRGarciaDeAlba>`_
 * `Author at Linkedin <https://www.linkedin.com/in/jrgarciadealba>`_
 * `Snack at Twitter, now X <https://twitter.com/snacksoftware>`_

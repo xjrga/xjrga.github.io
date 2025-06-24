@@ -15,8 +15,7 @@ Summary
  * Nutrition scientists, registered dietitians and nutrition / food / animal science students and food producers are especially invited to use it and share their insight
 
 
-.. figure:: images/snack.png
-   :scale: 75
+.. figure:: images/snack.png   
    :alt: alternate text
    :align: center
 

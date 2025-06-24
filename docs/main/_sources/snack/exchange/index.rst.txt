@@ -1,8 +1,7 @@
 Exchange
 ========
 
-.. figure:: images/exchange.png
-   :scale: 100
+.. figure:: images/exchange.png   
    :alt: alternate text
    :align: center
 

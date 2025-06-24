@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Project'
-copyright = '2023, jrga'
+copyright = '2025, jrga'
 author = 'jrga'
 
 
@@ -48,7 +48,8 @@ templates_path = ['_templates']
 #html_theme = 'classic'
 #html_theme = 'dask_sphinx_theme'
 #html_theme = 'sphinxdoc'
-html_theme = 'haiku'
+#html_theme = 'haiku'
+html_theme = 'bizstyle'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,

@@ -1,7 +1,7 @@
 Features
 ========
 
-* Minimize calories or cost
+* Maximize Total Nutrient Index (TNI)
 * Quantify food intake
 * Track any nutrient or compound that has an impact on health
 * Find food items that provide a specific nutrient

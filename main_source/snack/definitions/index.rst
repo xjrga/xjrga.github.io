@@ -33,3 +33,4 @@ Complete protein is a protein whose amino acids occur in the right proportion to
 
 Fiber is carbohydrate that can not be digested.
 
+Total Nutrient Index is a useful construct to assess total micronutrient exposures of underconsumed micronutrients among US adults. It includes 8 underconsumed micronutrients identified by the Dietary Guidelines for Americans: calcium; magnesium; potassium; choline; and vitamins A, C, D, and E and it is expressed as a percentage of the RDA or Adequate Intake.

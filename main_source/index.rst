@@ -7,7 +7,7 @@ Snack Nutrition Software
  Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life.
  
  * It is a diet calculator and meal design software used for understanding a person's food intake.
- * It is a software program designed to find the lowest calorie or cost food combination. 
+ * It is a software program designed to maximize the Total Nutrient Index, a useful construct to assess total micronutrient exposures of underconsumed micronutrients among US adults.
  * It lets user quickly, inexpensively and easily experiment creating different food combinations that have specific dietary requirements.
  * Its intended audience is anyone with interest in nutrition. 
  * Snack is now available to the whole world (7.674 billion people or 7674 million people).
@@ -21,7 +21,7 @@ Snack Nutrition Software
    :align: center
 
 +------------------+---------------------------------------------------------------+
-| Stable Release   |June 08, 2025                                                  |
+| Stable Release   |June 25, 2025                                                  |
 +------------------+---------------------------------------------------------------+
 | Repository       |https://github.com/xjrga/snack                                 |
 +------------------+---------------------------------------------------------------+
@@ -35,9 +35,9 @@ Snack Nutrition Software
 +------------------+---------------------------------------------------------------+
 | License          |gpl2                                                           |
 +------------------+---------------------------------------------------------------+
-| Download         |`snack-1510.zip <../releases/snack-1510.zip>`_                 |
+| Download         |`snack-1515.zip <../releases/snack-1515.zip>`_                 |
 +------------------+---------------------------------------------------------------+
-| Signature        |`snack-1510.zip.asc <../releases/snack-1510.zip.asc>`_         |
+| Signature        |`snack-1515.zip.asc <../releases/snack-1515.zip.asc>`_         |
 +------------------+---------------------------------------------------------------+
 
 
@@ -45,6 +45,7 @@ Snack Nutrition Software
    :maxdepth: 1
 
    See more<snack/index>
+   
 ----
 
 Author

@@ -7,7 +7,7 @@ Summary
  Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life.
  
  * It is a diet calculator and meal design software used for understanding a person's food intake.
- * It is a software program designed to find the lowest calorie or cost food combination. 
+ * It is a software program designed to maximize the Total Nutrient Index, a useful construct to assess total micronutrient exposures of underconsumed micronutrients among US adults.
  * It lets user quickly, inexpensively and easily experiment creating different food combinations that have specific dietary requirements.
  * Its intended audience is anyone with interest in nutrition. 
  * Snack is now available to the whole world (7.674 billion people or 7674 million people).

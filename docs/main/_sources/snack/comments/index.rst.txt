@@ -14,6 +14,6 @@ https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/#h8
 Wikipedia
 ---------
 
-Snack’s author tried to create wikipedia article but wikipedia rejected it.
+Snack’s author tried to create wikipedia article but wikipedia rejected it. We refuse to create any documentation on wikipedia after this terrible customer experience.
 
 https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Snack:_Learning_Software_For_Nutrition

@@ -28,4 +28,5 @@ Screenshots
    Snack Nutrient Search<snack_nutrient_search>      
    Snack Food Categories<snack_food_categories>
    Snack Meal Plan Usage<snack_meal_plan_usage>
+   Snack Log<snack_log>
 

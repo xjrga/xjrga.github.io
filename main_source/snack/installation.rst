@@ -1,9 +1,9 @@
 Installation
 ============
 
-1. Download `snack-1515.zip <../../releases/snack-1515.zip>`_
-2. Unzip snack-1515.zip
-3. Change directory to snack-1515
+1. Download `snack-1520.zip <../../releases/snack-1520.zip>`_
+2. Unzip snack-1520.zip
+3. Change directory to snack-1520
 4. Run the jar file
     * On linux: java -jar snack.jar
     * On windows: double click the jar file

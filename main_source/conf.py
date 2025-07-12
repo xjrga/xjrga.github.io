@@ -44,13 +44,12 @@ templates_path = ['_templates']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+html_theme = 'haiku'
+#html_theme = 'sphinxdoc'
 #html_theme = 'alabaster'
 #html_theme = 'classic'
 #html_theme = 'dask_sphinx_theme'
-#html_theme = 'sphinxdoc'
-#html_theme = 'haiku'
-html_theme = 'bizstyle'
-
+#html_theme = 'bizstyle'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

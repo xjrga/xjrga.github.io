@@ -4,6 +4,7 @@ Import Mix
 .. figure:: images/snack_mix_import_01.png
    :alt: mix import 01
    :align: center
+   :target: ../../_images/snack_mix_import_01.png
 
    Import your food mix from a xml file with Data->Mix->Import menu item
 

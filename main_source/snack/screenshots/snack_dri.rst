@@ -4,6 +4,7 @@ Snack Dri
 .. figure:: images/13.png
    :alt: daily reference intake summary view
    :align: center
+   :target: ../../_images/13.png
 
    This is the daily reference intake summary view
 

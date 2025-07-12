@@ -4,6 +4,7 @@ Exchange
 .. figure:: images/exchange.png   
    :alt: alternate text
    :align: center
+   :target: ../../_images/exchange.png
 
 Description
 -----------

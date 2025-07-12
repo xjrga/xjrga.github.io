@@ -19,6 +19,7 @@ Snack Nutrition Software
 .. figure:: snack/images/snack.png   
    :alt: alternate text
    :align: center
+   :target: _images/snack.png
 
 +------------------+---------------------------------------------------------------+
 | Stable Release   |July 09, 2025                                                  |

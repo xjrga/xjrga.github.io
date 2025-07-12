@@ -4,6 +4,7 @@ Import Food Item
 .. figure:: images/snack_food_import_01.png
    :alt: food import 01
    :align: center
+   :target: ../../_images/snack_food_import_01.png
 
    Import your food item to a xml file by clicking on Data->Food->Import menu item
 

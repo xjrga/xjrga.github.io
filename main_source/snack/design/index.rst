@@ -4,6 +4,7 @@ Design
 .. figure:: images/erd.png
    :alt: entity relationship diagram
    :align: center
+   :target: ../../_images/erd.png
 
    This is the relational database entity relationship (er) diagram.
 

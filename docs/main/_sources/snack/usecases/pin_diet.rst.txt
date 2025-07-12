@@ -1,8 +1,11 @@
 Pin Diet
 ========
 
-.. figure:: images/snack_mix_pin.gif
+.. figure:: images/pin_diet.gif
    :alt: mix pin
    :align: center
+   :target: ../../_images/pin_diet.gif
+   
+   This is how we pin a diet.
 
-   These are the nutrient quantity constraints that will be converted to food quantity constraints through pinning. All constraints are converted to food quantity constraints.
+All constraints are converted to food quantity constraints when we pin the mix.

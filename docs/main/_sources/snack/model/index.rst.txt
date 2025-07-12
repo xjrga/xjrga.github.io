@@ -4,9 +4,10 @@ Model
 Writing Model to File
 ---------------------
 
-.. figure:: images/24.png
+.. figure:: images/model.png
    :alt: write model to file
    :align: center
+   :target: ../../_images/model.png
 
    A model file will be written to file every time a Snack finds a solution and you can find it in the models directory
 
@@ -18,6 +19,7 @@ The Linear Program Model View
 .. figure:: images/14.png
    :alt: linear program model view
    :align: center
+   :target: ../../_images/14.png
 
    This is the linear program model view
 
@@ -43,12 +45,14 @@ On windows, user can use lpsolve for windows
 .. figure:: images/lpsolve_01.png
    :alt: Solving Problem on a Different Solver
    :align: center
+   :target: ../../_images/lpsolve_01.png
 
    The chicken, rice and veggies mix problem on lpsolve for windows
 
 .. figure:: images/lpsolve_02.png
    :alt: Solving Problem on a Different Solver
    :align: center
+   :target: ../../_images/lpsolve_02.png
 
    The result of the chicken, rice and veggies mix problem using lpsolve for windows
 

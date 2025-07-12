@@ -4,5 +4,6 @@ Snack Assign Meal Portion
 .. figure:: images/snack_assign_meal_portion.png
    :alt: entity relationship diagram
    :align: center
+   :target: ../../_images/snack_assign_meal_portion.png
 
 User can assign portion(s) to a different meal by right clicking on selected row(s).

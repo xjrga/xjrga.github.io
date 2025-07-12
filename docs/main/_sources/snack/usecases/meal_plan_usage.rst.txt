@@ -6,6 +6,7 @@ User would like to know how much food he or she would need to buy.
 .. figure:: images/food_forecast_00.png
    :alt:
    :align: center
+   :target: ../../_images/food_forecast_00.png
     
    The first step is to select a meal plan and enter the number of days that user will be eating that meal plan. Repeat previous step using a different meal plan if necessary.
 

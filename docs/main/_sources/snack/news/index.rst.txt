@@ -14,6 +14,7 @@ Snack project receives open source license for ej-technologies `JProfiler <https
 .. figure:: images/jprofiler.png
    :alt: jprofiler
    :align: center
+   :target: ../../_images/jprofiler.png
 
 June 08, 2025
 --------------

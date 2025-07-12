@@ -4,6 +4,7 @@ Snack Lookup Nutrient
 .. figure:: images/snack_lookup_nutrient_01.png
    :alt: entity relationship diagram
    :align: center
+   :target: ../../_images/snack_lookup_nutrient_01.png
 
    Right-click on selected nutrient and click on "Find nutrient containing foods" to find food items that have it
 

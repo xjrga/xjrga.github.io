@@ -14,7 +14,12 @@ Build project
 --------------
 ::
  
- ant -f build.xml create-thin-application
+ ant source-build
+ ant application-thin
+ ant application-zip
+ ant zipped-application-sign
+ ant zipped-application-verify
+ ant zipped-application-site
 
 ----
 
@@ -22,6 +27,6 @@ Run application
 ---------------
 ::
 
- cd distribution/snack-1520
+ cd distribution/snack-1530
  java -jar snack.jar
 

@@ -4,10 +4,10 @@ Model
 Writing Model to File
 ---------------------
 
-.. figure:: images/model.png
+.. figure:: images/writetofile.png
    :alt: write model to file
    :align: center
-   :target: ../../_images/model.png
+   :target: ../../_images/writetofile.png
 
    A model file will be written to file every time a Snack finds a solution and you can find it in the models directory
 
@@ -16,10 +16,10 @@ Writing Model to File
 The Linear Program Model View
 -----------------------------
 
-.. figure:: images/14.png
+.. figure:: images/model02.png
    :alt: linear program model view
    :align: center
-   :target: ../../_images/14.png
+   :target: ../../_images/model02.png
 
    This is the linear program model view
 

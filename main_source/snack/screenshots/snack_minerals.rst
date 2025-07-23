@@ -1,9 +1,9 @@
 Snack Minerals
 ==============
 
-.. figure:: images/09.png
+.. figure:: images/minerals.png
    :alt: minerals index summary view
    :align: center
-   :target: ../../_images/09.png
+   :target: ../../_images/minerals.png
 
    This is the minerals index summary view

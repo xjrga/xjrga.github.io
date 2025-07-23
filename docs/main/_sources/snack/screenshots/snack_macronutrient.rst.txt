@@ -1,8 +1,0 @@
-Snack macronutrient
-===================
-
-.. figure:: images/snack_macronutrient.png
-   :alt: This is the calories summary view
-   :align: center
-
-   This is the grams summary view

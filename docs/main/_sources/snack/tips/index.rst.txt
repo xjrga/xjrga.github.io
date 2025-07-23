@@ -23,7 +23,7 @@ Usage Tips
  * Solve immediately after adding a new constraint
  * Fiber, complete protein and calories constraints are good ones to start with
  * Try to use the fewest of constraints possible but use as many as you need
- * Snack will always give you the food combination that is lowest in calories
+ * Snack will always give you the food combination that minimizes nutritional deficiency
  * Snack may find the solution unfeasible
  * If Snack says solution is unfeasible after adding a new constraint, try pinning the model and continue
  * Create constraints based on recommended guidelines by health organizations

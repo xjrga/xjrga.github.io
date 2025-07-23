@@ -5,20 +5,34 @@ Summary
 -------
 
  Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life.
+	 
+ It is a user-friendly software application that calculates the nutritional value of food mixtures.
+	
+ It is also a meal design tool and calculator that could facilitate achieving your health goals and objectives by first helping you understand your food intake and second by allowing you to create new food combinations that meet specific dietary requirements. 
+	
+ It is also a training program designed to find food combinations that minimize nutritional deficiencies. It lets you inexpensively experiment to get faster and better results so you can rapidly learn and improve.
+	
+ Its intended audience is anyone with interest in nutrition.
  
- * It is a diet calculator and meal design software used for understanding a person's food intake.
- * It is a software program designed to maximize the Total Nutrient Index, a useful construct to assess total micronutrient exposures of underconsumed micronutrients among US adults.
- * It lets user quickly, inexpensively and easily experiment creating different food combinations that have specific dietary requirements.
- * Its intended audience is anyone with interest in nutrition. 
- * Snack is now available to the whole world (7.674 billion people or 7674 million people).
- * Software can be downloaded and used for no money although author considers it priceless.
- * Nutrition scientists, registered dietitians and nutrition / food / animal science students and food producers are especially invited to use it and share their insight
+ We would like to invite all nutrition scientists, registered dietitians and nutrition / food / animal science students and food producers to use the application and share their insight.
 
-
-.. figure:: images/snack.png   
-   :alt: alternate text
+	  
+.. figure:: images/calories.png   
+   :alt: snack nutrition software
    :align: center
-   :target: ../../_images/snack.png
+   :target: ../_images/calories.png
+   
+   Snack minimizes both the life stage specific Daily Reference Intake (DRI) deficiency and either or the DRI excess or the Tolerable Upper Intake Level (UL) excess of a food mixture. It calculates its nutritional value and its Total Nutrient Index (TNI) score.
+
+----
+
+Objective
+---------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<objective/index.rst>
 
 ----
 
@@ -28,7 +42,7 @@ Features
 .. toctree::
    :maxdepth: 1
 
-   See more<features>
+   See more<features/index.rst>
 
 ----
 
@@ -42,7 +56,7 @@ Screenshots
 
 ----
 
-Use Cases
+Use cases
 ---------
 
 .. toctree::
@@ -58,7 +72,7 @@ Installation
 .. toctree::
    :maxdepth: 1
 
-   See more<installation>
+   See more<installation/index.rst>
 
 ----
 
@@ -112,6 +126,16 @@ Data exchange
 
 ----
 
+Data set
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   See more<dataset/data.rst>
+
+----
+
 Definitions
 -----------
 
@@ -122,7 +146,7 @@ Definitions
 
 ----
 
-Learning Activities
+Learning activities
 -------------------
 
 .. toctree::
@@ -152,20 +176,13 @@ Comments
 
 ----
 
-Usage & Tips
+Usage & tips
 ------------
 
 .. toctree::
    :maxdepth: 1
 
    See more<tips/index.rst>
-
-----
-
-Additional Food Items
----------------------
-
-* `See more <../../foodsite/index.html>`_
 
 ----
 

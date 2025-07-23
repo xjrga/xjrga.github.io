@@ -1,9 +1,9 @@
 Snack Nutrient Constraint
 =========================
 
-.. figure:: images/03.png
+.. figure:: images/nutrientquantityconstraint.png
    :alt: nutrient constraints tab
    :align: center
-   :target: ../../_images/03.png
+   :target: ../../_images/nutrientquantityconstraint.png
 
    This is the nutrient constraints tab

@@ -1,10 +1,10 @@
 Snack Calories
 ==============
 
-.. figure:: images/01.png
+.. figure:: images/calories.png
    :alt: calories summary view
    :align: center
-   :target: ../../_images/01.png
+   :target: ../../_images/calories.png
 
    This is the calories summary view
 

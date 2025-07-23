@@ -30,3 +30,8 @@ July 09, 2025
 --------------
 
 Snack 1520 is released. It includes bug fixes and a new food mix log.
+
+August 01, 2025
+---------------
+
+Snack 1530 is released. It includes bug fixes and the lifestage spinner.

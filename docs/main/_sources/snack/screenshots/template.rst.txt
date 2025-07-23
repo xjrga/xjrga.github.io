@@ -1,8 +1,0 @@
-Title
-=====
-
-.. figure:: images/snack_energy.png
-   :alt: 
-   :align: center
-
-   This is the caption of the figure (a simple paragraph).

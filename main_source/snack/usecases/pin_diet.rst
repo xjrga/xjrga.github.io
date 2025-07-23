@@ -8,4 +8,4 @@ Pin Diet
    
    This is how we pin a diet.
 
-All constraints are converted to food quantity constraints when we pin the mix.
+All constraints are converted to food quantity constraints when we pin the mix. Pinning fixes the food quantities so they do not change.

@@ -1,6 +1,0 @@
-Food Demand Forecast / Food Requirements
-========================================
-
-.. figure:: images/food_requirements.png
-   :alt:
-   :align: center

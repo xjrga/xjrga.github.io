@@ -1,8 +1,0 @@
-Employees
-=========
-
-.. figure:: images/employees.png
-   :alt: entity relationship diagram
-   :align: center
-
-   Employees...

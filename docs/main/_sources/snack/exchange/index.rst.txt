@@ -18,3 +18,14 @@ Process
  1. First application exports its diet and meal plans to a xml text file.
  2. Second application imports the diet and meal plans from the xml text file and replicates the results.
 
+
+Mix Data Exchange File Fix
+--------------------------
+
+Snack 1520 mix data exchange files are not compatible with snack 1530. We need to edit the text file and replace nutrient-id with lifestage-id.
+
+.. figure:: images/data_exchange_doc_compatibility.png   
+   :alt: mix data exchange doc compatibility
+   :align: center
+   :target: ../../_images/data_exchange_doc_compatibility.png
+ 

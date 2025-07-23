@@ -50,14 +50,19 @@
 <hr class="docutils" />
 <section id="build-project">
 <h2>Build project<a class="headerlink" href="#build-project" title="Permalink to this heading">¶</a></h2>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">ant</span> <span class="o">-</span><span class="n">f</span> <span class="n">build</span><span class="o">.</span><span class="n">xml</span> <span class="n">create</span><span class="o">-</span><span class="n">thin</span><span class="o">-</span><span class="n">application</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">ant</span> <span class="n">source</span><span class="o">-</span><span class="n">build</span>
+<span class="n">ant</span> <span class="n">application</span><span class="o">-</span><span class="n">thin</span>
+<span class="n">ant</span> <span class="n">application</span><span class="o">-</span><span class="nb">zip</span>
+<span class="n">ant</span> <span class="n">zipped</span><span class="o">-</span><span class="n">application</span><span class="o">-</span><span class="n">sign</span>
+<span class="n">ant</span> <span class="n">zipped</span><span class="o">-</span><span class="n">application</span><span class="o">-</span><span class="n">verify</span>
+<span class="n">ant</span> <span class="n">zipped</span><span class="o">-</span><span class="n">application</span><span class="o">-</span><span class="n">site</span>
 </pre></div>
 </div>
 </section>
 <hr class="docutils" />
 <section id="run-application">
 <h2>Run application<a class="headerlink" href="#run-application" title="Permalink to this heading">¶</a></h2>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="n">distribution</span><span class="o">/</span><span class="n">snack</span><span class="o">-</span><span class="mi">1520</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="n">distribution</span><span class="o">/</span><span class="n">snack</span><span class="o">-</span><span class="mi">1530</span>
 <span class="n">java</span> <span class="o">-</span><span class="n">jar</span> <span class="n">snack</span><span class="o">.</span><span class="n">jar</span>
 </pre></div>
 </div>

@@ -45,3 +45,8 @@ August 13, 2025
 ---------------
 
 Snack 1550 is released. It includes bug fixes and an updated food comparison function.
+
+August 21, 2025
+---------------
+
+Snack 1560 is released. It includes bug fixes and a new nutrient.

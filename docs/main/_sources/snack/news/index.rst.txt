@@ -50,3 +50,8 @@ August 21, 2025
 ---------------
 
 Snack 1560 is released. It includes bug fixes and a new nutrient.
+
+October 03, 2025
+----------------
+
+Snack 1570 is released. It includes bug fixes and additional pin mix option.

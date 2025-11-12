@@ -54,4 +54,11 @@ Snack 1560 is released. It includes bug fixes and a new nutrient.
 October 03, 2025
 ----------------
 
-Snack 1570 is released. It includes bug fixes and additional pin mix option.
+Snack 1570 is released. It includes bug fixes and additional "pin mix" option.
+
+November 13, 2025
+----------------
+
+Snack 1580 is released. It includes bug fixes and "standardize portion size to 100 g" option.
+
+

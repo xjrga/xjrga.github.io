@@ -61,4 +61,9 @@ November 13, 2025
 
 Snack 1580 is released. It includes bug fixes and "standardize portion size to 100 g" option.
 
+November 16, 2025
+----------------
+
+Snack 1590 is released. It includes bug fixes and a simplified nutrient search results.
+
 

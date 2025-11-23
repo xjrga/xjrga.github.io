@@ -1,6 +1,12 @@
 News
 ====
 
+November 23, 2025
+----------------
+
+Snack 1600 is released. Added "duplicate food category" option and improved "food categories" gui.
+
+
 November 17, 2025
 -----------------
 

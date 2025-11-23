@@ -6,7 +6,7 @@ Snack Food Categories
    :align: center
    :target: ../../_images/22.png
 
-   Create special food categories to easily find your food items. For example, you can have a "Green Leafy Vegetables" or "Favorites" category.
+   Create special food categories to easily find your food items. For example, you can have a "Leafy Greens" or "Favorites" category.
 
 ----
 
@@ -24,5 +24,5 @@ Snack Food Categories
    :align: center
    :target: ../../_images/22b.png
 
-   Cabbage is part of the "Vegetables and Vegetable Products" and "Green Leafy Vegetables" Categories.
+   Apple is in the "Favorites" and "Fruits and Fruit Juices" categories.
       

@@ -15,10 +15,11 @@ Screenshots
    Snack Minerals<snack_minerals>
    Snack Electrolytes<snack_electrolytes>
    Snack Phytonutrients<snack_phytonutrients>
-   Snack Cost<snack_cost>
+   Snack Other<snack_other>
    Snack Dri<snack_dri>
    Snack Model<snack_model>
-   Snack Constraints<snack_nutrient_constraint>
+   Snack Constraints<snack_constraints>
+   Snack Groups<snack_groups>
    Snack Meal Portion<snack_meal_portion>
    Snack Meal Calories<snack_meal_calories>
    Snack Meal Macronutrients<snack_meal_macronutrients>

@@ -1,9 +1,9 @@
 Snack Fats
 ==========
 
-.. figure:: images/fats.png
-   :alt: fats summary view
+.. figure:: ../images/04.png
+   :alt: calories summary view
    :align: center
-   :target: ../../_images/fats.png
+   :target: ../../_images/04.png
 
    This is the fats summary view

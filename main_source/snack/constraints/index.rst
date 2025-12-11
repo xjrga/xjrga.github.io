@@ -1,7 +1,7 @@
 Constraints
 ===========
 
-Nutrient Quantity Constraint
+Nutrient Constraint
 -----------------------------
 
 This constraint is used to limit a nutrient in your food mix.
@@ -15,7 +15,7 @@ This constraint is used to specify a nutrient proportion in your food mix. It is
 
 ----
 
-Food Quantity Constraint
+Food Constraint
 ------------------------
 
 This constraint is used to limit a food item in your food mix.
@@ -25,7 +25,14 @@ This constraint is used to limit a food item in your food mix.
 Food Ratio Constraint
 ---------------------
 
-This constraint is used to specify a food proportion in your food mix. It is used in conjunction with another constraint.
+This constraint is used to specify a food proportion in your food mix. It is often used in conjunction with another constraint such as a food constraint.
+
+----
+
+Group Constraint
+------------------------
+
+This constraint is used to limit a group of food items as a whole in your food mix.
 
 ----
 

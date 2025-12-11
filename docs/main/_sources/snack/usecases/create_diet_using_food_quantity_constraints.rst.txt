@@ -1,7 +1,7 @@
 Create Diet Using Food Quantity Constraints
 ===========================================
 
-.. figure:: images/create_diet_using_food_quantity_constraints.gif
+.. figure:: ../images/create_diet_using_food_quantity_constraints.gif
    :alt: create diet using food quantity constraints
    :align: center
    :target: ../../_images/create_diet_using_food_quantity_constraints.gif

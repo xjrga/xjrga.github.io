@@ -22,6 +22,6 @@ Run application
 ---------------
 ::
 
- cd distribution/snack-1600
+ cd distribution/snack-1610
  java -jar snack.jar
 

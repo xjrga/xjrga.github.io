@@ -1,8 +1,15 @@
 News
 ====
 
+December 12, 2025
+-----------------
+
+Snack 1610 is released. Added groups and group constraints.
+
+----
+
 November 23, 2025
-----------------
+-----------------
 
 Snack 1600 is released. Added "duplicate food category" option and improved "food categories" gui.
 
@@ -12,20 +19,20 @@ November 17, 2025
 
 Snack project receives open source license for ej-technologies' JProfiler 15.
 
-.. image:: images/jprofiler.png
+.. image:: ../images/jprofiler.png
    :target: https://www.ej-technologies.com/products/jprofiler/overview.html
 
 ----
 
 November 16, 2025
-----------------
+-----------------
 
 Snack 1590 is released. It includes bug fixes and a simplified nutrient search results.
 
 ----
 
 November 13, 2025
-----------------
+-----------------
 
 Snack 1580 is released. It includes bug fixes and "standardize portion size to 100 g" option.
 
@@ -60,28 +67,28 @@ Snack 1540 is released. This is Snack with a new look.
 ----
 
 July 24, 2025
----------------
+-------------
 
 Snack 1530 is released. It includes bug fixes and the lifestage spinner.
 
 ----
 
 July 09, 2025
---------------
+-------------
 
 Snack 1520 is released. It includes bug fixes and a new food mix log.
 
 ----
 
 June 25, 2025
---------------
+-------------
 
 Snack 1515 is released. This the first Total Nutrient Index (TNI) release.
 
 ----
 
 June 08, 2025
---------------
+-------------
 
 Snack 1510 is released. This is the last release that minimizes calories.
 

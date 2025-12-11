@@ -1,7 +1,7 @@
 Pin Diet
 ========
 
-.. figure:: images/pin_diet.gif
+.. figure:: ../images/pin_diet.gif
    :alt: mix pin
    :align: center
    :target: ../../_images/pin_diet.gif

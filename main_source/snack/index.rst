@@ -17,10 +17,10 @@ Summary
  We would like to invite all nutrition scientists, registered dietitians and nutrition / food / animal science students and food producers to use the application and share their insight.
 
 	  
-.. figure:: images/calories.png   
+.. figure:: images/01.png   
    :alt: snack nutrition software
    :align: center
-   :target: ../_images/calories.png
+   :target: ../_images/01.png
    
    Snack minimizes both the life stage specific Daily Reference Intake (DRI) deficiency and either or the DRI excess or the Tolerable Upper Intake Level (UL) excess of a food mixture. It calculates its nutritional value and its Total Nutrient Index (TNI) score.
 

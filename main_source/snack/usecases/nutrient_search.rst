@@ -1,7 +1,7 @@
 Nutrient Search
 ===============
 
-.. figure:: images/find_food_item.gif
+.. figure:: ../images/find_food_item.gif
    :alt: mix pin
    :align: center
    :target: ../../_images/find_food_item.gif

@@ -4,7 +4,7 @@ Model
 Writing Model to File
 ---------------------
 
-.. figure:: images/writetofile.png
+.. figure:: ../images/writetofile.png
    :alt: write model to file
    :align: center
    :target: ../../_images/writetofile.png
@@ -16,10 +16,10 @@ Writing Model to File
 The Linear Program Model View
 -----------------------------
 
-.. figure:: images/model02.png
+.. figure:: ../images/15.png
    :alt: linear program model view
    :align: center
-   :target: ../../_images/model02.png
+   :target: ../../_images/15.png
 
    This is the linear program model view
 
@@ -42,14 +42,14 @@ The Solution File
 
 On windows, user can use lpsolve for windows
 
-.. figure:: images/lpsolve_01.png
+.. figure:: ../images/lpsolve_01.png
    :alt: Solving Problem on a Different Solver
    :align: center
    :target: ../../_images/lpsolve_01.png
 
    The chicken, rice and veggies mix problem on lpsolve for windows
 
-.. figure:: images/lpsolve_02.png
+.. figure:: ../images/lpsolve_02.png
    :alt: Solving Problem on a Different Solver
    :align: center
    :target: ../../_images/lpsolve_02.png

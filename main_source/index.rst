@@ -19,15 +19,15 @@ Snack Nutrition Software
  
 .. index:: Snack
 
-.. figure:: snack/images/calories.png   
+.. figure:: snack/images/01.png   
    :alt: alternate text
    :align: center
-   :target: _images/calories.png
+   :target: _images/01.png
    
    Snack minimizes both the life stage specific Daily Reference Intake (DRI) deficiency and either or the DRI excess or the Tolerable Upper Intake Level (UL) excess of a food mixture. It calculates its nutritional value and its Total Nutrient Index (TNI) score.
 
 +------------------+---------------------------------------------------------------+
-| Stable Release   |November 23, 2025                                              |
+| Stable Release   |December 12, 2025                                              |
 +------------------+---------------------------------------------------------------+
 | Repository       |https://github.com/xjrga/snack                                 |
 +------------------+---------------------------------------------------------------+
@@ -41,9 +41,9 @@ Snack Nutrition Software
 +------------------+---------------------------------------------------------------+
 | License          |gpl2                                                           |
 +------------------+---------------------------------------------------------------+
-| Download         |`snack-1600.zip <../releases/snack-1600.zip>`_                 |
+| Download         |`snack-1610.zip <../releases/snack-1610.zip>`_                 |
 +------------------+---------------------------------------------------------------+
-| Signature        |`snack-1600.zip.asc <../releases/snack-1600.zip.asc>`_         |
+| Signature        |`snack-1610.zip.asc <../releases/snack-1610.zip.asc>`_         |
 +------------------+---------------------------------------------------------------+
 
 .. toctree::

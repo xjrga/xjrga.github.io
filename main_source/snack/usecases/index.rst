@@ -4,9 +4,9 @@ Use Cases
 .. toctree::
    :maxdepth: 1
 
-   Create Diet Using Nutrient Quantity Constraints<create_diet_using_nutrient_quantity_constraints>
-   Create Diet Using Food Quantity Constraints<create_diet_using_food_quantity_constraints>
+   Create Diet Using Nutrient Constraints<create_diet_using_nutrient_constraints>
+   Create Diet Using Food Constraints<create_diet_using_food_constraints>
    Pin Diet<pin_diet>
-   Fix Nutrient Deficient Diet<nutrient_search>
+   Nutrient Search<nutrient_search>
    Create Meal Plan<create_meal_plan>
    

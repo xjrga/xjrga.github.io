@@ -1,10 +1,10 @@
 Nutrient Search
 ===============
 
-.. figure:: ../images/find_food_item.gif
+.. figure:: ../images/nutrient_search.gif
    :alt: mix pin
    :align: center
-   :target: ../../_images/find_food_item.gif
+   :target: ../../_images/nutrient_search.gif
    
    This is how we search for a food item that contains calcium.
    

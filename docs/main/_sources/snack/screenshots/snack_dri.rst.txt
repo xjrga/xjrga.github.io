@@ -10,9 +10,19 @@ Snack Dri
 
 -----
 
-.. figure:: ../images/14.png
+.. figure:: ../images/13a.png
    :alt: calories summary view
    :align: center
-   :target: ../../_images/14.png
+   :target: ../../_images/13a.png
 
    When looking at the daily reference intake we may ask ourselves how we can meet those requirements. If you right click on one of those nutrients you can get list of food items that provide it. 
+   
+-----
+
+.. figure:: ../images/13b.png
+   :alt: calories summary view
+   :align: center
+   :target: ../../_images/13b.png
+
+   Here is list of food items that provide calcium. 
+   

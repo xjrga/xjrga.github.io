@@ -1,6 +1,13 @@
 News
 ====
 
+December 28, 2025
+-----------------
+
+Snack 1620 is released. Added food tree search feature.
+
+----
+
 December 12, 2025
 -----------------
 

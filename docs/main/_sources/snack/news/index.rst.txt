@@ -1,6 +1,13 @@
 News
 ====
 
+February 04, 2026
+-----------------
+
+Snack 1630 is released. Fixed block group action on group constraints.
+
+----
+
 December 28, 2025
 -----------------
 
@@ -20,6 +27,7 @@ November 23, 2025
 
 Snack 1600 is released. Added "duplicate food category" option and improved "food categories" gui.
 
+----
 
 November 17, 2025
 -----------------

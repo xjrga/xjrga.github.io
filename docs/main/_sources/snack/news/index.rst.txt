@@ -1,6 +1,13 @@
 News
 ====
 
+February 12, 2026
+-----------------
+
+Snack 1640 is released. Bug fixes.
+
+----
+
 February 04, 2026
 -----------------
 

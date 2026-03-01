@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Project'
-copyright = '2025, jrga'
+project = 'Snack'
+copyright = '2026, jrga'
 author = 'jrga'
 
 

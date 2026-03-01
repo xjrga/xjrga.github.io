@@ -33,8 +33,7 @@ Usage Tips
      - changing = for > or <
      - deleting constraints
      - adding extra food items
- * Any food item (healthy, organic or not) that has a nutritional label will work
- * Once in a while, a ratio constraint may seem to not have an effect but an additional "greater than one" nutrient constraint will enforce it.
+ * Any food item (healthy, organic or not) that has a nutritional label will work 
  * Use a mix of equalities and inequalities to build your model.
  * Sometimes it may be necessary to flip the inequality on a constraint depending on how the model is setup
  * A 'Mix already exists' message means mixid already exists in database. Changing the mixid on data exchange document will make it a different mix.

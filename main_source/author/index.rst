@@ -22,7 +22,7 @@ Professional Degrees
 * Texas A&M University
 
   - M.Sc. in Nutrition (Incomplete)
-  - M.Sc. in Operations Management/ Life Cycle Engineering
+  - M.Sc. in Operations Management / Life Cycle Engineering
 
 * University of Arizona
 

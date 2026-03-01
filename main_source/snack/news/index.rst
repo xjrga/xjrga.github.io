@@ -1,6 +1,13 @@
 News
 ====
 
+March 01, 2026
+-----------------
+
+Snack 1650 is released. Added new metrics. Bug fixes.
+
+----
+
 February 12, 2026
 -----------------
 

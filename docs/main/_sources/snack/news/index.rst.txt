@@ -1,10 +1,22 @@
 News
 ====
 
+March 30, 2026
+-----------------
+
+Snack 1660 is released.
+	* Added tni food items
+	* Added option to export all food items to xml
+	* Bug fixes
+
+----
+
 March 01, 2026
 -----------------
 
-Snack 1650 is released. Added new metrics. Bug fixes.
+Snack 1650 is released.
+	* Added new metrics
+	* Bug fixes
 
 ----
 

@@ -1,6 +1,15 @@
 News
 ====
 
+May 21, 2026
+-----------------
+
+Snack 1670 is released.
+	* Improved lp model printout readability
+	* Bug fixes
+
+----
+
 March 30, 2026
 -----------------
 

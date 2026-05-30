@@ -48,6 +48,14 @@ Results
    :header-rows: 1
    :widths: 30,30,30,30,30,30,30,30
 
+Social History
+--------------
+* Abstinence from alcohol and tobacco
+
+Current Medications
+-------------------
+* None
+
 Suggestions
 -----------
 * Follow Dietary Guidelines and Recommendations created by Health Organizations

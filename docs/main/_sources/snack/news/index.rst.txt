@@ -1,6 +1,15 @@
 News
 ====
 
+June 04, 2026
+-----------------
+
+Snack 1680 is released.
+	* Added source code generation (java, c, rust, R)
+	* Added new test script
+	* Added new objective value panel
+
+
 May 21, 2026
 -----------------
 

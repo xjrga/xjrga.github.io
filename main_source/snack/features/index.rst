@@ -20,7 +20,8 @@ Features
 * Convert percent daily value (%DV) of a nutrient to grams
 * Exchange mix, food and meal plan data easily through simple text document (xml)
 * Easily generate reports and export them to text file (csv)
-* Generate linear programming model files for lpsolve solver  
+* Generate linear programming model files for lpsolve solver
+* Generate linear programming source code in java, c, rust and R
 * Facilitate learning/teaching anyone with interest in nutrition
 * Create food demand forecasts
 * Is free and open source

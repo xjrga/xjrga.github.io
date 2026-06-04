@@ -14,7 +14,7 @@ Build project
 --------------
 ::
 	
- ant app-build-create-zip
+ ant app-thin-and-zip
  
 ----
 
@@ -22,6 +22,6 @@ Run application
 ---------------
 ::
 
- cd distribution/snack-1670
+ cd distribution/snack-1680
  java -jar snack.jar
 

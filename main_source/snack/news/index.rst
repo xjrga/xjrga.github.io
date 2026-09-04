@@ -1,6 +1,15 @@
 News
 ====
 
+September 04, 2026
+------------------
+
+Snack 1690 is released.
+    * Graphical user interface changes
+    * Bug fixes
+
+----
+
 June 04, 2026
 -----------------
 
@@ -9,6 +18,7 @@ Snack 1680 is released.
 	* Added new test script
 	* Added new objective value panel
 
+----
 
 May 21, 2026
 -----------------

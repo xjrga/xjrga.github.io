@@ -29,7 +29,7 @@ Diet Profile
 ------------
 * Diet includes fruits, vegetables, grains, nonfat dairy products, fish, legumes, poultry, and lean meats
 * All essential nutrients are consumed everyday including vitamins, minerals and essential fatty acids
-* Fatty acids come mainly from fish, vegetables, legumes, flaxseed, high-oleic oils and nuts
+* Fatty acids come mainly from fish, vegetables, legumes, flaxseed, high-oleic oils, soybean oil and nuts
 * There is enough fiber to keep digestive system functioning well
 * There is intake of foods that are high in antioxidants
 * Saturated fats and cholesterol are minimal

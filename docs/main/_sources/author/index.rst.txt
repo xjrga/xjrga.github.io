@@ -53,13 +53,9 @@ Lifestyle
 
 Online
 ------
-* `Author at Twitter, now X <https://twitter.com/JRGarciaDeAlba>`_
-* `Author at Linkedin <https://www.linkedin.com/in/jrgarciadealba>`_
-* `Snack at Twitter, now X <https://twitter.com/snacksoftware>`_
 * `Github <https://github.com/xjrga/>`_
-* `Github Gist <https://gist.github.com/xjrga>`_
+* `Snack Nutrition at Reddit <https://www.reddit.com/r/snacknutrition/>`_
 * `Snack at Youtube <https://www.youtube.com/@SnackSoftware>`_
-
 
 
 

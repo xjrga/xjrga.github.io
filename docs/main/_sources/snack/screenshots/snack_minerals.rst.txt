@@ -1,9 +1,9 @@
 Snack Minerals
 ==============
 
-.. figure:: ../images/09.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/minerals.png
+   :alt: Minerals Summary View
    :align: center
-   :target: ../../_images/09.png
+   :target: ../../_images/minerals.png
 
    This is the minerals index summary view

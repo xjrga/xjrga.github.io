@@ -1,9 +1,9 @@
 Snack Carbohydrates
 ===================
 
-.. figure:: ../images/07.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/carbohydrates.png
+   :alt: Carbohydrates Summary View
    :align: center
-   :target: ../../_images/07.png
+   :target: ../../_images/carbohydrates.png
 
    This is the carbohydrates summary view

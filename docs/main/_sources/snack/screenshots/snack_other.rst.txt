@@ -1,9 +1,9 @@
 Snack Cost
 ==========
 
-.. figure:: ../images/12.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/other.png
+   :alt: Cost Summary View
    :align: center
-   :target: ../../_images/12.png
+   :target: ../../_images/other.png
 
    This is the cost summary view

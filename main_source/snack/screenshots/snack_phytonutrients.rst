@@ -1,9 +1,9 @@
 Snack Phytonutrients
 ====================
 
-.. figure:: ../images/11.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/phytonutrients.png
+   :alt: Phytonutrients Summary View
    :align: center
-   :target: ../../_images/11.png
+   :target: ../../_images/phytonutrients.png
 
    This is the electrolytes summary view

@@ -1,9 +1,9 @@
 Snack Food Comparison
 =====================
 
-.. figure:: ../images/22.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/food_comparison.png
+   :alt: Food Comparison Summary View
    :align: center
-   :target: ../../_images/22.png
+   :target: ../../_images/food_comparison.png
 
    This is the food comparison view

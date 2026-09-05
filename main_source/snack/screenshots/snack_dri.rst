@@ -1,17 +1,17 @@
 Snack Dri
 =========
 
-.. figure:: ../images/13.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/dri.png
+   :alt: Dietary Reference Intake Summary View
    :align: center
-   :target: ../../_images/13.png
+   :target: ../../_images/dri.png
 
    This is the daily reference intake (DRI) summary view. The pink and red numbers are nutrient deficiencies at the Percent of DRI (%DRI) column. The red numbers are part of the total nutrient index (TNI). 
 
 -----
 
 .. figure:: ../images/13a.png
-   :alt: calories summary view
+   :alt: Dietary Reference Intake Summary View
    :align: center
    :target: ../../_images/13a.png
 
@@ -20,7 +20,7 @@ Snack Dri
 -----
 
 .. figure:: ../images/13b.png
-   :alt: calories summary view
+   :alt: Dietary Reference Intake Summary View
    :align: center
    :target: ../../_images/13b.png
 

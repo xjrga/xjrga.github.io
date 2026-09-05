@@ -2,7 +2,7 @@ Snack Mix Comparison
 ====================
 
 .. figure:: ../images/23.png
-   :alt: calories summary view
+   :alt: Mix Comparison Summary View
    :align: center
    :target: ../../_images/23.png
    

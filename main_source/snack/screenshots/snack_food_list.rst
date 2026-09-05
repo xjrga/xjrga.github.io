@@ -1,9 +1,9 @@
 Snack Food List
 ===============
 
-.. figure:: ../images/21.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/food_list.png
+   :alt: Food List Summary View
    :align: center
-   :target: ../../_images/21.png
+   :target: ../../_images/food_list.png
 
    This is the food list to which user can new food items

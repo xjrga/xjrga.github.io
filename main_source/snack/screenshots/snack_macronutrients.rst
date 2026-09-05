@@ -1,9 +1,9 @@
 Snack Macronutrients
 ====================
 
-.. figure:: ../images/02.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/macronutrients.png
+   :alt: Macronutrients Summary View
    :align: center
-   :target: ../../_images/02.png
+   :target: ../../_images/macronutrients.png
 
    This is the macronutrients summary view

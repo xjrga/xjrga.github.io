@@ -2,7 +2,7 @@ Snack Log
 ==========
 
 .. figure:: ../images/27.png
-   :alt: calories summary view
+   :alt: Mix Log Summary View
    :align: center
    :target: ../../_images/27.png
 

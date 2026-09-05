@@ -1,9 +1,9 @@
 Snack Vitamins
 ==============
 
-.. figure:: ../images/08.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/vitamins.png
+   :alt: Vitamins Summary View
    :align: center
-   :target: ../../_images/08.png
+   :target: ../../_images/vitamins.png
 
    This is the vitamins summary view

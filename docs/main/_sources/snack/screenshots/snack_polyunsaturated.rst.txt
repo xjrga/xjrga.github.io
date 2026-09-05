@@ -1,9 +1,9 @@
 Snack Polyunsaturated Fat
 =========================
 
-.. figure:: ../images/06.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/polyunsaturated.png
+   :alt: Polyunsaturated Summary View
    :align: center
-   :target: ../../_images/06.png
+   :target: ../../_images/polyunsaturated.png
 
    This is the polyunsaturated fat summary view

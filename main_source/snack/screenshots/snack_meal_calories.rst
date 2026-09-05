@@ -1,9 +1,9 @@
 Snack Meal Calories
 ===================
 
-.. figure:: ../images/18.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/meal_calories.png
+   :alt: Meal Calories Summary View
    :align: center
-   :target: ../../_images/18.png
+   :target: ../../_images/meal_calories.png
 
    Double check your daily calorie distribution on this summary view.

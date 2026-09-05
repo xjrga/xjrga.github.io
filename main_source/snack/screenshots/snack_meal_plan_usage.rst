@@ -2,14 +2,14 @@ Snack Meal Plan Usage
 =====================
 
 .. figure:: ../images/26.png
-   :alt: calories summary view
+   :alt: Meal Plan Usage Summary View
    :align: center
    :target: ../../_images/26.png
    
    How many days will I be using this meal plan?
    
 .. figure:: ../images/26a.png
-   :alt: calories summary view
+   :alt: Meal Plan Usage Summary View
    :align: center
    :target: ../../_images/26a.png
    

@@ -1,21 +1,21 @@
-Snack Groups
-============
+Snack Groups - Green Leafy Vegetables
+=====================================
 
-.. figure:: ../images/groups.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/groups_veggies.png
+   :alt: Food Groups Summary View
    :align: center
-   :target: ../../_images/groups.png
+   :target: ../../_images/groups_veggies.png
 
-   This is the group which we use to categorize food items within our mix.
+   This is the green leafy vegetables group
    
 ----
 
-Snack Group Constraints
-=======================
+Snack Groups - Oils
+===================
 
-.. figure:: ../images/group_constraints.png
-   :alt: calories summary view
+.. figure:: ../images/snack1690/groups_oils.png
+   :alt: Food Groups Summary View
    :align: center
-   :target: ../../_images/group_constraints.png
+   :target: ../../_images/group_oils.png
 
-   This is the group constraint which we use this on special situations when there is a need to specify a limit on a group of items as a whole.
+   This is the oils group

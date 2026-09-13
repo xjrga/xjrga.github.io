@@ -1,9 +1,9 @@
 Installation
 ============
 
-1. Download `snack-1690.zip <../../../releases/snack-1690.zip>`_
-2. Unzip snack-1690.zip
-3. Change directory to snack-1690
+1. Download `snack-1700.zip <../../../releases/snack-1700.zip>`_
+2. Unzip snack-1700.zip
+3. Change directory to snack-1700
 4. Run the jar file
     * On linux: java -jar snack.jar
     * On windows: double click the jar file

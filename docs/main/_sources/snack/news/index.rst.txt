@@ -1,6 +1,14 @@
 News
 ====
 
+September 13, 2026
+------------------
+
+Snack 1700 is released.
+    * Graphical user interface changes
+
+----
+
 September 04, 2026
 ------------------
 

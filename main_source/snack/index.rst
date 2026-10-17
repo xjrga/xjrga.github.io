@@ -22,7 +22,7 @@ Summary
    :align: center
    :target: ../_images/calories.png
    
-   Snack minimizes both the life stage specific Daily Reference Intake (DRI) deficiency and either or the DRI excess or the Tolerable Upper Intake Level (UL) excess of a food mixture. It calculates its nutritional value and its Total Nutrient Index (TNI) score.
+   **Snack minimizes both the deficiency and the excess of calcium, magnesium, potassium, choline and vitamins A, C, D, E (TNI nutrients) and sodium in a food mixture. It also calculates its Total Nutrient Index (TNI) score.**
 
 ----
 
@@ -36,13 +36,13 @@ Objective
 
 ----
 
-Features
+Benefits
 --------
 
 .. toctree::
    :maxdepth: 1
 
-   See more<features/index.rst>
+   See more<benefits/index.rst>
 
 ----
 

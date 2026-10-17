@@ -24,10 +24,10 @@ Snack Nutrition Software
    :align: center
    :target: _images/calories.png
    
-   Snack minimizes both the life stage specific Daily Reference Intake (DRI) deficiency and either or the DRI excess or the Tolerable Upper Intake Level (UL) excess of a food mixture. It calculates its nutritional value and its Total Nutrient Index (TNI) score.
+   **Snack minimizes both the deficiency and the excess of calcium, magnesium, potassium, choline and vitamins A, C, D, E (TNI nutrients) and sodium in a food mixture. It also calculates its Total Nutrient Index (TNI) score.**
 
 +------------------+---------------------------------------------------------------+
-| Stable Release   |September 13, 2026                                             |
+| Stable Release   |October 17, 2026                                               |
 +------------------+---------------------------------------------------------------+
 | Repository       |https://github.com/xjrga/snack                                 |
 +------------------+---------------------------------------------------------------+
@@ -41,11 +41,11 @@ Snack Nutrition Software
 +------------------+---------------------------------------------------------------+
 | License          |gpl2                                                           |
 +------------------+---------------------------------------------------------------+
-| Download         |`snack-1700.zip <../releases/snack-1700.zip>`_                 |
+| Download         |`snack-1710.zip <../releases/snack-1710.zip>`_                 |
 +------------------+---------------------------------------------------------------+
-| Signature        |`snack-1700.zip.asc <../releases/snack-1700.zip.asc>`_         |
+| Signature        |`snack-1710.zip.asc <../releases/snack-1710.zip.asc>`_         |
 +------------------+---------------------------------------------------------------+
-| Sources          |`snack-1700-sources.zip <../releases/snack-1700-sources.zip>`_ |
+| Sources          |`snack-1710-sources.zip <../releases/snack-1710-sources.zip>`_ |
 +------------------+---------------------------------------------------------------+
 
 .. toctree::

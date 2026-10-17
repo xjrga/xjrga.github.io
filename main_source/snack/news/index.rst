@@ -1,6 +1,15 @@
 News
 ====
 
+October 17, 2026
+----------------
+
+Snack 1710 is released.
+    * Included sodium as part of the minimization objective function
+    * Bug fixes
+
+----
+
 September 13, 2026
 ------------------
 

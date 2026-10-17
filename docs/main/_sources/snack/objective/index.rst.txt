@@ -3,7 +3,7 @@ Objective
 
 What we want is to create a food mixture that meets specific dietary requirements. For example, it should meet the Dietary Reference Intake (DRI) and it should keep our saturated fat and sodium intake low.
 
-There are three minimization options that we can use. These options act upon the food mixture in different ways to control its nutritional value. The nutrients that participate in the optimization process are calcium, magnesium, potassium, choline, and vitamins A, C, D and E which are the total nutrient index (TNI).
+There are three minimization options that we can use. These options act upon the food mixture in different ways to control its nutritional value. The nutrients that participate in the optimization process are calcium, magnesium, potassium, choline, and vitamins A, C, D and E which are part of the total nutrient index (TNI) and sodium.
 
 Our three options are:
 

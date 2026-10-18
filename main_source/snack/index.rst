@@ -4,17 +4,9 @@ Snack: Diet Calculator and Meal Design Software
 Summary
 -------
 
- Snack's ultimate purpose is to empower its users to make better nutrition decisions that will improve their diet, nutrition, health and quality of life.
-	 
- It is a user-friendly software application that calculates the nutritional value of food mixtures.
-	
- It is also a meal design tool and calculator that could facilitate achieving your health goals and objectives by first helping you understand your food intake and second by allowing you to create new food combinations that meet specific dietary requirements. 
-	
- It is also a training program designed to find food combinations that minimize nutritional deficiencies. It lets you inexpensively experiment to get faster and better results so you can rapidly learn and improve.
-	
- Its intended audience is anyone with interest in nutrition.
+  Snack Nutrition Software is software for nutrition, a meal design tool and calculator used for understanding a person's food intake. Its intended audience is anyone with interest in nutrition. It is a software application that calculates and maximizes the nutritional value of food combinations. It minimizes both deficiency and excess of nutrients in your food selection to try to give you the best possible nourishment. It allows user to quickly, inexpensively and easily experiment with different food combinations that have specific dietary requirements. Snack's ultimate purpose is to empower its users to make better nutrition decisions that will their improve diet, nutrition, health and quality of life. Software can be downloaded and used for no money although author considers it priceless. Snack is now available to the whole world (7.674 billion people or 7674 million people).
  
- We would like to invite all nutrition scientists, registered dietitians and nutrition / food / animal science students and food producers to use the application and share their insight.
+  **You are invited.**
 
 	  
 .. figure:: images/snack1690/calories.png

@@ -1,6 +1,15 @@
 News
 ====
 
+October 21, 2026
+----------------
+
+Snack 1720 is released.
+    * "No feasible solution" bug fix
+
+----
+
+
 October 17, 2026
 ----------------
 

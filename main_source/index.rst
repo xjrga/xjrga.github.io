@@ -19,7 +19,7 @@ Snack Nutrition Software
    **Snack minimizes both the deficiency and the excess of calcium, magnesium, potassium, choline and vitamins A, C, D, E (TNI nutrients) and sodium in a food mixture. It also calculates its Total Nutrient Index (TNI) score.**
 
 +------------------+---------------------------------------------------------------+
-| Stable Release   |October 21, 2026                                               |
+| Stable Release   |October 26, 2026                                               |
 +------------------+---------------------------------------------------------------+
 | Repository       |https://github.com/xjrga/snack                                 |
 +------------------+---------------------------------------------------------------+
@@ -33,11 +33,11 @@ Snack Nutrition Software
 +------------------+---------------------------------------------------------------+
 | License          |gpl2                                                           |
 +------------------+---------------------------------------------------------------+
-| Download         |`snack-1720.zip <../releases/snack-1720.zip>`_                 |
+| Download         |`snack-1730.zip <../releases/snack-1730.zip>`_                 |
 +------------------+---------------------------------------------------------------+
-| Signature        |`snack-1720.zip.asc <../releases/snack-1720.zip.asc>`_         |
+| Signature        |`snack-1730.zip.asc <../releases/snack-1730.zip.asc>`_         |
 +------------------+---------------------------------------------------------------+
-| Sources          |`snack-1720-sources.zip <../releases/snack-1720-sources.zip>`_ |
+| Sources          |`snack-1730-sources.zip <../releases/snack-1730-sources.zip>`_ |
 +------------------+---------------------------------------------------------------+
 
 .. toctree::

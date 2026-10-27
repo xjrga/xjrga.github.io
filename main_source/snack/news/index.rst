@@ -1,6 +1,16 @@
 News
 ====
 
+October 26, 2026
+----------------
+
+Snack 1730 is released.
+    * Gui changes
+    * Bug fixes
+
+----
+
+
 October 21, 2026
 ----------------
 

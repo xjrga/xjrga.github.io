@@ -1,6 +1,15 @@
 News
 ====
 
+November 06, 2026
+----------------
+
+Snack 1740 is released.
+    * Added new type of linear programming model printout to represent meals
+    * Bug fixes
+
+----
+    
 October 26, 2026
 ----------------
 

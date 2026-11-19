@@ -9,10 +9,10 @@ Summary
   **You are invited.**
 
 	  
-.. figure:: images/snack1690/calories.png
+.. figure:: screenshots/images/snack1750/calories.jpg
    :alt: Snack Nutrition Software
    :align: center
-   :target: ../_images/calories.png
+   :target: ../_images/calories.jpg
    
    **Snack minimizes both the deficiency and the excess of calcium, magnesium, potassium, choline and vitamins A, C, D, E (TNI nutrients) and sodium in a food mixture. It also calculates its Total Nutrient Index (TNI) score.**
 
@@ -98,56 +98,6 @@ Cloning, building and running
 
 ----
 
-Constraint types
-----------------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<constraints/index.rst>
-
-----
-
-Data exchange
--------------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<exchange/index.rst>
-
-----
-
-Data set
---------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<dataset/data.rst>
-
-----
-
-Definitions
------------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<definitions/index.rst>
-
-----
-
-Learning activities
--------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<learning/index.rst>
-
-----
-
 News
 ----
 
@@ -175,13 +125,3 @@ Usage & tips
    :maxdepth: 1
 
    See more<tips/index.rst>
-
-----
-
-Model
------
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<model/index.rst>

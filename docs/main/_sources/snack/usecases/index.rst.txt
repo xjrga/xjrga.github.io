@@ -9,4 +9,5 @@ Use Cases
    Pin Diet<pin_diet>
    Nutrient Search<nutrient_search>
    Create Meal Plan<create_meal_plan>
+   Write Model To File<write_model_to_file>
    

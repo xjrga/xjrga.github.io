@@ -1,8 +1,17 @@
 News
 ====
 
+November 18, 2026
+-----------------
+
+Snack 1750 is released.
+    * Added group ratios
+    * Bug fixes
+
+----
+
 November 06, 2026
-----------------
+-----------------
 
 Snack 1740 is released.
     * Added new type of linear programming model printout to represent meals

@@ -1,6 +1,15 @@
 Projects
 ========
 
+Snack Nutrition Software Online
+-------------------------------
+
+	* `Snack Nutrition Software at Github <https://github.com/xjrga/snack>`_
+	* `Snack Nutrition Software at Bluesky <https://bsky.app/profile/snacksoftware.bsky.social>`_
+	* `Snack Nutrition Software at Youtube <https://www.youtube.com/@SnackSoftware>`_
+	* `Snack Nutrition News at Bluesky <https://bsky.app/profile/snacknutrition.bsky.social>`_
+
+
 Snack Nutrition Software
 ------------------------
 
@@ -11,21 +20,15 @@ Snack Nutrition Software
  
 .. index:: Snack
 
-.. figure:: snack/images/snack1690/calories.png
+.. figure:: snack/screenshots/images/snack1750/calories.jpg
    :alt: Snack Nutrition Software
    :align: center
-   :target: _images/calories.png
+   :target: _images/calories.jpg
    
    **Snack minimizes both the deficiency and the excess of calcium, magnesium, potassium, choline and vitamins A, C, D, E (TNI nutrients) and sodium in a food mixture. It also calculates its Total Nutrient Index (TNI) score.**
 
 +------------------+---------------------------------------------------------------+
-| Stable Release   |November 06, 2026                                              |
-+------------------+---------------------------------------------------------------+
-| Repository       |https://github.com/xjrga/snack                                 |
-+------------------+---------------------------------------------------------------+
-| YouTube          |https://www.youtube.com/@SnackSoftware                         |
-+------------------+---------------------------------------------------------------+
-| Twitter          |https://x.com/SnackSoftware                                    |
+| Stable Release   |November 18, 2026                                              |
 +------------------+---------------------------------------------------------------+
 | Written in       |java                                                           |
 +------------------+---------------------------------------------------------------+
@@ -33,11 +36,11 @@ Snack Nutrition Software
 +------------------+---------------------------------------------------------------+
 | License          |gpl2                                                           |
 +------------------+---------------------------------------------------------------+
-| Download         |`snack-1740.zip <../releases/snack-1740.zip>`_                 |
+| Download         |`snack-1750.zip <../releases/snack-1750.zip>`_                 |
 +------------------+---------------------------------------------------------------+
-| Signature        |`snack-1740.zip.asc <../releases/snack-1740.zip.asc>`_         |
+| Signature        |`snack-1750.zip.asc <../releases/snack-1750.zip.asc>`_         |
 +------------------+---------------------------------------------------------------+
-| Sources          |`snack-1740-sources.zip <../releases/snack-1740-sources.zip>`_ |
+| Sources          |`snack-1750-sources.zip <../releases/snack-1750-sources.zip>`_ |
 +------------------+---------------------------------------------------------------+
 
 .. toctree::
@@ -45,13 +48,3 @@ Snack Nutrition Software
 
    See more<snack/index>
    
-----
-
-Author
-------
-.. index:: Author
-
-.. toctree::
-   :maxdepth: 1
-
-   See more<author/index>

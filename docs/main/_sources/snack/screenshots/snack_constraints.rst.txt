@@ -1,10 +1,10 @@
 Snack Nutrient Constraint
 =========================
 
-.. figure:: ../images/snack1690/nutrient_constraint.png
+.. figure:: images/snack1750/nutrient_constraint.jpg
    :alt: calories summary view
    :align: center
-   :target: ../../_images/nutrient_constraint.png
+   :target: ../../_images/nutrient_constraint.jpg
 
    This is the nutrient constraint which is used to put a quantity limit on a specific nutrient.
 

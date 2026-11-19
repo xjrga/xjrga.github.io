@@ -53,9 +53,8 @@ Lifestyle
 
 Online
 ------
-* `Github <https://github.com/xjrga/>`_
-* `Snack Nutrition at Reddit <https://www.reddit.com/r/snacknutrition/>`_
-* `Snack at Youtube <https://www.youtube.com/@SnackSoftware>`_
+* `Github <https://github.com/xjrga>`_
+* `Bluesky <https://bsky.app/profile/jrgarciadealba.bsky.social>`_
 
 
 

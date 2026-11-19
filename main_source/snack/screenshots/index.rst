@@ -16,10 +16,15 @@ Screenshots
    Snack Electrolytes<snack_electrolytes>
    Snack Phytonutrients<snack_phytonutrients>
    Snack Other<snack_other>
-   Snack Dri<snack_dri>
+   Snack Dietary Reference Intake<snack_dri>
    Snack Model<snack_model>
-   Snack Constraints<snack_constraints>
    Snack Groups<snack_groups>
+   Snack Nutrient Constraints<snack_nutrient_constraint>
+   Snack Food Constraints<snack_food_constraint>
+   Snack Group Constraints<snack_group_constraint>
+   Snack Nutrient Ratio Constraints<snack_nutrient_ratio>
+   Snack Food Ratio Constraints<snack_food_ratio>
+   Snack Group Ratio Constraints<snack_group_ratio>   
    Snack Meal Portion<snack_meal_portion>
    Snack Meal Calories<snack_meal_calories>
    Snack Meal Macronutrients<snack_meal_macronutrients>

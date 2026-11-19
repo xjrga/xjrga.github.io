@@ -1,21 +1,9 @@
-Snack Groups - Green Leafy Vegetables
-=====================================
+Snack Groups - All Food Items
+=============================
 
-.. figure:: ../images/snack1690/groups_veggies.png
+.. figure:: images/snack1750/groups.jpg
    :alt: Food Groups Summary View
    :align: center
-   :target: ../../_images/groups_veggies.png
+   :target: ../../_images/groups.jpg
 
-   This is the green leafy vegetables group
-   
-----
-
-Snack Groups - Oils
-===================
-
-.. figure:: ../images/snack1690/groups_oils.png
-   :alt: Food Groups Summary View
-   :align: center
-   :target: ../../_images/group_oils.png
-
-   This is the oils group
+   This food group includes all food items. A food group is a set of one or more food items to which constraints can be applied to.

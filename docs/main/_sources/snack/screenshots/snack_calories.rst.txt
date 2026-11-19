@@ -1,12 +1,13 @@
 Snack Calories
 ==============
 
-.. figure:: ../images/snack1690/calories.png
+.. figure:: images/snack1750/calories.jpg
    :alt: Calories Summary View
    :align: center
-   :target: ../../_images/calories.png
+   :target: ../../_images/calories.jpg
 
-   This is the calories summary view
+   This are the four types of macronutrients that provide energy and the quantities are shown in calories.
+
 
 * Control-h maximizes upper panel
 * Control-l maximizes bottom panel

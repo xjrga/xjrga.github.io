@@ -1,7 +1,7 @@
 Create Diet Using Food Constraints
 ==================================
 
-.. figure:: ../images/create_diet_using_food_constraints.gif
+.. figure:: images/create_diet_using_food_constraints.gif
    :alt: create diet using food constraints
    :align: center
    :target: ../../_images/create_diet_using_food_constraints.gif

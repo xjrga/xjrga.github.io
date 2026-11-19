@@ -1,7 +1,7 @@
 Design
 ======
 
-.. figure:: images/erd.png
+.. figure:: ../screenshots/images/snack1750/erd.png
    :alt: entity relationship diagram
    :align: center
    :target: ../../_images/erd.png

@@ -1,9 +1,9 @@
 Snack Nutrient Search
 =====================
 
-.. figure:: ../images/24.png
+.. figure:: images/snack1750/nutrient_search.jpg
    :alt: Nutrient Search View
    :align: center
-   :target: ../../_images/24.png
+   :target: ../../_images/nutrient_search.jpg
 
-   Make a list of the foods that contain the nutrient you are looking for.
+   Make a list of the foods that contain the nutrient you are looking for in the nutrient search view.

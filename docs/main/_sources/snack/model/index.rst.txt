@@ -5,9 +5,9 @@ Writing Model to File
 ---------------------
 
 
-.. figure:: ../images/snack1690/write_model_to_file.png
+.. figure:: ../screenshots/images/snack1750/write_model_to_file.jpg
    :alt: Write Model To File View
    :align: center
-   :target: ../../_images/write_model_to_file.png
+   :target: ../../_images/write_model_to_file.jpg
 
    We can convert our food mix problem to source code. 

@@ -1,9 +1,9 @@
 Snack Vitamins
 ==============
 
-.. figure:: ../images/snack1690/vitamins.png
+.. figure:: images/snack1750/vitamins.jpg
    :alt: Vitamins Summary View
    :align: center
-   :target: ../../_images/vitamins.png
+   :target: ../../_images/vitamins.jpg
 
-   This is the vitamins summary view
+   Vitamins are essential organic micronutrients that help your body convert food into energy, build and repair tissues, support immune function, and regulate nerve and organ activity. There are fat-soluble and water-soluble vitamins.

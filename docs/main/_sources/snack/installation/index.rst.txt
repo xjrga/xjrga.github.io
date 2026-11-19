@@ -1,9 +1,9 @@
 Installation
 ============
 
-1. Download `snack-1740.zip <../../../releases/snack-1740.zip>`_
-2. Unzip snack-1740.zip
-3. Change directory to snack-1740
+1. Download `snack-1750.zip <../../../releases/snack-1750.zip>`_
+2. Unzip snack-1750.zip
+3. Change directory to snack-1750
 4. Run the jar file
     * On linux: java -jar snack.jar
     * On windows: double click the jar file

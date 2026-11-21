@@ -1,6 +1,3 @@
-Projects
-========
-
 Snack Nutrition Software Online
 -------------------------------
 
@@ -8,8 +5,7 @@ Snack Nutrition Software Online
 	* `Snack Nutrition Software at Bluesky <https://bsky.app/profile/snacksoftware.bsky.social>`_
 	* `Snack Nutrition Software at Youtube <https://www.youtube.com/@SnackSoftware>`_
 	* `Snack Nutrition News at Bluesky <https://bsky.app/profile/snacknutrition.bsky.social>`_
-
-
+|
 Snack Nutrition Software
 ------------------------
 
@@ -43,6 +39,7 @@ Snack Nutrition Software
 | Sources          |`snack-1750-sources.zip <../releases/snack-1750-sources.zip>`_ |
 +------------------+---------------------------------------------------------------+
 
+|
 .. toctree::
    :maxdepth: 1
 

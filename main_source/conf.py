@@ -57,7 +57,7 @@ html_theme = 'haiku'
 html_static_path = ['_static']
 html_style = ['custom.css']
 html_theme_options = {
-    'full_logo': False,
+    'full_logo': True,
 }
 html_title = "Snack Nutrition Software"
 html_logo = "_images/logo.png" 

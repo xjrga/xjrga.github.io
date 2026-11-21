@@ -11,12 +11,13 @@
  */
 
 /* @import "https://fonts.googleapis.com/css?family=Courier"; */
+@import "https://fonts.googleapis.com/css2?family=Lato&display=swap'";
 @import url("basic.css");
 
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    font-family:Helvetica, Arial, Verdana, sans-serif;
+    /*font-family:Helvetica, Arial, Verdana, sans-serif;*
     /* font-family:Helvetica; */
     /* font-family:Arial; */
     /* font-family:Verdana; */

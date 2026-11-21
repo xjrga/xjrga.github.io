@@ -18,7 +18,7 @@ The National Institutes of Health
 
 The National Academies of Sciences, Engineering, and Medicine
 -------------------------------------------------------------
-	* `Dietary Reference Intakes: The Essential Guide to Nutrient Requirements <https://ods.od.nih.gov/HealthInformation/nutrientrecommendations.aspx/>`_
+	* `Dietary Reference Intakes: The Essential Guide to Nutrient Requirements <https://www.nationalacademies.org/projects/HMD-FNB-18-P-120/publication/11537/>`_
 	* `Appendix J - Dietary Reference Intakes Summary Tables <https://www.nationalacademies.org/read/25353/chapter/28/>`_
 
 Data

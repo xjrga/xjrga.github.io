@@ -11,7 +11,7 @@ Our three options are:
  * Minimize DRI deficiency and UL excess
  * Minimize DRI deficiency and DRI excess
  
-In some cases the the TNI score will very similar when using the different minimization options in others, not. We use dietary supplements such as multivitamins and fish oil to fill-in the nutritional gaps and enhance our food mixture.
+In some cases the the TNI score will very similar when using the different minimization options in others, not.
  
  
 Minimize DRI Deficiency
